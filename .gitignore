@@ -2,3 +2,6 @@
 # refetch it on demand, and the extracted data in build/data/*.json is what the
 # site actually needs.
 build/data/wikicache/
+
+# Python bytecode from the build scripts.
+__pycache__/
