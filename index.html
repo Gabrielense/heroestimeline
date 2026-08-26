@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Heroes: A Complete Multimedia Timeline</title>
+<meta name="description" content="Every Heroes episode, graphic novel, webisode, ARG chapter, behind-the-scenes short and physical release, week by week, 2006-2024.">
+<meta property="og:title" content="Heroes: A Complete Multimedia Timeline">
+<meta property="og:description" content="Every Heroes episode, graphic novel, webisode, ARG chapter, behind-the-scenes short and physical release, week by week.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='26' fill='none' stroke='%23ff8a3d' stroke-width='7'/%3E%3Ccircle cx='32' cy='32' r='23' fill='%23101014'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  color-scheme:dark;
+  --bg:#101014;
+  --surface:#1b1b20;
+  --surface-2:#24242b;
+  --surface-3:#2e2e36;
+  --border:rgba(255,255,255,.10);
+  --border-2:rgba(255,255,255,.18);
+  --text:#f5f4f1;
+  --text-2:#b9b8b2;
+  --text-3:#8a8983;
+  --accent:#ff8a3d;
+  --accent-dim:rgba(255,138,61,.16);
+  --v1:#b0642a; --v2:#c9762c; --v3:#e08a2e; --v4:#eda13f; --v5:#f6bb63;
+  --hr:#4d9de0; --gap:#7b7b84;
+  --sans:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+  --mono:'JetBrains Mono',ui-monospace,'Cascadia Mono',Consolas,monospace;
+  --toolbar-h:0px;
+}
+html{scroll-behavior:smooth;scroll-padding-top:180px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+body{
+  background:var(--bg);color:var(--text);font-family:var(--sans);
+  font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+.glow{position:fixed;inset:0;pointer-events:none;z-index:0;
+  background:
+    radial-gradient(760px 420px at 50% -140px,rgba(255,138,61,.20),transparent 70%),
+    radial-gradient(900px 500px at 90% 8%,rgba(77,157,224,.10),transparent 70%);
+}
+.wrap{position:relative;z-index:1;max-width:1280px;margin:0 auto;padding:0 20px}
+
+/* ---------- header ---------- */
+header{padding:52px 0 26px;text-align:center}
+.mark{width:60px;height:60px;margin:0 auto 18px;display:block}
+h1{font-size:clamp(1.9rem,5.2vw,3.1rem);font-weight:800;letter-spacing:-.035em;line-height:1.05}
+h1 .sub{display:block;font-size:.42em;font-weight:600;letter-spacing:.24em;
+  text-transform:uppercase;color:var(--accent);margin-top:14px}
+.lede{max-width:64ch;margin:18px auto 0;color:var(--text-2);font-size:1.02rem}
+.lede a{color:var(--text);text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--border-2)}
+.lede a:hover{text-decoration-color:var(--accent)}
+.dedication{margin:16px auto 0;max-width:64ch;font-size:.92rem;color:var(--text-3);
+  padding-top:14px;border-top:1px solid var(--border)}
+.dedication strong{color:var(--text-2);font-weight:600}
+
+/* era ribbon — the volumes at a glance, widths proportional to their run */
+.ribbon{display:flex;gap:3px;margin-top:34px}
+.ribbon button{flex:var(--f) 1 0;min-width:84px;position:relative;cursor:pointer;
+  border:0;border-radius:8px;padding:9px 10px 10px;text-align:left;overflow:hidden;
+  background:var(--surface);border-top:3px solid var(--ec);
+  transition:background .14s}
+.ribbon button:hover{background:var(--surface-2)}
+.ribbon .rn{display:block;font:700 .78rem var(--sans);color:var(--text);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ribbon .rs{display:block;font:500 .68rem var(--mono);color:var(--text-3);margin-top:2px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:30px auto 0;max-width:760px}
+.stat{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 10px}
+.stat b{display:block;font-size:1.55rem;font-weight:800;letter-spacing:-.03em;line-height:1.1}
+.stat span{display:block;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-3);margin-top:5px}
+
+/* ---------- activity rail ---------- */
+.rail-wrap{margin:34px 0 6px}
+.rail{display:flex;align-items:flex-end;gap:1px;height:56px;
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:8px 9px;overflow:hidden}
+.rail button{flex:1 1 0;min-width:0;border:0;padding:0;background:transparent;
+  height:100%;display:flex;align-items:flex-end;cursor:pointer;border-radius:2px}
+.rail button:hover i,.rail button:focus-visible i{background:var(--text)!important}
+.rail button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.rail i{display:block;width:100%;border-radius:2px 2px 0 0;min-height:2px;transition:background .12s}
+.rail-axis{position:relative;height:16px;margin-top:7px;font:500 .68rem/1 var(--mono);
+  color:var(--text-3);letter-spacing:.04em}
+.rail-axis span{position:absolute;top:0;transform:translateX(-50%);white-space:nowrap}
+.rail-axis span::before{content:'';position:absolute;left:50%;top:-6px;width:1px;height:4px;
+  background:var(--border-2)}
+
+/* ---------- toolbar ---------- */
+.toolbar{position:sticky;top:0;z-index:30;margin-top:16px;
+  background:rgba(16,16,20,.86);backdrop-filter:blur(14px);
+  border-bottom:1px solid var(--border)}
+.toolbar .wrap{padding-top:12px;padding-bottom:12px}
+.tb-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.search{position:relative;flex:1 1 260px;min-width:200px}
+.search input{width:100%;background:var(--surface);border:1px solid var(--border);
+  border-radius:9px;padding:10px 34px 10px 36px;color:var(--text);font:500 .92rem var(--sans)}
+.search input::placeholder{color:var(--text-3)}
+.search input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-dim)}
+.search svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);
+  width:15px;height:15px;stroke:var(--text-3);fill:none;stroke-width:2}
+.search .clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);
+  border:0;background:transparent;color:var(--text-3);cursor:pointer;font-size:1.1rem;
+  line-height:1;padding:5px 7px;border-radius:6px}
+.search .clear:hover{color:var(--text);background:var(--surface-2)}
+
+.seg{display:flex;background:var(--surface);border:1px solid var(--border);border-radius:9px;padding:3px}
+.seg button{border:0;background:transparent;color:var(--text-3);font:600 .82rem var(--sans);
+  padding:6px 13px;border-radius:6px;cursor:pointer;display:flex;align-items:center;gap:6px}
+.seg button svg{width:14px;height:14px}
+.seg button[aria-pressed=true]{background:var(--surface-3);color:var(--text)}
+.seg button:hover{color:var(--text)}
+
+#filters[hidden]{display:none}
+.pip{width:6px;height:6px;border-radius:50%;background:var(--accent);margin-left:2px}
+.chips{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}
+.chip{display:inline-flex;align-items:center;gap:7px;background:var(--surface);
+  border:1px solid var(--border);color:var(--text-2);border-radius:999px;
+  padding:6px 12px 6px 9px;font:600 .8rem var(--sans);cursor:pointer;
+  transition:border-color .12s,color .12s,background .12s}
+.chip:hover{color:var(--text);border-color:var(--border-2)}
+.chip svg{width:14px;height:14px;flex:none}
+.chip .n{font:700 .72rem var(--mono);color:var(--text-3);
+  background:var(--surface-2);border-radius:999px;padding:1px 6px}
+.chip[aria-pressed=false]{opacity:.42}
+.chip[aria-pressed=false] .dot{background:var(--text-3)!important}
+.chip[aria-pressed=true]{color:var(--text);border-color:var(--border-2);background:var(--surface-2)}
+.chip .dot{width:9px;height:9px;border-radius:50%;flex:none}
+.chip.era[aria-pressed=true]{background:var(--surface-2)}
+.tb-meta{display:flex;justify-content:space-between;align-items:center;gap:12px;
+  margin-top:10px;font-size:.78rem;color:var(--text-3);flex-wrap:wrap}
+.tb-meta button{background:transparent;border:1px solid var(--border);color:var(--text-2);
+  border-radius:7px;padding:4px 10px;font:600 .76rem var(--sans);cursor:pointer}
+.tb-meta button:hover{color:var(--text);border-color:var(--border-2)}
+.grp{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.grp-label{font:600 .68rem var(--sans);letter-spacing:.13em;text-transform:uppercase;
+  color:var(--text-3);margin-right:2px}
+
+/* ---------- timeline ---------- */
+main{padding:26px 0 90px;min-height:60vh}
+.era{margin:0 0 18px}
+/* the volume band: a full-width bar in the era's colour, so a change of volume
+   is impossible to scroll past without noticing */
+.era-head{position:sticky;top:var(--toolbar-h);z-index:20;
+  display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+  padding:11px 16px;margin:22px 0 6px;border-radius:10px;
+  color:#101014;background:var(--ec);
+  box-shadow:0 6px 22px -12px var(--ec)}
+.era-head h2{font-size:1.06rem;font-weight:800;letter-spacing:-.015em}
+.era-head .span{font:600 .76rem var(--mono);opacity:.72}
+.era-head .cnt{font:700 .7rem var(--sans);letter-spacing:.1em;text-transform:uppercase;
+  opacity:.72;margin-left:auto}
+.era::after{content:'';display:block;height:1px;background:var(--border);margin-top:14px}
+.era:last-child::after{display:none}
+
+.week{display:grid;grid-template-columns:132px 1fr;gap:16px;
+  padding:13px 0;border-bottom:1px solid rgba(255,255,255,.05);scroll-margin-top:200px}
+.week:hover{background:rgba(255,255,255,.017)}
+.week.hit{animation:flash 1.6s ease-out}
+@keyframes flash{0%,40%{background:var(--accent-dim)}100%{background:transparent}}
+.wdate{display:flex;flex-direction:column;gap:3px;padding-top:2px}
+.wdate .d{font:700 .88rem var(--mono);color:var(--text);letter-spacing:-.01em;
+  font-variant-numeric:tabular-nums}
+.wdate .y{font:500 .7rem var(--mono);color:var(--text-3)}
+.wdate .rail-dot{width:22px;height:3px;border-radius:2px;margin-top:4px}
+.wbody{display:flex;flex-direction:column;gap:9px;min-width:0}
+.mgroup{display:flex;gap:9px;align-items:flex-start;flex-wrap:wrap}
+.mtag{display:inline-flex;align-items:center;gap:6px;flex:none;
+  font:600 .68rem var(--sans);letter-spacing:.1em;text-transform:uppercase;
+  color:var(--text-3);padding-top:5px;width:132px}
+.mtag svg{width:13px;height:13px;flex:none}
+.items{display:flex;gap:7px;flex-wrap:wrap;align-items:flex-start;flex:1 1 240px;min-width:0}
+.item{display:inline-flex;align-items:baseline;gap:8px;background:var(--surface);
+  border:1px solid var(--border);border-left:3px solid var(--mc);
+  border-radius:8px;padding:6px 11px;max-width:100%}
+.item .code{font:700 .74rem var(--mono);color:var(--mc);white-space:nowrap;flex:none}
+.item .t{font-size:.87rem;color:var(--text);overflow-wrap:anywhere}
+.item a{color:inherit}
+.item .ext{width:11px;height:11px;stroke:var(--text-3);fill:none;stroke-width:2;
+  flex:none;align-self:center}
+a.item:hover{border-color:var(--border-2);background:var(--surface-2)}
+a.item:hover .ext{stroke:var(--text)}
+.item .mi{width:12px;height:12px;color:var(--mc);flex:none;align-self:center}
+
+/* compact: one wrapping row per week, medium carried by the chip's own icon */
+.compact .week{padding:9px 0}
+.compact .wbody{flex-direction:row;flex-wrap:wrap;gap:6px}
+.compact .mgroup{display:contents}
+.compact .mtag{display:none}
+.compact .items{flex:0 1 auto}
+.compact .item{padding:4px 9px}
+.compact .item .t{font-size:.82rem}
+
+.marker{display:flex;align-items:center;gap:14px;padding:20px 0 14px}
+.marker .line{flex:1;height:1px;background:var(--border)}
+.marker span{font:700 .74rem var(--sans);letter-spacing:.26em;text-transform:uppercase;
+  color:var(--accent);white-space:nowrap}
+
+mark{background:rgba(255,138,61,.28);color:var(--text);border-radius:3px;padding:0 2px}
+
+/* ---------- grid view ---------- */
+/* its own scroll pane: overflow-x already makes this the sticky scrollport, so
+   the header and the date column pin inside it rather than to the page */
+.gridview{overflow:auto;max-height:calc(100vh - var(--toolbar-h) - 46px);
+  border:1px solid var(--border);border-radius:12px;background:var(--surface);
+  overscroll-behavior:contain}
+table{border-collapse:separate;border-spacing:0;table-layout:fixed;width:100%;font-size:.82rem}
+th,td{text-align:left;vertical-align:top;padding:9px 11px;border-bottom:1px solid var(--border)}
+thead th{position:sticky;top:0;z-index:12;background:var(--surface-3);
+  font:600 .68rem var(--sans);letter-spacing:.11em;text-transform:uppercase;color:var(--text-2);
+  white-space:nowrap;border-bottom:1px solid var(--border-2)}
+thead th:first-child{left:0;z-index:13}
+tbody th{position:sticky;left:0;background:var(--surface);z-index:11;
+  font:700 .78rem var(--mono);white-space:nowrap;font-variant-numeric:tabular-nums;
+  border-left:4px solid var(--ec)}
+tbody tr:hover th,tbody tr:hover td{background:var(--surface-2)}
+td ul{list-style:none;display:flex;flex-direction:column;gap:4px}
+td li{color:var(--text-2);overflow-wrap:anywhere}
+td li b{color:var(--mc);font:700 .74rem var(--mono);margin-right:5px}
+td.on li{color:var(--text)}
+.gm{display:none}
+
+/* ---------- footer ---------- */
+.empty{text-align:center;padding:70px 20px;color:var(--text-3)}
+.empty b{display:block;color:var(--text);font-size:1.05rem;margin-bottom:6px}
+footer{border-top:1px solid var(--border);padding:34px 0 60px;color:var(--text-3);font-size:.85rem}
+footer h3{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--text-2);margin-bottom:10px}
+footer .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:28px}
+footer ul{list-style:none;display:flex;flex-direction:column;gap:6px}
+footer a{color:var(--text-2);text-decoration:underline;text-underline-offset:3px;
+  text-decoration-color:var(--border-2)}
+footer a:hover{color:var(--text);text-decoration-color:var(--accent)}
+footer .note{margin-top:26px;padding-top:18px;border-top:1px solid var(--border);line-height:1.65}
+footer .made p{margin-bottom:12px}
+.kofi{display:inline-flex;align-items:center;gap:8px;background:var(--surface);
+  border:1px solid var(--border);border-radius:9px;padding:9px 15px;
+  color:var(--text)!important;font-weight:600;text-decoration:none!important}
+.kofi:hover{border-color:var(--accent);background:var(--surface-2)}
+
+.kbd{font:600 .72rem var(--mono);background:var(--surface-2);border:1px solid var(--border);
+  border-bottom-width:2px;border-radius:5px;padding:1px 5px;color:var(--text-2)}
+
+.tip{position:fixed;z-index:60;pointer-events:none;opacity:0;transition:opacity .1s;
+  background:var(--surface-3);border:1px solid var(--border-2);border-radius:8px;
+  padding:7px 10px;font-size:.78rem;box-shadow:0 8px 24px rgba(0,0,0,.5);max-width:240px}
+.tip.on{opacity:1}
+.tip b{display:block;font:700 .78rem var(--mono);margin-bottom:2px}
+.tip span{color:var(--text-2)}
+
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+@media (max-width:860px){
+  .rail-wrap{display:none}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .week{grid-template-columns:1fr;gap:9px}
+  .wdate{flex-direction:row;align-items:baseline;gap:8px}
+  .wdate .rail-dot{display:none}
+  .mgroup{flex-direction:column;gap:5px}
+  .items{flex:0 1 auto;width:100%}   /* column flow: 240px basis would be a height */
+  .mtag{width:auto;padding-top:0}
+  header{padding:34px 0 18px}
+  .chip{padding:5px 10px 5px 8px;font-size:.76rem}
+  .chip .n{font-size:.68rem}
+  .seg button{padding:6px 10px}
+  .gridview{max-height:none}
+  .ribbon{flex-wrap:wrap;gap:5px;margin-top:24px}
+  .ribbon button{flex:1 1 45%}
+  .era-head{padding:9px 12px;gap:8px;margin:16px 0 6px}
+  .era-head h2{font-size:.95rem}
+  .era-head .cnt{margin-left:0}
+}
+</style>
+</head>
+<body>
+<div class="glow"></div>
+
+<div class="wrap">
+  <header>
+    <svg class="mark" viewBox="0 0 64 64" aria-hidden="true">
+      <defs>
+        <radialGradient id="cor" cx="50%" cy="50%" r="50%">
+          <stop offset="52%" stop-color="#ff8a3d" stop-opacity="0"/>
+          <stop offset="70%" stop-color="#ff8a3d" stop-opacity=".55"/>
+          <stop offset="100%" stop-color="#ff8a3d" stop-opacity="0"/>
+        </radialGradient>
+      </defs>
+      <circle cx="32" cy="32" r="30" fill="url(#cor)"/>
+      <circle cx="32" cy="32" r="17" fill="none" stroke="#ff8a3d" stroke-width="2.5"/>
+      <circle cx="32" cy="32" r="17" fill="#101014"/>
+      <path d="M32 15a17 17 0 0 1 0 34 17 17 0 0 0 0-34z" fill="#ff8a3d" opacity=".9"/>
+    </svg>
+    <h1>Heroes<span class="sub">A Complete Multimedia Timeline</span></h1>
+    <p class="lede">
+      Every episode, graphic novel, webisode, ARG chapter, behind-the-scenes short
+      and physical release — laid out in the week it landed, from the 2006 pilot to
+      the announcement of <em>Heroes: Eclipsed</em>, a revival that, as of today,
+      may never happen.
+    </p>
+    <p class="dedication">
+      In memory of <strong>Hayden Panettiere</strong>, 1989–2026, who was Claire Bennet.
+    </p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <nav class="ribbon" id="ribbon" aria-label="Jump to an era"></nav>
+
+  <div class="rail-wrap">
+    <div class="rail" id="rail" role="group" aria-label="Release activity by week — click a bar to jump"></div>
+    <div class="rail-axis" id="railAxis"></div>
+  </div>
+</div>
+
+<div class="toolbar" id="toolbar">
+  <div class="wrap">
+    <div class="tb-row">
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+        <label class="sr" for="q">Search the timeline</label>
+        <input id="q" type="search" placeholder="Search titles, codes, dates…  (press /)" autocomplete="off" spellcheck="false">
+        <button class="clear" id="clearQ" type="button" aria-label="Clear search" hidden>&times;</button>
+      </div>
+      <div class="seg" role="group" aria-label="View">
+        <button id="vTimeline" aria-pressed="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4v16M5 8h14M5 14h10"/></svg>Timeline</button>
+        <button id="vGrid" aria-pressed="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M9 9v11"/></svg>Grid</button>
+      </div>
+      <div class="seg" role="group" aria-label="Row density">
+        <button id="dense" aria-pressed="false" title="Collapse each week onto a single line">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>Compact</button>
+      </div>
+      <div class="seg">
+        <button id="toggleFilters" aria-expanded="true" aria-controls="filters">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>Filters<span class="pip" id="pip" hidden></span></button>
+      </div>
+    </div>
+    <div id="filters">
+      <div class="chips" id="mediaChips" role="group" aria-label="Filter by medium"></div>
+      <div class="chips" id="eraChips" role="group" aria-label="Filter by era"></div>
+    </div>
+    <div class="tb-meta">
+      <span id="count" aria-live="polite"></span>
+      <span><button id="reset" type="button">Reset filters</button></span>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <main id="out"></main>
+
+  <footer>
+    <div class="cols">
+      <div>
+        <h3>Where to find it</h3>
+        <ul id="sources"></ul>
+      </div>
+      <div class="made">
+        <h3>Made by</h3>
+        <p><a href="https://www.reddit.com/user/Gabrielense/" target="_blank" rel="noopener">Gabrielense</a></p>
+        <a class="kofi" href="https://ko-fi.com/J3J21VUCOZ" target="_blank" rel="noopener">☕ Buy me a coffee</a>
+      </div>
+    </div>
+    <p class="note">Heroes is a trademark of NBCUniversal. This is an unofficial, non-commercial fan reference.</p>
+  </footer>
+</div>
+
+<div class="tip" id="tip" role="tooltip" aria-hidden="true"></div>
+
+<script type="application/json" id="timeline-data">{"colLinks":{"gn":"https://archive.org/details/nbc-heroes-graphic-novels-vol1-vol5/","web":"https://archive.org/details/heroes-webisodes","evo":"https://web.archive.org/web/20200514144559/http://heroeswiki.com/Portal:Portals","unm":"https://archive.org/details/heroes.unmasked.behind-the-scenes"},"entries":[{"r":4,"e":"v1","m":"BEFORE PREMIERE","c":{"ep":[{"c":"1x00","t":"Unaired Pilot"}],"evo":[{"t":"Claire's MySpace"},{"t":"Zach's MySpace"}],"misc":[{"t":"9thwonders.com"},{"t":"Claire & the Cat flash animation"}]}},{"r":5,"e":"v1","d":"2006-09-25","c":{"ep":[{"c":"1x01","t":"Genesis"}],"gn":[{"c":"1","t":"Monsters"}],"evo":[{"t":"Hiro's Blog"}]}},{"r":6,"e":"v1","d":"2006-10-02","c":{"ep":[{"c":"1x02","t":"Don't Look Back"}],"gn":[{"c":"2","t":"The Crane"}],"unm":[{"c":"1x01","t":"A New Dawn (UK premiere date 7/25/2007)"}]}},{"r":7,"e":"v1","d":"2006-10-09","c":{"ep":[{"c":"1x03","t":"One Giant Leap"}],"gn":[{"c":"3","t":"Trial By Fire"}],"misc":[{"t":"Heroeswiki.com"}]}},{"r":8,"e":"v1","d":"2006-10-16","c":{"ep":[{"c":"1x04","t":"Collision"}],"gn":[{"c":"4","t":"Aftermath"}],"unm":[{"c":"1x02","t":"Growing Pains"}]}},{"r":9,"e":"v1","d":"2006-10-23","c":{"ep":[{"c":"1x05","t":"Hiros"}],"gn":[{"c":"5","t":"Snapshots"}],"unm":[{"c":"1x03","t":"The Dreamer"}]}},{"r":10,"e":"v1","d":"2006-10-30","c":{"ep":[{"c":"1x06","t":"Better Halves"}],"gn":[{"c":"6","t":"Stolen Time"}],"unm":[{"c":"1x04","t":"Hiro Worship"}]}},{"r":11,"e":"v1","d":"2006-11-06","c":{"ep":[{"c":"1x07","t":"Nothing to Hide"}],"gn":[{"c":"7","t":"Control"}],"unm":[{"c":"1x05","t":"Painting the Future"}]}},{"r":12,"e":"v1","d":"2006-11-13","c":{"ep":[{"c":"1x08","t":"Seven Minutes to Midnight"}],"gn":[{"c":"8","t":"Isaac's First Time"}],"unm":[{"c":"1x06","t":"Double Trouble"}],"misc":[{"t":"The Official Radio Show (UK premiere date 9/1/2007) #1x01: Episode 6"}]}},{"r":13,"e":"v1","d":"2006-11-20","c":{"ep":[{"c":"1x09","t":"Homecoming"}],"gn":[{"c":"9","t":"Life Before Eden"}],"unm":[{"c":"1x07","t":"Voices"}],"misc":[{"t":"The Official Radio Show #1x02: Episode 7"}]}},{"r":14,"e":"v1","d":"2006-11-27","c":{"ep":[{"c":"1x10","t":"Six Months Ago"}],"gn":[{"c":"10","t":"Turning Point"}],"unm":[{"c":"1x08","t":"The H.R.G. File"}],"misc":[{"t":"The Official Radio Show #1x03: Episode 8"}]}},{"r":15,"e":"v1","d":"2006-12-04","c":{"ep":[{"c":"1x11","t":"Fallout"}],"gn":[{"c":"11","t":"Fathers & Daughters"}]}},{"r":16,"e":"v1","d":"2006-12-11","c":{"gn":[{"c":"12","t":"Super-Heroics"}],"evo":[{"t":"Are You A Hero?"}]}},{"r":17,"e":"v1","d":"2006-12-25","c":{"gn":[{"c":"13","t":"Wireless, Part 1"}]}},{"r":18,"e":"v1","d":"2007-01-01","c":{"gn":[{"c":"14","t":"Wireless, Part 2"}]}},{"r":19,"e":"v1","d":"2007-01-08","c":{"gn":[{"c":"15","t":"Wireless, Part 3"}]}},{"r":20,"e":"v1","d":"2007-01-15","c":{"gn":[{"c":"16","t":"Wireless, Part 4"}]}},{"r":21,"e":"v1","d":"2007-01-22","c":{"ep":[{"c":"1x12","t":"Godsend"}],"gn":[{"c":"17","t":"How Do You Stop an Exploding Man?, Part 1"}],"evo":[{"t":"Interactive Map"},{"t":"PrimatechPaper.com"},{"t":"Hana's SMS"}],"unm":[{"c":"1x09","t":"Dark Angel Gabriel"},{"t":"A Heroes Welcome"}],"misc":[{"t":"The Official Radio Show #1x04: Episode 9"}]}},{"r":22,"e":"v1","d":"2007-01-29","c":{"ep":[{"c":"1x13","t":"The Fix"}],"gn":[{"c":"18","t":"How Do You Stop an Exploding Man?, Part 2"}],"evo":[{"t":"Assignment Tracker 2.0"},{"t":"Hana's emails"}],"unm":[{"c":"1x10","t":"Mohinder's Journey"}],"misc":[{"t":"The Official Radio Show #1x05: Episode 10"}]}},{"r":23,"e":"v1","d":"2007-02-05","c":{"ep":[{"c":"1x14","t":"Distractions"}],"gn":[{"c":"19","t":"Bully"}],"evo":[{"t":"Hana's Blog"}],"unm":[{"c":"1x11","t":"The Invisible Touch"}],"misc":[{"t":"The Official Radio Show #1x06: Episode 11"}]}},{"r":24,"e":"v1","d":"2007-02-12","c":{"ep":[{"c":"1x15","t":"Run!"}],"gn":[{"c":"20","t":"Road Kill"}],"evo":[{"t":"CorinthianLasVegas.com"}],"unm":[{"c":"1x12","t":"Telling Tales"}],"misc":[{"t":"The Official Radio Show #1x07: Episode 12"}]}},{"r":25,"e":"v1","d":"2007-02-19","c":{"ep":[{"c":"1x16","t":"Unexpected"}],"gn":[{"c":"21","t":"The Path of the Righteous"}],"unm":[{"c":"1x13","t":"Head to Head"}],"misc":[{"t":"The Official Radio Show #1x08: Episode 13"}]}},{"r":26,"e":"v1","d":"2007-02-26","c":{"ep":[{"c":"1x17","t":"Company Man"}],"gn":[{"c":"22","t":"Hell's Angel"}],"unm":[{"c":"1x14","t":"Sets and the City"}],"misc":[{"t":"The Official Radio Show #1x09: Episode 14"}]}},{"r":27,"e":"v1","d":"2007-03-05","c":{"ep":[{"c":"1x18","t":"Parasite"}],"gn":[{"c":"23","t":"Family Man"}],"evo":[{"t":"Activating Evolution"},{"t":"Hana's MySpace"}],"unm":[{"c":"1x15","t":"Turning Tides"}],"misc":[{"t":"The Official Radio Show #1x10: Episode 15"}]}},{"r":28,"e":"v1","d":"2007-03-12","c":{"gn":[{"c":"24","t":"War Buddies, Part 1"}]}},{"r":29,"e":"v1","d":"2007-03-19","c":{"gn":[{"c":"25","t":"War Buddies, Part 2"}]}},{"r":30,"e":"v1","d":"2007-03-26","c":{"gn":[{"c":"26","t":"War Buddies, Part 3"}]}},{"r":31,"e":"v1","d":"2007-04-02","c":{"gn":[{"c":"27","t":"War Buddies, Part 4"}]}},{"r":32,"e":"v1","d":"2007-04-09","c":{"gn":[{"c":"28","t":"War Buddies, Part 5"}],"evo":[{"t":"brianundaunted.imeem.com"}]}},{"r":33,"e":"v1","d":"2007-04-16","c":{"gn":[{"c":"29","t":"War Buddies, Part 6"}]}},{"r":34,"e":"v1","d":"2007-04-23","c":{"ep":[{"c":"1x19","t":".07%"}],"gn":[{"c":"30","t":"String Theory"}],"evo":[{"t":"VotePetrelli.com"}],"unm":[{"c":"1x16","t":"Bad Company"}],"misc":[{"t":"The Official Radio Show #1x11: Episode 16"}]}},{"r":35,"e":"v1","d":"2007-04-30","c":{"ep":[{"c":"1x20","t":"Five Years Gone"}],"gn":[{"c":"31","t":"Walls, Part 1"}],"unm":[{"c":"1x17","t":"Isaac"}],"misc":[{"t":"The Official Radio Show #1x12: Episode 17"}]}},{"r":36,"e":"v1","d":"2007-05-07","c":{"ep":[{"c":"1x21","t":"The Hard Part"}],"gn":[{"c":"32","t":"Walls, Part 2"}],"evo":[{"t":"YamagatoFellowship.org"}],"unm":[{"c":"1x18","t":"Tomorrow's World"}],"misc":[{"t":"The Official Radio Show #1x13: Episode 18"}]}},{"r":37,"e":"v1","d":"2007-05-14","c":{"ep":[{"c":"1x22","t":"Landslide"}],"gn":[{"c":"33","t":"The Death of Hana Gitelman, Part 1"}],"unm":[{"c":"1x19","t":"The Director's Cut"}],"misc":[{"t":"The Official Radio Show #1x14: Episode 19"},{"t":"Heroes: Origins announced"}]}},{"r":38,"e":"v1","d":"2007-05-21","c":{"ep":[{"c":"1x23","t":"How to Stop an Exploding Man"}],"gn":[{"c":"34","t":"The Death of Hana Gitelman, Part 2"}],"unm":[{"c":"1x20","t":"Finale"},{"t":"The Story So Far"}],"misc":[{"t":"The Official Radio Show #1x15: Episode 20"},{"t":"Inside Heroes #1 to #8"}]}},{"r":39,"e":"v1","d":"2007-05-28","c":{"gn":[{"c":"35","t":"It Takes a Village, Part 1"}],"misc":[{"t":"Topps Heroes Series 1 Trading Card Set"}]}},{"r":40,"e":"v1","d":"2007-06-04","c":{"gn":[{"c":"36","t":"It Takes a Village, Part 2"}]}},{"r":41,"e":"v1","d":"2007-06-11","c":{"gn":[{"c":"37","t":"It Takes a Village, Part 3"}]}},{"r":42,"e":"v1","d":"2007-06-18","c":{"gn":[{"c":"38","t":"It Takes a Village, Part 4"}]}},{"r":43,"e":"v1","d":"2007-06-25","c":{"gn":[{"c":"39","t":"Betty, Part 1"}]}},{"r":44,"e":"v1","d":"2007-07-02","c":{"gn":[{"c":"40","t":"Betty, Part 2"}]}},{"r":45,"e":"v1","d":"2007-07-09","c":{"gn":[{"c":"41","t":"Betty, Part 3"}],"evo":[{"t":"Bridget's messages"},{"t":"Mohinder's Apartment (BBC Evolutions)"}]}},{"r":46,"e":"v1","d":"2007-07-16","c":{"gn":[{"c":"42","t":"Betty, Part 4"}]}},{"r":47,"e":"v1","d":"2007-07-23","c":{"gn":[{"c":"43","t":"Golden Handshake, Part 1"}]}},{"r":48,"e":"v1","d":"2007-07-30","c":{"gn":[{"c":"44","t":"Golden Handshake, Part 2"}]}},{"r":49,"e":"v1","d":"2007-08-06","c":{"gn":[{"c":"45","t":"Golden Handshake, Part 3"}]}},{"r":50,"e":"v1","d":"2007-08-13","c":{"gn":[{"c":"46","t":"Golden Handshake, Part 4"}]}},{"r":51,"e":"v1","d":"2007-08-20","c":{"gn":[{"c":"47","t":"Heroism is Found in the Heart, Part 1"}],"misc":[{"t":"Heroes World Tour"}]}},{"r":52,"e":"v1","d":"2007-08-27","c":{"gn":[{"c":"48","t":"Heroism is Found in the Heart, Part 2"}],"evo":[{"t":"Takezo Kensei: Sword Saint"}],"phys":[{"t":"Heroes: The Complete First Season (DVD)"}]}},{"r":53,"e":"v1","d":"2007-09-03","c":{"gn":[{"c":"49","t":"Blackout, Part 1"}],"phys":[{"t":"Heroes: Season One Collector's Edition (DVD)"}]}},{"r":54,"e":"v1","d":"2007-09-10","c":{"gn":[{"c":"50","t":"Blackout, Part 2"}]}},{"r":55,"e":"v2","d":"2007-09-17","c":{"gn":[{"c":"51","t":"Maya y Alejandro"}],"unm":[{"c":"2x00","t":"Heroes Return"}],"misc":[{"t":"The Official Radio Show #2x00: 28/06/2008"}]}},{"r":56,"e":"v2","d":"2007-09-24","c":{"ep":[{"c":"2x01","t":"Four Months Later..."}],"gn":[{"c":"52","t":"Flying Blind"}],"unm":[{"c":"2x01","t":"Japanese Idol"}],"misc":[{"t":"The Official Radio Show #2x01: Episode 1"}]}},{"r":57,"e":"v2","d":"2007-10-01","c":{"ep":[{"c":"2x02","t":"Lizards"}],"gn":[{"c":"53","t":"The Crossroads"}],"evo":[{"t":"Heroes: The Mobile Game"}],"unm":[{"c":"2x02","t":"Generations"}],"misc":[{"t":"The Official Radio Show #2x02: Episode 2"}]}},{"r":58,"e":"v2","d":"2007-10-08","c":{"ep":[{"c":"2x03","t":"Kindred"}],"gn":[{"c":"54","t":"Petrified Lightning"},{"t":"The Rogue"}],"unm":[{"c":"2x03","t":"What the Butlers Saw"}],"misc":[{"t":"The Official Radio Show #2x03: Episode 3"}]}},{"r":59,"e":"v2","d":"2007-10-15","c":{"ep":[{"c":"2x04","t":"The Kindness of Strangers"}],"gn":[{"c":"55","t":"The Trial of the Black Bear"}],"unm":[{"c":"2x04","t":"When Worlds Collide"}],"misc":[{"t":"The Official Radio Show #2x04: Episode 4"}]}},{"r":60,"e":"v2","d":"2007-10-22","c":{"ep":[{"c":"2x05","t":"Fight or Flight"}],"gn":[{"c":"56","t":"Molly's Dream"}],"unm":[{"c":"2x05","t":"Sweet Dreams"}],"misc":[{"t":"The Official Radio Show #2x05: Episode 5"}]}},{"r":61,"e":"v2","d":"2007-10-29","c":{"ep":[{"c":"2x06","t":"The Line"}],"gn":[{"c":"57","t":"Team Building Exercise"},{"t":"The Last Shangri-La"}],"unm":[{"c":"2x06","t":"Travelling in Style"}],"misc":[{"t":"The Post Show #01"},{"t":"The Official Radio Show #2x06: Episode 6"},{"t":"Heroes: Origins cancelled"}]}},{"r":62,"e":"v2","d":"2007-11-05","c":{"ep":[{"c":"2x07","t":"Out of Time"}],"gn":[{"c":"58","t":"Quarantine"}],"unm":[{"c":"2x07","t":"New World Disorder"}],"phys":[{"t":"Heroes, Volume 1 (Issues #001-#034)"}],"misc":[{"t":"The Post Show #02"},{"t":"The Official Radio Show #2x07: Episode 7"}]}},{"r":63,"e":"v2","d":"2007-11-12","c":{"ep":[{"c":"2x08","t":"Four Months Ago..."}],"gn":[{"c":"59","t":"Man on Fire"}],"evo":[{"t":"Create Your Hero"}],"unm":[{"c":"2x08","t":"The Casting Couch"}],"phys":[{"t":"Heroes: The Official Magazine #01"}],"misc":[{"t":"The Post Show #03"},{"t":"The Official Radio Show #2x08: Episode 8"}]}},{"r":64,"e":"v2","d":"2007-11-19","c":{"ep":[{"c":"2x09","t":"Cautionary Tales"}],"gn":[{"c":"60","t":"Revolutionary War, Part 1"}],"unm":[{"c":"2x09","t":"Through Heroes Eyes"}],"misc":[{"t":"The Post Show #04"},{"t":"The Official Radio Show #2x09: Episode 9"}]}},{"r":65,"e":"v2","d":"2007-11-26","c":{"ep":[{"c":"2x10","t":"Truth & Consequences"}],"gn":[{"c":"61","t":"Revolutionary War, Part 2"}],"misc":[{"t":"The Post Show #05"}]}},{"r":66,"e":"v2","d":"2007-12-03","c":{"ep":[{"c":"2x11","t":"Powerless"}],"gn":[{"c":"62","t":"Special"}],"evo":[{"t":"Global News Interactive's Richard Drucker reports (The Drucker Files)"}],"unm":[{"c":"2x10","t":"From Heroes to Villains"}],"misc":[{"t":"The Post Show #06"},{"t":"The Official Radio Show #2x10: Episode 11"}]}},{"r":67,"e":"v2","d":"2007-12-10","c":{"gn":[{"c":"63","t":"Elle's First Assignment, Part 1"}],"evo":[{"t":"9thwonders.com: Cogitoergosum Blog"}]}},{"r":68,"e":"v2","d":"2007-12-17","c":{"gn":[{"c":"64","t":"Elle's First Assignment, Part 2"}]}},{"r":69,"e":"v2","d":"2007-12-24","c":{"gn":[{"c":"65","t":"Normal Lives"}],"phys":[{"t":"Saving Charlie (book)"}]}},{"r":70,"e":"v2","d":"2007-12-31","c":{"gn":[{"c":"66","t":"The Ten Brides of Takezo Kensei"}]}},{"r":71,"e":"v2","d":"2008-01-07","c":{"gn":[{"c":"67","t":"The Golden Goose"}],"phys":[{"t":"Heroes: The Official Magazine #02"}]}},{"r":72,"e":"v2","d":"2008-01-14","c":{"gn":[{"c":"68","t":"The Man with Too Much Brains"}]}},{"r":73,"e":"v2","d":"2008-01-21","c":{"gn":[{"c":"69","t":"Hana and Drucker's Plot Discovered"}]}},{"r":74,"e":"v2","d":"2008-01-28","c":{"gn":[{"c":"70","t":"The End of Hana and Drucker"}]}},{"r":75,"e":"v2","d":"2008-02-04","c":{"gn":[{"c":"71","t":"History of a Secret"}]}},{"r":76,"e":"v2","d":"2008-02-11","c":{"gn":[{"c":"72","t":"Past Experience"}]}},{"r":77,"e":"v2","d":"2008-02-18","c":{"gn":[{"c":"73","t":"War Buddies, Part 7"}]}},{"r":78,"e":"v2","d":"2008-02-25","c":{"gn":[{"c":"74","t":"Blindsided"}]}},{"r":79,"e":"v2","d":"2008-03-03","c":{"gn":[{"c":"75","t":"A Lesson in Electricity"}]}},{"r":80,"e":"v2","d":"2008-03-10","c":{"gn":[{"c":"76","t":"Pieces of Me"}],"evo":[{"t":"9thwonders.com: Evsdropr messages and threads"}],"phys":[{"t":"Heroes: The Official Magazine #03"}]}},{"r":81,"e":"v2","d":"2008-03-17","c":{"gn":[{"c":"77","t":"On the Lam"}],"phys":[{"t":"Heroes Original Soundtrack"}]}},{"r":82,"e":"v2","d":"2008-03-24","c":{"gn":[{"c":"78","t":"Bounty Hunter"}]}},{"r":83,"e":"v2","d":"2008-03-31","c":{"gn":[{"c":"79","t":"Different and the Same"}]}},{"r":84,"e":"v2","d":"2008-04-07","c":{"gn":[{"c":"80","t":"Moonlight Serenade"}]}},{"r":85,"e":"v2","d":"2008-04-14","c":{"gn":[{"c":"81","t":"Donna's Big Date, Part 1"}]}},{"r":86,"e":"v2","d":"2008-04-21","c":{"gn":[{"c":"82","t":"Donna's Big Date, Part 2"}]}},{"r":87,"e":"v2","d":"2008-04-28","c":{"gn":[{"c":"83","t":"Career Choices"}]}},{"r":88,"e":"v2","d":"2008-05-05","c":{"gn":[{"c":"84","t":"Trust Issues, Part 1"}]}},{"r":89,"e":"v2","d":"2008-05-12","c":{"gn":[{"c":"85","t":"Trust Issues, Part 2"}],"phys":[{"t":"Heroes: The Official Magazine #04"}]}},{"r":90,"e":"v3","d":"2008-05-19","c":{"gn":[{"c":"86","t":"Faces, Part 1"}]}},{"r":91,"e":"v3","d":"2008-05-26","c":{"gn":[{"c":"87","t":"Faces, Part 2"}]}},{"r":92,"e":"v3","d":"2008-06-02","c":{"gn":[{"c":"88","t":"Root and Branch, Part 1"}],"misc":[{"t":"Action figures: Series 1"},{"t":"Topps Heroes Series 2 Trading Card Set"}]}},{"r":93,"e":"v3","d":"2008-06-09","c":{"gn":[{"c":"89","t":"Root and Branch, Part 2"}]}},{"r":94,"e":"v3","d":"2008-06-16","c":{"gn":[{"c":"90","t":"Root and Branch, Part 3"}]}},{"r":95,"e":"v3","d":"2008-06-23","c":{"gn":[{"c":"91","t":"Berlin, Part 1"}]}},{"r":96,"e":"v3","d":"2008-06-30","c":{"gn":[{"c":"92","t":"Berlin, Part 2"}],"evo":[{"t":"Devin's PDA (personal digital assistant)"}]}},{"r":97,"e":"v3","d":"2008-07-07","c":{"gn":[{"c":"93","t":"The Kill Squad, Part 1"}]}},{"r":98,"e":"v3","d":"2008-07-14","c":{"gn":[{"c":"94","t":"The Kill Squad, Part 2"}],"web":[{"c":"01","t":"Going Postal, Part 1"}],"evo":[{"t":"PinehearstResearch.com"}],"phys":[{"t":"Heroes: The Official Magazine #05"}]}},{"r":99,"e":"v3","d":"2008-07-21","c":{"gn":[{"c":"95","t":"The Kill Squad, Part 3"}],"web":[{"c":"02","t":"Going Postal, Part 2"}]}},{"r":100,"e":"v3","d":"2008-07-28","c":{"gn":[{"c":"96","t":"Going Postal"}],"web":[{"c":"03","t":"Going Postal, Part 3"}],"misc":[{"t":"Inside Heroes (Heroes Webisode Behind the Story)"}]}},{"r":101,"e":"v3","d":"2008-08-04","c":{"gn":[{"c":"97","t":"Our Lady of Blessed Acceleration, Part 1"}],"evo":[{"t":"Assignment tracker map"}]}},{"r":102,"e":"v3","d":"2008-08-11","c":{"gn":[{"c":"98","t":"Our Lady of Blessed Acceleration, Part 2"}],"evo":[{"t":"Evs Dropper's blog"}]}},{"r":103,"e":"v3","d":"2008-08-18","c":{"gn":[{"c":"99","t":"Hindsight"}]}},{"r":104,"e":"v3","d":"2008-08-25","c":{"gn":[{"c":"100","t":"Foresight"}],"phys":[{"t":"Heroes: The Complete Second Season (DVD/Blu-ray)"},{"t":"Season 1 Blu-ray"}]}},{"r":105,"e":"v3","d":"2008-09-01","c":{"gn":[{"c":"101","t":"Into the Wild, Part 1"}],"misc":[{"t":"Action figures: Series 2"}]}},{"r":106,"e":"v3","d":"2008-09-08","c":{"gn":[{"c":"102","t":"Into the Wild, Part 2"}]}},{"r":107,"e":"v3","d":"2008-09-15","c":{"gn":[{"c":"103","t":"Into the Wild, Part 3"}],"phys":[{"t":"Heroes: The Official Magazine #06"}]}},{"r":108,"e":"v3","d":"2008-09-22","c":{"ep":[{"c":"3x01","t":"The Second Coming"},{"c":"3x02","t":"The Butterfly Effect"}],"gn":[{"c":"104","t":"Dreams Until Death"}],"evo":[{"t":"Habbo's Interactivity"},{"t":"Heroes Versus"},{"t":"LasVegasNiki.com"}],"unm":[{"c":"3x01","t":"Opening Pandora's Box"},{"c":"3x02","t":"New Heroes On The Block"}],"misc":[{"t":"Heroes: Countdown to the Premiere (#3x00)"}]}},{"r":109,"e":"v3","d":"2008-09-29","c":{"ep":[{"c":"3x03","t":"One of Us, One of Them"}],"gn":[{"c":"105","t":"The Sting of Injustice"}],"unm":[{"c":"3x03","t":"On a Heroic Scale"}]}},{"r":110,"e":"v3","d":"2008-10-06","c":{"ep":[{"c":"3x04","t":"I am Become Death"}],"gn":[{"c":"106","t":"Resistance"}],"unm":[{"c":"3x04","t":"Playing God"}]}},{"r":111,"e":"v3","d":"2008-10-13","c":{"ep":[{"c":"3x05","t":"Angels and Monsters"}],"gn":[{"c":"107","t":"Doyle"}],"unm":[{"c":"3x05","t":"Shock of the Old"}]}},{"r":112,"e":"v3","d":"2008-10-20","c":{"ep":[{"c":"3x06","t":"Dying of the Light"}],"gn":[{"c":"108","t":"Sum Quod Sum, Part 1"}],"unm":[{"c":"3x06","t":"Teenage Kicks"}]}},{"r":113,"e":"v3","d":"2008-10-27","c":{"ep":[{"c":"3x07","t":"Eris Quod Sum"}],"gn":[{"c":"109","t":"Sum Quod Sum, Part 2"}],"evo":[{"t":"Pinehearst & Primatech SMS and emails"}],"unm":[{"c":"3x07","t":"A Bug's Life"}]}},{"r":114,"e":"v3","d":"2008-11-02","c":{"gn":[{"c":"110","t":"Viewpoints"}],"evo":[{"c":"Cap. 101","t":"Operation Splinter"},{"c":"Cap. 201","t":"Operation Bad Blood"},{"t":"iStory's SMS"}]}},{"r":115,"e":"v3","d":"2008-11-10","c":{"ep":[{"c":"3x08","t":"Villains"}],"gn":[{"c":"111","t":"Playing with Fire"}],"web":[{"c":"04","t":"Destiny, Part 1"}],"unm":[{"c":"3x08","t":"Missing Links"}]}},{"r":116,"e":"v3","d":"2008-11-17","c":{"ep":[{"c":"3x09","t":"It's Coming"}],"gn":[{"c":"112","t":"Partners"}],"web":[{"c":"05","t":"Destiny, Part 2"}],"evo":[{"c":"Cap. 102","t":"Operation Splinter"},{"c":"Cap. 202","t":"Operation Bad Blood"}],"unm":[{"c":"3x09","t":"Action!"}],"phys":[{"t":"Heroes, Volume 2 (Issues #035-#080)"}]}},{"r":117,"e":"v3","d":"2008-11-24","c":{"ep":[{"c":"3x10","t":"The Eclipse, Part 1"}],"gn":[{"c":"113","t":"The Caged Bird, Part 1"}],"web":[{"c":"06","t":"Destiny, Part 3"}],"evo":[{"c":"Cap. 103","t":"Operation Splinter"},{"c":"Cap. 203","t":"Operation Bad Blood"}],"unm":[{"c":"3x10","t":"Let's Get Physical"}],"phys":[{"t":"Heroes: The Official Magazine #07"}]}},{"r":118,"e":"v3","d":"2008-12-01","c":{"ep":[{"c":"3x11","t":"The Eclipse, Part 2"}],"gn":[{"c":"114","t":"The Caged Bird, Part 2"}],"web":[{"c":"07","t":"Destiny, Part 4"}],"evo":[{"c":"Cap. 104","t":"Operation Splinter"},{"c":"Cap. 204","t":"Operation Bad Blood"}],"unm":[{"c":"3x11","t":"Heroes by Design"}]}},{"r":119,"e":"v3","d":"2008-12-08","c":{"ep":[{"c":"3x12","t":"Our Father"}],"gn":[{"c":"115","t":"Truths"}],"evo":[{"c":"Cap. 105","t":"Operation Splinter"},{"c":"Cap. 205","t":"Operation Bad Blood"}],"unm":[{"c":"3x12","t":"The Music of Heroes"}]}},{"r":120,"e":"v3","d":"2008-12-15","c":{"ep":[{"c":"3x13","t":"Dual"}],"gn":[{"c":"116","t":"Stuck in the Middle"}],"web":[{"c":"08","t":"The Recruit, Part 1"}],"evo":[{"c":"Cap. 106/206","t":"Operation Splinter/Operation Bad Blood"}],"unm":[{"c":"3x13","t":"Heroes on the Run"}]}},{"r":121,"e":"v3","d":"2008-12-22","c":{"gn":[{"c":"117","t":"Red Eye, Part 1"}],"web":[{"c":"09","t":"The Recruit, Part 2"},{"c":"10-11","t":"Hard Knox, Parts 1 & 2"}]}},{"r":122,"e":"v3","d":"2008-12-29","c":{"gn":[{"c":"118","t":"Red Eye, Part 2"}],"web":[{"c":"12","t":"The Recruit, Part 3"},{"c":"13-14","t":"Hard Knox, Parts 3 & 4"}]}},{"r":123,"e":"v3","d":"2009-01-05","c":{"gn":[{"c":"119","t":"Under the Bridge, Part 1"}],"web":[{"c":"15","t":"The Recruit, Part 4"}]}},{"r":124,"e":"v3","d":"2009-01-12","c":{"gn":[{"c":"120","t":"Under the Bridge, Part 2"}],"web":[{"c":"16","t":"The Recruit, Part 5"}],"evo":[{"c":"Cap. 301","t":"The Private"}]}},{"r":125,"e":"v4","d":"2009-01-19","c":{"gn":[{"c":"121","t":"What We Have Wrought"}],"evo":[{"c":"Cap. 302","t":"The Private"}],"phys":[{"t":"Heroes: The Official Magazine #08"}]}},{"r":126,"e":"v4","d":"2009-01-26","c":{"gn":[{"c":"122","t":"Almost Famous"}],"evo":[{"c":"Cap. 303","t":"The Private"}],"misc":[{"t":"Super Bowl XLIII commercials"}]}},{"r":127,"e":"v4","d":"2009-02-02","c":{"ep":[{"c":"3x14","t":"A Clear and Present Danger"}],"gn":[{"c":"123","t":"Out of Town... On Business"}],"evo":[{"c":"Cap. 304","t":"The Private"},{"t":"Heroes Survival"}]}},{"r":128,"e":"v4","d":"2009-02-09","c":{"ep":[{"c":"3x15","t":"Trust and Blood"}],"gn":[{"c":"124","t":"Libertad"}],"evo":[{"c":"Cap. 401","t":"The Agent"},{"t":"Rebel's SMS/emails"}]}},{"r":129,"e":"v4","d":"2009-02-16","c":{"ep":[{"c":"3x16","t":"Building 26"}],"gn":[{"c":"125","t":"The Swimmer"}],"evo":[{"c":"Cap. 402","t":"The Agent"}]}},{"r":130,"e":"v4","d":"2009-02-23","c":{"ep":[{"c":"3x17","t":"Cold Wars"}],"gn":[{"c":"126","t":"Comrades, Part 1"}],"evo":[{"c":"Cap. 403","t":"The Agent"}]}},{"r":131,"e":"v4","d":"2009-03-02","c":{"ep":[{"c":"3x18","t":"Exposed"}],"gn":[{"c":"127","t":"Comrades, Part 2"}],"evo":[{"c":"Cap. 404","t":"The Agent"}]}},{"r":132,"e":"v4","d":"2009-03-09","c":{"ep":[{"c":"3x19","t":"Shades of Gray"}],"gn":[{"c":"128","t":"Puppet with No Strings"}],"evo":[{"c":"Cap. 405","t":"The Agent"}]}},{"r":133,"e":"v4","d":"2009-03-16","c":{"gn":[{"c":"129","t":"Hanging By a Thread"}],"evo":[{"c":"Cap. 406","t":"The Agent"}],"phys":[{"t":"Heroes: The Official Magazine #09"}]}},{"r":134,"e":"v4","d":"2009-03-23","c":{"ep":[{"c":"3x20","t":"Cold Snap"}],"gn":[{"c":"130","t":"Baby Power"}],"evo":[{"c":"Cap. 407","t":"The Agent"}]}},{"r":135,"e":"v4","d":"2009-03-30","c":{"ep":[{"c":"3x21","t":"Into Asylum"}],"gn":[{"c":"131","t":"Cog"}],"evo":[{"c":"Cap. 408","t":"The Agent"}]}},{"r":136,"e":"v4","d":"2009-04-06","c":{"ep":[{"c":"3x22","t":"Turn and Face the Strange"}],"gn":[{"c":"132","t":"Scenic Route"}],"evo":[{"c":"Cap. 409","t":"The Agent"}],"misc":[{"t":"Heroes All Access official fan club website"}]}},{"r":137,"e":"v4","d":"2009-04-13","c":{"ep":[{"c":"3x23","t":"1961"}],"gn":[{"c":"133","t":"Exodus"}],"evo":[{"c":"Cap. 410","t":"The Agent"}],"phys":[{"t":"Heroes: Original Score from the Television Series"}]}},{"r":138,"e":"v4","d":"2009-04-20","c":{"ep":[{"c":"3x24","t":"I am Sylar"}],"gn":[{"c":"134","t":"One Good Hero"}],"web":[{"c":"17","t":"Nowhere Man, Part 1"}],"evo":[{"c":"Cap. 411","t":"The Agent"}],"phys":[{"t":"Heroes: The Official Magazine #10"},{"t":"Heroes Revealed book"}]}},{"r":139,"e":"v4","d":"2009-04-27","c":{"ep":[{"c":"3x25","t":"An Invisible Thread"}],"gn":[{"c":"135","t":"The Natural Order of Things"}],"web":[{"c":"18","t":"Nowhere Man, Part 2"}],"evo":[{"c":"Cap. 412","t":"The Agent"}]}},{"r":140,"e":"v4","d":"2009-05-04","c":{"gn":[{"c":"136","t":"Rebellion, Part 1"}],"web":[{"c":"19","t":"Nowhere Man, Part 3"}]}},{"r":141,"e":"v4","d":"2009-05-11","c":{"gn":[{"c":"137","t":"Rebellion, Part 2"}],"web":[{"c":"20","t":"Nowhere Man, Part 4"}]}},{"r":142,"e":"v4","d":"2009-05-18","c":{"gn":[{"c":"138","t":"Rebellion, Part 3"}]}},{"r":143,"e":"v4","d":"2009-06-01","c":{"gn":[{"c":"139","t":"Rebellion, Part 4"}]}},{"r":144,"e":"v4","d":"2009-06-15","c":{"gn":[{"c":"140","t":"Rebellion, Part 5"}]}},{"r":145,"e":"v4","d":"2009-07-13","c":{"gn":[{"c":"141","t":"Rebellion, Part 6"}],"evo":[{"c":"Cap. 501","t":"The Civilian"}]}},{"r":146,"e":"v4","d":"2009-07-20","c":{"evo":[{"c":"Cap. 502","t":"The Civilian"}]}},{"r":147,"e":"v4","d":"2009-07-27","c":{"evo":[{"c":"Cap. 503","t":"The Civilian"}]}},{"r":148,"e":"v4","d":"2009-08-03","c":{"evo":[{"c":"Cap. 504","t":"The Civilian"}]}},{"r":149,"e":"v4","d":"2009-08-10","c":{"evo":[{"c":"Cap. 505","t":"The Civilian"}]}},{"r":150,"e":"v4","d":"2009-08-17","c":{"gn":[{"c":"142","t":"Rebellion, Part 7"}],"evo":[{"c":"Cap. 601","t":"Faction Zero"}],"phys":[{"t":"Heroes: The Official Magazine #11"}]}},{"r":151,"e":"v4","d":"2009-08-24","c":{"evo":[{"c":"Cap. 602","t":"Faction Zero"}]}},{"r":152,"e":"v4","d":"2009-08-31","c":{"evo":[{"c":"Cap. 603","t":"Faction Zero"}],"phys":[{"t":"Heroes: The Complete Third Season (DVD/Blu-ray)"}]}},{"r":153,"e":"v5","d":"2009-09-07","c":{"gn":[{"c":"143","t":"Ice Queen, Part 1"}],"evo":[{"c":"Cap. 604","t":"Faction Zero"}]}},{"r":154,"e":"v5","d":"2009-09-14","c":{"gn":[{"c":"144","t":"Ice Queen, Part 2"}],"evo":[{"c":"Cap. 605","t":"Faction Zero"}]}},{"r":155,"e":"v5","d":"2009-09-21","c":{"ep":[{"c":"4x01","t":"Orientation"},{"c":"4x02","t":"Jump, Push, Fall"}],"gn":[{"c":"145","t":"Stolen Fate"}],"evo":[{"c":"Cap. 606","t":"Faction Zero"}]}},{"r":156,"e":"v5","d":"2009-09-28","c":{"ep":[{"c":"4x03","t":"Ink"}],"gn":[{"c":"146","t":"Running in Circles"}],"web":[{"c":"21","t":"Slow Burn, Part 1"}],"evo":[{"c":"Cap. 701","t":"Slow Burn"}]}},{"r":157,"e":"v5","d":"2009-10-05","c":{"ep":[{"c":"4x04","t":"Acceptance"}],"gn":[{"c":"147","t":"Boom"}],"web":[{"c":"22","t":"Slow Burn, Part 2"}],"evo":[{"c":"Cap. 702","t":"Slow Burn"}]}},{"r":158,"e":"v5","d":"2009-10-12","c":{"ep":[{"c":"4x05","t":"Hysterical Blindness"}],"gn":[{"c":"148","t":"Amanda's Journey, Part 1"}],"web":[{"c":"23","t":"Slow Burn, Part 3"}],"evo":[{"c":"Cap. 703","t":"Slow Burn"}]}},{"r":159,"e":"v5","d":"2009-10-19","c":{"ep":[{"c":"4x06","t":"Tabula Rasa"}],"gn":[{"c":"149","t":"Amanda's Journey, Part 2"}],"web":[{"c":"24","t":"Slow Burn, Part 4"}],"evo":[{"c":"Cap. 704","t":"Slow Burn"}],"phys":[{"t":"Heroes: The Official Magazine #12"}]}},{"r":160,"e":"v5","d":"2009-10-26","c":{"ep":[{"c":"4x07","t":"Strange Attractors"}],"gn":[{"c":"150","t":"Yang & Yang"}],"web":[{"c":"25","t":"Slow Burn, Part 5"}],"evo":[{"c":"Cap. 705","t":"Slow Burn"}]}},{"r":161,"e":"v5","d":"2009-11-02","c":{"ep":[{"c":"4x08","t":"Once Upon A Time In Texas"}],"gn":[{"c":"151","t":"Smoke & Mirrors"}],"web":[{"c":"26","t":"Slow Burn, Part 6"}],"evo":[{"c":"Cap. 706","t":"Slow Burn"}]}},{"r":162,"e":"v5","d":"2009-11-09","c":{"ep":[{"c":"4x09","t":"Shadowboxing"}],"gn":[{"c":"152","t":"The Painted Lady"}],"web":[{"c":"27","t":"Slow Burn, Part 7"}],"evo":[{"c":"Cap. 707","t":"Slow Burn"}]}},{"r":163,"e":"v5","d":"2009-11-16","c":{"ep":[{"c":"4x10","t":"Brother's Keeper"}],"gn":[{"c":"153","t":"Prodigals, Part 1"}],"web":[{"c":"28","t":"Slow Burn, Part 8"}],"evo":[{"c":"Cap. 708","t":"Slow Burn"}]}},{"r":164,"e":"v5","d":"2009-11-23","c":{"ep":[{"c":"4x11","t":"Thanksgiving"}],"gn":[{"c":"154","t":"Prodigals, Part 2"}],"web":[{"c":"29","t":"Slow Burn, Part 9"}],"evo":[{"c":"Cap. 709","t":"Slow Burn"}]}},{"r":165,"e":"v5","d":"2009-11-30","c":{"ep":[{"c":"4x12","t":"The Fifth Stage"}],"gn":[{"c":"155","t":"Prodigals, Part 3"}],"web":[{"c":"30","t":"Slow Burn, Part 10"}],"evo":[{"c":"Cap. 710","t":"Slow Burn"}]}},{"r":166,"e":"v5","d":"2009-12-07","c":{"gn":[{"c":"156","t":"Requiem For My Brother"}],"evo":[{"c":"Cap. 801","t":"The Puppet Master"}]}},{"r":167,"e":"v5","d":"2009-12-14","c":{"gn":[{"c":"157","t":"Bloodlines, Part 1"}],"evo":[{"c":"Cap. 802","t":"The Puppet Master"}]}},{"r":168,"e":"v5","d":"2009-12-21","c":{"gn":[{"c":"158","t":"Bloodlines, Part 2"}],"evo":[{"c":"Cap. 803","t":"The Puppet Master"}]}},{"r":169,"e":"v5","d":"2009-12-28","c":{"gn":[{"c":"159","t":"Starting Over"}],"evo":[{"c":"Cap. 804","t":"The Puppet Master"}]}},{"r":170,"e":"v5","d":"2010-01-04","c":{"ep":[{"c":"4x13","t":"Upon This Rock"},{"c":"4x14","t":"Let it Bleed"}],"gn":[{"c":"160","t":"The Trip, Part 1"}]}},{"r":171,"e":"v5","d":"2010-01-11","c":{"ep":[{"c":"4x15","t":"Close to You"}],"gn":[{"c":"161","t":"The Trip, Part 2"}]}},{"r":172,"e":"v5","d":"2010-01-18","c":{"ep":[{"c":"4x16","t":"Pass / Fail"}],"gn":[{"c":"162","t":"Second Chances"}]}},{"r":173,"e":"v5","d":"2010-01-25","c":{"ep":[{"c":"4x17","t":"The Art of Deception"}],"gn":[{"c":"163","t":"Reaching Out, Part 1"}]}},{"r":174,"e":"v5","d":"2010-02-01","c":{"ep":[{"c":"4x18","t":"The Wall"}],"gn":[{"c":"164","t":"Reaching Out, Part 2"}],"evo":[{"c":"Cap. 901","t":"Purpose"}]}},{"r":175,"e":"v5","d":"2010-02-08","c":{"ep":[{"c":"4x19","t":"Brave New World"}],"gn":[{"c":"165","t":"Consequences"}],"evo":[{"c":"Cap. 902","t":"Purpose"},{"t":"A Hero's Quest"},{"t":"Where's Hiro"},{"t":"Hiro's SMS"}]}},{"r":176,"e":"v5","d":"2010-02-15","c":{"gn":[{"c":"166","t":"From the Files of Primatech, Part 1"}],"evo":[{"c":"Cap. 903","t":"Purpose"}]}},{"r":177,"e":"v5","d":"2010-02-22","c":{"evo":[{"c":"Cap. 904","t":"Purpose"}]}},{"r":178,"e":"v5","d":"2010-03-01","c":{"gn":[{"c":"167","t":"From the Files of Primatech, Part 2"}],"evo":[{"c":"Cap. 905","t":"Purpose"}]}},{"r":179,"e":"v5","d":"2010-03-08","c":{"evo":[{"c":"Cap. 906","t":"Purpose"}]}},{"r":180,"e":"v5","d":"2010-03-15","c":{"gn":[{"c":"168","t":"From the Files of Primatech, Part 3"}]}},{"r":181,"e":"v5","d":"2010-03-29","c":{"gn":[{"c":"169","t":"From the Files of Primatech, Part 4"}]}},{"r":182,"e":"v5","d":"2010-04-12","c":{"gn":[{"c":"170","t":"From the Files of Primatech, Part 5"}]}},{"r":183,"e":"v5","d":"2010-04-26","c":{"gn":[{"c":"171","t":"From the Files of Primatech, Part 6"}]}},{"r":184,"e":"v5","d":"2010-05-10","c":{"gn":[{"c":"172","t":"From the Files of Primatech, Part 7"}]}},{"r":185,"e":"v5","d":"2010-05-24","c":{"gn":[{"c":"173","t":"From the Files of Primatech, Part 8"}],"misc":[{"t":"Heroes \"two-hour Heroes event/movie\" announced"}]}},{"r":186,"e":"v5","m":"CANCELLATION","c":{"misc":[{"t":"Heroes \"two-hour Heroes event/movie\" cancelled"}]}},{"r":187,"e":"gap","d":"2010-08-06","c":{"phys":[{"t":"Heroes: The Complete Fourth Season (DVD/Blu-ray)"}]}},{"r":188,"e":"gap","d":"2010-11-16","c":{"phys":[{"t":"Heroes: The Complete Series (DVD/Blu-ray)"}]}},{"r":189,"e":"gap","d":"2014-02-23","c":{"misc":[{"t":"Heroes Reborn teaser in 2014 Winter Olympics commercials"}]}},{"r":190,"e":"gap","d":"2015-05-19","c":{"misc":[{"t":"Heroes: Some People Are Born to Be Extraordinary"}]}},{"r":191,"e":"hr","m":"HEROES REBORN","c":{"evo":[{"t":"HeroTruther YouTube channel"}],"misc":[{"t":"Heroes Reborn app"}]}},{"r":192,"e":"hr","d":"2015-07-09","c":{"web":[{"c":"31","t":"Dark Matters, Part 1"}]}},{"r":193,"e":"hr","d":"2015-07-23","c":{"web":[{"c":"32-36","t":"Dark Matters, Parts 2, 3, 4, 5 & 6"}]}},{"r":194,"e":"hr","d":"2015-09-24","c":{"ep":[{"c":"HR1x01","t":"Brave New World"},{"c":"HR1x02","t":"Odessa"}],"evo":[{"t":"The Odessa Report"},{"t":"Brave New World (eBook)"}],"unm":[{"t":"Inside the Eclipse #01","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_1_-_Brave_New_World"},{"t":"Inside the Eclipse #02"}]}},{"r":195,"e":"hr","d":"2015-10-01","c":{"ep":[{"c":"HR1x03","t":"Under the Mask"}],"gn":[{"c":"174","t":"Vengeance, Part 1"}],"unm":[{"t":"Inside the Eclipse #03","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_3_-_Under_the_Mask"}],"phys":[{"t":"Heroes Reborn: Event Series – The Official Magazine #01"}]}},{"r":196,"e":"hr","d":"2015-10-08","c":{"ep":[{"c":"HR1x04","t":"The Needs of the Many"}],"evo":[{"t":"Heroes Reborn: Enigma (iOS/Android)"}],"unm":[{"t":"Inside the Eclipse #04","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_4_-_The_Needs_of_the_Many"}]}},{"r":197,"e":"hr","d":"2015-10-15","c":{"ep":[{"c":"HR1x05","t":"The Lion's Den"}],"unm":[{"t":"Inside the Eclipse #05","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_5_-_The_Lion_s_Den"}]}},{"r":198,"e":"hr","d":"2015-10-22","c":{"ep":[{"c":"HR1x06","t":"Game Over"}],"unm":[{"t":"Inside the Eclipse #06","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_6_-_Game_Over"}]}},{"r":199,"e":"hr","d":"2015-10-29","c":{"ep":[{"c":"HR1x07","t":"June 13th, Part One"}],"unm":[{"t":"Inside the Eclipse #07","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_7_-_June_13th_Part_1"}]}},{"r":200,"e":"hr","d":"2015-11-05","c":{"ep":[{"c":"HR1x08","t":"June 13th, Part Two"}],"gn":[{"c":"175","t":"Vengeance, Part 2"}],"unm":[{"t":"Inside the Eclipse #08","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_8_-_June_13th_Part_2"}]}},{"r":201,"e":"hr","d":"2015-11-12","c":{"ep":[{"c":"HR1x09","t":"Sundae, Bloody Sundae"}],"unm":[{"t":"Inside the Eclipse #09"}]}},{"r":202,"e":"hr","d":"2015-11-19","c":{"ep":[{"c":"HR1x10","t":"11:53 to Odessa"}],"web":[{"c":"37-38","t":"Damen Peak, Parts 1 & 2"}],"evo":[{"t":"A Matter of Trust"},{"t":"Dirty Deeds"},{"t":"Catch and Kill"},{"t":"Save the Cheerleader, Destroy the World"},{"t":"A Long Way from Home"}],"unm":[{"t":"Inside the Eclipse #10","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_10_-_11_53_to_Odessa"}]}},{"r":203,"e":"hr","d":"2015-12-03","c":{"gn":[{"c":"176","t":"Vengeance, Part 3"}]}},{"r":204,"e":"hr","d":"2016-01-07","c":{"ep":[{"c":"HR1x11","t":"Send in the Clones"}],"gn":[{"c":"177","t":"Vengeance, Part 4"}],"web":[{"c":"39","t":"Damen Peak, Part 3"}],"unm":[{"t":"Inside the Eclipse #11","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_11_-_Send_in_the_Clones"}]}},{"r":205,"e":"hr","d":"2016-01-14","c":{"ep":[{"c":"HR1x12","t":"Company Woman"}],"evo":[{"t":"Gemini: Heroes Reborn (PC/PS4/XBOX One)"}],"unm":[{"t":"Inside the Eclipse #12","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_12_-_Company_Woman"}]}},{"r":206,"e":"hr","d":"2016-01-21","c":{"ep":[{"c":"HR1x13","t":"Project Reborn"}],"unm":[{"t":"Inside the Eclipse #13","l":"https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_13_-_Project_Reborn"}]}},{"r":207,"e":"hr","d":"2016-02-18","c":{"gn":[{"c":"178","t":"Vengeance, Part 5"}]}},{"r":208,"e":"hr","d":"2016-03-10","c":{"gn":[{"c":"179","t":"Godsend, Part 1"}],"phys":[{"t":"Heroes Reborn: Collection One (Paperback collection eBooks 1-3)"}]}},{"r":209,"e":"hr","d":"2016-04-07","c":{"gn":[{"c":"180","t":"Godsend, Part 2"}],"phys":[{"t":"Heroes Reborn: Event Series (DVD/Blu-ray)"}]}},{"r":210,"e":"hr","d":"2016-04-26","c":{"phys":[{"t":"Heroes Reborn: Collection Two (Paperback collection eBooks 4-6)"}]}},{"r":211,"e":"hr","d":"2016-05-12","c":{"gn":[{"c":"181","t":"Godsend, Part 3"}]}},{"r":212,"e":"hr","d":"2016-06-16","c":{"gn":[{"c":"182","t":"Godsend, Part 4"}],"phys":[{"t":"Heroes Vol. 1: Vengeance Vol.1 (issues #174-#178)"}]}},{"r":213,"e":"hr","d":"2016-07-21","c":{"gn":[{"c":"183","t":"Godsend, Part 5"}]}},{"r":214,"e":"hr","m":"CANCELLATION"},{"r":215,"e":"gap","d":"2016-11-01","c":{"phys":[{"t":"Heroes: Omnibus (issues #001-085)"}]}},{"r":216,"e":"gap","d":"2016-12-06","c":{"phys":[{"t":"Heroes Vol. 2: Godsend Vol.2 (issues #179-183)"}]}},{"r":217,"e":"gap","d":"2024-04-10","c":{"misc":[{"t":"Heroes: Eclipsed announced"}]}}]}</script>
+<script>
+(function(){
+"use strict";
+
+var DATA = JSON.parse(document.getElementById('timeline-data').textContent);
+var ENTRIES = DATA.entries;
+
+var MEDIA = [
+  {k:'ep',   name:'Episodes',            short:'Episodes',       color:'#3987e5', w:210, icon:'M4 5h16v12H4z|M9 9l5 2-5 2z'},
+  {k:'gn',   name:'Graphic Novels',      short:'Graphic Novels', color:'#d95926', w:220, icon:'M4 5h7v14H4z|M13 5h7v14h-7z|M11 5v14'},
+  {k:'web',  name:'Webisodes',           short:'Webisodes',      color:'#c98500', w:170, icon:'M3 5h18v11H3z|M9 20h6|M12 16v4'},
+  {k:'evo',  name:'Evolutions & iStory', short:'Evolutions',     color:'#199e70', w:250, icon:'M12 4v6|M12 14v6|M6 12h12|M12 12l-6 6|M12 12l6 6'},
+  {k:'unm',  name:'Heroes Unmasked',     short:'Unmasked',       color:'#d55181', w:200, icon:'M4 8h10v9H4z|M14 11l6-3v9l-6-3z'},
+  {k:'phys', name:'Physical media',      short:'Physical',       color:'#9085e9', w:210, icon:'M12 4a8 8 0 100 16 8 8 0 000-16z|M12 10a2 2 0 100 4 2 2 0 000-4z'},
+  {k:'misc', name:'Misc. releases',      short:'Misc.',          color:'#8a8983', w:230, icon:'M12 3l2.5 5.5 6 .8-4.4 4.2 1.1 6L12 16.6 6.8 19.5l1.1-6L3.5 9.3l6-.8z'}
+];
+var MKEY = {}; MEDIA.forEach(function(m){ MKEY[m.k] = m; });
+
+var ERA = {
+  v1 :{name:'Volume 1: Genesis',      note:'Season 1',      color:'#b0642a'},
+  v2 :{name:'Volume 2: Generations',  note:'Season 2',      color:'#c9762c'},
+  v3 :{name:'Volume 3: Villains',     note:'Season 3',      color:'#e08a2e'},
+  v4 :{name:'Volume 4: Fugitives',    note:'Season 3',      color:'#eda13f'},
+  v5 :{name:'Volume 5: Redemption',   note:'Season 4',      color:'#f6bb63'},
+  hr :{name:'Heroes Reborn',          note:'Event Series',  color:'#4d9de0'},
+  gap:{name:'Between Eras', short:'Off air', note:'Off air', color:'#7b7b84'}
+};
+var ERA_ORDER = ['v1','v2','v3','v4','v5','hr','gap'];
+
+var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+/* ---------- derive ---------- */
+ENTRIES.forEach(function(e){
+  var blob = [];
+  if (e.d) {
+    var p = e.d.split('-');
+    e._y = p[0];
+    e._label = MONTHS[+p[1]-1] + ' ' + (+p[2]);
+    e._full = MONTHS[+p[1]-1] + ' ' + (+p[2]) + ', ' + p[0];
+    blob.push(e.d, e._full, e._y);
+  }
+  if (e.m) { e._label = e.m; e._full = e.m; blob.push(e.m); }
+  e._n = 0;
+  for (var k in (e.c||{})) {
+    e.c[k].forEach(function(it){
+      e._n++;
+      it._s = ((it.c ? it.c + ' ' : '') + it.t).toLowerCase();
+      blob.push(it.c || '', it.t);
+    });
+  }
+  e._blob = blob.join(' ').toLowerCase();
+});
+
+/* build contiguous era sections */
+var SECTIONS = [];
+ENTRIES.forEach(function(e){
+  var last = SECTIONS[SECTIONS.length-1];
+  if (!last || last.era !== e.e) SECTIONS.push({era:e.e, rows:[e]});
+  else last.rows.push(e);
+});
+
+var TOTAL_ITEMS = ENTRIES.reduce(function(a,e){ return a + e._n; }, 0);
+var COUNTS = {};
+MEDIA.forEach(function(m){
+  COUNTS[m.k] = ENTRIES.reduce(function(a,e){
+    return a + ((e.c && e.c[m.k]) ? e.c[m.k].length : 0);
+  }, 0);
+});
+var ERA_COUNTS = {};
+ERA_ORDER.forEach(function(id){
+  ERA_COUNTS[id] = ENTRIES.reduce(function(a,e){ return a + (e.e===id ? e._n : 0); }, 0);
+});
+var DATED = ENTRIES.filter(function(e){ return e.d; });
+var FIRST = DATED[0], LAST = DATED[DATED.length-1];
+
+/* ---------- state ---------- */
+var state = {
+  q: '',
+  media: MEDIA.reduce(function(o,m){ o[m.k]=true; return o; }, {}),
+  eras: ERA_ORDER.reduce(function(o,k){ o[k]=true; return o; }, {}),
+  view: 'timeline',
+  dense: false
+};
+
+/* ---------- helpers ---------- */
+function el(tag, cls, txt){
+  var n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (txt != null) n.textContent = txt;
+  return n;
+}
+function svg(paths, cls){
+  var s = document.createElementNS('http://www.w3.org/2000/svg','svg');
+  s.setAttribute('viewBox','0 0 24 24');
+  s.setAttribute('fill','none');
+  s.setAttribute('stroke','currentColor');
+  s.setAttribute('stroke-width','1.7');
+  s.setAttribute('stroke-linejoin','round');
+  s.setAttribute('aria-hidden','true');
+  if (cls) s.setAttribute('class', cls);
+  paths.split('|').forEach(function(dd){
+    var p = document.createElementNS('http://www.w3.org/2000/svg','path');
+    p.setAttribute('d', dd);
+    s.appendChild(p);
+  });
+  return s;
+}
+function highlight(node, text, q){
+  if (!q) { node.appendChild(document.createTextNode(text)); return; }
+  var lo = text.toLowerCase(), i = lo.indexOf(q), from = 0;
+  if (i < 0) { node.appendChild(document.createTextNode(text)); return; }
+  while (i >= 0) {
+    if (i > from) node.appendChild(document.createTextNode(text.slice(from, i)));
+    node.appendChild(el('mark', null, text.slice(i, i + q.length)));
+    from = i + q.length;
+    i = lo.indexOf(q, from);
+  }
+  if (from < text.length) node.appendChild(document.createTextNode(text.slice(from)));
+}
+
+/* A week survives when its era is on and at least one of its items clears the
+   medium filters and the query. Matching the week's own date or marker keeps the
+   whole week. Marker-only weeks (no releases) survive on the era + date test. */
+function dateHit(e, q){
+  return (e.d && e.d.indexOf(q) >= 0) ||
+         (e._full && e._full.toLowerCase().indexOf(q) >= 0) ||
+         (e.m && e.m.toLowerCase().indexOf(q) >= 0);
+}
+function visibleItems(e){
+  if (!state.eras[e.e]) return null;
+  var q = state.q, whole = !q || dateHit(e, q), out = null, any = false;
+  for (var i = 0; i < MEDIA.length; i++) {
+    var k = MEDIA[i].k;
+    if (!state.media[k] || !e.c || !e.c[k]) continue;
+    var keep = whole ? e.c[k]
+                     : e.c[k].filter(function(it){ return it._s.indexOf(q) >= 0; });
+    if (keep.length) { (out = out || {})[k] = keep; any = true; }
+  }
+  if (any) return out;
+  if (e._n === 0 && whole) return {};   /* a bare CANCELLATION-style marker */
+  return null;
+}
+
+/* ---------- header stats ---------- */
+function renderStats(){
+  var box = document.getElementById('stats');
+  var span = FIRST._y + '–' + LAST._y;
+  [[String(TOTAL_ITEMS),'releases'],[String(ENTRIES.length),'weeks charted'],
+   ['7','parallel media'],[span,'years covered']].forEach(function(s){
+    var d = el('div','stat');
+    d.appendChild(el('b', null, s[0]));
+    d.appendChild(el('span', null, s[1]));
+    box.appendChild(d);
+  });
+}
+
+/* ---------- activity rail ---------- */
+function renderRail(){
+  var rail = document.getElementById('rail');
+  var max = ENTRIES.reduce(function(a,e){ return Math.max(a, e._n); }, 1);
+  ENTRIES.forEach(function(e){
+    var b = el('button');
+    b.type = 'button';
+    b.setAttribute('aria-label', (e._full || '') + ', ' + e._n + ' releases');
+    var i = el('i');
+    i.style.height = Math.max(8, Math.round(e._n / max * 100)) + '%';
+    i.style.background = ERA[e.e].color;
+    i.style.opacity = e._n ? 1 : .35;
+    b.appendChild(i);
+    b.addEventListener('click', function(){ jumpTo(e.r); });
+    b.addEventListener('mouseenter', function(ev){
+      showTip(ev.currentTarget, (e._full || e.m), e._n + (e._n === 1 ? ' release' : ' releases') + ' · ' + ERA[e.e].name);
+    });
+    b.addEventListener('mouseleave', hideTip);
+    rail.appendChild(b);
+  });
+  /* bars are one-per-week, not time-proportional, so year ticks are placed at
+     the position of each year's first week rather than on a linear date scale */
+  var ax = document.getElementById('railAxis');
+  var seen = {}, lastPct = -99;
+  ENTRIES.forEach(function(e, i){
+    if (!e._y || seen[e._y]) return;
+    seen[e._y] = 1;
+    var pct = (i + 0.5) / ENTRIES.length * 100;
+    if (pct - lastPct < 6) return;      /* keep ticks from colliding */
+    lastPct = pct;
+    var s = el('span', null, e._y);
+    s.style.left = Math.min(98.5, Math.max(1.5, pct)) + '%';
+    ax.appendChild(s);
+  });
+}
+/* ---------- era ribbon ---------- */
+function renderRibbon(){
+  var box = document.getElementById('ribbon');
+  SECTIONS.forEach(function(sec){
+    var meta = ERA[sec.era];
+    var dated = sec.rows.filter(function(e){ return e.d; });
+    var b = el('button');
+    b.type = 'button';
+    b.style.setProperty('--f', sec.rows.length);
+    b.style.setProperty('--ec', meta.color);
+    b.appendChild(el('span','rn', meta.short || meta.name));
+    b.appendChild(el('span','rs', dated.length
+      ? dated[0]._y + (dated[dated.length-1]._y !== dated[0]._y
+          ? '–' + dated[dated.length-1]._y : '')
+      : meta.note));
+    b.title = meta.name + ' · ' + sec.rows.length + ' weeks';
+    b.addEventListener('click', function(){ jumpTo(sec.rows[0].r); });
+    box.appendChild(b);
+  });
+}
+
+var tip = document.getElementById('tip');
+function showTip(target, title, sub){
+  tip.textContent = '';
+  tip.appendChild(el('b', null, title));
+  tip.appendChild(el('span', null, sub));
+  var r = target.getBoundingClientRect();
+  tip.classList.add('on');
+  var w = tip.offsetWidth;
+  tip.style.left = Math.min(window.innerWidth - w - 10, Math.max(10, r.left + r.width/2 - w/2)) + 'px';
+  tip.style.top = (r.bottom + 8) + 'px';
+}
+function hideTip(){ tip.classList.remove('on'); }
+
+/* ---------- filter chips ---------- */
+function renderChips(){
+  var mc = document.getElementById('mediaChips');
+  mc.appendChild(el('span','grp-label','Media'));
+  MEDIA.forEach(function(m){
+    var b = el('button','chip');
+    b.type = 'button';
+    b.setAttribute('aria-pressed','true');
+    b.dataset.k = m.k;
+    var ic = svg(m.icon);
+    ic.style.color = m.color;
+    b.appendChild(ic);
+    b.appendChild(document.createTextNode(m.name));
+    b.appendChild(el('span','n', String(COUNTS[m.k])));
+    b.addEventListener('click', function(){
+      state.media[m.k] = !state.media[m.k];
+      b.setAttribute('aria-pressed', String(state.media[m.k]));
+      render();
+    });
+    mc.appendChild(b);
+  });
+
+  var ec = document.getElementById('eraChips');
+  ec.appendChild(el('span','grp-label','Eras'));
+  ERA_ORDER.forEach(function(id){
+    var b = el('button','chip era');
+    b.type = 'button';
+    b.setAttribute('aria-pressed','true');
+    var dot = el('span','dot');
+    dot.style.background = ERA[id].color;
+    b.appendChild(dot);
+    b.appendChild(document.createTextNode(ERA[id].name));
+    b.appendChild(el('span','n', String(ERA_COUNTS[id])));
+    b.addEventListener('click', function(ev){
+      if (ev.shiftKey) {                       /* shift-click isolates */
+        ERA_ORDER.forEach(function(o){ state.eras[o] = (o === id); });
+      } else {
+        state.eras[id] = !state.eras[id];
+      }
+      syncChips();
+      render();
+    });
+    b.dataset.era = id;
+    ec.appendChild(b);
+  });
+}
+function syncChips(){
+  document.querySelectorAll('.chip[data-era]').forEach(function(b){
+    b.setAttribute('aria-pressed', String(state.eras[b.dataset.era]));
+  });
+  document.querySelectorAll('.chip[data-k]').forEach(function(b){
+    b.setAttribute('aria-pressed', String(state.media[b.dataset.k]));
+  });
+}
+
+/* ---------- render ---------- */
+function itemNode(m, it, q){
+  var tag = it.l ? 'a' : 'span';
+  var n = el(tag,'item');
+  n.style.setProperty('--mc', m.color);
+  if (it.l) { n.href = it.l; n.target = '_blank'; n.rel = 'noopener'; }
+  if (state.dense) {
+    var mi = svg(m.icon, 'mi');
+    n.appendChild(mi);
+    n.title = m.name;
+  }
+  if (it.c) {
+    var c = el('span','code');
+    highlight(c, it.c, q);
+    n.appendChild(c);
+  }
+  var t = el('span','t');
+  highlight(t, it.t, q);
+  n.appendChild(t);
+  if (it.l) {
+    var s = svg('M14 5h5v5|M19 5l-8 8|M18 13v5H6V6h5','ext');
+    s.setAttribute('stroke-width','2');
+    n.appendChild(s);
+  }
+  return n;
+}
+
+function renderTimeline(out, shown){
+  SECTIONS.forEach(function(sec){
+    var rows = sec.rows.map(function(e){ return [e, shown.get(e)]; })
+                       .filter(function(p){ return p[1]; });
+    if (!rows.length) return;
+    var meta = ERA[sec.era];
+    var wrap = el('section','era');
+
+    var head = el('div','era-head');
+    head.style.setProperty('--ec', meta.color);
+    head.appendChild(el('h2', null, meta.name));
+    var dts = rows.map(function(p){ return p[0]; }).filter(function(e){ return e.d; });
+    if (dts.length) {
+      head.appendChild(el('span','span',
+        dts[0]._full + ' → ' + dts[dts.length-1]._full));
+    }
+    var nItems = rows.reduce(function(a,p){
+      var s = 0; for (var k in p[1]) s += p[1][k].length; return a + s;
+    }, 0);
+    head.appendChild(el('span','cnt', meta.note + ' · ' + nItems + ' releases'));
+    wrap.appendChild(head);
+
+    rows.forEach(function(pair){
+      var e = pair[0], items = pair[1];
+      if (e.m) {
+        var mk = el('div','marker');
+        mk.id = 'w' + e.r;
+        mk.appendChild(el('span','line'));
+        mk.appendChild(el('span', null, e.m));
+        mk.appendChild(el('span','line'));
+        wrap.appendChild(mk);
+        if (!e._n) return;              /* a marker with no releases of its own */
+      }
+      var w = el('article','week');
+      w.id = 'w' + e.r;
+      var dcol = el('div','wdate');
+      if (e.d) {
+        dcol.appendChild(el('span','d', e._label));
+        dcol.appendChild(el('span','y', e._y));
+      } else {
+        dcol.appendChild(el('span','y','—'));
+      }
+      var dot = el('span','rail-dot');
+      dot.style.background = ERA[e.e].color;
+      dcol.appendChild(dot);
+      w.appendChild(dcol);
+
+      var body = el('div','wbody');
+      MEDIA.forEach(function(m){
+        if (!items[m.k]) return;
+        var g = el('div','mgroup');
+        var tag = el('span','mtag');
+        var ic = svg(m.icon);
+        ic.style.color = m.color;
+        tag.appendChild(ic);
+        tag.appendChild(document.createTextNode(m.short));
+        g.appendChild(tag);
+        var list = el('div','items');
+        items[m.k].forEach(function(it){ list.appendChild(itemNode(m, it, state.q)); });
+        g.appendChild(list);
+        body.appendChild(g);
+      });
+      if (!body.childNodes.length && !e.m) {
+        body.appendChild(el('span','y','—'));
+      }
+      w.appendChild(body);
+      wrap.appendChild(w);
+    });
+    out.appendChild(wrap);
+  });
+}
+
+function renderGrid(out, shown){
+  var box = el('div','gridview');
+  var table = el('table');
+
+  /* fixed widths so a sparse column can't starve a dense one; the table scrolls
+     sideways rather than crushing text into one-word-per-line */
+  var on = MEDIA.filter(function(m){ return state.media[m.k]; });
+  var cg = el('colgroup');
+  var c0 = el('col');
+  c0.style.width = '124px';
+  cg.appendChild(c0);
+  on.forEach(function(m){
+    var c = el('col');
+    c.style.width = m.w + 'px';
+    cg.appendChild(c);
+  });
+  table.appendChild(cg);
+  table.style.minWidth = (124 + on.reduce(function(a,m){ return a + m.w; }, 0)) + 'px';
+
+  var thead = el('thead'), htr = el('tr');
+  htr.appendChild(el('th', null, 'Week'));
+  on.forEach(function(m){ htr.appendChild(el('th', null, m.name)); });
+  thead.appendChild(htr);
+  table.appendChild(thead);
+
+  var tb = el('tbody');
+  ENTRIES.forEach(function(e){
+    var items = shown.get(e);
+    if (!items) return;
+    var tr = el('tr');
+    var th = el('th', null, e._full || e.m || '—');
+    th.style.setProperty('--ec', ERA[e.e].color);
+    th.scope = 'row';
+    tr.appendChild(th);
+    on.forEach(function(m){
+      var td = el('td');
+      td.style.setProperty('--mc', m.color);
+      if (items[m.k]) {
+        td.className = 'on';
+        var ul = el('ul');
+        items[m.k].forEach(function(it){
+          var li = el('li');
+          if (it.c) {
+            var b = el('b');
+            highlight(b, it.c, state.q);
+            li.appendChild(b);
+          }
+          highlight(li, it.t, state.q);
+          ul.appendChild(li);
+        });
+        td.appendChild(ul);
+      }
+      tr.appendChild(td);
+    });
+    tb.appendChild(tr);
+  });
+  table.appendChild(tb);
+  box.appendChild(table);
+  out.appendChild(box);
+}
+
+function render(){
+  var out = document.getElementById('out');
+  out.textContent = '';
+  out.className = (state.view === 'timeline' && state.dense) ? 'compact' : '';
+  var shown = new Map(), weeks = 0, items = 0;
+  ENTRIES.forEach(function(e){
+    var v = visibleItems(e);
+    if (!v) return;
+    shown.set(e, v);
+    weeks++;
+    for (var k in v) items += v[k].length;
+  });
+
+  if (!weeks) {
+    var m = el('div','empty');
+    m.appendChild(el('b', null, 'Nothing matches those filters.'));
+    m.appendChild(el('span', null, 'Try a different search, or reset the filters.'));
+    out.appendChild(m);
+  } else if (state.view === 'grid') {
+    renderGrid(out, shown);
+  } else {
+    renderTimeline(out, shown);
+  }
+
+  document.getElementById('count').textContent =
+    items + ' of ' + TOTAL_ITEMS + ' releases · ' + weeks + ' of ' + ENTRIES.length + ' weeks';
+  syncToolbarHeight();
+}
+
+/* ---------- sources ---------- */
+function renderSources(){
+  var ul = document.getElementById('sources');
+  var links = DATA.colLinks || {};
+  var any = false;
+  MEDIA.forEach(function(m){
+    if (!links[m.k]) return;
+    any = true;
+    var li = el('li'), a = el('a', null, m.name);
+    a.href = links[m.k]; a.target = '_blank'; a.rel = 'noopener';
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+  var li = el('li'), a = el('a', null, 'Original spreadsheet');
+  a.href = 'https://docs.google.com/spreadsheets/d/1Ci6zyz2nhjgrCurrhSDrD_jvtfXBLq_l9CWLpKDe3NE/edit';
+  a.target = '_blank'; a.rel = 'noopener';
+  li.appendChild(a);
+  ul.appendChild(li);
+  if (!any) return;
+}
+
+/* ---------- navigation ---------- */
+function jumpTo(row){
+  var eObj = ENTRIES.filter(function(x){ return x.r === row; })[0];
+  if (eObj && (!state.eras[eObj.e] || !visibleItems(eObj))) {
+    state.q = '';
+    document.getElementById('q').value = '';
+    ERA_ORDER.forEach(function(k){ state.eras[k] = true; });
+    MEDIA.forEach(function(m){ state.media[m.k] = true; });
+    syncChips();
+    render();
+  }
+  if (state.view !== 'timeline') setView('timeline');
+  var node = document.getElementById('w' + row);
+  if (!node) return;
+  node.scrollIntoView({block:'center', behavior:'smooth'});
+  node.classList.remove('hit');
+  void node.offsetWidth;
+  node.classList.add('hit');
+  history.replaceState(null, '', '#w' + row);
+}
+
+function setView(v){
+  state.view = v;
+  document.getElementById('vTimeline').setAttribute('aria-pressed', String(v === 'timeline'));
+  document.getElementById('vGrid').setAttribute('aria-pressed', String(v === 'grid'));
+  var db = document.getElementById('dense');
+  db.disabled = (v !== 'timeline');
+  db.style.opacity = db.disabled ? .35 : '';
+  render();
+  if (v === 'grid') {
+    /* the grid is its own scroll pane, so bring it under the toolbar first */
+    var g = document.querySelector('.gridview');
+    if (g) {
+      var top = g.getBoundingClientRect().top + window.scrollY
+              - document.getElementById('toolbar').offsetHeight - 12;
+      if (window.scrollY < top) window.scrollTo({top:top, behavior:'smooth'});
+    }
+  }
+}
+
+/* ---------- wiring ---------- */
+var qEl = document.getElementById('q'), clearBtn = document.getElementById('clearQ');
+var t;
+qEl.addEventListener('input', function(){
+  clearBtn.hidden = !qEl.value;
+  clearTimeout(t);
+  t = setTimeout(function(){
+    state.q = qEl.value.trim().toLowerCase();
+    render();
+  }, 120);
+});
+clearBtn.addEventListener('click', function(){
+  qEl.value = ''; state.q = ''; clearBtn.hidden = true; render(); qEl.focus();
+});
+document.getElementById('vTimeline').addEventListener('click', function(){ setView('timeline'); });
+document.getElementById('vGrid').addEventListener('click', function(){ setView('grid'); });
+var denseBtn = document.getElementById('dense');
+denseBtn.addEventListener('click', function(){
+  state.dense = !state.dense;
+  denseBtn.setAttribute('aria-pressed', String(state.dense));
+  render();
+});
+document.getElementById('reset').addEventListener('click', function(){
+  state.q = ''; qEl.value = ''; clearBtn.hidden = true;
+  MEDIA.forEach(function(m){ state.media[m.k] = true; });
+  ERA_ORDER.forEach(function(k){ state.eras[k] = true; });
+  syncChips();
+  render();
+});
+document.addEventListener('keydown', function(ev){
+  var typing = /^(INPUT|TEXTAREA|SELECT)$/.test(ev.target.tagName);
+  if (ev.key === '/' && !typing) { ev.preventDefault(); qEl.focus(); qEl.select(); return; }
+  if (ev.key === 'Escape') {
+    if (qEl.value) { qEl.value = ''; state.q = ''; clearBtn.hidden = true; render(); }
+    qEl.blur();
+    return;
+  }
+  if (typing || ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  if (ev.key === 'g') setView('grid');
+  if (ev.key === 't') setView('timeline');
+  if (ev.key === 'c' && state.view === 'timeline') denseBtn.click();
+});
+
+/* The filter panel is generous at the top of the page and gets out of the way
+   once you start reading; a manual toggle always wins over the auto-collapse. */
+var filters = document.getElementById('filters');
+var filtBtn = document.getElementById('toggleFilters');
+var pip = document.getElementById('pip');
+var userSetFilters = false;
+function setFilters(open){
+  filters.hidden = !open;
+  filtBtn.setAttribute('aria-expanded', String(open));
+  syncToolbarHeight();
+}
+filtBtn.addEventListener('click', function(){
+  userSetFilters = true;
+  setFilters(filters.hidden);
+});
+function anyFilterOff(){
+  return MEDIA.some(function(m){ return !state.media[m.k]; }) ||
+         ERA_ORDER.some(function(k){ return !state.eras[k]; }) || !!state.q;
+}
+window.addEventListener('scroll', function(){
+  if (!userSetFilters && !filters.hidden && window.scrollY > 420) setFilters(false);
+}, {passive:true});
+
+function syncToolbarHeight(){
+  pip.hidden = !anyFilterOff();
+  var h = document.getElementById('toolbar').offsetHeight;
+  document.documentElement.style.setProperty('--toolbar-h', h + 'px');
+  document.documentElement.style.scrollPaddingTop = (h + 40) + 'px';
+}
+window.addEventListener('resize', syncToolbarHeight);
+
+renderStats();
+renderRibbon();
+renderRail();
+renderChips();
+renderSources();
+render();
+setFilters(false);   /* filters start collapsed; the Filters button opens them */
+syncToolbarHeight();
+
+if (/^#w\d+$/.test(location.hash)) {
+  setTimeout(function(){ jumpTo(+location.hash.slice(2)); }, 60);
+}
+})();
+</script>
+</body>
+</html>
