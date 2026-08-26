@@ -56,11 +56,11 @@ a near-black that the legend doesn't name. Those map to `v1`–`v5`, `hr` and
 
 ## Corrections
 
-`sync.py` patches 29 entries on the way through — see `TITLE_FIXES` and
-`ROW_FIXES` there. They are applied in the pipeline rather than in the sheet so
-they survive the next sync; delete a line to let the sheet's own wording back
-through. Every one was checked against Wikipedia's episode and graphic novel
-lists, and all 173 numbered graphic novels now match it exactly.
+`sync.py` patches 30 entries on the way through — see `TITLE_FIXES`, `ROW_FIXES`
+and `MARKER_FIXES` there. They are applied in the pipeline rather than in the
+sheet so they survive the next sync; delete a line to let the sheet's own
+wording back through. Every one was checked against Wikipedia's episode and
+graphic novel lists, and all 173 numbered graphic novels now match it exactly.
 
 Most are plain misspellings ("Explosing" → "Exploding", "Gilteman" →
 "Gitelman", "Amost" → "Almost"). Three are factual:
@@ -69,6 +69,17 @@ Most are plain misspellings ("Explosing" → "Exploding", "Gilteman" →
 - **#162** is *Second Chances*; the sheet repeated *Starting Over* from #159.
 - ***The Official Magazine* #11 appears twice.** The magazine ran twelve
   bi-monthly issues to December 2009, so the October 2009 entry is **#12**.
+
+`MARKER_FIXES` relabels the date column's own dividers — the sheet's
+"BEFORE PREMIERE" reads as **PRE-LAUNCH** on the page.
+
+## A note on the UK tie-ins
+
+BBC Two's *Heroes Unmasked* and the tie-in radio show ran on their own British
+schedule, weeks or months behind the US broadcast. The sheet places them beside
+the episode each one is about rather than on their UK air date, so a week reads
+as a single story beat across every medium; where a UK premiere date was
+recorded, it stays in the entry text. The site preserves that as-is.
 
 ## Files
 

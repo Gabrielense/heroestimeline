@@ -83,6 +83,11 @@ ROW_FIXES = {
     (172, "gn", "Starting Over"): "Second Chances",
 }
 
+# the date column's own divider labels
+MARKER_FIXES = {
+    "BEFORE PREMIERE": "PRE-LAUNCH",
+}
+
 CODE_RE = re.compile(
     r"^(#?(?:HR)?\d+x\d+|#\d+(?:-#?\d+)?|Cap\.\s*\d+(?:/\d+)?|\d+x\d+)\s*[:–-]\s*(.+)$")
 
@@ -164,7 +169,11 @@ def build(path):
             prev = dt
             entry["d"] = dt.isoformat()
         elif cells[0].value:
-            entry["m"] = str(cells[0].value).strip()
+            marker = str(cells[0].value).strip()
+            if marker in MARKER_FIXES:
+                applied.add(marker)
+                marker = MARKER_FIXES[marker]
+            entry["m"] = marker
 
         cols = {}
         for i in range(1, 8):
@@ -179,7 +188,7 @@ def build(path):
             entry["c"] = cols
         entries.append(entry)
 
-    expected = {k[-1] for k in TITLE_FIXES} | {k[-1] for k in ROW_FIXES}
+    expected = {k[-1] for k in TITLE_FIXES} | {k[-1] for k in ROW_FIXES} | set(MARKER_FIXES)
     for miss in sorted(expected - applied):
         print("  note: correction no longer matches anything - %r" % miss, file=sys.stderr)
     print("applied %d/%d corrections" % (len(applied), len(expected)))
