@@ -1,0 +1,217 @@
+{{Use American English|date=May 2025}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox television season
+| season_number = 2
+| bgcolor       = #AD8E89
+| image         = Heroes Season 2.png
+| caption       = DVD cover
+| starring      = {{Plainlist|
+* [[Jack Coleman (actor)|Jack Coleman]]
+* [[Noah Gray-Cabey]]
+* [[Greg Grunberg]]
+* [[Ali Larter]]
+* [[Masi Oka]]
+* [[Hayden Panettiere]]
+* [[Adrian Pasdar]]
+* [[Sendhil Ramamurthy]]
+* [[Milo Ventimiglia]]
+* [[David Anders]]
+* [[Kristen Bell]]
+* [[Dana Davis]]
+* [[James Kyson Lee]]
+* [[Zachary Quinto]]
+* [[Dania Ramirez]]
+}}
+| network       = [[NBC]]
+| first_aired   = {{Start date|2007|09|24}}
+| last_aired    = {{End date|2007|12|3}}
+| num_episodes  = 11
+| episode_list  = List of Heroes episodes
+}}
+The [[NBC]] [[superhero fiction|superhero]] [[drama (film and television)|drama]] television series ''[[Heroes (American TV series)|Heroes]]'' follows the lives of people across the globe who possess various [[superhuman]] powers as they struggle to cope with their everyday lives and prevent foreseen disasters from occurring. The second season premiered on September 24, 2007, and was released on DVD and Blu-ray on August 26, 2008. 
+
+Within the seasons of ''Heroes'' are "volumes", which allow the writers to focus on shorter story arcs.<ref>{{cite web | last = Frutkin | first = A.J. | title = TV Hero: Tim Kring Readies Season Two of NBC Hit ''Heroes'' | publisher = [[Nielsen Company|Mediaweek]] | date = August 20, 2007 | url = http://www.mediaweek.com/mw/esearch/article_display.jsp?vnu_content_id=1003627815 | access-date = December 23, 2007 | archive-url = https://web.archive.org/web/20090310212654/http://www.mediaweek.com/mw/esearch/article_display.jsp?vnu_content_id=1003627815 | archive-date = March 10, 2009 | url-status = dead }}</ref> The second season comprises a single volume of 11 episodes called ''Generations''.
+
+The second season was designed to contain three volumes called ''Generations'', ''Exodus'', and ''Villains''. ''Exodus'' was scrapped due to in part to viewer criticism<ref>{{cite magazine | last = Jensen | first = Jeff | title = ''Heroes'' Creator Apologizes to Fans | magazine = [[Entertainment Weekly]] | date = November 7, 2007 | url = https://ew.com/article/2007/11/07/heroes-creator-fans-im-super-sorry/ | access-date = December 22, 2007}}</ref> (some fans thought that the show had too slow of a build-up) but mainly due to the [[2007–2008 Writers Guild of America strike]];<ref>{{cite web | last = Goldman | first = Eric | title = ''Heroes'' Creator Tim Kring Talks | website = [[IGN]] | date = December 14, 2007 | url = http://tv.ign.com/articles/841/841573p1.html | access-date = December 22, 2007}}</ref> whilst ''Villains'' was carried over to the show's third season.<ref>{{cite press release | title = NBC Renews Drama Series ''Chuck'', ''Life'' and ''Heroes'' for 2008–09 Season | publisher = [[NBC]] Media Village | date = February 13, 2007 | url = http://nbcumv.com/release_detail.nbc/entertainment-20080213000000-nbcrenewsdramaser.html | access-date = January 13, 2007 }}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> As a result, the second season consisted of only 11 episodes, 13 fewer than were originally ordered by NBC.<ref>{{cite web | last = Beeman | first = Greg | author-link = Greg Beeman | title = Season 2 Episode 10 "Truth and Consequences" | publisher = [[Blogger (service)|Beeming Beeman]] | date = November 26, 2007 | url = https://gregbeeman.blogspot.com/2007/11/season-2-episode-10-truth-and.html | access-date = December 22, 2007}}</ref> Originally, the second season of ''Heroes'' was to be followed in April and May 2008 by six stand-alone episodes of a new series, ''[[Heroes (American TV series)#Heroes: Origins|Heroes: Origins]]''.<ref>{{cite magazine | last = Schneider | first = Michael | title = NBC Announces Schedule, Shows | magazine = [[Variety (magazine)|Variety]] | date = May 14, 2007 | url = https://www.variety.com/article/VR1117964868.html?categoryid=14&cs=1 | access-date = December 23, 2007}}</ref> The spin-off was intended as an alternative to a long mid-season hiatus, which led to a drop in ratings for ''Heroes'' in its first season.<ref>{{cite web | last = Bauder | first = David | title = Learning From ''Heroes'', Struggling NBC Embraces the Supernatural for Its Autumn Season | publisher = [[Associated Press]] | date = May 14, 2007 | url = http://www.starpulse.com/news/index.php/2007/05/14/learning_from_heroes_struggling_nbc_embr | access-date = December 23, 2007 | url-status = dead | archive-url = https://web.archive.org/web/20071223144616/http://www.starpulse.com/news/index.php/2007/05/14/learning_from_heroes_struggling_nbc_embr/ | archive-date = December 23, 2007 }}</ref> The project, which was later planned to be 12 episodes, was indefinitely postponed due to a decline in viewership and the strike<ref>{{cite journal | last = Wallenstein | first = Andrew | title = False Start for NBC's ''Heroes: Origins'' | journal = [[The Hollywood Reporter]]| date = November 1, 2007 | url = https://www.hollywoodreporter.com/news/false-start-nbcs-heroes-origins-153973 | access-date = November 4, 2015 }}</ref> and eventually cancelled.<ref>{{cite web|last=Spelling |first=Ian |title=''Heroes'' Returns, ''Origins'' Dies |url=http://www.scifi.com/scifiwire/index.php?category=0&id=51591 |publisher=[[Sci Fi Wire]] |date=April 3, 2008 |access-date=April 5, 2008 |archive-url=https://web.archive.org/web/20080406112808/http://www.scifi.com/scifiwire/index.php?category=0&id=51591 |archive-date=April 6, 2008 |url-status=dead }}</ref>
+
+==Plot==
+"Generations" begins four months after the [[How to Stop an Exploding Man|events of Kirby Plaza]]. The main plot arc of ''Generations'' deals with the company and its research on the [[Shanti virus]]. This research is explored through the company's founders, whose identities are revealed, as well as through the effects of various strains of the virus. The heroes ultimately come together in an attempt to stop the release of a deadly strain of the virus and avert a global [[pandemic]].
+
+==Cast==
+
+===Main characters===
+*[[Milo Ventimiglia]] as [[Peter Petrelli]]
+*[[Jack Coleman (actor)|Jack Coleman]] as [[Noah Bennet]]
+*[[Masi Oka]] as [[Hiro Nakamura]]
+*[[Greg Grunberg]] as [[Matt Parkman]]
+*[[Adrian Pasdar]] as [[Nathan Petrelli]]
+*[[Hayden Panettiere]] as [[Claire Bennet]]
+*[[Noah Gray-Cabey]] as [[Micah Sanders]]
+*[[Ali Larter]] as [[Niki Sanders]]
+*[[Sendhil Ramamurthy]] as [[Mohinder Suresh]]
+*[[David Anders]] as [[Adam Monroe]]/Takezo Kensei
+*[[Kristen Bell]] as [[Elle Bishop]]
+*[[Dania Ramirez]] as [[Maya Herrera]]
+*[[Dana Davis]] as [[Monica Dawson]]
+*[[James Kyson Lee]] as [[Ando Masahashi]]
+*[[Zachary Quinto]] as [[Sylar|Gabriel Gray/Sylar]]
+
+===Recurring characters===
+{{Columns-list|colwidth=30em|
+*[[Jimmy Jean-Louis]] as [[Haitian (Heroes)|The Haitian]]
+*[[Adair Tishler]] as [[Molly Walker (Heroes)|Molly Walker]]
+*[[Stephen Tobolowsky]] as [[List of Heroes characters#Bob Bishop|Bob Bishop]]
+*[[Shalim Ortiz]] as [[Alejandro Herrera (Heroes)|Alejandro Herrera]]
+*[[Nicholas D'Agosto]] as [[West Rosen]]
+*[[Katie Carr]] as [[List of Heroes characters#Caitlin|Caitlin]]
+*[[Eriko Tamura|Eriko]] as [[List of Heroes characters#Yaeko|Yaeko]]
+*[[Ashley Crow]] as [[Sandra Bennet]]
+*Randall Bentley as [[Lyle Bennet]]
+*[[Cristine Rose]] as [[Angela Petrelli]]
+*[[Dianna Agron]] as [[Debbie Marshall]]
+}}
+
+==Episodes==
+<onlyinclude>{{Episode table |background=#AD8E89 |overall=6 |season=6 |title=20 |director=18 |writer=25 |airdate=15 |viewers=10 |country=US |airdateR= |episodes=
+{{Episode table/part|volume=Two |subtitle=''Generations''|c=#AD8E89}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 24
+ |EpisodeNumber2 = 1
+ |Title = [[Four Months Later...]]
+ |DirectedBy = [[Greg Beeman]]
+ |WrittenBy = [[Tim Kring]]
+ |OriginalAirDate = {{Start date|2007|9|24}}
+ |Viewers = 16.97<ref name="Heroes Ratings 2007-2008">{{cite web | title = Heroes Ratings 2007-2008 | publisher = TV by the Numbers | date = November 18, 2007 | url = http://tvbythenumbers.com/2007/11/18/heroes-ratings-2007-2007/1812 | access-date = March 11, 2009 | archive-date = February 13, 2009 | archive-url = https://web.archive.org/web/20090213092542/http://tvbythenumbers.com/2007/11/18/heroes-ratings-2007-2007/1812 | url-status = dead }}</ref>
+ |ShortSummary = In March 2007, Suresh and Bennet are conspiring to bring the Company down. Mohinder is hired by [[Bob Bishop (Heroes)|Bob Bishop]] of the Company. The Bennets have moved from Texas to California. Matt has divorced his wife, because she was pregnant from her affair, and is raising Molly with Mohinder. Molly has been having nightmares about a man who can see her. Hiro meets his hero Kensei in 1671 Japan, who is actually an Englishman. Twins [[Maya Herrera|Maya]] and [[List of Heroes characters with special abilities#Alejandro Herrera|Alejandro Herrera]] flee a murder charge and try to get to the United States to see Suresh's father, whom they do not know to be dead. [[List Heroes characters with special abilities#Kaito Nakamura|Kaito]] is murdered. Peter is in Ireland and has amnesia. Nathan has become an alcoholic.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 25
+ |EpisodeNumber2 = 2
+ |Title = [[Lizards (Heroes)|Lizards]]
+ |DirectedBy = [[Allan Arkush]]
+ |WrittenBy = [[Michael Green (writer)|Michael Green]]
+ |OriginalAirDate = {{Start date|2007|10|1}}
+ |Viewers = 11.96<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = Peter uses his powers and agrees to help the people who found him with their thefts. The Haitian reunites with Bennet. Maya kills people without touching them when under stress and then Alejandro revives them. Matt interviews Angela about Kaito's death. Kensei is revealed to be regenerative.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 26
+ |EpisodeNumber2 = 3
+ |Title = [[Kindred (Heroes)|Kindred]]
+ |DirectedBy = Paul Edwards
+ |WrittenBy = [[J. J. Philbin|J.J. Philbin]]
+ |OriginalAirDate = {{Start date|2007|10|8}}
+ |Viewers = 10.91<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = It turns out that D.L. is dead. Niki leaves Micah under the care of his great aunt in New Orleans with strict instructions to hide his ability. Peter gains the trust of Ricky, the leader of the Irish gang, and becomes romantically involved with his sister Caitlin. After eight surgeries, Sylar wakes up in Mexico with Candice. He kills her, but he is powerless. Hiro helps Kensei become a hero.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 27
+ |EpisodeNumber2 = 4
+ |Title = [[The Kindness of Strangers (Heroes)|The Kindness of Strangers]]
+ |DirectedBy = [[Adam Kane]]
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2007|10|15}}
+ |Viewers = 11.41<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = Micah's cousin [[Monica Dawson]] discovers her own ability: muscle mimicking. Matt enlists Nathan's help to find the man who has been killing the Company founders, such as Kaito. Matt discovers that his father [[List of Heroes characters with special abilities#Maury Parkman|Maury]] was among the Company founders. Sylar joins Maya and Alejandro on their journey to New York.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 28
+ |EpisodeNumber2 = 5
+ |Title = [[Fight or Flight (Heroes)|Fight or Flight]]
+ |DirectedBy = [[Lesli Linka Glatter|Lesli Glatter]]
+ |WrittenBy = Joy Blake & Melissa Blake
+ |OriginalAirDate = {{Start date|2007|10|22}}
+ |Viewers = 9.44<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = A woman named [[Elle Bishop]] tries to find Peter and kills Ricky with her electric powers. Matt and Nathan visit Maury, who has put Molly into a deep sleep and has been giving her nightmares. Maury escapes and gives Matt and Nathan nightmares. Suresh sends Molly back to the Company for a cure, much to Noah's dismay.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 29
+ |EpisodeNumber2 = 6
+ |Title = [[The Line (Heroes)|The Line]]
+ |DirectedBy = [[Jeannot Szwarc]]
+ |WrittenBy = Adam Armus & Kay Foster
+ |OriginalAirDate = {{Start date|2007|10|29}}
+ |Viewers = 10.51<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = Peter and Caitlin go to Montreal after they find a plane ticket among Peter's possessions. Kensei betrays Hiro after Hiro kisses Kensei's love [[List of characters in Heroes#Yaeko|Yaeko]].
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 30
+ |EpisodeNumber2 = 7
+ |Title = [[Out of Time (Heroes)|Out of Time]]
+ |DirectedBy = [[Dan Attias|Daniel Attias]]
+ |WrittenBy = [[Aron Eli Coleite]]
+ |OriginalAirDate = {{Start date|2007|11|5}}
+ |Viewers = 9.88<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = Hiro returns to the present. Peter accidentally teleports himself and Caitlin over a year into the future in New York and find that 93% of the world's population has died of the Shanti Virus. Then Peter accidentally teleports back and meets Kensei, who identifies himself as [[Adam Monroe]]. Niki is injected with the virus and Mohinder realizes that his blood no longer works as a cure. Matt defeats Maury by putting Maury in his own nightmare and finds that he can control others' minds.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 31
+ |EpisodeNumber2 = 8
+ |Title = [[Four Months Ago...]]
+ |DirectedBy = Greg Beeman
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2007|11|12}}
+ |Viewers = 11.16<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = The episode depicts flashbacks that show what happened between the first and second seasons. Peter is taken prisoner by the Company where he meets Elle until he escapes with Adam and gets his memory erased by the Haitian. D.L. is killed after a new personality of Niki's manifests. Maya reveals her power, which leads her and Alejandro to America in search for help. In present day, Peter remembers who he is.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 32
+ |EpisodeNumber2 = 9
+ |Title = [[Cautionary Tales (Heroes)|Cautionary Tales]]
+ |DirectedBy = [[Greg Yaitanes]]
+ |WrittenBy = [[Joe Pokaski]]
+ |OriginalAirDate = {{Start date|2007|11|19}}
+ |Viewers = 10.81<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = The Bennet family prepares to go on the run before the Company finds them. Hiro goes back in time and discovers that Adam killed his father. Mohinder sides with the Company and kills Bennet by shooting him through the eye as depicted by Isaac's painting. However Bennet is revived by Claire's blood.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 33
+ |EpisodeNumber2 = 10
+ |Title = [[Truth & Consequences]]
+ |DirectedBy = Adam Kane
+ |WrittenBy = [[Jesse Alexander]]
+ |OriginalAirDate = {{Start date|2007|11|26}}
+ |Viewers = 11.89<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = Adam and Peter learn that the Shanti virus is being kept in Texas. Sylar kills Alejandro, Maya learns how to control her power, and Maya and Sylar make it to New York.
+ |LineColor = AD8E89
+}}
+{{Episode list/sublist|Heroes season 2
+ |EpisodeNumber = 34
+ |EpisodeNumber2 = 11
+ |Title = [[Powerless (Heroes)|Powerless]]
+ |DirectedBy = Allan Arkush
+ |WrittenBy = [[Jeph Loeb]]
+ |OriginalAirDate = {{Start date|2007|12|3}}
+ |Viewers = 11.06<ref name="Heroes Ratings 2007-2008"/>
+ |ShortSummary = Peter finds out that Adam actually wants to unleash the virus and stops him from doing so. Hiro buries Adam alive by teleporting him into a coffin. Monica is kidnapped by a street gang and Niki saves her, but gets trapped in a burning, exploding building. Elle saves Mohinder, Maya, and Molly from Sylar's clutches. Sylar regains his powers using Claire's blood. Nathan has a press conference to go public with his power, but is shot before he can do so.
+ |LineColor = AD8E89
+}}
+}}</onlyinclude>
+
+==Reception==
+The second season of ''Heroes'' was criticized by commentators and fans for a much slower pace, less engaging storyline and lack of focus compared to the first season. [[Milo Ventimiglia]] stated that "when there's a little bit of a delay, there's not that instant, rewarding scene or moment or episode... people get impatient, so it has been extremely important for them to strike a balance between giving and getting."<ref>{{cite web |url=http://www.buddytv.com/articles/heroes/ventimiglia-exerts-best-effort-15101.aspx |title=Ventimiglia Exerts "Best Efforts" When Working on ''Heroes'' |publisher=Buddytv.com |date=December 26, 2007 |access-date=May 27, 2009 |archive-url=https://web.archive.org/web/20090215050101/http://www.buddytv.com/articles/heroes/ventimiglia-exerts-best-effort-15101.aspx |archive-date=February 15, 2009 |url-status=dead }}</ref> In an interview with ''[[Entertainment Weekly]]'', ''Heroes'' creator Tim Kring commented on criticisms of season two, and the series' 15% decline in ratings.<ref name="EWApology">{{cite magazine|url=https://ew.com/article/2007/11/07/heroes-creator-fans-im-super-sorry/ |title=''Heroes'' Creator Apologizes to Fans |access-date=November 16, 2007 |last=Jensen |first=Jeff |date=November 7, 2007 |magazine=[[Entertainment Weekly]]}}</ref> Kring said that he felt he had made mistakes with the direction of season two. He had thought that the audience was looking for a "build-up of characters and the discovery of their powers", when viewers were instead looking for "adrenaline." Kring also outlined what he felt were problems with plot development, stating that the second season "took too long to get to the big-picture story", explaining that Peter's vision of the viral [[armageddon]] should have occurred in the first episode instead of the seventh. He feels that it would have been better to introduce new characters within the context of the main storyline, as with [[Elle (Heroes)|Elle]], rather than in unattached arcs such as that of Maya and Alejandro. Kring also admitted that he should have resolved the "Hiro in Japan" storyline much more quickly, and that the romantic stories are not working well. With regard to Claire and West, and Hiro and Yaeko, he said, "I've seen more convincing romances on TV. In retrospect, I don't think romance is a natural fit for us."<ref name="EWApology" />
+
+In season two, the opener was consistent in the ratings, however, week-by-week, the ratings continued to dive, reaching another new low for the series on episode seven, "[[Out of Time (Heroes)|Out of Time]]", with only 9.87 million viewers. Although the ratings were lower than average, this episode was considered to be a turning point for the declining season, as a major plot twist was introduced and the volume's "big picture storyline" was presented.<ref name="EWApology" /><ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=November 13, 2007 |url=http://www.abcmedianet.com/web/progcal/dispDNR.aspx?id=111307_06 |access-date=December 19, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20080618031634/http://www.abcmedianet.com/Web/progcal/dispDNR.aspx?id=111307_06 |archive-date=June 18, 2008 }}</ref> The season two/volume 2 finale generated 11.06 million viewers in the ratings, down more than 3 million viewers from the season opener and series pilot.<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=December 11, 2007 |url=http://www.abcmedianet.com/web/progcal/dispDNR.aspx?id=121107_05 |access-date=December 19, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20080618031652/http://www.abcmedianet.com/Web/progcal/dispDNR.aspx?id=121107_05 |archive-date=June 18, 2008 }}</ref>
+
+==Home media==
+The DVD and Blu-ray was released on August 26, 2008, in Region 1.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{IMDb episodes|0813715||Season 2}}
+
+{{Heroes}}
+
+[[Category:Heroes (American TV series) seasons|02]]
+[[Category:2007 American television seasons]]

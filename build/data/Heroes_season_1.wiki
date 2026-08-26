@@ -1,0 +1,374 @@
+{{Use American English|date=May 2025}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox television season
+| season_number = 1
+| bgcolor       = #DBC47E
+| image         = Heroes Season 1.png
+| caption       = DVD cover
+| starring      = {{Plainlist|
+* [[Santiago Cabrera]]
+* [[Jack Coleman (actor)|Jack Coleman]]
+* [[Tawny Cypress]]
+* [[Noah Gray-Cabey]]
+* [[Greg Grunberg]]
+* [[Ali Larter]]
+* [[Masi Oka]]
+* [[Hayden Panettiere]]
+* [[Adrian Pasdar]]
+* [[Sendhil Ramamurthy]]
+* [[Leonard Roberts]]
+* [[Milo Ventimiglia]]
+}}
+| network       = [[NBC]]
+| first_aired   = {{Start date|2006|09|25}}
+| last_aired    = {{End date|2007|5|21}}
+| num_episodes  = 23
+| episode_list  = List of Heroes episodes
+}}
+The [[NBC]] [[superhero fiction|superhero]] [[Serial (radio and television)|serial]] [[Dramatic programming|drama]] series ''[[Heroes (American TV series)|Heroes]]'' follows the lives of people across the globe who possess various [[superhuman]] powers as they struggle to cope with their everyday lives and prevent foreseen disasters from occurring. The series premiered on American and [[Global Television Network|Canadian]] television on September 25, 2006.<ref>{{cite web | last = Keller | first = Richard | title = ''Heroes'' to be Available on iTunes Before Its Television Debut | publisher = [[TV Squad]] | date = July 31, 2006 | url = http://www.tvsquad.com/2006/07/31/heroes-to-be-available-on-itunes-before-its-television-debut | access-date = December 23, 2007}}</ref> The first season, which finished 21st of 142 American primetime television programs in [[Nielsen ratings]],<ref>{{cite press release | title = 2006–07 Primetime Wrap | publisher = [[The Hollywood Reporter]] | date = May 25, 2007 | url = http://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f | access-date = December 26, 2007}}</ref> was released on DVD and [[HD DVD]] on August 28, 2007.<ref>{{cite news | last = Chaney | first = Jen | title = ''Heroes'': Saving the World on DVD | newspaper = [[The Washington Post]] | date = August 28, 2007 | url = https://www.washingtonpost.com/wp-srv/artsandliving/movies/features/bonus-points/082807.html | access-date = December 23, 2007}}</ref> The Blu-ray was released on August 26, 2008.<ref>{{cite web | title = Universal Unveils Inaugural Slate of Film and TV Offerings Coming to Blu-ray Disc | publisher = [[PR Newswire]] | date = April 17, 2007 | url = http://www.tvshowsondvd.com/news/Heroes-Season-1-and-Season-2-Blu-ray/9411 | access-date = April 19, 2008 | url-status = dead | archive-url = https://web.archive.org/web/20080420105923/http://www.tvshowsondvd.com/news/Heroes-Season-1-and-Season-2-Blu-ray/9411 | archive-date = April 20, 2008 }}</ref> Within the seasons of the show are "volumes", which allow the writers to focus on shorter story arcs.<ref>{{cite web | last = Frutkin | first = A.J. | title = TV Hero: Tim Kring Readies Season Two of NBC Hit ''Heroes'' | publisher = [[Nielsen Company|Mediaweek]] | date = August 20, 2007 | url = http://www.mediaweek.com/mw/esearch/article_display.jsp?vnu_content_id=1003627815 | access-date = December 23, 2007 | url-status = dead | archive-url = https://web.archive.org/web/20090310212654/http://www.mediaweek.com/mw/esearch/article_display.jsp?vnu_content_id=1003627815 | archive-date = March 10, 2009 }}</ref> The first season comprises a single volume of 23 episodes called ''Genesis'', which is also the same title of the show's [[Genesis (Heroes)|pilot episode]].
+
+==Plot==
+The plot of ''Heroes'' is designed to be similar to the stories of comic books with small story arcs built into the series' larger story arc plot. Each season of ''Heroes'' is designed to involve ordinary people who discover extraordinary super powers, and how these abilities take effect in the character's daily lives.
+
+The [[List of Heroes episodes#Season 1 (2006–07)|first season]], known as "Genesis", begins as a seemingly ordinary group of people gradually becomes aware that they have special abilities. Events illustrate their reactions to these powers, and how the discovery affects their personal and professional lives. At the same time, several ordinary individuals are investigating the origins and extent of these abilities. Mohinder continues his late father's research into the biological source of the change, while Noah represents a secret organization known only as "The Company". While coping with these new abilities, each of the characters is drawn, willingly or unwillingly, into the Company's conspiracy to control superpowered people and into a race to stop an explosion from destroying New York City. Meanwhile, focus is placed on Peter Petrelli as he tries to maintain his volatile power, and Sylar, a serial killer hunting superhumans.
+
+==Cast and characters==
+*[[Milo Ventimiglia]] as [[Peter Petrelli]], the protagonist; a nurse and Nathan's brother, gains the abilities of evolved humans who come near him.
+*[[Hayden Panettiere]] as [[Claire Bennet]], a high school cheerleader with the power of rapid cellular regeneration. Marc Hirschfeld, executive vice president of casting for NBC Universal Television stated, "When they were trying to decide who the cheerleader should be, I literally picked up the phone and said to the producers, 'You've got to meet Hayden Panettiere.'"<ref>[http://www.cnn.com/2007/SHOWBIZ/TV/10/22/apontv.castyourfate.ap/index.html?iref=newssearch How the 'Heroes' cheerleader got the part] {{webarchive|url=https://web.archive.org/web/20081001200455/http://www.cnn.com/2007/SHOWBIZ/TV/10/22/apontv.castyourfate.ap/index.html?iref=newssearch |date=October 1, 2008 }}</ref>
+*[[Jack Coleman (actor)|Jack Coleman]] as [[Noah Bennet]], or "Horn-Rimmed Glasses" <small>(recurring episodes 1 to 10)</small>, Claire's father and employee of the Company.
+*[[Tawny Cypress]] as [[Simone Deveaux]], Peter's friend and Isaac's girlfriend.
+*[[Leonard Roberts]] as [[D. L. Hawkins]], a convict who can walk through solid objects.
+*[[Santiago Cabrera]] as [[Isaac Mendez]], a painter and drug addict with the ability to paint the future.
+*[[Masi Oka]] as [[Hiro Nakamura]], an office worker who possesses the ability of space-time manipulation. This allows him to teleport, stop time, or travel through time, but recent events in the series have prevented him from regaining his full abilities. Hiro was one of the last main characters to be created by Tim Kring; he was added to the pilot episode after Kring's wife noticed none of the existing main characters were happy about their powers.<ref name="Popkin">{{cite web|last = Popkin | first = Helen A.S. | title = Super Hiro: Japanese nerd is hit of 'Heroes' | publisher = Today.com | date = February 5, 2007| url = https://www.today.com/popculture/super-hiro-japanese-nerd-hit-heroes-wbna16756741 | access-date = March 3, 2007}}</ref>
+*[[Greg Grunberg]] as [[Matt Parkman]] is a police officer with the power to read minds.
+*[[Adrian Pasdar]] as [[Nathan Petrelli]], an anti-hero and New York senator who can fly.
+*[[Noah Gray-Cabey]] as [[Micah Sanders]], Niki and D.L.'s son and a technopath.
+
+* [[Ali Larter]] as [[Niki Sanders]], D.L. Hawkins' wife and Micah Sanders' mother. She is a single mother with [[dissociative identity disorder|a dangerous alter-ego]] and super-strength. 
+** Larter also plays Jessica Sanders, Niki's [[dissociative identity disorder|split personality]].
+
+*[[Sendhil Ramamurthy]] as [[Mohinder Suresh]], a scientist who continues his father's research on super-powered humans.
+
+===Recurring characters===
+{{Columns-list|colwidth=30em|
+*[[James Kyson Lee]] as [[Ando Masahashi]]
+*[[Zachary Quinto]] as [[Sylar|Gabriel Gray/Sylar]]
+*[[Ashley Crow]] as [[List of characters in Heroes#Sandra Bennet|Sandra Bennet]]
+*[[Jimmy Jean-Louis]] as [[Haitian (Heroes)|Haitian]]
+*[[Cristine Rose]] as [[Angela Petrelli]]
+*[[Thomas Dekker (actor)|Thomas Dekker]] as [[List of characters in Heroes#Zach|Zach]]
+*[[Lisa Lackey]] as [[Janice Parkman]]
+*[[Matthew John Armstrong]] as [[Ted Sprague]]
+*[[Christopher Eccleston]] as [[Claude (Heroes)|Claude Rains]]
+*[[Nora Zehetner]] as [[Eden McCain]]
+*[[Clea DuVall]] as [[Audrey Hanson]]
+*Randall Bentley as [[List of characters in Heroes#Lyle Bennet|Lyle Bennet]]
+*[[Missy Peregrym]] as [[Candice Wilmer]]
+*[[Danielle Savre]] as [[Jackie Wilcox]]
+*[[Eric Roberts]] as Eric Thompson
+*[[Adair Tishler]] as [[Molly Walker (Heroes)|Molly Walker]]
+*[[Rena Sofer]] as [[Heidi Petrelli]]
+*[[Malcolm McDowell]] as [[List of characters in Heroes#Daniel Linderman|Daniel Linderman]]
+}}
+
+==Episodes==
+<onlyinclude>{{Episode table |background=#DBC47E |overall=6 |season=6 |title=20 |director=18 |writer=25 |airdate=15 |viewers=10 |country=US |airdateR= |episodes=
+{{Episode table/part|volume=One |subtitle=''Genesis''|c=#DBC47E}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 1
+ |EpisodeNumber2 = 1
+ |Title = [[Genesis (Heroes)|Genesis]]
+ |DirectedBy = [[David Semel]]
+ |WrittenBy = [[Tim Kring]]
+ |OriginalAirDate = {{Start date|2006|9|25}}
+ |Viewers = 14.10<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=100306_09 |title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=October 3, 2006 |access-date=March 18, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20120314121058/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100306_09 |archive-date=March 14, 2012 }}</ref>
+ |ShortSummary = In October 2006, people around the world discover that they have superpowers. High school student [[Claire Bennet]] finds herself [[Regeneration (biology)|spontaneously regenerating]]. Heroin addict [[Isaac Mendez]] can [[precognitive]]ly paint future events, including a nuclear explosion in New York City. Japanese office worker [[Hiro Nakamura]] is able to [[Teleportation|teleport]] and [[time travel]]. Nurse [[Peter Petrelli]] experiences visions that convince him he can fly. Indian scientist [[Mohinder Suresh]] travels to New York to continue his recently deceased father's work by finding these people. A mobster named [[List of characters in Heroes#Daniel Linderman|Daniel Linderman]] sends two men to [[Niki Sanders]]'s home to collect a loan that she has not repaid. Niki blacks out and later finds the men dead.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 2
+ |EpisodeNumber2 = 2
+ |Title = [[Don't Look Back (Heroes)|Don't Look Back]]
+ |DirectedBy = [[Allan Arkush]]
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2006|10|2}}
+ |Viewers = 12.96<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=101006_05|title=Weekly Program Rankings|publisher=[[ABC Studios|ABC]] Medianet|date=October 10, 2006|access-date=March 18, 2009|url-status=dead|archive-url=https://web.archive.org/web/20141129013609/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=101006_05|archive-date=November 29, 2014}}</ref>
+ |ShortSummary = Hiro time travels more than a month into the future of New York City; there he finds Isaac dead, and witnesses a nuclear explosion. Politician [[Nathan Petrelli]] tries to dismiss his recent self-propelled flight, and lies to his brother Peter about it. Policeman [[Matt Parkman]] uses his [[Telepathy|telepathic powers]] to find a girl named [[Molly Walker (Heroes)|Molly Walker]], whose parents have been recently murdered by a serial killer called [[Sylar]]. Parkman is nearly arrested by his colleagues because of this.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 3
+ |EpisodeNumber2 = 3
+ |Title = [[One Giant Leap (Heroes)|One Giant Leap]]
+ |DirectedBy = [[Greg Beeman]]
+ |WrittenBy = [[Jeph Loeb]]
+ |OriginalAirDate = {{Start date|2006|10|9}}
+ |Viewers = 13.34<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=101706_06|title=Weekly Program Rankings|publisher=[[ABC Studios|ABC]] Medianet|date=October 17, 2006|access-date=March 18, 2009|url-status=dead|archive-url=https://web.archive.org/web/20141010224630/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=101706_06|archive-date=October 10, 2014}}</ref>
+ |ShortSummary = Peter begins to date Isaac's ex-girlfriend Simone. Hiro returns to the present and seeks the help of his friend, [[Ando Masahashi]], to save New York from the upcoming explosion. Mohinder, who has been working with his father's neighbor Eden, discovers that Sylar was connected to his father. Claire's classmate Brody attempts to rape her and accidentally kills her in the process.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 4
+ |EpisodeNumber2 = 4
+ |Title = [[Collision (Heroes)|Collision]]
+ |DirectedBy = [[Ernest Dickerson]]
+ |WrittenBy = [[Bryan Fuller]]
+ |OriginalAirDate = {{Start date|2006|10|16}}
+ |Viewers = 12.96<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=102406_05|title=Weekly Program Rankings|publisher=[[ABC Studios|ABC]] Medianet|date=October 24, 2006|access-date=March 18, 2009|url-status=dead|archive-url=https://web.archive.org/web/20141011054814/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=102406_05|archive-date=October 11, 2014}}</ref>
+ |ShortSummary = Matt is kidnapped by Claire's father and a [[Haitian (Heroes)|Haitian]]. Hiro and Ando gamble in Vegas using Hiro's ability to freeze time, but are soon evicted from the hotel and assaulted by the security staff. Niki's alter ego Jessica, has sex with Nathan to repay her debt to Linderman. After she regenerates from her mortal injuries, Claire takes Brody for a car ride and intentionally crashes into a brick wall.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 5
+ |EpisodeNumber2 = 5
+ |Title = [[Hiros]]
+ |DirectedBy = [[Paul Shapiro (director)|Paul Shapiro]]
+ |WrittenBy = [[Michael Green (writer)|Michael Green]]
+ |OriginalAirDate = {{Start date|2006|10|23}}
+ |Viewers = 14.45<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=103106_10|title=Weekly Program Rankings|publisher=[[ABC Studios|ABC]] Medianet|date=October 31, 2006|access-date=March 18, 2009|url-status=dead|archive-url=https://web.archive.org/web/20090227104657/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=103106_10|archive-date=February 27, 2009}}</ref>
+ |ShortSummary = A Hiro from the future—who can speak English fluently—appears to Peter. He instructs Peter to save a cheerleader in order to save the world. Niki has no memories of the night before. Claire tells her father about Brody and her father secretly instructs the Haitian to erase Brody's mind.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 6
+ |EpisodeNumber2 = 6
+ |Title = [[Better Halves (Heroes)|Better Halves]]
+ |DirectedBy = Greg Beeman
+ |WrittenBy = Natalie Chaidez
+ |OriginalAirDate = {{Start date|2006|10|30}}
+ |Viewers = 14.89<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=110706_05 |title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=November 7, 2006 |access-date=March 18, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090719183341/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=110706_05 |archive-date=July 19, 2009 }}</ref>
+ |ShortSummary = Mohinder gives up searching for [[superhuman]]s and returns to India. Niki's husband [[D.L. Hawkins]]—who can phase through solid objects—returns after breaking out of prison. He takes his son [[Micah Sanders]] from Niki, who he thinks framed him for murder.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 7
+ |EpisodeNumber2 = 7
+ |Title = [[Nothing to Hide (Heroes)|Nothing to Hide]]
+ |DirectedBy = [[Donna Deitch]]
+ |WrittenBy = [[Jesse Alexander]]
+ |OriginalAirDate = {{Start date|2006|11|6}}
+ |Viewers = 14.47<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=111406_09 |title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=November 14, 2006 |access-date=March 18, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090730090223/http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=111406_09 |archive-date=July 30, 2009 }}</ref>
+ |ShortSummary = Matt works with the FBI to identify Sylar. They interrogate [[List of Heroes characters with special abilities#Ted Sprague|Ted Sprague]], who can emit radiation. Parkman, by telepathy, accidentally finds out that his wife is cheating on him. [[Micah Sanders]] is revealed to have the power of [[technopathy]].
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 8
+ |EpisodeNumber2 = 8
+ |Title = [[Seven Minutes to Midnight (Heroes)|Seven Minutes to Midnight]]
+ |DirectedBy = Paul Edwards
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2006|11|13}}
+ |Viewers = 15.08<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=112106_06 |title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=November 21, 2006 |access-date=March 18, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20120217155931/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=112106_06 |archive-date=February 17, 2012 }}</ref>
+ |ShortSummary = Hiro and Ando meet diner waitress [[List of Heroes characters with special abilities#Charlie Andrews|Charlie Andrews]], who can [[eidetic memory|perfectly remember everything that she has learned]]. Charlie is killed by Sylar shortly afterwards, and Hiro goes back in time to save her. In India, a mysterious boy visits Mohinder in his dreams, causing him to consider resuming his father's research. With Isaac now in his custody, Bennet learns that Claire will soon be killed by Sylar.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 9
+ |EpisodeNumber2 = 9
+ |Title = [[Homecoming (Heroes)|Homecoming]]
+ |DirectedBy = Greg Beeman
+ |WrittenBy = Adam Armus & Kay Foster
+ |OriginalAirDate = {{Start date|2006|11|20}}
+ |Viewers = 16.03<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=112806_08 |title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=November 28, 2006 |access-date=March 18, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20120229223150/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=112806_08 |archive-date=February 29, 2012 }}</ref>
+ |ShortSummary = Peter, despite warnings pointing to his death, rushes to the aid of the cheerleader, despite being convinced he is powerless alone. Claire's father forbids his daughter to go to Homecoming, fearing that she will be killed. Claire sneaks out, and is attacked by Sylar, but is rescued by Peter, who manages to hold him off before falling, dying and subsequently regenerating. Mohinder decides to continue his father's work.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 10
+ |EpisodeNumber2 = 10
+ |Title = [[Six Months Ago]]
+ |DirectedBy = Allan Arkush
+ |WrittenBy = [[Aron Eli Coleite]]
+ |OriginalAirDate = {{Start date|2006|11|27}}
+ |Viewers = 15.56<ref>{{Cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=120506_08 |title=Weekly Program Rankings (Nov. 27-Dec. 3)|work=[[American Broadcasting Company|ABC Medianet]] |date=December 5, 2006 |access-date=September 20, 2021 |url-status=dead |archive-url=https://web.archive.org/web/20120229221915/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=120506_08 |archive-date=February 29, 2012 }}</ref>
+ |ShortSummary = Most of the events in this episode take place six months prior to the events in the previous episode. Hiro seeks to change Charlie's death by going back in time, but finds out that her death is inevitable—she has a blood clot in her brain. Suresh's father meets Gabriel Gray and runs some tests on him. Gabriel adopts the name of Sylar and kills people to take their abilities. Hiro returns to the present.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 11
+ |EpisodeNumber2 = 11
+ |Title = [[Fallout (Heroes)|Fallout]]
+ |DirectedBy = [[John Badham]]
+ |WrittenBy = [[Joe Pokaski]]
+ |OriginalAirDate = {{Start date|2006|12|4}}
+ |Viewers = 14.94<ref>{{cite web|url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=121206_06 |title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=December 12, 2006 |access-date=March 18, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090509223116/http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=121206_06 |archive-date=May 9, 2009 }}</ref>
+ |ShortSummary = Matt and the FBI investigate the Homecoming killing at Claire's school, having arrested Peter at the scene. When Matt tries to read Claire's mind he cannot because the Haitian is blocking his telepathy. Later, Matt tries listening in on Bennet with the same results, but does hear one word: "Sylar". Unbeknownst to the investigators, Sylar has already been captured by Bennet. The Haitian is ordered by Bennet to erase memories from Claire, her mother, her brother, and one of her friends, pertaining to her regenerative abilities. The Haitian does not erase Claire's memory, instead swearing her to secrecy. Niki turns herself in to the police to protect DL and Micah from Jessica. After being released from custody, Peter collapses in front of the police station and experiences a vision suggesting he is the cause of the atomic explosion in New York. When trying to explain his vision to Nathan, he falls into a coma.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 12
+ |EpisodeNumber2 = 12
+ |Title = [[Godsend (Heroes)|Godsend]]
+ |DirectedBy = Paul Shapiro
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2007|1|22}}
+ |Viewers = 14.90<ref>{{cite press release | title = Weekly Program Rankings | publisher = [[ABC Studios|ABC]] Medianet | date = January 30, 2007 | url = http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=013007_05 | access-date = December 20, 2007 | url-status = dead | archive-url = https://web.archive.org/web/20081221203530/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=013007_05 | archive-date = December 21, 2008 }}</ref>
+ |ShortSummary = Hiro goes on a quest to retrieve the sword of Feudal Japanese hero Takezo Kensei after meeting with Isaac and seeing his paintings. Peter has more visions of himself exploding and there is a man whom he does not know in his new visions. Peter later meets this man, who calls himself [[Claude (Heroes)|Claude Rains]]. Claude can become invisible. Certain heroes, Isaac, Hiro, Ando, Nathan, and Simone, begin converging at Issac's loft to discuss the future. Parkman and the FBI go to the Texan paper company where Bennet works with the hope of finding Sylar, but they cannot find him.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 13
+ |EpisodeNumber2 = 13
+ |Title = The Fix
+ |DirectedBy = [[Terrence O'Hara]]
+ |WrittenBy = Natalie Chaidez
+ |OriginalAirDate = {{Start date|2007|1|29}}
+ |Viewers = 13.63<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=February 6, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=020607_05 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20090730090134/http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=020607_05 |archive-date=July 30, 2009 }}</ref>
+ |ShortSummary = Claude agrees to teach Peter how to control his powers. Matt's wife reveals that she is pregnant. Claire contacts her biological mother Meredith Gordon, who possesses [[pyrokinesis]].
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 14
+ |EpisodeNumber2 = 14
+ |Title = Distractions
+ |DirectedBy = [[Jeannot Szwarc]]
+ |WrittenBy = Michael Green
+ |OriginalAirDate = {{Start date|2007|2|5}}
+ |Viewers = 14.61<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=February 13, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=021307_05 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20100528010254/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=021307_05 |archive-date=May 28, 2010 }}</ref>
+ |ShortSummary = Sylar escapes from Bennet's captivity. Claude is convinced that Peter's loved ones are distracting him. To prove this, they follow Simone who kisses Isaac. Claire meets Meredith in person. Isaac contacts Bennet, whom he had previously met, to tell him about a painting that he had finished that shows Peter becoming invisible.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 15
+ |EpisodeNumber2 = 15
+ |Title = Run!
+ |DirectedBy = [[Roxann Dawson]]
+ |WrittenBy = Adam Armus & Kay Foster
+ |OriginalAirDate = {{Start date|2007|2|12}}
+ |Viewers = 14.68<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=February 21, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=022107_05 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20100528005900/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=022107_05 |archive-date=May 28, 2010 }}</ref>
+ |ShortSummary = Meredith informs Claire's biological father, Nathan, that Claire is alive. Meredith blackmails him for $100,000 by agreeing to keep quiet about this, as it could ruin his political career. Linderman gets Niki/Jessica out of prison and employs her as an assassin. Her first job is to kill a man (who has employed Parkman as his bodyguard after he is dismissed from the police force) who stole money from Linderman. Jessica is successful and is told her next target: Nathan. Mohinder unknowingly allows Sylar, who is now impersonating [[List of Heroes characters with special abilities#Zane Taylor|Zane Taylor]], to join him on his quest to find those with superpowers.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 16
+ |EpisodeNumber2 = 16
+ |Title = Unexpected
+ |DirectedBy = Greg Beeman
+ |WrittenBy = Jeph Loeb
+ |OriginalAirDate = {{Start date|2007|2|19}}
+ |Viewers = 14.10<ref>{{cite press release | title = Weekly Program Rankings | publisher = [[ABC Studios|ABC]] Medianet | date = February 27, 2007 | url = http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=022707_06 | access-date = December 21, 2007 | url-status = dead | archive-url = https://web.archive.org/web/20141209232550/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=022707_06 | archive-date = December 9, 2014 }}</ref>
+ |ShortSummary = Bennet and the Haitian pursue Peter and leave a gun with Isaac. Claude leaves Peter because he does not want to become involved with Bennet again. Ted and Parkman agree to go get answers from Bennet. Peter confronts Isaac about his betrayal and Simone is accidentally shot and killed.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 17
+ |EpisodeNumber2 = 17
+ |Title = [[Company Man (Heroes)|Company Man]]
+ |DirectedBy = Allan Arkush
+ |WrittenBy = Bryan Fuller
+ |OriginalAirDate = {{Start date|2007|2|25}}{{efn|name=earlier_date|This episode aired on the [[Global Television Network]] in Canada a day earlier than on NBC in the United States.}}
+ |Viewers = 14.42<ref>{{cite press release | title = Weekly Program Rankings | publisher = [[ABC Studios|ABC]] Medianet | date = March 6, 2007 | url = http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=030607_05 | access-date = December 21, 2007 | url-status = dead | archive-url = https://web.archive.org/web/20141209232151/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=030607_05 | archive-date = December 9, 2014 }}</ref>
+ |ShortSummary = Matt and Ted take the Bennet family hostage. Ted loses control of his powers and burns the Bennets' house. In flashbacks, Bennet is given Claire on the condition that he return her to the Company that he works for (that includes Hiro's father [[List of characters in Heroes#Kaito Nakamura|Kaito]]) if her powers manifest. Bennet explains this as the reason why he is so protective of Claire. Bennet orders the Haitian to escape with Claire.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 18
+ |EpisodeNumber2 = 18
+ |Title = Parasite
+ |DirectedBy = [[Kevin Bray (director)|Kevin Bray]]
+ |WrittenBy = Christopher Zatta
+ |OriginalAirDate = {{Start date|2007|3|4}}{{efn|name=earlier_date}}
+ |Viewers = 14.90<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=March 13, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=031307_04 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20100528010314/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=031307_04 |archive-date=May 28, 2010 }}</ref>
+ |ShortSummary = Claire and the Haitian go to the house of Nathan and Peter's mother, [[Angela Petrelli|Angela]], who is also Claire's grandmother. Jessica/Niki returns to her home with D.L. and Micah. Hiro steals the sword that he has been seeking. Ando comes back to assist Hiro. Hiro successfully gains back his teleporting power and immediately transports himself and Ando to the future. Isaac paints pictures of himself with his head cut open after being killed by Sylar. Sylar attacks Mohinder and Peter. Bennet is deceived by [[Candice Wilmer]], who works for the Company and has the ability to change her appearance. Nathan confronts Linderman, who promises Nathan that he will win the upcoming election for congress and will be living in the White House in a few years. 
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 19
+ |EpisodeNumber2 = 19
+ |Title = .07%
+ |DirectedBy = [[Adam Kane]]
+ |WrittenBy = Chuck Kim
+ |OriginalAirDate = {{Start date|2007|4|23}}
+ |Viewers = 11.96<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=May 1, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=050107_08 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20090107091615/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=050107_08 |archive-date=January 7, 2009 }}</ref>
+ |ShortSummary = Linderman reveals that his plan for Nathan includes Peter exploding. Linderman also shows Nathan one of Isaac's paintings, in which Nathan is the President of the United States. Peter and Suresh escape from Sylar, but Peter is killed. Mohinder takes him to the Petrelli's house where Claire now is and she ends up reviving Peter. Claire meets her biological father, Nathan, for the first time. Suresh joins the Company. Sylar kills Isaac and paints a picture of himself in which he is the President. Candice morphs into Niki and takes Micah to Linderman. Ted, Matt and Bennet escape from the Company's captivity and decide to disable the Company's Walker Tracking System in New York. Hiro and Ando, in New York 5 years in the future, go to Isaac's house and eventually meet another Hiro.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 20
+ |EpisodeNumber2 = 20
+ |Title = Five Years Gone
+ |DirectedBy = Paul Edwards
+ |WrittenBy = Joe Pokaski
+ |OriginalAirDate = {{Start date|2007|4|30}}
+ |Viewers = 11.92<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=May 8, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=050807_09 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20090730090202/http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=050807_09 |archive-date=July 30, 2009 }}</ref>
+ |ShortSummary = Hiro and Ando find themselves five years after the destruction of New York. People with extraordinary abilities are labeled as terrorists and Sylar, who has assumed the form of Nathan, is the President. Hiro and Ando eventually return to the present with the help of future Peter and Hiro finds out that he must kill Sylar to prevent the potential future that they had just visited from happening.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 21
+ |EpisodeNumber2 = 21
+ |Title = The Hard Part
+ |DirectedBy = John Badham
+ |WrittenBy = Aron Eli Coleite
+ |OriginalAirDate = {{Start date|2007|5|7}}
+ |Viewers = 11.14<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=May 15, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=051507_13 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20120229222900/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051507_13 |archive-date=February 29, 2012 }}</ref>
+ |ShortSummary = Mohinder is introduced to Molly, who can normally locate any individual, but she has the Shanti Virus that killed Mohinder's sister many years before. Mohinder uses his own blood to cure Molly. D.L. and Jessica go to Linderman's office. Hiro and Ando follow Sylar to Sylar's mother's house, where Sylar accidentally kills his own mother. Ted, Matt, and Bennet arrive in New York and reunite with Claire and Peter. Peter gains Ted's radioactive power.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 22
+ |EpisodeNumber2 = 22
+ |Title = Landslide
+ |DirectedBy = Greg Beeman
+ |WrittenBy = Jesse Alexander
+ |OriginalAirDate = {{Start date|2007|5|14}}
+ |Viewers = 11.54<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=May 22, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=052207_06 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20120210142950/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052207_06 |archive-date=February 10, 2012 }}</ref>
+ |ShortSummary = Hiro's father teaches Hiro how to use a sword. Candice gets Micah to rig the election for Nathan to win. D.L. kills Linderman, but is shot in the process. Sylar kills Ted. Hiro prepares to face Sylar. Matt and Bennet find the Company's Walker Tracking System: Molly Walker.
+ |LineColor = DBC47E
+}}
+{{Episode list/sublist|Heroes season 1
+ |EpisodeNumber = 23
+ |EpisodeNumber2 = 23
+ |Title = How to Stop an Exploding Man
+ |DirectedBy = Allan Arkush
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2007|5|21}}
+ |Viewers = 13.48<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=May 30, 2007 |url=http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=053007_07 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20131011173549/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=053007_07 |archive-date=October 11, 2013 }}</ref>
+ |ShortSummary = Niki and Jessica come to peace as they rescue Micah. Hiro teleports Ando back to Japan to keep him safe. The Heroes face off against Sylar. Matt gets four bullets to his chest, Hiro impales Sylar before teleporting to 1671 Japan, and Nathan flies Peter high above New York to detonate.
+ |LineColor = DBC47E
+}}
+}}</onlyinclude>
+
+==Production==
+
+===Conception===
+''Heroes'' began development early in 2006, when [[Tim Kring]], creator of NBC's ''[[Crossing Jordan]]'', came up with the show's concept. Kring wanted to create a "large [[ensemble cast|ensemble]] saga" that would connect with the audience. He began thinking about how big, scary and complicated he felt the world is, and wanted to create a character-driven series about people who could do something about it. Kring felt that a cop or medical drama did not have characters that were big enough to save the world. He came up with the thought of [[superheroes]]; ordinary people who would discover extraordinary abilities, while still rooted in the real world and in reality. Casting directors Jason La Padura and Natalie Hart brought forth a cast of new faces such as [[Milo Ventimiglia]] who described the pilot as a "character drama about everyday people with a heightened reality." A heightened reality that was brought to light through the work of production designer Ruth Ammon. Kring wanted the series to have touchstones that involved the characters and the world they lived in.<ref name="Kring-imdb">{{cite video|people= Kring, Tim (creator) |date=August 28, 2008 |url=https://www.imdb.com/title/tt0813715/ |format=DVD |title=(Unknown episode) |medium=Season one episodes |publisher= NBC Universal Media|access-date=January 20, 2008}}</ref><ref>{{cite web|url=http://blog.nbc.com/heroes/2006/09/why_i_wanted_to_do_a_show_like.php |title=''Heroes'' Live Blog: Why I wanted to do a show like ''Heroes'' |first=Tim |last=Kring |author-link=Tim Kring |access-date=February 2, 2008 |publisher=NBC |url-status=dead |archive-url=https://web.archive.org/web/20080228062329/http://blog.nbc.com/heroes/2006/09/why_i_wanted_to_do_a_show_like.php |archive-date=February 28, 2008 }}</ref>
+
+Before he began putting his ideas together, he spoke with ''[[Lost (2004 TV series)|Lost]]'' executive producer Damon Lindelof, with whom he had worked for three years on ''Crossing Jordan''. Kring credits Lindelof for giving him ideas on how to pitch the series to the network and advice on the lessons he (Lindelof) learned about working on a [[Serial (radio and television)|serialized drama]]. The two still speak and support each other's projects.<ref>{{cite web|url=http://blog.nbc.com/heroes/2006/09/friends_with_the_creator_of_lo.php |title=''Heroes'' Live Blog: Friends with the creator of LOST |first=Tim |last=Kring |author-link=Tim Kring |access-date=February 2, 2008 |publisher=NBC |url-status=dead |archive-url=https://web.archive.org/web/20080213170824/http://blog.nbc.com/heroes/2006/09/friends_with_the_creator_of_lo.php |archive-date=February 13, 2008 }}</ref><ref>{{cite web|url=http://www.nbc.com/Heroes/interviews/jeph_loeb.shtml|archive-url=https://web.archive.org/web/20080213112206/http://www.nbc.com/Heroes/interviews/jeph_loeb.shtml|archive-date=February 13, 2008 |title=Interview with Jef Loeb |access-date=February 2, 2008 |publisher=NBC}}</ref><ref>{{cite news|url=http://archive.boston.com/ae/tv/articles/2007/03/04/its_all_connected/ |title=''Heroes'' conspiracy theory isn't ''Lost'' on series' fans – The Boston Globe |publisher=Boston.com |date=March 4, 2007 |access-date=May 27, 2009 | first1=Joanna | last1=Weiss}}</ref> When Kring pitched the idea for ''Heroes'' to the NBC network, he described the network's reaction as "excited...very supportive."<ref name="NBCblog-pitch">{{cite web|url=http://blog.nbc.com/heroes/2006/09/the_pitch_process_to_nbc.php |title=''Heroes'' Live Blog: The Pitch Process to NBC |first=Tim |last=Kring |author-link=Tim Kring |access-date=February 2, 2008 |publisher=NBC |url-status=dead |archive-url=https://web.archive.org/web/20080228062324/http://blog.nbc.com/heroes/2006/09/the_pitch_process_to_nbc.php |archive-date=February 28, 2008 }}</ref> He comments that he has been partners with NBC for some time based on his six-year run as [[showrunner]] for ''Crossing Jordan''.<ref name="NBCblog-pitch" /> When he pitched the pilot, he described every detail, including the [[cliffhanger|cliffhanger ending]]. When NBC executives asked him what was going to happen next, Kring responded, "Well, you'll just have to wait and find out."<ref name="ogmog">{{cite web|url=http://www.ogmog.com/2007/02/07/heroes-execs-discuss-shows-future-lost-more/ |title=Heroes Execs discuss show's future, LOST, more/ |url-status=dead |archive-url=https://web.archive.org/web/20080307165722/http://www.ogmog.com/2007/02/07/heroes-execs-discuss-shows-future-lost-more/ |archive-date=March 7, 2008 }}</ref> After the project was [[greenlight|greenlit]], a special 73-minute version of the pilot was first screened to a large audience at the 2006 [[San Diego Comic-Con]].<ref>{{cite web|url=http://tv.ign.com/articles/720/720484p1.html |title=Comic-Con 2006: ''Heroes'' Pilot Premiere |access-date=November 1, 2006 |last=Goldman |first=Eric |date=June 22, 2006 |website=IGN}}</ref> It was initially reported that this unaired pilot would not be released, however it was included on the first season DVD set.<ref>{{cite web|url=http://www.allthingshidef.com/ME2/dirmod.asp?type=news&mod=News&mid=9A02E3B96F2A415ABC72CB5F516B4C10&tier=3&nid=89E5110303BB43C3B8BBB3607A05AAEE |title=The HD DVD of "Heroes" Comes Packed With Interactive Extras |access-date=July 26, 2007 |last=Tribbey |first=Chris |date=July 26, 2007 |publisher=allthingshidef.com |archive-url = https://web.archive.org/web/20080105181249/http://www.allthingshidef.com/ME2/dirmod.asp?type=news&mod=News&mid=9A02E3B96F2A415ABC72CB5F516B4C10&tier=3&nid=89E5110303BB43C3B8BBB3607A05AAEE |archive-date = January 5, 2008}}</ref>
+
+==Reception==
+
+===Critical reception===
+During the series' first season, the [[American Film Institute]] named ''Heroes'' one of the ten "best television programs of the year."<ref>{{cite press release|title=AFI Awards 2006 Official Selections Announced |publisher=[[American Film Institute]] |date=December 10, 2006 |format=PDF |url=http://www.afi.com/Docs/about/press/2006/awards06.pdf |access-date=December 11, 2006}}</ref>
+Doug Elfman of the [[Chicago Sun-Times]] stated, "the show's super strengths are its well-developed filmmaking, smooth pacing and a perfect cast. It views like the first hour of a fun, thoughtful movie." Barry Garron at ''[[The Hollywood Reporter]]'' also stated, "''Heroes'' is one of TV's most imaginative creations and might, with luck, become this year's ''Lost''."<ref>{{cite web|url=http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1003156041|archive-url=https://web.archive.org/web/20070212155757/http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1003156041|archive-date=February 12, 2007 |title=Heroes |work=[[The Hollywood Reporter]]|access-date=May 27, 2009}}</ref> Less favorable reviews included the ''Philadelphia Inquirer'', who commented that although the show had many "cool effects," it "lands, splat, in a pile of nonsense and dim dialogue." In response to the first pod of season one episodes, The ''Chicago Tribune'' went as far as saying, "you could watch the first few episodes of ''Heroes'', or you could repeatedly hit yourself on the head with a brick. The effect is surprisingly similar."<ref>{{cite news |url=http://featuresblogs.chicagotribune.com/entertainment_tv/2006/09/like_pain_heres.html |title=The Watcher – All TV, all the time &#124; Chicago Tribune &#124; Blog |publisher=Featuresblogs.chicagotribune.com |date=September 22, 2006 |access-date=May 27, 2009 |archive-date=May 14, 2009 |archive-url=https://web.archive.org/web/20090514122639/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/09/like_pain_heres.html |url-status=dead }}</ref> 
+
+On [[Rotten Tomatoes]], the first season received an 83% approval rating, with average rating of 8.04/10, based on 18 reviews. The website's consensus reads, "The first season of Heroes promises a fresh take on the superhero genre, with enough style and foreshadowed intrigue to attract a following."<ref>{{cite web|title=Heroes : Season 1|url=https://www.rottentomatoes.com/tv/heroes/s01/|website=rottentomatoes.com|publisher=[[Rotten Tomatoes]]|access-date=March 27, 2020}}</ref> At [[Metacritic]], the ''Heroes'' pilot received a 67/100, with generally favorable reviews from critics.<ref name="metacritic-heores">{{cite web |url=http://www.metacritic.com/tv/shows/heroes?q=heroes |title=Heroes (NBC) – Reviews |website=[[Metacritic]] |access-date=March 28, 2008 |archive-date=March 23, 2008 |archive-url=https://web.archive.org/web/20080323124636/http://www.metacritic.com/tv/shows/heroes?q=heroes |url-status=dead }}</ref>
+
+===Ratings===
+[[File:Heroes U.S. viewers.svg|thumb|right|upright=2.0|U.S. viewers for each episode in the series, broken down into its five volumes.]]
+The pilot episode generated 14.3 million viewers,<ref>{{cite press release|title=''Heroes'' Premiere Delivers NBC's Highest 18–49 Rating for Any Fall Drama Debut in Five Years |publisher=[[The Arizona Republic]] |date=September 26, 2006 |url=http://www.azcentral.com/12news/newsreleases/articles/heroespremiere09262006-CR.html |access-date=December 22, 2007}}</ref> with the season high topping out at 16.03 million viewers for [[Homecoming (Heroes)|episode 9]].<ref>{{cite press release|title=Ratings: Top 20 in Total Viewers (in Millions) |publisher=The Futon Critic |date=November 28, 2006 |url=http://www.thefutoncritic.com/ratings.aspx?id=weekly |archive-url=http://arquivo.pt/wayback/20091009225129/http://www.thefutoncritic.com/ratings.aspx?id=weekly |url-status=dead |archive-date=October 9, 2009 |access-date=December 21, 2007}}</ref> When the series returned from hiatus on January 22, 2007, the ratings averaged about the same as the pilot with 14.9 million viewers.<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=January 30, 2007 |url=http://www.abcmedianet.com/web/progcal/dispDNR.aspx?id=013007_05 |access-date=December 20, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20081221131240/http://www.abcmedianet.com/web/progcal/dispDNR.aspx?id=013007_05 |archive-date=December 21, 2008 }}</ref> When the show went on a second hiatus during the first season, from March 4, 2007 to April 23, 2007 (7 weeks), ratings hit a new low; the lowest being 11.14 million viewers during part one of the three part finale, "[[The Hard Part]]."<ref>{{cite press release|title=Weekly Program Rankings |publisher=[[ABC Studios|ABC]] Medianet |date=May 15, 2007 |url=http://www.abcmedianet.com/web/progcal/dispDNR.aspx?id=051507_13 |access-date=December 21, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20081221131244/http://www.abcmedianet.com/web/progcal/dispDNR.aspx?id=051507_13 |archive-date=December 21, 2008 }}</ref>
+
+===Awards and nominations===
+By the time ''Heroes'' completed the first half of the first season, the show had already collected an assortment of honors and accolades. On December 13, 2006, the [[Writers Guild of America]] nominated the program for "best new series" of 2007.<ref>{{cite press release|title=2007 Writers Guild Awards Television & Radio Nominees Announced |publisher=[[Writers Guild of America]] |date=December 14, 2006 |url=http://www.wga.org/subpage_newsevents.aspx?id=2267 |access-date=December 14, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20071205212901/http://www.wga.org/subpage_newsevents.aspx?id=2267 |archive-date=December 5, 2007 }}</ref> On December 14, the [[Hollywood Foreign Press Association]] nominated the program for a [[Golden Globe Award]] for "best television drama", and nominated [[Masi Oka]] ([[Hiro Nakamura]]) for Best Supporting Actor on a TV Series.<ref>{{cite press release|title=Hollywood Foreign Press Association Announced the Nominations for the 64th Golden Globe Awards |publisher=[[Hollywood Foreign Press Association]] |date=December 14, 2006 |url=http://www.hfpa.org/news/id/42 |archive-url=https://web.archive.org/web/20070108110307/http://www.hfpa.org/news/id/42 |archive-date=January 8, 2007 |access-date=December 14, 2006 }}</ref> On January 9, 2007, ''Heroes'' won the award for Favorite New TV Drama at the [[33rd People's Choice Awards]].<ref>{{cite web |url=http://www.today.com/id/16553069 |title=Aniston, Depp are People's Choice winners |access-date=January 10, 2007 |date=January 9, 2007 |publisher=[[Today.com]] |archive-date=January 16, 2016 |archive-url=https://web.archive.org/web/20160116013650/http://www.today.com/id/16553069 |url-status=dead }}</ref> The [[National Association for the Advancement of Colored People]] nominated ''Heroes'' on January 9, 2007 for an Image Award in the "Outstanding Drama Series" category.<ref>{{cite press release |title=The 38th NAACP Image Awards Nomination Results |publisher=[[National Association for the Advancement of Colored People]] |date=January 9, 2007 |format=PDF |url=http://www.naacpimageawards.net/PDFs/Nominees_Only.pdf |access-date=March 3, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070228153720/http://www.naacpimageawards.net/PDFs/Nominees_Only.pdf |archive-date=February 28, 2007 }}</ref> On February 21, 2007, it was announced that ''Heroes'' was nominated for five [[Saturn Awards]]. The nominations included "Best Network Television Series", "Best Supporting Actor in a Television Series" for both [[Greg Grunberg]] and [[Masi Oka]], and "Best Supporting Actress in a Television Series" for [[Hayden Panettiere]] and [[Ali Larter]].<ref name="saturn" /> On February 22, 2008, it was announced that ''Heroes'' was again nominated for five Saturn Awards. In 2008 it was nominated for "Best Television Series on DVD."<ref name="saturn" />
+
+On July 19, 2007, the [[Academy of Television Arts & Sciences]] announced their nominations for the 2007 Primetime [[Emmy]] awards. ''Heroes'' was nominated in eight categories, including Outstanding Drama Series. The first episode, "[[Genesis (Heroes)|Genesis]]", earned six nominations: Outstanding Directing ([[David Semel]]), Outstanding Art Direction for a Single-Camera Series, Outstanding Single-Camera Picture Editing for a Drama Series, Outstanding Sound Mixing for a Comedy or Drama Series, and Outstanding Stunt Coordination. The episode "[[Five Years Gone]]" also received a nomination for Outstanding Visual Effects for a Series. [[Masi Oka]] was nominated for Outstanding Supporting Actor in a Drama Series.<ref>{{cite web|url=http://www.syfyportal.com/news423917.html|archive-url=https://web.archive.org/web/20070926224737/http://www.syfyportal.com/news423917.html|archive-date=September 26, 2007 |title=''Heroes'' Grabs Eight Emmy Nominations |access-date=July 19, 2007 |last=Hinman |first=Michael |date=July 19, 2007 |website=[[Airlock Alpha|SyFy Portal]]}}</ref> On September 16, 2007, the [[59th Primetime Emmy Awards]] were held and ''Heroes'' failed to win a single Emmy award despite the eight nominations. On July 21, 2007, the [[Television Critics Association]] awarded ''Heroes'' with the prestigious Outstanding Program of the Year title during their 23rd Annual [[TCA Awards]] ceremony.<ref>{{cite press release|title=NBC Triumphs At TCA Awards |publisher=[[Television Critics Association]] |date=July 21, 2007 |url=http://tvcritics.org/?q=node/329 |access-date=December 30, 2007}}</ref> The cast of ''Heroes'' was named in the 2006 ''Time'' Magazine's [[Time Magazine Person of the Year|Person of the Year]] issue under "People Who Mattered".<ref name="TimeMagazine2006">{{cite magazine|url= http://www.time.com/time/personoftheyear/2006/people/16.html|archive-url= https://web.archive.org/web/20070205065200/http://www.time.com/time/personoftheyear/2006/people/16.html|url-status= dead|archive-date= February 5, 2007|title=People Who Mattered 2006: The Cast of ''Heroes'' |access-date = December 31, 2006|author=Poniewozik, James|date=December 17, 2006|magazine = Time }}</ref>
+
+==DVDs==
+The first DVD release of ''Heroes'' was a sampler disc, containing only the first episode, and was released in [[Republic of Ireland|Ireland]] and the [[United Kingdom|UK]] on September 3, 2007.<ref>{{cite web|url=https://www.amazon.co.uk/dp/B000RO8UEC/ |title=Amazon.co.uk: Heroes – Series 1 Episode 1 : Sampler Disc [2006&#93;: Ali Larter, Hayden Panettiere, Greg Grunberg, Milo Ventimiglia, Adrian Pasdar, Masi Oka: DVD|access-date=April 27, 2008|publisher=[[Amazon.co.uk]]}}</ref> UK Region 2 split ''Heroes'' into two halves on its initial release; part one being released on October 1, 2007 and part two on December 10, 2007.<ref>{{cite web |url=https://www.amazon.co.uk/dp/B000RG12FY |title=Amazon.co.uk: Heroes: Season 1 – Part 1 [2006&#93;: Ali Larter, Hayden Panettiere, Greg Grunberg, Milo Ventimiglia, Adrian Pasdar, Masi Oka, Greg Beeman, Allan Arkush: DVD|access-date=April 27, 2008|publisher=[[Amazon.co.uk]]}}</ref><ref>{{cite web|url=https://www.amazon.co.uk/dp/B000RGSOWS/ |title=Amazon.co.uk: Heroes: Season 1 – Part 2 [2006&#93;: Masi Oka, Greg Grunberg, Ali Larter, Hayden Panettiere, Milo Ventimiglia, Adrian Pasdar, Christopher Eccleston, John Badham, Jack Coleman: DVD|access-date=April 27, 2008|publisher=[[Amazon.co.uk]]}}</ref> When the second part was released, a complete first season boxset was also released on the same day on both DVD and HD DVD formats<ref>{{cite web|url=https://www.amazon.co.uk/dp/B000MRAA7O/ |title=Amazon.co.uk: Heroes – Season 1 Complete [2006&#93;: Milo Ventimiglia, Adrian Pasdar, Hayden Panettiere, Ali Larter, Masi Oka, Jack Coleman, Greg Grunberg: DVD|access-date=April 27, 2008|publisher=[[Amazon.co.uk]]}}</ref> The complete first season DVD includes nearly 3 hours of bonus features including: an extended 73-minute version of the pilot episode with audio commentary; 50 deleted and extended scenes; behind the scenes featurettes, including the making of Heroes, stunts, a profile of artist Tim Sale, and the score; and audio commentaries with cast, crew and show creator Tim Kring.<ref name="universal" /> On February 22, 2008, the ''Heroes'' Season One DVD was nominated for a 2008 [[Saturn Award]], in the category of "Best Television Series on DVD."<ref name="saturn">{{cite web|url=http://www.saturnawards.org/nominations.html |title=The 33rd Annual Saturn Awards Nominations |access-date=December 28, 2007 |publisher=[[The Saturn Awards]] |url-status=dead |archive-url=https://web.archive.org/web/20120221234527/http://www.saturnawards.org/nominations.html |archive-date=February 21, 2012 }}</ref> The complete first season was released in USA and Canada on August 28, 2007.<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Heroes/7340 |title=Heroes – A list of extras for Season 1 |publisher=Tvshowsondvd.com |access-date=May 27, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090726033757/http://www.tvshowsondvd.com/news/Heroes/7340 |archive-date=July 26, 2009 }}</ref> It was released in Australia and New Zealand on September 17, 2007.<ref name="universal">{{cite web|url=http://www.universalpictures.com.au/Main/Catalogue/Details.aspx?idCatalogue=795 |title=Heroes – Season 1 :: Universal Pictures Australia |publisher=Universalpictures.com.au |access-date=May 27, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20111001081203/http://www.universalpictures.com.au/Main/Catalogue/Details.aspx?idCatalogue=795 |archive-date=October 1, 2011 }}</ref>
+
+[[Universal Studios Home Entertainment]] announced that the first and second seasons would be released on Blu-ray on August 26, 2008, the same date as the DVD release of the second season.<ref>{{cite web |title=Universal Unveils Inaugural Slate of Film and TV Offerings Coming to Blu-ray Disc Day and Date With DVD |publisher=[[PR Newswire]] |date=April 17, 2007 |url=http://www.tvshowsondvd.com/news/Heroes-Season-1-and-Season-2-Blu-ray/9411 |access-date=April 19, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080420105923/http://www.tvshowsondvd.com/news/Heroes-Season-1-and-Season-2-Blu-ray/9411 |archive-date=April 20, 2008 }}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{IMDb episodes|0813715||Season 1}}
+
+{{Heroes}}
+
+[[Category:Heroes (American TV series) seasons|01]]
+[[Category:2006 American television seasons]]
+[[Category:2007 American television seasons]]

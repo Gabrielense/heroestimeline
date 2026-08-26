@@ -1,0 +1,424 @@
+{{short description|2015 American drama television series}}
+{{About|television series|comics series of the same name|Heroes Reborn (1996 comic)|and|Heroes Reborn (2021 comic)}}
+{{Use mdy dates|date=March 2025}}
+{{Infobox television
+| image              = Heroes Reborn logo nbc.png
+| genre              = {{Plainlist|
+[[Drama (film and television)|Drama]]
+* [[Science fiction]]
+* [[Superhero fiction|Superhero]]
+}}
+| creator            = [[Tim Kring]]
+| starring           = {{Plainlist|
+* [[Jack Coleman (actor)|Jack Coleman]]
+* [[Zachary Levi]]
+* [[Robbie Kay|Robbie A. Kay]]
+* [[Kiki Sukezane]]
+* [[Ryan Guzman]]
+* [[Rya Kihlstedt]]
+* {{interlanguage link|Gatlin Green|it}}
+* [[Henry Zebrowski]]
+* [[Judith Shekoni]]
+* [[Danika Yarosh]]
+}}
+| composer           = {{Plainlist|
+* [[Wendy Melvoin]]
+* [[Lisa Coleman (musician)|Lisa Coleman]]
+}}
+| country            = United States
+| language           = English
+| num_seasons        = 1
+| num_episodes       = 13
+| executive_producer = {{Plainlist|
+* [[Tim Kring]]
+* [[Dennis Hammer]]
+* [[Allan Arkush]]
+* [[Greg Beeman]]
+* [[Matt Shakman]] 
+* Peter Elkoff
+* James Middleton
+}}
+| producer           = {{Plainlist|
+* Lori Moyter
+* Kevin Lafferty
+}}
+| editor             = {{Plainlist|
+* Lori Motyer
+* Mike Ketelsen
+* Michael S. Murphy
+* Donn Aron
+* Scott Boyd
+* Kristopher Lease
+* Louis Cioffi
+* Martin Nicholson
+* Tom Costantino
+}}
+| location           = {{Plainlist|
+* [[Los Angeles]], [[California]]
+* [[Kitchener, Ontario]]
+* [[Toronto]], [[Ontario]]
+}}
+| cinematography     = {{Plainlist|
+* Nate Goodman
+* Charlie Lieberman
+* Edward J. Pei
+* Anette Haellmigk
+* Alan Caso
+}}
+| camera             = [[Single-camera setup|Single-camera]]
+| runtime            = 42–43 minutes
+| company            = {{Plainlist|
+* [[Tailwind Productions]]
+* Imperative Entertainment
+* [[Universal Television]]
+}}
+| network            = [[NBC]]
+| first_aired        = {{Start date|2015|9|24}}
+| last_aired         = {{End date|2016|1|21}}
+| related            = {{Plainlist|
+* ''[[Heroes (American TV series)|Heroes]]''
+}}
+}}
+
+'''''Heroes Reborn''''' is an American television series with 13 episodes<ref name="reborn" /> which premiered on September 24, 2015, as a continuation of the [[NBC]] [[Superhero fiction|superhero]] [[drama (film and television)|drama]] series ''[[Heroes (American TV series)|Heroes]]''.<ref>{{cite press release |url=https://www.nbcumv.com/news/masi-oka-return-hiro-nakamura-nbc's-'heroes-reborn' |title=Masi Oka To Return Aa Hiro Nakamura On NBC'S 'Heroes Reborn' |publisher=[[NBC]] |date=March 27, 2015 |access-date=August 26, 2015}}</ref><ref name=PremiereDate>{{cite news|title=NBC Announces Fall Premiere Dates for 2015-16 Season|url=http://tvbythenumbers.zap2it.com/2015/06/22/nbc-announces-fall-premiere-dates-for-2015-16-season/420714/|archive-url=https://web.archive.org/web/20150623023424/http://tvbythenumbers.zap2it.com/2015/06/22/nbc-announces-fall-premiere-dates-for-2015-16-season/420714/|url-status=dead|archive-date=June 23, 2015|work=TV by the Numbers|access-date=June 23, 2015}}</ref> Series creator [[Tim Kring]] returned as [[executive producer]].<ref name="reborn">{{Cite news|url=http://tvbythenumbers.zap2it.com/2014/02/22/new-event-miniseries-heroes-reborn-comes-to-nbc-in-2015/239277/|archive-url=https://web.archive.org/web/20140224211727/http://tvbythenumbers.zap2it.com/2014/02/22/new-event-miniseries-heroes-reborn-comes-to-nbc-in-2015/239277/|url-status=dead|archive-date=February 24, 2014|title='Heroes' Returns With New Event Miniseries 'Heroes Reborn' On NBC In September 2015|work=TV by the Numbers|last=Seidman|first=Robert|date=February 22, 2014|access-date=February 22, 2014}}</ref> During the [[Super Bowl XLIX|2015 Super Bowl]], NBC aired a 16-second teaser promo for the series.<ref>{{cite news|url=http://www.mtv.com/news/2066002/heroes-reborn-super-bowl-ad/|archive-url=https://web.archive.org/web/20150203062432/http://www.mtv.com/news/2066002/heroes-reborn-super-bowl-ad/|url-status=dead|archive-date=February 3, 2015|title='Heroes Reborn' Proves It's Actually Happening With Super Bowl Spot|publisher=[[MTV News]]|access-date=February 2, 2015}}</ref> The series follows several individuals with special powers who are fleeing vigilantes but must save the world.
+
+On July 9, 2015, a six-chapter web series titled ''Dark Matters'' was released to introduce the characters and story of ''Heroes Reborn''.<ref name="Heroes Reborn: Dark Matters">{{cite web|url=http://www.nbc.com/heroes-reborn/dark-matters|title=Heroes Reborn: Dark Matters|work=NBC|access-date=July 23, 2015}}</ref> On January 13, 2016, it was announced that ''Heroes Reborn'' would not be renewed for a second season.<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2016/01/13/heroes-reborn-canceled-as-nbc-plays-the-limited-series-card/|archive-url=https://web.archive.org/web/20160116012323/http://tvbythenumbers.zap2it.com/2016/01/13/heroes-reborn-canceled-as-nbc-plays-the-limited-series-card/|url-status=dead|archive-date=January 16, 2016|title='Heroes Reborn' Canceled as NBC plays the 'limited series' card|last=Porter|first=Rick|work=TV by the Numbers|date=January 13, 2016|access-date=January 13, 2016}}</ref>
+
+==Plot==
+According to the official synopsis, the miniseries would "reconnect with the basic elements of the show's first season" in which ordinary people discover that they have special abilities.<ref>{{cite web|url=http://comicbook.com/blog/2014/05/11/heroes-reborn-official-synopsis-released/|title=Heroes Reborn: Official Synopsis Released|work=Comic Book|date=May 11, 2014|access-date=May 11, 2014}}</ref> A six-chapter prequel web-based series titled ''Dark Matters'' was released on July 9, 2015, to introduce the new characters and story lines.<ref name="Heroes Reborn: Dark Matters"/>
+
+The series takes place one year after a terrorist attack in Odessa, Texas. The government blames those with extraordinary abilities ("evolved humans", or "evos"), who are forced into hiding when vigilantes systematically hunt and kill them. Two such killers, Luke and Joanne Collins, are seeking revenge for the son they lost at the Odessa bombing.
+
+Noah Bennet is also in hiding, but is found by the conspiracy theorist Quentin Frady, who tries to show him the truth behind the Odessa tragedy.  Meanwhile, new characters are discovering their own unique abilities. In Illinois, Tommy tries to live a normal life with his dream girlfriend, Emily, after being forced to move and change his name to hide his powers. In Tokyo, Miko is looking for her missing father, but her quest to find him could prove deadly. A new hero is emerging in Los Angeles through Carlos, a former soldier whose brother (an evo) tried to protect people with powers. Malina is an innocent teenager who, although inexperienced with her powers, has a great destiny. Meanwhile, in the shadows, Erica Kravid, the head of the highly successful tech conglomerate Renautas, has acquired Primatech with dark goals.
+
+As the number of evos grows, some heroes of the past, including Hiro Nakamura, Matt Parkman, Mohinder Suresh, the Haitian René, Angela Petrelli, Micah Sanders, and Molly Walker, cross paths with the new, emerging evos.<ref>{{cite web|url=http://www.nbc.com/heroes/about|title=About|work=NBC|access-date=15 July 2015}}</ref> Together, they must save the world from a [[geomagnetic reversal]] that will leave the planet vulnerable to lethal solar radiation.
+
+''Heroes'' creator Tim Kring said in interviews that, rather than a direct continuation, ''Heroes Reborn'' takes place considerably after the events of the original series. He stated, "This is not the fifth season, this is actually the 10th season".<ref>{{cite web|url=http://www.latimes.com/entertainment/tv/showtracker/la-et-st-heroes-reborn-creator-tim-kring-talks-unfinished-business-20150813-story.html|title='Heroes Reborn' creator Tim Kring talks about 'unfinished' business|author=Yvonne Villarreal|work=Los Angeles Times|date=August 14, 2015|access-date=October 28, 2015}}</ref>
+
+==Cast==
+{{main|List of Heroes Reborn characters}}
+
+===Main===
+{{Cast listing|
+* [[Jack Coleman (actor)|Jack Coleman]] as [[Noah Bennet]]
+* [[Zachary Levi]] as Luke Collins
+* [[Robbie Kay]] as Tommy Clark / Nathan Bennet
+* [[Danika Yarosh]] as Malina Bennet
+* [[Kiki Sukezane]] as Miko Otomo & Katana Girl
+* [[Ryan Guzman]] as Carlos Gutierrez
+* [[Rya Kihlstedt]] as Erica Kravid
+* {{interlanguage link|Gatlin Green|it}} as Emily Duval
+* [[Henry Zebrowski]] as Quentin Frady
+* [[Judi Shekoni]] as Joanne Collins
+}}
+
+===Guest===
+{{Cast listing|
+* [[Sendhil Ramamurthy]] as Dr [[Mohinder Suresh]]
+* [[Jimmy Jean-Louis]] as [[Haitian (Heroes)|René, the Haitian]]
+* [[Noah Gray-Cabey]] as [[Micah Sanders]]
+* [[Masi Oka]] as [[Hiro Nakamura]]
+* [[Cristine Rose]] as [[Angela Petrelli]]
+* [[Greg Grunberg]] as [[Matt Parkman]]
+* [[Gabriel Darku]] as Brian
+}}
+
+===Recurring===
+{{Cast listing|
+* [[Francesca Eastwood]] as [[Molly Walker (Heroes)|Molly Walker]]
+* [[Nazneen Contractor]] as Farah Nazan<ref>{{cite web|url=https://instagram.com/p/3dz2ssro-2/|title=Early morning on set. Glimpse of #FarahNazan #heroesreborn #trailerselfie|date=3 June 2015|work=Instagram}}</ref>
+* [[Pruitt Taylor Vince]] as Caspar Abraham
+* [[Krista Bridges]] as Anne Clark
+* [[Jake Manley]] as Brad
+* [[Eve Harlow]] as Taylor Kravid
+* [[Clé Bennett]] as Harris 
+* [[Aislinn Paul]] as Phoebe Frady<ref name="auto">{{cite web|url=http://mashable.com/2015/07/08/heroes-reborn-prequel-app/|title='Heroes Reborn' digital prequel is coming: Here's your first look|author=Sandra Gonzalez|date=8 July 2015|work=Mashable|access-date=15 July 2015}}</ref>
+* [[Michael Therriault]] as Richard Schwenkman
+* [[Peter Mooney]] as Francis Culp
+* {{interlanguage link|Toru Uchikado|ja|内門徹}} as Ren Shimosawa
+* [[Hiro Kanagawa]] as Hachiro Otomo
+* Lucius Hoyos as Jose Gutierrez
+* [[Marco Grazzini]] as Oscar Gutierrez
+* [[Carlos Lacamara]] as Father Mauricio
+* [[Dylan Bruce]] as Captain James Dearing
+}}
+
+==Episodes==
+{{Episode table |background=#000000 |overall=6 |title=26 |director=18 |writer=25 |airdate=15 |viewers=10 |country=US |episodes=
+{{Episode table/part|volume=One |subtitle=''Awakening''|c=#000000}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 1
+ |Title           = Brave New World
+ |DirectedBy      = [[Matt Shakman]]
+ |WrittenBy       = [[Tim Kring]]
+ |OriginalAirDate = {{Start date|2015|9|24}}
+ |Viewers         = 6.09<ref name="Premiere">{{cite web|url=http://tvbythenumbers.zap2it.com/2015/09/25/thursday-final-ratings-heroes-reborn-scandal-adjusted-up-final-football-ratings/471703/|archive-url=https://web.archive.org/web/20150926042942/http://tvbythenumbers.zap2it.com/2015/09/25/thursday-final-ratings-heroes-reborn-scandal-adjusted-up-final-football-ratings/471703/|url-status=dead|archive-date=September 26, 2015|title=Thursday Final Ratings: 'Heroes Reborn' & 'Scandal' Adjusted Up + Final Football Ratings|work=TV by the Numbers|last=Kondolojy|first=Amanda|date=September 25, 2015|access-date=September 25, 2015}}</ref>
+ |ShortSummary    = On June 13, in Odessa, Texas, Primatech, the leaders in "Evo" research, are hosting a peace summit for Evos and humans to come together, when the venue is bombed. Mohinder is blamed for the bombing, and over the next year, people with powers around the world are hunted down, believed to be dangerous and untrustworthy. Tommy Clark, a high school student with powers living in Illinois, barely escapes an anonymous meeting for Evos that turns into a slaughter. Meanwhile, Noah is working as a car salesman under the name Ted Barnes when he finds out that his memory of the bombing was tampered with. In Los Angeles, war veteran Carlos Gutierrez finds out that his brother Oscar has been fighting crime as a masked vigilante with super strength, but when Oscar dies from a police sting operation, Carlos is faced with tough responsibilities. In Tokyo, a girl named Miko Otomo finds a sword in her father's study that sends her into a video game world to save him.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 2
+ |Title           = Odessa
+ |DirectedBy      = [[Greg Beeman]]
+ |WrittenBy       = Peter Elkoff
+ |OriginalAirDate = {{Start date|2015|9|24}}
+ |Viewers         = 6.09<ref name="Premiere"/>
+ |ShortSummary    = Tommy uses his powers to save himself and his friend Emily from Luke and Joanne Collins, a ruthless vigilante assassin couple who are killing evos, but nearly gets himself caught. In Tokyo, Ren Shimosawa finds the game Evernow running on Miko's computer and teams up with her to rescue her father. Wondering why he would need to forget what is coming, Noah returns to Primatech's original location in Odessa with Quentin Frady, a conspiracy theorist and former temp worker at Renautas, the company that bought out Primatech. Going through Oscar's notes, Carlos stumbles upon Oscar's underground railroad for evos escaping to Canada. When Luke and Joanne find themselves teleported to Tommy's old room in Primatech's Level 5, they break out, killing everyone still at the company and taking the files with every Evo's known location.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 3
+ |Title           = Under the Mask
+ |DirectedBy      = Greg Beeman
+ |WrittenBy       = Seamus Kevin Fahey
+ |OriginalAirDate = {{Start date|2015|10|1}}
+ |Viewers         = 5.00<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/10/02/thursday-final-ratings-bones-the-player-adjusted-up-final-football-ratings/475407/|archive-url=https://web.archive.org/web/20151004010409/http://tvbythenumbers.zap2it.com/2015/10/02/thursday-final-ratings-bones-the-player-adjusted-up-final-football-ratings/475407/|url-status=dead|archive-date=October 4, 2015|title=Thursday Final Ratings: 'Bones' & 'The Player' Adjusted Up + Final Football Ratings|last=Dixon|first=Dani|work=TV by the Numbers|date=October 2, 2015|access-date=October 2, 2015}}</ref>
+ |ShortSummary    = In the far north, the young Malina uses her power to suppress the malignancy that is approaching. Meanwhile, Molly Walker, who has the power to locate other Evos, has been captured by two agents from Renautas. In Yamagato Tower, Miko is captured by a man named Harris. He gives her sword to Erica Kravid, the CEO of Renautas, and identifies it as Hiro Nakamura's. At a hospital, Noah finds surveillance video of himself standing over Claire's dead body, with evidence of Hiro's time jumping abilities. Meanwhile, Joanne is eager to chase down the new leads in the Primatech files and kill more Evos, but Luke is terrified by signs that he is developing a power of his own. Miko chops off Harris's hand and escapes with Ren, while Harris's hand generates a clone of himself. In Illinois, Tommy's mother finds out that a man named Caspar Abraham, has been secretly protecting him. In Los Angeles, Carlos puts on his brother's mask to become El Vengador, but meets his match in a powered enemy. Elsewhere, Erica uses Molly to launch E.P.I.C., a technology that identifies evos around the globe.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 4
+ |Title           = The Needs of the Many
+ |DirectedBy      = [[Jeff Woolnough]]
+ |WrittenBy       = Joey Falco
+ |OriginalAirDate = {{Start date|2015|10|8}}
+ |Viewers         = 4.41<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/10/09/thursday-final-ratings-oct-8-2015/477299/|archive-url=https://web.archive.org/web/20151010043328/http://tvbythenumbers.zap2it.com/2015/10/09/thursday-final-ratings-oct-8-2015/477299/|url-status=dead|archive-date=October 10, 2015|title=Thursday final ratings: 'Grey's Anatomy,' 'How to Get Away with Murder' adjusted up, low CW premieres hold|last=Rick|first=Porter|work=TV by the Numbers|date=October 9, 2015|access-date=October 9, 2015}}</ref>
+ |ShortSummary    = When Tommy and his mother end up in a car crash, Tommy teleports her to a hospital before passing out. Noah and Quentin look for a way into the Renautas building, and use Taylor Kravid's frustration with her mother Erica's lies to gain her help. Malina and her invisible companion, Farah, leave the Arctic Circle, and Malina shows an ability to bring plants and animals to life. When Luke reveals his powers to Joanne and burns the list of Evos, she refuses to shoot him, but she walks away from what is left of their marriage. Tommy takes a blood test to see if he can give a transfusion to his mother, bringing federal agents after him. Carlos's nephew José and friend Father Mauricio, both Evos, are kidnapped. In Renautas, Noah finds Molly and a room full of Evos hooked up to machines; Molly takes his gun and shoots herself in the head to disable E.P.I.C. for good.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 5
+ |Title           = The Lion's Den
+ |DirectedBy      = Jeff Woolnough
+ |WrittenBy       = Holly Harold
+ |OriginalAirDate = {{Start date|2015|10|15}}
+ |Viewers         = 4.01<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/10/16/thursday-final-ratings-oct-15-2015/478937/|archive-url=https://web.archive.org/web/20151017115220/http://tvbythenumbers.zap2it.com/2015/10/16/thursday-final-ratings-oct-15-2015/478937/|url-status=dead|archive-date=October 17, 2015|title=Thursday final ratings: 'Grey's Anatomy' and 'Scandal' adjusted up, plus final NFL numbers|last=Porter|first=Rick |date=October 16, 2015|work=TV by the Numbers|access-date=October 16, 2015}}</ref>
+ |ShortSummary    = Ren gathers a group of Evernow fans [[cosplay]]ing as Katana girl at Renautas so that Miko can enter the building undetected. Meanwhile, Tommy is registered as an Evo and injected with a tracking device, and told to stay within a ten-mile radius; he learns that he was adopted. Still inside Renautas, Noah, Quentin, and Taylor find evidence that the company is preparing for the extinction of humankind. One of Harris's clones finds Farah in Canada. Malina tries to fight off his agents, and finds her powers subdued by an Evo who can manipulate shadows, while Harris shoots Farah. Returning home, Luke finally faces the reality of his son's death in the attack one year ago. When Noah and Quentin are captured by Harris, Miko bursts in, taking back her sword and giving them a chance to escape. Caspar Abraham, the man who has been protecting Tommy, appears and tells him that he will help save the world. Renautas scientists reveal that there is less than a week until solar radiation devastates planet Earth.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 6
+ |Title           = Game Over
+ |DirectedBy      = [[Gideon Raff]]
+ |WrittenBy       = Nevin Densham
+ |OriginalAirDate = {{Start date|2015|10|22}}
+ |Viewers         = 3.80<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/10/30/thursday-final-ratings-how-to-get-away-with-murder-adjusts-up-greys-and-others-hold/|archive-url=https://web.archive.org/web/20151116223118/http://tvbythenumbers.zap2it.com/2015/10/30/thursday-final-ratings-how-to-get-away-with-murder-adjusts-up-greys-and-others-hold/|url-status=dead|archive-date=November 16, 2015|title=Thursday final ratings: 'How to Get Away with Murder' adjusts up, 'Grey's' and others hold|last=Porter|first=Rick|date=October 30, 2015|work=TV by the Numbers|access-date=October 30, 2015}}</ref>
+ |ShortSummary    = Carlos learns about a place that is keeping Evos. Miko and Ren return to Evernow to save the "Master of Time and Space." Tommy runs away to Paris with Emily, but learns that nowhere is safe. Miko meets Noah and Quentin in Renautas, and they discover that Renautas has harnessed Hiro's power to send supplies to Earth after destruction. They learn that Miko is only a program that will disappear when Hiro is rescued and the game ends. Malina meets Luke, and when she sees him try to drown himself, she manipulates the wind to rescue him. Quentin confronts the girl who manipulates shadows, who is his sister Phoebe; she kills him to protect Erica's mission. Harris has Noah cornered when Miko completes the game, releasing Hiro. Noah asks Hiro to take him back to the Odessa peace summit on June 13 to change the future. Though reluctant, Hiro agrees as Erica was harnessing his power for her own benefit. Taylor sends a message to HeroTruther revealing that Renautas kidnapped Evos. Malina opens the envelope Farah gave her to find a picture of Tommy, who Luke recognizes. Emily helps Tommy take out his tracking chip, and they kiss.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 7
+ |Title           = June 13th Part One
+ |DirectedBy      = [[Allan Arkush]]
+ |WrittenBy       = Adam Lash & Cori Uchida
+ |OriginalAirDate = {{Start date|2015|10|29}}
+ |Viewers         = 3.95<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/11/04/thursday-final-ratings-the-vampire-diaries-adjusts-up-all-others-hold-plus-final-nfl-numbers/|archive-url=https://web.archive.org/web/20151107001401/http://tvbythenumbers.zap2it.com/2015/11/04/thursday-final-ratings-the-vampire-diaries-adjusts-up-all-others-hold-plus-final-nfl-numbers/|url-status=dead|archive-date=November 7, 2015|title=Thursday final ratings: 'The Vampire Diaries' adjusts up, all others hold, plus final NFL numbers|last=Porter|first=Rick|date=November 4, 2015|work=TV by the Numbers|access-date=November 4, 2015}}</ref>
+ |ShortSummary    = Mohinder Suresh meets with Angela Petrelli, who tells him that she knows of the coming disaster and the Evos who can stop it. She told Erica, but Erica intends to save only people she chooses. Hachiro Otomo traps present-Hiro inside Evernow and takes his sword. Noah and Hiro witness present-Noah get taken away. Angela takes future Noah to Claire in surgery after she died in childbirth. Mohinder gives his research to Molly before Harris takes him to the site of the bombing, and discovers that any attempt to stop the bombing will result in a worse future. Past Noah is rescued by Caspar, while future Noah confirms Claire's death. Shortly before the bombing, Phoebe Frady releases a cloud of darkness that neutralizes all of the Evos' abilities. After the explosions, Luke and Joanne are separated from their son. Hiro takes Angela and Claire's children back to 1999 where they can grow up safely; they are named Nathan and Malina. Angela has foreseen that they will save the world from the coming disaster. Visited by his mother, Nathan is revealed to be Tommy. Noah sees his future self, as he is about to kill Erica.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 8
+ |Title           = June 13th Part Two
+ |DirectedBy      = Allan Arkush
+ |WrittenBy       = [[M. Raven Metzner]]
+ |OriginalAirDate = {{Start date|2015|11|5}}
+ |Viewers         = 3.97<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/11/06/thursday-final-ratings-elementary-and-mom-adjust-down-considerably-thanks-to-nfl/|archive-url=https://web.archive.org/web/20151107093147/http://tvbythenumbers.zap2it.com/2015/11/06/thursday-final-ratings-elementary-and-mom-adjust-down-considerably-thanks-to-nfl/|url-status=dead|archive-date=November 7, 2015|title=Thursday final ratings: 'Elementary' and 'Mom' adjust down considerably thanks to NFL|last=Porter|first=Rick|date=November 6, 2015|work=TV by the Numbers|access-date=November 6, 2015}}</ref>
+ |ShortSummary    = Noah shoots Erica in the leg due to past-Noah's intervention, and Quentin finds them, and interrogates Erica about Phoebe. When Hiro and Angela are stuck in Odessa in 1999, Angela realizes that Nathan can absorb other's powers; she decides the children must be raised separately. Noah tells past-Noah about Claire and asks Caspar to erase his memories. Harris captures past-Noah and Caspar, and Matt Parkman interrogates Noah, but Caspar erases Noah's memories. Matt releases them and Caspar leaves Noah in the wreckage with no memory. Carlos becomes a war hero for Farah's actions, as she leaves for a job to hide her powers. When Erica uses Hiro's disappearance to blame him for the bombing, Hachiro uses his power to bring Katana Girl to life. Molly and Noah find Hiro with Anne and Nathan. Luke and Joanne find Dennis's body, and Joanne kills an Evo. Nathan uses Hiro's power to take Noah to Angela, who warns of catastrophe. Quentin is reunited with Phoebe. Nathan sends Noah back to his time as Harris arrives, and Hiro attempts to hold off Harris. Caspar takes Nathan's memory of Hiro. Noah finds Quentin alive and tells him about the twins, who tells Erica.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 9
+ |Title           = Sundae, Bloody Sundae
+ |DirectedBy      = Gideon Raff
+ |WrittenBy       = Marisha Mukerjee and Sharon Hoffman
+ |OriginalAirDate = {{Start date|2015|11|12}}
+ |Viewers         = 3.78<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/11/13/thursday-final-ratings-nov-12-2015/|archive-url=https://web.archive.org/web/20151114232729/http://tvbythenumbers.zap2it.com/2015/11/13/thursday-final-ratings-nov-12-2015/|url-status=dead|archive-date=November 14, 2015|title=Thursday final ratings: '2 Broke Girls' and CBS take NFL hit, 'Elementary' below 1.0, 'Blacklist' adjusts up|work=TV by the Numbers|last=Porter|first=Rick|date=November 13, 2015|access-date=November 13, 2015}}</ref>
+ |ShortSummary    = Anne tells Tommy that he has Hiro's powers, and Noah shares Nathan's history, but Tommy finds it difficult to believe. Luke struggles to come to terms with Malina's idea of fate, and opens up to her about his son. Meanwhile, Captain Dearing smuggles Carlos into Sunstone Manor, a facility for Evos. Taylor meets with René, who wants to rescue Micah (HeroTruther) from Renautas. Caspar tries to save Emily and is killed by Joanne; Luke and Malina arrive, and Tommy stops time, letting him save Emily. Harris picks up Joanne. When Carlos finds José, the boy is talking to a hallucination of his father, and doesn't recognize Carlos, getting Carlos captured. Dearing is caught and led to kill himself, and Carlos meets the director of the facility, Matt Parkman. Matt learns that Carlos knows Farah. Tommy is captured by Quentin and Phoebe and taken to Erica. When Noah goes to say farewell to Caspar and finds Malina. The final scene shows Miko waking up 7957 years in the future in a barren desert, with a city visible in the distance.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 10
+ |Title           = 11:53 to Odessa
+ |DirectedBy      = [[Larysa Kondracki]]
+ |WrittenBy       = Seamus Kevin Fahey
+ |OriginalAirDate = {{Start date|2015|11|19}}
+ |Viewers         = 3.72<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2015/11/20/thursday-final-ratings-nov-19-15/|archive-url=https://web.archive.org/web/20151121061921/http://tvbythenumbers.zap2it.com/2015/11/20/thursday-final-ratings-nov-19-15/|url-status=dead|archive-date=November 21, 2015|title=Thursday Final Ratings: 'Mom' and '2 Broke Girls' up even after adjusting down|last=Porter |first=Rick|date=November 20, 2015|work=TV by the Numbers|access-date=November 20, 2015}}</ref>
+ |ShortSummary    = Noah takes charge of Malina, refusing to trust Luke. Meanwhile, Tommy wakes up in Erica's house, with a strange scar on his neck and still unable to use his powers. Erica reveals that she doesn't believe anything can stop the magnetic reversal, but says that she was using Hiro's powers to create a bridge between the present and the future to recolonize the post-apocalypse Earth. At Sunstone Manor, Matt uses Carlos to interrogate Farah, trying to find Malina. Tommy takes Erica, Phoebe, and Quentin to the future, to see the city Gateway. Taylor helps HeroTruther's group sneak into Sunstone Manor. Miko sneaks into Gateway's core facility and finds Hachiro Otomo and the real Miko, while in the present, a construct of Otomo gives Ren a key to Gateway and tells him to come to the future. Erica admits she tried to steal Tommy's powers but it didn't work, and Tommy agrees to help bring as many people as possible to Gateway, until Miko finds him. Malina stops a storm but is met with hatred, and when Noah disappears Luke saves her. As Carlos, Farah, and Taylor try to escape, an army of Harris clones converges on Sunstone.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 11
+ |Title           = Send in the Clones
+ |DirectedBy      = Larysa Kondracki
+ |WrittenBy       = Peter Elkoff
+ |OriginalAirDate = {{Start date|2016|1|7}}
+ |Viewers         = 3.74<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2016/01/08/thursday-final-ratings-jan-7-2016/|archive-url=https://web.archive.org/web/20160109070152/http://tvbythenumbers.zap2it.com/2016/01/08/thursday-final-ratings-jan-7-2016/|url-status=dead|archive-date=January 9, 2016|title= Thursday final ratings: 'Life in Pieces' adjusts down|last=Porter|first=Rick|work=TV by the Numbers|date=January 8, 2016|access-date=January 8, 2016}}</ref>
+ |ShortSummary    = At Sunstone Manor, in the midst of an assault by the Harris army, Farah and Carlos (as El Vengador) search for Carlos's friends while René and Taylor confront Matt Parkman. Matt learns that he is not on Erica's list of people to save. Meanwhile, Tommy, guided by the ''9th Wonders!'' comic, sends Katana Girl to Sunstone Manor, though she is slowly disappearing from reality. Matt finds out that Taylor is pregnant and thinks he now has leverage over Erica. Malina and Luke are stopped by Harris and the Fradys, and Luke knocks out Phoebe, torches Harris, and talks Quentin down, capturing the siblings. At the Gateway Community Center in Odessa, Erica reunites Tommy with Emily and his mother. Quentin tells Malina about Gateway, and Malina stops Luke from killing Phoebe. Father Mauricio is killed by a guard, but Carlos rescues José and Micah. Harris Prime duels Katana Girl who kills him before disappearing for good. Harris Prime's death destroys all of his clones. Micah explains the approaching threat, then makes a broadcast to the world exposing Erica's lies and Mohinder's innocence, calling upon Evos and non-Evos to stand together. Erica asks Joanne Collins to kill Malina. As everyone drives to Odessa, the sun releases the first solar flare.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 12
+ |Title           = Company Woman
+ |DirectedBy      = [[Jon Jones (director)|Jon Jones]]
+ |WrittenBy       = Holly Harold
+ |OriginalAirDate = {{Start date|2016|1|14}}
+ |Viewers         = 3.83<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2016/01/15/thursday-final-ratings-jan-14-2016/|archive-url=https://web.archive.org/web/20160117112453/http://tvbythenumbers.zap2it.com/2016/01/15/thursday-final-ratings-jan-14-2016/|url-status=dead|archive-date=January 17, 2016|title= Thursday final ratings: 'The Big Bang Theory' and 'The Blacklist' adjust up|last=Porter|first=Rick|work=TV by the Numbers|date=January 15, 2016|access-date=January 15, 2016}}</ref>
+ |ShortSummary    = Word is spreading about the solar flare. Tommy leaves when he hears that Renautas is saving only 12,000 people. Matt trades Taylor for three Gateway watches to save his family. In a flashback, Erica sleeps with an Evo as payment for saving her father's life. Luke loses Phoebe, but Quentin decides to join him. Ren enters Gateway and meets Emily. Although Erica offers a fresh start, Taylor refuses to be a part of the new Gateway. Another flashback shows Erica killing Taylor's father when he tried to take Taylor away. Luke, Malina, and Quentin go to Union Wells High School and make a scene for the news cameras to attract Tommy's attention; Micah sends the footage everywhere. Tommy and Joanne come, but Otomo appears and sends Tommy to Evernow. When Joanne shoots at Malina, Luke incinerates her. An invisible Farah took the bullet. Matt's car crashes, leaving his watch damaged and the other two lost. A final flashback shows Caspar at Erica's house, and she asks him to help Taylor. Ren and Emily access the core using the necklace Otomo gave Ren, just in time to hear Otomo say he imprisoned Tommy and see Otomo drugged and carried away.
+ |LineColor       = 000000
+}}
+{{Episode list/sublist|Heroes Reborn (miniseries)
+ |EpisodeNumber   = 13
+ |Title           = Project Reborn
+ |DirectedBy      = Jon Jones
+ |WrittenBy       = Tim Kring & Zach Craley
+ |OriginalAirDate = {{Start date|2016|1|21}}
+ |Viewers         = 3.83<ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2016/01/22/thursday-final-ratings-jan-21-2016/|archive-url=https://web.archive.org/web/20160124025327/http://tvbythenumbers.zap2it.com/2016/01/22/thursday-final-ratings-jan-21-2016/|url-status=dead|archive-date=January 24, 2016|title= Thursday final ratings: 'The Blacklist' adjusts up, CW premieres hold, 'My Diet' adjusts down|last=Porter|first=Rick|work=TV by the Numbers|date=January 22, 2016|access-date=January 22, 2016}}</ref>
+ |ShortSummary    = Tommy's powers open the Gateway portal. Ren and Emily awaken Otomo and the real Miko. Luke sacrifices himself to absorb the first solar flare. José, Micah, and Carlos remove the bullet from Farah. In the labyrinth of ''Evernow'' Tommy meets a future self who helps him remember his past. Quentin kills Phoebe in the clocktower to save Malina. Otomo sends Ren into ''Evernow,'' where he reunites with Katana Girl to save Tommy. Released, Tommy appears in future Gateway. Erica reveals that this future depends on the world being destroyed, and will cease to exist if he saves it, so Tommy uses his powers to exist in both times simultaneously. When he and Malina can't join their powers, he revisits a time when Angela tested them, learning that they need a conduit. He saves Noah, who sacrifices himself to help his grandchildren, while the other Tommy brings everyone back from the future except Erica. Three months later, Quentin refuses to reveal the heroes' identities. Miko and Ren spar together, Carlos and Farah continue El Vengador's work, and Tommy and Emily live normally. Tommy and Malina receive tarot cards, and Angela says their father is coming and no one can protect them.
+ |LineColor       = 000000
+}}
+}}
+
+===Webisodes: ''Dark Matters''===
+{{Episode table |background=#79C393 |overall=6 |title=26 |director=18 |writer=25 |airdate=25 |episodes=
+{{Episode list
+ |EpisodeNumber   = 1
+ |Title           = Where Are the Heroes?
+ |DirectedBy      = Tanner Kling
+ |WrittenBy       = Zach Craley
+ |OriginalAirDate = {{Start date|2015|7|9}}
+ |ShortSummary    = HeroTruther interrupts a Renautas ad to warn people that there is a battle being waged against the newly revealed Evos, forcing them back into hiding. Two years ago, Phoebe Frady, after watching HeroTruther's broadcast, shows her brother Quentin her ability to manipulate shadows.
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 2
+ |Title           = Phoebe
+ |DirectedBy      = Tanner Kling
+ |WrittenBy       = Zach Craley
+ |OriginalAirDate = {{Start date|2015|7|22}}
+ |ShortSummary    = Quentin encourages Phoebe to continue documenting her story when she begins college, where she becomes fast friends with her roommate Aly. As Phoebe's power grows, she learns how to channel darkness, but Quentin worries about the nightmares she's had since her mother's death.
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 3
+ |Title           = Registered
+ |DirectedBy      = Tanner Kling
+ |WrittenBy       = Zach Craley
+ |OriginalAirDate = {{Start date|2015|7|22}}
+ |ShortSummary    = One year ago, a pro-Evo demonstration at the college gets out of hand, and Phoebe momentarily stops the other Evos' powers; she is arrested and forced to register in a national database. At an internship fair, Phoebe is approached by Harris with a job offer at Renautas. Phoebe talks about going to the Odessa Summit, but Quentin is against it.
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 4
+ |Title           = June 13th
+ |DirectedBy      = Tanner Kling
+ |WrittenBy       = Zach Craley
+ |OriginalAirDate = {{Start date|2015|7|22}}
+ |ShortSummary    = Phoebe has gone missing, and Quentin approaches Aly. When Quentin receives a mysterious phone call from Phoebe in Texas, he and Aly go to the Summit. They recognize Phoebe's shadows, and see her listed as an accomplice of Mohinder Suresh in the bombing.
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 5
+ |Title           = Renautas
+ |DirectedBy      = Tanner Kling
+ |WrittenBy       = Zach Craley
+ |OriginalAirDate = {{Start date|2015|7|22}}
+ |ShortSummary    = Nine months ago, Quentin is skeptical of Mohinder's role in the bombing, but Aly is ready to move on. Quentin asks HeroTruther for help, and HeroTruther gets him a job at Renautas under an assumed name. He finds out that Primatech wasn't destroyed in the bombing, it became part of Renautas, and the files are being digitized. 6 weeks ago, HeroTruther asks Quentin to steal the files.
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 6
+ |Title           = Where the Truth Lies
+ |DirectedBy      = Tanner Kling
+ |WrittenBy       = Zach Craley
+ |OriginalAirDate = {{Start date|2015|7|22}}
+ |ShortSummary    = Three weeks ago, Quentin brings the evidence connecting Renautas and Primatech to HeroTruther, who reveals himself to be Micah, accompanied by a small crew of Evos. Micah shows Quentin that Phoebe is alive, but Harris attacks, having followed Quentin. Micah tells Quentin to find Noah Bennet.
+ |LineColor       = 79C393
+}} 
+}}
+
+===Webisodes: ''Damen Peak''===
+{{Episode table |background=#79C393 |overall=6 |title=26 |director=18 |writer=25 |airdate=25 |episodes=
+{{Episode list
+ |EpisodeNumber   = 1
+ |Title           = A New Target 
+ |DirectedBy      = David Hartwell and Tom Krueger
+ |WrittenBy       = David Hartwell
+ |OriginalAirDate = {{Start date|2015|11|19}}
+ |ShortSummary    = Joanne Collins tracks down her newest target, successful businessman Damen Peak, who might be an evo. 
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 2
+ |RTitle          = {{TableTBA|N/A}}
+ |DirectedBy      = David Hartwell and Tom Krueger
+ |WrittenBy       = David Hartwell
+ |OriginalAirDate = {{Start date|2015|11|19}}
+ |ShortSummary    = Joanne chases Damen in a frantic car chase. Meanwhile, Damen attempts to reassure his wife, Lilly.
+ |LineColor       = 79C393
+}}
+{{Episode list
+ |EpisodeNumber   = 3
+ |Title           = A Modest Talent 
+ |DirectedBy      = David Hartwell and Tom Krueger
+ |WrittenBy       = David Hartwell
+ |OriginalAirDate = {{Start date|2016|1|7}}
+ |ShortSummary    = Damen confronts Joanne in a desperate attempt to save his life.
+ |LineColor       = 79C393
+}}
+}}
+
+==Broadcast==
+In Canada, the series was [[simulcast]] with the American broadcast.<ref>{{cite news|url=http://www.torontosun.com/2015/08/19/heroes-reborn-gets-ready-to-reboot-popular-series|title='Heroes Reborn' gets ready to reboot popular series|newspaper=Toronto Sun|first=Bill|last=Harris|date=August 19, 2015|access-date=September 9, 2015}}</ref> In Australia, the series began airing on September 30, 2015.<ref name="7premiere">{{cite web|publisher=[[TV Tonight]]|first=David|last=Knox|url=http://www.tvtonight.com.au/2015/09/airdate-heroes-reborn.html|title=Airdate: Heroes Reborn|date=September 21, 2015|access-date=September 21, 2015}}</ref> The first two episodes that aired in Australia received 444,000 and 372,000 viewers respectively.<ref>{{cite web|url=http://tvtonight.com.au/2015/10/bumped-heroes-reborn-the-blacklist.html|title=Bumped: Heroes Reborn, The Blacklist.|last=Knox|first=David|work=TV Tonight|date=October 1, 2015|access-date=October 2, 2015}}</ref>
+The series started broadcasting in the UK from February 16, 2016.<ref>{{cite web|url=http://www.channel5.com/articles/heroes-reborn-comes-to-5|title='Heroes Reborn' Updates: Channel 5 UK Acquires Show's Rights|work=Venture Capital Post|date= December 7, 2015}}</ref>
+
+== Reception ==
+''Heroes Reborn'' received an average score of 53 out of 100 on [[Metacritic]], indicating "mixed or average reviews".<ref>{{Cite web|url=http://www.metacritic.com/tv/heroes-reborn|title=Heroes: Reborn|website=Metacritic|access-date=2016-03-27}}</ref> On [[Rotten Tomatoes]], 42% of 50 reviews are positive, with the consensus stating, "Focusing on special effects and unearned melodrama at the expense of the original's initially intriguing narrative, ''Heroes Reborn'' is a series revival with seemingly limited prospects."<ref>{{Cite web|url=http://www.rottentomatoes.com/tv/heroes-reborn/s01/|title=Heroes Reborn: Season 1|website=www.rottentomatoes.com|access-date=2021-02-16}}</ref>
+
+About the show's reception, Kring said: "Well, when you make a show like that, I was adamant about that show being a thirteen-episode event series, and having a closed-ended quality to it. I had always felt that one of the issues with ''Heroes'' was the ongoing nature of it was difficult to sustain, so I really loved the idea that this was a thirteen-episode event series, and when it was over, it was over. I don't know that the audience ever really understood that that was the initial plan from the very beginning. So I think that it got a little confusing for the audience as to whether it was a reboot of ''Heroes'', or whether it was just an event series. As much as we tried to say it every time in the press, I think that message may not have completely come through, that it was always intended to come to an end. So in terms of how it wrapped up, I feel a little remorse that I think a lot of people didn't understand that it was supposed to wrap up when it did. We actually really felt very good about what we accomplished with the thirteen episodes."<ref name="Assignment X 2017-01-02 Kring interview">{{cite web |url=https://www.assignmentx.com/2017/beyond-tim-kring-talks-about-new-series-and-the-end-of-heroes-reborn-exclusive-interview/ |title=BEYOND: Tim Kring talks about new series and the end of HEROES REBORN – Exclusive Interview |last=Bernstein |first=Abbie |work=Assignment X |date=January 2, 2017 |url-status=live |archive-url=https://web.archive.org/web/20190318120241/https://www.assignmentx.com/2017/beyond-tim-kring-talks-about-new-series-and-the-end-of-heroes-reborn-exclusive-interview/ |archive-date=March 18, 2019 |access-date=March 18, 2019 }}</ref>
+
+==Home media releases==
+''Heroes Reborn - Event Series'' was released on DVD and Blu-ray disc on April 12, 2016 in [[DVD region code#1|Region 1]] by [[Universal Studios Home Entertainment]].<ref>{{cite web|url=http://www.tvshowsondvd.com/news/Heroes-Reborn-DVDs-BDs-Announced/21917|title=Heroes Reborn (mini-series) - The 'Event Series' is Announced for DVD, Blu-ray Disc|work=TVShowsonDVD.com|last=Lambert|first=David|date=January 16, 2016|access-date=January 22, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160121214236/http://www.tvshowsondvd.com/news/Heroes-Reborn-DVDs-BDs-Announced/21917|archive-date=January 21, 2016}}</ref>
+
+==Other media==
+
+=== Comics ===
+[[Titan Comics]] published two Heroes Reborn-related limited series:
+
+* ''Heroes: Vengeance,'' written by Seamus Fahey and Zach Craley, and illustrated by the artist Rubine Cubiles.<ref>{{Cite web |last=Damore |first=Meagan |date=2015-10-06 |title=EXCLUSIVE: Titan Debuts "Heroes Vengeance" Covers by Shalvey, Pope & More |url=https://www.cbr.com/exclusive-titan-debuts-heroes-vengeance-covers-by-shalvey-pope-more/ |access-date=2023-04-26 |website=CBR |language=en}}</ref>
+* ''Heroes: Godsend'', written by Joey Falco and illustrated by Roy Allan Martinez.<ref>{{Cite web |last=Hessel |first=Marcelo |date=2015-12-16 |title=Heroes ganhará prelúdio em quadrinhos |url=https://www.omelete.com.br/heroes-reborn/heroes-ganhara-preludio-em-quadrinhos |access-date=2023-04-26 |website=Omelete |language=pt-br}}</ref>
+
+=== Video games ===
+A video game tie in developed and published by Phosphor Games, ''Gemini: Heroes Reborn'', released in January 2016 for the [[PlayStation 4]], [[PC game|PC]], and [[Xbox One]] to mixed reviews.<ref>{{Cite web |last=Johnson |first=Leif |date=20 January 2016 |title=Gemini: Heroes Reborn Review |url=https://www.ign.com/articles/2016/01/20/gemini-heroes-reborn-review |access-date=2022-12-17 |website=[[IGN]] |language=en}}</ref><ref>{{Cite web |title=Gemini: Heroes Reborn - PlayStation 4 |url=https://www.metacritic.com/game/gemini-heroes-reborn/critic-reviews/?platform=playstation-4 |access-date=2022-12-17 |website=[[Metacritic]] |language=en}}</ref><ref>{{Cite web |title=Gemini: Heroes Reborn - Xbox One |url=https://www.metacritic.com/game/gemini-heroes-reborn/critic-reviews/?platform=xbox-one |access-date=2022-12-17 |website=[[Metacritic]] |language=en}}</ref><ref>{{Cite web |title=Gemini: Heroes Reborn - PC |url=https://www.metacritic.com/game/gemini-heroes-reborn/critic-reviews/?platform=pc |access-date=2022-12-17 |website=[[Metacritic]] |language=en}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{official website|http://www.nbc.com/heroes-reborn}}
+* {{IMDb title|tt3556944}}
+
+{{Heroes}}
+
+[[Category:Heroes (American TV series)| ]]
+[[Category:2010s American science fiction television series]]
+[[Category:2010s American superhero television series]]
+[[Category:2010s American television series about time travel]]
+[[Category:2015 American television series debuts]]
+[[Category:2015 English-language television series debuts]]
+[[Category:2016 American television series endings]]
+[[Category:2016 English-language television series endings]]
+[[Category:American fantasy drama television series]]
+[[Category:American sequel television series]]
+[[Category:English-language American television shows]]
+[[Category:NBC fantasy dramas]]
+[[Category:NBC science fiction dramas]]
+[[Category:Nonlinear narrative television series]]
+[[Category:Serial drama television series]]
+[[Category:Television series about genetic engineering]]
+[[Category:Television series by Universal Television]]
+[[Category:Television series created by Tim Kring]]
+[[Category:Television shows shot in Kitchener, Ontario]]
+[[Category:Television shows shot in Los Angeles]]
+[[Category:Television shows shot in Toronto]]
+[[Category:Television shows shot in Mississauga]]
+[[Category:Television shows set in Texas]]

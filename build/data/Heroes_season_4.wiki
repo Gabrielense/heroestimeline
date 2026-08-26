@@ -1,0 +1,300 @@
+{{Use American English|date=May 2025}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox television season
+| season_number = 4
+| bgcolor       = #220002
+| image         = Heroes Season 4.png
+| caption       = DVD cover
+| starring      = {{Plainlist|
+* [[Jack Coleman (actor)|Jack Coleman]]
+* [[Greg Grunberg]]
+* [[Ali Larter]]
+* [[Masi Oka]]
+* [[Hayden Panettiere]]
+* [[Adrian Pasdar]]
+* [[Sendhil Ramamurthy]]
+* [[Milo Ventimiglia]]
+* [[James Kyson Lee]]
+* [[Zachary Quinto]]
+* [[Cristine Rose]]
+* [[Robert Knepper]]
+}}
+| network       = [[NBC]]
+| first_aired   = {{Start date|2009|09|21}}
+| last_aired    = {{End date|2010|2|8}}
+| num_episodes  = 18
+| episode_list  = List of Heroes episodes
+}}
+The [[NBC]] [[superhero fiction|superhero]] [[Serial (radio and television)|serial]] [[Dramatic programming|drama]] series ''[[Heroes (American TV series)|Heroes]]'' follows the lives of people across the globe who possess various [[superhuman]] powers as they struggle to cope with their everyday lives and prevent foreseen disasters from occurring. The fourth and final season premiered on September 21, 2009, and was released on DVD on July 27, 2010.
+
+On May 14, 2010, NBC cancelled the show after four seasons, although it would return as a 13-episode [[Heroes Reborn (miniseries)|miniseries]] in 2015.
+
+==Plot==
+New characters are introduced in this season, mostly centred around a carnival troupe and their leader.
+
+==Cast and characters==
+
+===Main characters===
+*[[Hayden Panettiere]] as [[Claire Bennet]]
+*[[Robert Knepper]] as [[Samuel Sullivan (Heroes)|Samuel Sullivan]]
+*[[Jack Coleman (actor)|Jack Coleman]] as [[Noah Bennet]]
+*[[Zachary Quinto]] as [[Sylar]]
+*[[Milo Ventimiglia]] as [[Peter Petrelli]]
+*[[Masi Oka]] as [[Hiro Nakamura]] 
+*[[Greg Grunberg]] as [[Matt Parkman]]
+*[[Cristine Rose]] as [[Angela Petrelli]]
+*[[Adrian Pasdar]] as [[Nathan Petrelli]]
+*[[James Kyson Lee]] as [[Ando Masahashi]]
+*[[Ali Larter]] as [[Tracy Strauss]]
+*[[Sendhil Ramamurthy]] as [[Mohinder Suresh]]
+
+===Recurring characters===
+{{Columns-list|colwidth=30em|
+*[[Dawn Olivieri]] as [[List of characters in Heroes#Lydia|Lydia]]
+*[[Madeline Zima]] as [[List of characters in Heroes#Gretchen Berg|Gretchen Berg]]
+*[[Ray Park]] as [[List of characters in Heroes#Edgar|Edgar]]
+*[[Deanne Bray]] as [[List of characters in Heroes#Emma Coolidge|Emma Coolidge]]
+*[[Elisabeth Röhm]] as [[List of characters in Heroes#Lauren Gilmore|Lauren Gilmore]]
+*Daryl Crittenden as Chris Bowman
+*[[Jimmy Jean-Louis]] as [[Haitian (Heroes)|The Haitian]]
+*[[Lisa Lackey]] as [[List of characters in Heroes#Janice Parkman|Janice Parkman]]
+*[[Todd Stashwick]] as [[List of characters in Heroes#Eli|Eli]]
+*[[David H. Lawrence XVII]] as [[List of characters in Heroes#Eric Doyle|Eric Doyle]]
+*[[Ashley Crow]] as [[List of characters in Heroes#Sandra Bennet|Sandra Bennet]]
+*Harry Perry as [[List of characters in Heroes#Damien|Damien]]
+*[[Sasha Pieterse]] as [[List of characters in Heroes#Amanda Strazzulla|Amanda Strazzulla]]
+*[[Saemi Nakamura]] as [[List of characters in Heroes#Kimiko Nakamura|Kimiko Nakamura]]
+*Carlease Burke as [[List of characters in Heroes#Nurse Hammer|Nurse Hammer]]
+*Sally Champlin as Lynette the Waitress
+*[[Assaf Cohen]] as [[List of characters in Heroes#Hesam|Hesam]]
+*[[Jayma Mays]] as [[List of characters in Heroes#Charlie Andrews|Charlie Andrews]]
+*[[Tessa Thompson]] as [[List of characters in Heroes#Rebecca Taylor|Rebecca Taylor]]
+*Jack Wallace as [[List of characters in Heroes#Arnold|Arnold]]
+*[[Rick Worthy]] as Mike
+*[[Kate Vernon]] as [[List of characters in Heroes#Vanessa Wheeler|Vanessa Wheeler]]
+*[[Mark L. Young]] as [[List of characters in Heroes#Jeremy Greer|Jeremy Greer]]
+*[[Louise Fletcher]] as Dr. Coolidge
+*[[Ernie Hudson]] as Captain Lubbock
+*[[Željko Ivanek]] as [[List of characters in Heroes#Emile Danko|Emile Danko]]
+*[[Rachel Melvin]] as Annie
+*[[Swoosie Kurtz]] as Millie Houston
+*[[Daniel Newman (American actor)|Daniel Newman]] as Jimmy Keppler
+*[[Richard Roundtree]] as [[List of characters in Heroes#Charles Deveaux|Charles Deveaux]]
+*[[George Takei]] as [[List of characters in Heroes#Kaito Nakamura|Kaito Nakamura]]
+*[[Tamlyn Tomita]] as [[List of characters in Heroes#Ishi Nakamura|Ishi Nakamura]]
+}}
+
+==Episodes==
+<onlyinclude>{{Episode table |background=#220002 |overall=6 |season=6 |title=20 |director=18 |writer=25 |airdate=15 |viewers=10 |country=US |airdateR= |episodes=
+{{Episode table/part|volume=Five |subtitle=''Redemption''|c=#220002}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 60
+ |EpisodeNumber2 = 1
+ |Title = [[Orientation (Heroes)|Orientation]]
+ |DirectedBy = [[Ed Bianchi]] & [[David Straiton]]
+ |WrittenBy = Adam Armus & Kay Foster and [[Tim Kring]]
+ |OriginalAirDate = {{Start date|2009|9|21}}
+ |Viewers = 5.77<ref name="09-21 overnight">{{cite web|url=http://tvbythenumbers.com/2009/09/22/tv-ratings-dancing-house-premiere-big-heroes-the-jay-leno-show-fall/27997 |title=Updated TV Ratings: House premieres big Dancing, Heroes & The Jay Leno Show fall |publisher=TV by the Numbers |date=September 22, 2009 |access-date=September 23, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090924084022/http://tvbythenumbers.com/2009/09/22/tv-ratings-dancing-house-premiere-big-heroes-the-jay-leno-show-fall/27997 |archive-date=September 24, 2009 }}</ref>
+ |ShortSummary = ''Double-length episode.'' Claire starts as a freshman in college, but cannot fully leave her old life behind. Peter returns to his job as a paramedic, saving people with the help of Mohinder's abilities. Hiro and Ando have started a "Dial a Hero" business, but Hiro is not in control of his power and believes himself to be dying. Angela is worried about Nathan, who is starting to display Sylar's abilities. Samuel, Lydia and Edgar use their abilities to find other Heroes. Tracy continues to hunt down former Building 26 employees, including Noah and Danko. Sylar's consciousness manifests itself inside Matt's mind.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 61
+ |EpisodeNumber2 = 2
+ |Title = [[Ink (Heroes)|Ink]]
+ |DirectedBy = [[Roxann Dawson]]
+ |WrittenBy = [[Aron Eli Coleite]]
+ |OriginalAirDate = {{Start date|2009|9|28}}
+ |Viewers = 5.82<ref name="09-29 overnight">{{cite web|url=http://tvbythenumbers.com/2009/09/29/s-tv-ratings-house-down-still-tops-traumas-explosions-lead-to-ratings-implosion/28773 |title=TV Ratings: House down, still tops; Trauma's explosions lead to ratings implosion |publisher=TV by the Numbers |date=September 29, 2009 |access-date=September 30, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091004224732/http://tvbythenumbers.com/2009/09/29/s-tv-ratings-house-down-still-tops-traumas-explosions-lead-to-ratings-implosion/28773 |archive-date=October 4, 2009 }}</ref>
+ |ShortSummary = Samuel attempts to manipulate Peter into filling his brother's position at the carnival. While facing the consequences of this, Peter meets a reluctant new [[Emma Coolidge|hero]]. Claire tries to adjust to college life and the revelation of her ability. Sylar uses Matt's ability against him in a bid to return to his body.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 62
+ |EpisodeNumber2 = 3
+ |Title = [[Acceptance (Heroes)|Acceptance]]
+ |DirectedBy = [[Christopher Misiano]]
+ |WrittenBy = [[Bryan Fuller]]
+ |OriginalAirDate = {{Start date|2009|10|5}}
+ |Viewers = 5.41<ref name="10-05 overnight">{{cite web|url=http://tvbythenumbers.com/2009/10/06/tv-ratings-most-shows-down-but-dancing-and-castle-on-the-rise-heroes-sinks-further/29635 |title=TV Ratings: Most shows down Castle flat (in finals); Heroes sinks further |publisher=TV by the Numbers |date=October 6, 2009 |access-date=October 7, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091008092331/http://tvbythenumbers.com/2009/10/06/tv-ratings-most-shows-down-but-dancing-and-castle-on-the-rise-heroes-sinks-further/29635 |archive-date=October 8, 2009 }}</ref>
+ |ShortSummary = Hiro distracts himself by helping others, and in the process learns to accept his own situation. Angela helps Nathan remember his past, but instead uncovers a long-buried secret. Tracy seeks out her old job but wants to do more to help people. Noah begins to drift back to his old life.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 63
+ |EpisodeNumber2 = 4
+ |Title = [[Hysterical Blindness (Heroes)|Hysterical Blindness]]
+ |DirectedBy = [[S.J. Clarkson|SJ Clarkson]]
+ |WrittenBy = [[Joe Pokaski]]
+ |OriginalAirDate = {{Start date|2009|10|12}}
+ |Viewers = 5.64<ref name="10-12 overnight">{{cite web|url=http://tvbythenumbers.com/2009/10/13/tv-ratings-castle-heroes-trauma-stabilize/30288 |title=TV Ratings: Castle flat; Heroes, Trauma stabilize as CBS and ABC take night |publisher=TV by the Numbers |date=October 13, 2009 |access-date=October 13, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091016065715/http://tvbythenumbers.com/2009/10/13/tv-ratings-castle-heroes-trauma-stabilize/30288 |archive-date=October 16, 2009 }}</ref>
+ |ShortSummary = Sylar wakes up with no memories. Claire discovers that there is more to her new roommate than what she already knows. Peter helps Emma to better understand her ability. Samuel seeks out a new member to the carnival family.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 64
+ |EpisodeNumber2 = 5
+ |Title = [[Tabula Rasa (Heroes)|Tabula Rasa]]
+ |DirectedBy = Jim Chory
+ |WrittenBy = Rob Fresco
+ |OriginalAirDate = {{Start date|2009|10|19}}
+ |Viewers = 5.67<ref name="10-19 overnight">{{cite web|url=http://tvbythenumbers.com/2009/10/20/tv-ratings-heroes-castle-flat-big-bang-theory-soars-higher/30938 |title=TV Ratings: Heroes up; Castle flat; Big Bang Theory soars higher |publisher=TV by the Numbers |date=October 20, 2009 |access-date=October 20, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091022135846/http://tvbythenumbers.com/2009/10/20/tv-ratings-heroes-castle-flat-big-bang-theory-soars-higher/30938 |archive-date=October 22, 2009 }}</ref>
+ |ShortSummary = Sylar starts his journey to rediscover himself with the help of Samuel. Hiro shows Emma how to accept her ability and the possibilities it brings. Peter enlists Noah's help in finding a healer to save Hiro.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 65
+ |EpisodeNumber2 = 6
+ |Title = [[Strange Attractors]]
+ |DirectedBy = [[Tucker Gates]]
+ |WrittenBy = Juan Carlos Coto
+ |OriginalAirDate = {{Start date|2009|10|26}}
+ |Viewers = 5.86<ref name="10-26 overnight">{{cite web|url=http://tvbythenumbers.com/2009/10/27/tv-ratings-against-csi-miami-rerun-crushes-the-jay-leno-show-castle-gains/31639 |title=TV Ratings: CSI: Miami rerun CRUSHES The Jay Leno Show; Castle gains |publisher=TV by the Numbers |date=October 27, 2009 |access-date=October 27, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091029145008/http://tvbythenumbers.com/2009/10/27/tv-ratings-against-csi-miami-rerun-crushes-the-jay-leno-show-castle-gains/31639 |archive-date=October 29, 2009 }}</ref>
+ |ShortSummary = Matt looks for a way to get rid of Sylar after he learns to take control of his body. Noah enlists the help of Tracy in order to help free Jeremy from the police. Claire is concerned that someone wants to eliminate Gretchen during a treasure hunt for their sorority.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 66
+ |EpisodeNumber2 = 7
+ |Title = [[Once Upon a Time in Texas]]
+ |DirectedBy = Nate Goodman
+ |WrittenBy = Aron Eli Coleite & [[Aury Wallington]]
+ |OriginalAirDate = {{Start date|2009|11|2}}
+ |Viewers = 6.18<ref name="11-2 overnight">{{cite web|url=http://tvbythenumbers.com/2009/11/03/tv-ratings-world-series-game-five-wins-for-fox-hereo-trauma-up-castle-down/32393 |title=TV Ratings: World Series Game five wins for FOX; Heroes, Trauma up; Castle down |publisher=TV by the Numbers |date=November 3, 2009 |access-date=November 3, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091105230856/http://tvbythenumbers.com/2009/11/03/tv-ratings-world-series-game-five-wins-for-fox-hereo-trauma-up-castle-down/32393 |archive-date=November 5, 2009 }}</ref>
+ |ShortSummary = Hiro travels three years into the past to save Charlie's life from the hands of Sylar, only to have things complicated by Samuel's presence. Meanwhile something from Noah's past is revealed.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 67
+ |EpisodeNumber2 = 8
+ |Title = [[Shadowboxing (Heroes)|Shadowboxing]]
+ |DirectedBy = Jim Chory
+ |WrittenBy = Misha Green & Joe Pokaski
+ |OriginalAirDate = {{Start date|2009|11|9}}
+ |Viewers = 5.35<ref name="11-9 overnight">{{cite web|url=http://tvbythenumbers.com/2009/11/10/tv-ratings-house-lie-to-me-up-heroes-castle-down-jay-leno-slips-below-4-million/33107 |title=TV Ratings: House, Lie to Me, Castle up; Heroes down; Jay Leno slips below 4 million viewers |publisher=TV by the Numbers |date=November 10, 2009 |access-date=November 10, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091112021637/http://tvbythenumbers.com/2009/11/10/tv-ratings-house-lie-to-me-up-heroes-castle-down-jay-leno-slips-below-4-million/33107 |archive-date=November 12, 2009 }}</ref>
+ |ShortSummary = Though Peter's new ability is helpful in his job, it is trying on him until he uses it to help Emma. Claire learns that the sorority rush attack happened because of something her father did. Sylar's battle to control Matt's body moves into dangerous territory.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 68
+ |EpisodeNumber2 = 9
+ |Title = [[Brother's Keeper (Heroes)|Brother's Keeper]]
+ |DirectedBy = [[Bryan Spicer]]
+ |WrittenBy = Rob Fresco & [[Mark Verheiden]]
+ |OriginalAirDate = {{Start date|2009|11|16}}
+ |Viewers = 5.07<ref name ="11-16 overnight">{{cite web | url = http://tvbythenumbers.com/2009/11/18/tv-ratings-the-big-bang-theory-two-and-a-half-men-castle-up-heroes-down/33813 | title = TV Ratings: The Big Bang Theory, Two and A Half Men, Castle up; Heroes Down | publisher = TV by the Numbers | date = November 18, 2009 | access-date = November 18, 2009 | archive-date = November 19, 2009 | archive-url = https://web.archive.org/web/20091119213945/http://tvbythenumbers.com/2009/11/18/tv-ratings-the-big-bang-theory-two-and-a-half-men-castle-up-heroes-down/33813 | url-status = dead }}</ref>
+ |ShortSummary = Mohinder discovered something shocking on an old film reel nine weeks ago. Hiro travels back in time to retrieve that film for Samuel. Tracy begins to lose control of her ability. Nathan and Peter go to Matt, only to discover the truth about Sylar.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 69
+ |EpisodeNumber2 = 10
+ |Title = [[Thanksgiving (Heroes)|Thanksgiving]]
+ |DirectedBy = [[Seith Mann]]
+ |WrittenBy = Adam Armus & Kay Foster
+ |OriginalAirDate = {{Start date|2009|11|23}}
+ |Viewers = 5.17<ref name="11-23 overnight">{{cite web|url=http://tvbythenumbers.com/2009/11/24/tv-ratings-the-big-bang-theory-sets-high-find-my-family-a-better-lead-in-for-castle/34407 |title=TV Ratings: The Big Bang Theory sets high; Find My Family a better lead-in for Castle? |publisher=TV by the Numbers |date=November 24, 2009 |access-date=November 24, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091126200949/http://tvbythenumbers.com/2009/11/24/tv-ratings-the-big-bang-theory-sets-high-find-my-family-a-better-lead-in-for-castle/34407 |archive-date=November 26, 2009 }}</ref>
+ |ShortSummary = Three Thanksgiving dinners. The Petrellis: Nathan and Peter confront Angela about the truth with disastrous consequences. The Bennets: a dinner full of drama between Claire and Noah. The Carnival Folk: Hiro travels back in time with Lydia to discover the truth about Joseph's death while Samuel learns of the full potential of his ability.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 70
+ |EpisodeNumber2 = 11
+ |Title = [[The Fifth Stage]]
+ |DirectedBy = [[Kevin Dowling (director)|Kevin Dowling]]
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2009|11|30}}
+ |Viewers = 5.90<ref name="11-30 overnight">{{cite web|url=http://tvbythenumbers.com/2009/12/01/tv-ratings-house-tops-night-the-jay-leno-show-loses-to-reruns-of-csi-miami-castle/34835 |title=TV Ratings: House tops night; The Jay Leno Show loses to reruns of CSI: Miami, Castle |publisher=TV by the Numbers |date=December 1, 2009 |access-date=December 1, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091204015331/http://tvbythenumbers.com/2009/12/01/tv-ratings-house-tops-night-the-jay-leno-show-loses-to-reruns-of-csi-miami-castle/34835 |archive-date=December 4, 2009 }}</ref>
+ |ShortSummary = Claire travels to the carnival and finds an open invitation. Noah confesses the truth to Lauren about their past relationship. Peter uses the Haitian's ability to get rid of Sylar and bring back Nathan, but must deal with an unexpected choice by Nathan.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 71
+ |EpisodeNumber2 = 12
+ |Title = [[Upon This Rock (Heroes)|Upon This Rock]]
+ |DirectedBy = [[Ron Underwood]]
+ |WrittenBy = Juan Carlos Coto
+ |OriginalAirDate = {{Start date|2010|1|4}}
+ |Viewers = 5.30<ref name="01-04 overnight">{{cite web|url=http://tvbythenumbers.com/2010/01/05/tv-ratings-boise-state-the-bachelor-top-night-heroes-slides-at-9pm/37610 |title=TV Ratings: Boise State; The Bachelor Top Night, Heroes Slides at 9pm |publisher=TV by the Numbers |date=January 5, 2010 |access-date=January 5, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100108205915/http://tvbythenumbers.com/2010/01/05/tv-ratings-boise-state-the-bachelor-top-night-heroes-slides-at-9pm/37610 |archive-date=January 8, 2010 }}</ref>
+ |ShortSummary = Claire searches for answers as she is suspicious of Samuel's true motives. Samuel seeks out Emma in hopes she can help him find someone. Hiro seeks out Ando for his assistance on a new mission but has trouble communicating his intentions.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 72
+ |EpisodeNumber2 = 13
+ |Title = [[Let It Bleed (Heroes)|Let It Bleed]]
+ |DirectedBy = [[Jeannot Szwarc]]
+ |WrittenBy = Jim Martin
+ |OriginalAirDate = {{Start date|2010|1|4}}
+ |Viewers = 4.57<ref name="01-04 overnight"/>
+ |ShortSummary = Peter has trouble coping with Nathan's death as Claire tries to console him. Sylar returns to the Carnival to kill Samuel, only to discover something unexpected. Edgar and Noah team up to find a way of bringing down Samuel.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 73
+ |EpisodeNumber2 = 14
+ |Title = [[Close to You (Heroes)|Close to You]]
+ |DirectedBy = Roxann Dawson
+ |WrittenBy = Rob Fresco
+ |OriginalAirDate = {{Start date|2010|1|11}}
+ |Viewers = 4.71<ref name="01-11 finals">{{cite web|url=http://tvbythenumbers.com/2010/01/12/tv-ratings-cbs-wins-the-big-bang-theory-hits-highs-fringe-pummels-heroes/38476 |title=TV Ratings: CBS Wins; The Big Bang Theory Hits Highs Fringe Pummels Heroes |publisher=TV by the Numbers |date=January 11, 2010 |access-date=January 11, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100115154452/http://tvbythenumbers.com/2010/01/12/tv-ratings-cbs-wins-the-big-bang-theory-hits-highs-fringe-pummels-heroes/38476 |archive-date=January 15, 2010 }}</ref>
+ |ShortSummary = Hiro and Ando travel to Florida to rescue Mohinder from a mental institution. Noah seeks out Matt to help him with a lead on dealing with Samuel. Peter learns about a horrifying potential future event involving Emma.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 74
+ |EpisodeNumber2 = 15
+ |Title = [[Pass/Fail]]
+ |DirectedBy = [[Michael Nankin]]
+ |WrittenBy = Oliver Grigsby
+ |OriginalAirDate = {{Start date|2010|1|18}}
+ |Viewers = 3.93<ref name="01-19 finals">{{cite web|url=http://tvbythenumbers.com/2010/01/19/tv-ratings-cbs-wins-how-i-met-your-mother-hits-season-highs-life-unexpected-premieres-solidly/39266 |title=TV Ratings: CBS Wins; How I Met Your Mother hits season highs; Life Unexpected Premieres Solidly |publisher=TV by the Numbers |date=January 11, 2010 |access-date=January 19, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100611163519/http://tvbythenumbers.com/2010/01/19/tv-ratings-cbs-wins-how-i-met-your-mother-hits-season-highs-life-unexpected-premieres-solidly/39266 |archive-date=June 11, 2010 }}</ref>
+ |ShortSummary = Hiro falls into a tumor-induced hallucination in which he goes on a trial of his life for changing the past. Sylar confronts Claire in hope that she will help him figure out the truth behind his problems. Samuel tries to woo his old love Vanessa with disastrous consequences.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 75
+ |EpisodeNumber2 = 16
+ |Title = [[The Art of Deception (Heroes)|The Art of Deception]]
+ |DirectedBy = SJ Clarkson
+ |WrittenBy = Mark Verheiden & Misha Green
+ |OriginalAirDate = {{Start date|2010|1|25}}
+ |Viewers = 4.29<ref name="01-25 overnight">{{cite web|url=http://tvbythenumbers.com/2010/01/26/tv-ratings-fox-wins-night-castle-sees-highs-chuck-steady/40154 |title=TV Ratings: TV Ratings: FOX Wins Night; Castle Sees Highs, Chuck Steady |publisher=TV by the Numbers |date=January 26, 2010 |access-date=January 26, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100128213300/http://tvbythenumbers.com/2010/01/26/tv-ratings-fox-wins-night-castle-sees-highs-chuck-steady/40154 |archive-date=January 28, 2010 }}</ref>
+ |ShortSummary = Peter pursues a way of keeping his dream of Emma from coming true. Sylar seeks out Matt in hopes Matt will help remove his powers. Claire tries to negotiate the surrender of Samuel to Noah. Peter enters Sylar's mind.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 76
+ |EpisodeNumber2 = 17
+ |Title = [[The Wall (Heroes)|The Wall]]
+ |DirectedBy = [[Allan Arkush]]
+ |WrittenBy = Adam Armus & Kay Foster
+ |OriginalAirDate = {{Start date|2010|2|1}}
+ |Viewers = 4.40<ref name="02-01 overnight">{{cite web|url=http://tvbythenumbers.com/2010/02/02/tv-ratings-cbs-wins-night-as-the-big-bang-theory-tops-all-chuck-steady-ish/40807 |title=TV Ratings: CBS Wins Night as The Big Bang Theory Tops All; The Bacherlor Hits Highs; Chuck Steady-ish |publisher=TV by the Numbers |date=February 2, 2010 |access-date=February 2, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100204003935/http://tvbythenumbers.com/2010/02/02/tv-ratings-cbs-wins-night-as-the-big-bang-theory-tops-all-chuck-steady-ish/40807 |archive-date=February 4, 2010 }}</ref>
+ |ShortSummary = Peter tries to help Sylar free himself from his own nightmare. Samuel tries to convince Claire to join his family by revealing dark secrets from Noah's past to her. Lauren confronts Samuel at the carnival. Samuel makes preparations for their final "performance" in New York.
+ |LineColor = 220002
+}}
+{{Episode list/sublist|Heroes season 4
+ |EpisodeNumber = 77
+ |EpisodeNumber2 = 18
+ |Title = [[Brave New World (Heroes)|Brave New World]]
+ |DirectedBy = [[Adam Kane]] 
+ |WrittenBy = Tim Kring
+ |OriginalAirDate = {{Start date|2010|2|8}}
+ |Viewers = 4.41<ref name="02-09 overnight">{{cite web|url=http://tvbythenumbers.com/2010/02/09/tv-ratings-cbs-sees-post-super-bowl-boost-the-big-bang-theory-hits-series-highs-chuck-castle-drops/41462 |title=TV Ratings: CBS Sees Post Super Bowl Boost; The Big Bang Theory Hits Series Highs; Chuck, Castle Drop |publisher=TV by the Numbers |date=February 9, 2010 |access-date=February 9, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100210191705/http://tvbythenumbers.com/2010/02/09/tv-ratings-cbs-sees-post-super-bowl-boost-the-big-bang-theory-hits-series-highs-chuck-castle-drops/41462 |archive-date=February 10, 2010 }}</ref>
+ |ShortSummary = Samuel's ultimate plan takes effect as Emma is forced into using her abilities to help him kill thousands of people, only to have an unlikely pair of heroes come to her rescue. Noah seeks Claire's forgiveness as they work to escape from their underground prison. Hiro comes to acceptance over his past decisions as he is reunited with his long lost love and seeks to avert disaster. Claire shows the world the truth it may not be ready for.
+ |LineColor = 220002
+}}
+}}</onlyinclude>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{IMDb episodes|0813715||Season 4}}
+
+{{Heroes}}
+
+[[Category:Heroes (American TV series) seasons|04]]
+[[Category:2009 American television seasons]]
+[[Category:2010 American television seasons]]

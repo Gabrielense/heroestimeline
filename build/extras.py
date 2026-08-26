@@ -33,6 +33,8 @@ def main():
     imgs = load("gn_wiki.json").get("found", {})
     sites = load("sites.json").get("found", {})
     istory = load("istory.json")
+    eps = load("ep_synopses.json")
+    epimgs = load("ep_wiki.json").get("found", {})
 
     gn = {}
     for num, rec in syn.items():
@@ -48,6 +50,19 @@ def main():
         if e:
             gn[num] = e
 
+    ep = {}
+    for code, rec in eps.items():
+        e = {}
+        if rec.get("d"):
+            e["d"] = rec["d"]
+        img = epimgs.get(code) or {}
+        if img.get("card"):
+            e["img"] = img["card"]
+        if img.get("page"):
+            e["wiki"] = img["page"]
+        if e:
+            ep[code] = e
+
     site = {}
     for title, rec in sites.items():
         e = {"url": rec["url"]}
@@ -59,7 +74,7 @@ def main():
             e["note"] = rec["note"]
         site[title] = e
 
-    out = {"gn": gn, "site": site, "istory": istory}
+    out = {"gn": gn, "ep": ep, "site": site, "istory": istory}
     blob = json.dumps(out, ensure_ascii=False, separators=(",", ":"))
 
     html = open(HTML, encoding="utf-8").read()
@@ -73,6 +88,9 @@ def main():
           % (sum(1 for v in gn.values() if "d" in v),
              sum(1 for v in gn.values() if "img" in v),
              sum(1 for v in gn.values() if "cover" in v)))
+    print("episodes %3d blurbs, %3d title cards"
+          % (sum(1 for v in ep.values() if "d" in v),
+             sum(1 for v in ep.values() if "img" in v)))
     print("sites    %3d linked" % len(site))
     print("istory   %3d chapters" % len(istory))
     print("wrote %.1f KB into index.html" % (len(blob) / 1024))
