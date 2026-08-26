@@ -1,0 +1,987 @@
+{
+ "1": {
+  "date": "2006-09-25",
+  "desc": "Offers background information on Mohinder Suresh, Chandra Suresh and his mysterious death.",
+  "title": "Monsters"
+ },
+ "10": {
+  "date": "2006-11-27",
+  "desc": "Details Audrey Hanson's hunt for Sylar.",
+  "title": "Turning Point"
+ },
+ "100": {
+  "date": "2008-08-25",
+  "desc": "Donna and Thompson try to find Evs Dropper",
+  "title": "Foresight"
+ },
+ "101": {
+  "date": "2008-09-01",
+  "desc": "The identity of Evs Dropper is revealed",
+  "title": "Into the Wild, Part 1"
+ },
+ "102": {
+  "date": "2008-09-08",
+  "desc": "More of Evs Dropper's past is revealed, and a surprising double-cross occurs",
+  "title": "Into the Wild, Part 2"
+ },
+ "103": {
+  "date": "2008-09-15",
+  "desc": "The Evs Dropper storyline concludes.",
+  "title": "Into the Wild, Part 3"
+ },
+ "104": {
+  "date": "2008-09-22",
+  "desc": "Company agents Gael Cruz and Bianca confront Sylar outside the Bennets' home.",
+  "title": "Dreams Until Death"
+ },
+ "105": {
+  "date": "2008-09-29",
+  "desc": "How escaped Level 5 inmates Knox and Jesse first aroused The Company's attention.",
+  "title": "The Sting of Injustice"
+ },
+ "106": {
+  "date": "2008-10-07",
+  "desc": "The events that lead up to Claire's decision to kill Peter Petrelli.",
+  "title": "Resistance"
+ },
+ "107": {
+  "date": "2008-10-13",
+  "desc": "Doyle's incarceration in, and subsequent escape from, Level 5.",
+  "title": "Doyle"
+ },
+ "108": {
+  "artist": "Jason Badower",
+  "date": "2008-10-20",
+  "desc": "Elle gets by with a little help from a friend.",
+  "title": "Sum Quod Sum, Part 1",
+  "writer": "Oliver Grisby"
+ },
+ "109": {
+  "artist": "Jason Badower",
+  "date": "2008-10-27",
+  "desc": "Elle gets some assistance.",
+  "title": "Sum Quod Sum, Part 2",
+  "writer": "Oliver Grisby"
+ },
+ "11": {
+  "date": "2006-12-04",
+  "desc": "Noah Bennet visits Eden McCain's father to explain her death.",
+  "title": "Fathers & Daughters"
+ },
+ "110": {
+  "artist": "Alitha Martinez",
+  "date": "2008-11-04",
+  "desc": "Sylar's first and only solo mission.",
+  "title": "Viewpoints",
+  "writer": "Chuck Kim"
+ },
+ "111": {
+  "artist": "Michael Gaydos",
+  "date": "2008-11-11",
+  "desc": "The childhood of Meredith and Flint is explored.",
+  "title": "Playing With Fire",
+  "writer": "Zach Craley"
+ },
+ "112": {
+  "artist": "Dan Panosian",
+  "date": "2008-11-18",
+  "desc": "Noah Bennet and Meredith Gordon track down an escaped prisoner from Level 5.",
+  "title": "Partners",
+  "writer": "Bill Hooper"
+ },
+ "113": {
+  "artist": "Alitha Martinez",
+  "date": "2008-11-25",
+  "desc": "Daphne Millbrook's back-story is revealed, from her childhood until the manifestation of her ability.",
+  "title": "The Caged Bird, Part 1",
+  "writer": "Timm Keppler"
+ },
+ "114": {
+  "artist": "Alitha Martinez",
+  "date": "2008-12-02",
+  "desc": "Daphne's back-story continued, fleeing and eventually coming back home to Kansas and her father.",
+  "title": "The Caged Bird, Part 2",
+  "writer": "Timm Keppler"
+ },
+ "115": {
+  "artist": "Peter Steigerwald",
+  "date": "2008-12-09",
+  "desc": "Arthur Petrelli reflects on his life in the moments before he is killed.",
+  "title": "Truths",
+  "writer": "Zach Craley"
+ },
+ "116": {
+  "artist": "Jason Badower",
+  "date": "2008-12-16",
+  "desc": "Ryan learns the truth about the program at Pinehearst.",
+  "title": "Stuck In The Middle",
+  "writer": "Jim Martin"
+ },
+ "117": {
+  "artist": "Marcus To",
+  "date": "2008-12-23",
+  "desc": "Revenge on the Kill Squad.",
+  "title": "Red Eye, Part 1",
+  "writer": "J.T. Krul"
+ },
+ "118": {
+  "artist": "Marcus To",
+  "date": "2008-12-30",
+  "desc": "Running away from the past rarely leads to the future.",
+  "title": "Red Eye, Part 2",
+  "writer": "David Wohl"
+ },
+ "119": {
+  "artist": "Dennis Calero",
+  "date": "2009-01-06",
+  "desc": "Surviving a bus crash.",
+  "title": "Under The Bridge, Part 1",
+  "writer": "Harrison Wilcox"
+ },
+ "12": {
+  "date": "2006-12-11",
+  "desc": "Peter Petrelli dreams while in a coma.",
+  "title": "Super-Heroics"
+ },
+ "120": {
+  "artist": "Dennis Calero",
+  "date": "2009-01-13",
+  "desc": "Attempting to run.",
+  "title": "Under The Bridge, Part 2",
+  "writer": "Harrison Wilcox"
+ },
+ "121": {
+  "artist": "Alitha Martinez",
+  "date": "2009-01-20",
+  "desc": "Mohinder is asked to reproduce the formula.",
+  "title": "What We Have Wrought",
+  "writer": "Joseph Robert Donnelly"
+ },
+ "122": {
+  "artist": "Chris Cross",
+  "date": "2009-01-27",
+  "desc": "Parkman tries to stay out of the limelight.",
+  "title": "Almost Famous",
+  "writer": "R.D. Hall"
+ },
+ "123": {
+  "artist": "Jason Badower",
+  "date": "2009-02-03",
+  "desc": "Noah Bennet goes out on \"business\".",
+  "title": "Out of Town...On Business",
+  "writer": "Jim Martin"
+ },
+ "124": {
+  "artist": "Marcus To",
+  "date": "2009-02-10",
+  "desc": "Claire receives a call to arms from a mysterious \"friend\".",
+  "title": "Libertad",
+  "writer": "D.J. Doyle"
+ },
+ "125": {
+  "artist": "Micah Gunnell",
+  "date": "2009-02-17",
+  "desc": "Some of Alex Woolsley's back-story is revealed.",
+  "title": "The Swimmer",
+  "writer": "D.J. Doyle"
+ },
+ "126": {
+  "artist": "Michael Gaydos",
+  "date": "2009-02-24",
+  "desc": "Noah & Claude meet a retired Ivan whilst hunting \"The Russian\".",
+  "title": "Comrades, Part 1",
+  "writer": "Christopher Zatta"
+ },
+ "127": {
+  "artist": "Michael Gaydos",
+  "date": "2009-03-03",
+  "desc": "Ivan causes problems for Noah & Claude whilst after \"The Russian\".",
+  "title": "Comrades, Part 2",
+  "writer": "Christopher Zatta"
+ },
+ "128": {
+  "artist": "Edgar Delgado",
+  "date": "2009-03-10",
+  "desc": "There is no happy ending to Doyle's tale of woe.",
+  "title": "Puppet With No Strings",
+  "writer": "Greg Beeman"
+ },
+ "129": {
+  "artist": "Micah Gunnell",
+  "date": "2009-03-17",
+  "desc": "On the trail of a slippery special, Rachel's truth slips out.",
+  "title": "Hanging By a Thread",
+  "writer": "Jim Martin"
+ },
+ "13": {
+  "date": "2006-12-25",
+  "desc": "Introduces a new character, Hana Gitelman.",
+  "title": "Wireless, Part 1"
+ },
+ "130": {
+  "artist": "Michael Gaydos",
+  "date": "2009-03-24",
+  "desc": "Hiro and Ando get their first parenting experience.",
+  "title": "Baby Power",
+  "writer": "Yule Caise"
+ },
+ "131": {
+  "artist": "Jason Badower",
+  "date": "2009-03-31",
+  "desc": "In his final hours on the job, Agent Jenkins meets his match.",
+  "title": "Cog",
+  "writer": "Foz McDermott"
+ },
+ "132": {
+  "artist": "Marcus To",
+  "date": "2009-04-07",
+  "desc": "West and Alex need Mr Bennet's help.",
+  "title": "Scenic Route",
+  "writer": "Zach Craley"
+ },
+ "133": {
+  "artist": "Siya Oum",
+  "date": "2009-04-14",
+  "desc": "Rachel's coming out party.",
+  "title": "Exodus",
+  "writer": "Bill Hooper"
+ },
+ "134": {
+  "artist": "Michael Gaydos",
+  "date": "2009-04-21",
+  "desc": "Rescuing Nathan.",
+  "title": "One Good Hero",
+  "writer": "Oliver Grigsby"
+ },
+ "135": {
+  "artist": "Phil Jimenez",
+  "date": "2009-04-28",
+  "desc": "A moment of reflection.",
+  "title": "The Natural Order of Things",
+  "writer": "Harrison Wilcox"
+ },
+ "136": {
+  "artist": "Dennis Calero",
+  "date": "2009-05-05",
+  "desc": "In the midnight hour, Micah's rebel yell.",
+  "title": "Rebellion, Part 1: Rebel Yell",
+  "writer": "Zach Craley"
+ },
+ "137": {
+  "artist": "Dennis Calero",
+  "date": "2009-05-12",
+  "desc": "Micah meets Sparrow.",
+  "title": "Rebellion, Part 2: Providence in the Fall of a Sparrow",
+  "writer": "Zach Craley"
+ },
+ "138": {
+  "artist": "Jason Badower",
+  "date": "2009-05-19",
+  "desc": "While families were being torn apart, another was formed.",
+  "title": "Rebellion, Part 3: Family",
+  "writer": "Oliver Grigsby"
+ },
+ "139": {
+  "artist": "Jason Badower",
+  "date": "2009-06-01",
+  "desc": "The sights have been set on Micah.",
+  "title": "Rebellion, Part 4: Left Behind",
+  "writer": "Oliver Grigsby"
+ },
+ "14": {
+  "date": "2007-01-01",
+  "desc": "Noah Bennet gives Hana Gitelman an opportunity.",
+  "title": "Wireless, Part 2"
+ },
+ "140": {
+  "artist": "Jason Badower",
+  "date": "2009-06-16",
+  "desc": "Micah turns the tables on Thompson.",
+  "title": "Rebellion, Part 5: Wanted",
+  "writer": "Harrison Wilcox"
+ },
+ "141": {
+  "artist": "Dennis Calero",
+  "date": "2009-07-14",
+  "desc": "Micah's plan to find Monica comes off the rails.",
+  "title": "Rebellion, Part 6: Lost and Found",
+  "writer": "Timm Keppler"
+ },
+ "142": {
+  "artist": "Jason Badower",
+  "date": "2009-08-18",
+  "desc": "Micah's efforts to find Monica take a new twist.",
+  "title": "Rebellion, Part 7: The Liberation of Saint Joan",
+  "writer": "Jim Martin"
+ },
+ "143": {
+  "artist": "Robert Atkins",
+  "date": "2009-09-08",
+  "desc": "Is Tracy on the cold path of revenge?",
+  "title": "Ice Queen, Part 1",
+  "writer": "Harrison Wilcox"
+ },
+ "144": {
+  "artist": "Robert Atkins",
+  "date": "2009-09-15",
+  "desc": "Tracy's killing ways begin to weigh on her soul.",
+  "title": "Ice Queen, Part 2",
+  "writer": "Harrison Wilcox"
+ },
+ "145": {
+  "artist": "Luis Puig",
+  "date": "2009-09-22",
+  "desc": "Lydia and Hiro have a common carnival past.",
+  "title": "Stolen Fate",
+  "writer": "Zach Craley"
+ },
+ "146": {
+  "artist": "Michael Gaydos",
+  "date": "2009-09-29",
+  "desc": "Edgar and Lydia share a secret bond.",
+  "title": "Running in Circles",
+  "writer": "Zach Craley"
+ },
+ "147": {
+  "artist": "Ryan Odagawa",
+  "date": "2009-10-06",
+  "desc": "H.R.G. tries to save a young fire-starter.",
+  "title": "Boom",
+  "writer": "Foz McDermott"
+ },
+ "148": {
+  "artist": "Siya Oum",
+  "date": "2009-10-13",
+  "desc": "Amanda's fire-starting ability leads her to Peter.",
+  "title": "Amanda's Journey, Part 1",
+  "writer": "Christopher Zatta"
+ },
+ "149": {
+  "artist": "Siya Oum",
+  "date": "2009-10-20",
+  "desc": "Tracy steps up to save Amanda from herself.",
+  "title": "Amanda's Journey, Part 2",
+  "writer": "Christopher Zatta"
+ },
+ "15": {
+  "date": "2007-01-08",
+  "desc": "Hana Gitelman attempts her first mission for Noah Bennet.",
+  "title": "Wireless, Part 3"
+ },
+ "150": {
+  "artist": "Ryan Odagawa",
+  "date": "2009-10-27",
+  "desc": "At the carnival, Amanda encounters Sylar.",
+  "title": "Yang & Yang",
+  "writer": "Foz McDermott"
+ },
+ "151": {
+  "artist": "Michael Gaydos",
+  "date": "2009-11-03",
+  "desc": "Amanda's carnival odyssey opens some eyes.",
+  "title": "Smoke & Mirrors",
+  "writer": "Erin Fitzgerald"
+ },
+ "152": {
+  "artist": "Dennis Calero",
+  "date": "2009-11-10",
+  "desc": "Lydia reaches out to bring Amanda back into the family fold.",
+  "title": "The Painted Lady",
+  "writer": "Oliver Grigsby"
+ },
+ "153": {
+  "artist": "Dennis Calero",
+  "date": "2009-11-17",
+  "desc": "Tracy embarks on a secret mission for Samuel.",
+  "title": "Prodigals, Part 1",
+  "writer": "Foz McDermott"
+ },
+ "154": {
+  "artist": "Dennis Calero",
+  "date": "2009-11-24",
+  "desc": "Eli sends Tracy away from the Carnival — to an uncertain fate.",
+  "title": "Prodigals, Part 2",
+  "writer": "Foz McDermott"
+ },
+ "155": {
+  "artist": "Dennis Calero",
+  "date": "2009-12-01",
+  "desc": "Tracy's mysterious mission for Samuel takes an unexpected twist.",
+  "title": "Prodigals, Part 3",
+  "writer": "Howie Kaplan"
+ },
+ "156": {
+  "artist": "Ryan Odagawa",
+  "date": "2009-12-08",
+  "desc": "A look at the man, the Senator, and the brother.",
+  "title": "Requiem for My Brother",
+  "writer": "Bill Hooper"
+ },
+ "157": {
+  "artist": "Siya Oum",
+  "date": "2009-12-15",
+  "desc": "Joseph's quest to find the root of Samuel's power goes terribly awry.",
+  "title": "Bloodlines, Part 1",
+  "writer": "Zach Craley"
+ },
+ "158": {
+  "artist": "Siya Oum",
+  "date": "2009-12-22",
+  "desc": "Joseph meets up with Danko — and pays Arnold a fateful visit.",
+  "title": "Bloodlines, Part 2",
+  "writer": "Zach Craley"
+ },
+ "159": {
+  "artist": "Ryan Odagawa",
+  "date": "2009-12-28",
+  "desc": "Doyle's fate is in the hands of Samuel and Joseph.",
+  "title": "Starting Over",
+  "writer": "Erin Fitzgerald"
+ },
+ "16": {
+  "date": "2007-01-16",
+  "desc": "A captive Hana Gitelman discovers a lie and makes a life changing decision.",
+  "title": "Wireless, Part 4"
+ },
+ "160": {
+  "artist": "Jason Badower",
+  "date": "2010-01-04",
+  "desc": "Hiro's scrambled brain leads him on a weird, wonderful trip to Florida.",
+  "title": "The Trip, Part 1",
+  "writer": "Foz McDermott"
+ },
+ "161": {
+  "artist": "Jason Badower",
+  "date": "2010-01-12",
+  "desc": "Hiro's addled odyssey continues.",
+  "title": "The Trip, Part 2",
+  "writer": "Jim Martin"
+ },
+ "162": {
+  "artist": "Luis Puig",
+  "date": "2010-01-19",
+  "desc": "Can Suresh really withdraw and start a new life with Mira?",
+  "title": "Second Chances",
+  "writer": "Oliver Grigsby"
+ },
+ "163": {
+  "artist": "Siya Oum",
+  "date": "2010-01-26",
+  "desc": "Lauren knows Tracy's the only hope for thwarting Samuel.",
+  "title": "Reaching Out, Part 1",
+  "writer": "Oliver Grigsby"
+ },
+ "164": {
+  "artist": "Siya Oum",
+  "date": "2010-02-02",
+  "desc": "Despite attacks from Eli and Becky, Tracy finds her way to the Carnival.",
+  "title": "Reaching Out, Part 2",
+  "writer": "Oliver Grigsby"
+ },
+ "165": {
+  "artist": "Ryan Odagawa",
+  "date": "2010-02-09",
+  "desc": "Angela tries to make sense of what Samuel has wrought on her family.",
+  "title": "Consequences",
+  "writer": "Zach Craley"
+ },
+ "166": {
+  "artist": "Jason Badower",
+  "date": "2010-02-16",
+  "desc": "The original founders of The Company have come together in Greenwich Village for a folk concert—but they're not there for the music.",
+  "title": "From the Files of Primatech, Part 1",
+  "writer": "Howie Kaplan"
+ },
+ "167": {
+  "artist": "Jason Badower",
+  "date": "2010-03-01",
+  "desc": "The Company's co-founders find trouble at a coffeehouse concert.",
+  "title": "From the Files of Primatech, Part 2",
+  "writer": "Howie Kaplan"
+ },
+ "168": {
+  "date": "2010-03-15",
+  "desc": "What has summoned Hiro to the Three Mile Island nuclear power plant?",
+  "title": "From the Files of Primatech, Part 3"
+ },
+ "169": {
+  "date": "2010-03-29",
+  "desc": "What's happened at Three Mile Island—and why are The Company's founders freaking out?",
+  "title": "From the Files of Primatech, Part 4"
+ },
+ "17": {
+  "date": "2007-01-22",
+  "desc": "Ted Sprague meets someone who wants to help.",
+  "title": "How Do You Stop an Exploding Man?, Part 1"
+ },
+ "170": {
+  "date": "2010-04-12",
+  "desc": "Hiro time travels to Berlin circa 1988 as Claude and Thompson make a shocking discovery.",
+  "title": "From the Files of Primatech, Part 5"
+ },
+ "171": {
+  "date": "2010-04-26",
+  "desc": "When a KGB agent goes big, Claude's clearly overmatched.",
+  "title": "From the Files of Primatech, Part 6"
+ },
+ "172": {
+  "date": "2010-05-10",
+  "desc": "In 1991, Bob Bishop began a sick series of experiments on his daughter Elle.",
+  "title": "From the Files of Primatech, Part 7"
+ },
+ "173": {
+  "date": "2010-06-09",
+  "desc": "In 1991, Bob Bishop began a sick series of experiments on his daughter Elle.",
+  "title": "From the Files of Primatech, Part 8"
+ },
+ "18": {
+  "date": "2007-01-29",
+  "desc": "Ted Sprague escapes from his would-be captors and goes looking for answers.",
+  "title": "How Do You Stop an Exploding Man?, Part 2"
+ },
+ "19": {
+  "date": "2007-02-06",
+  "desc": "Micah Sanders has a brief confrontation with a school punk.",
+  "title": "Bully"
+ },
+ "2": {
+  "date": "2006-10-02",
+  "desc": "Continued from \"Don't Look Back\". Offers some background on Hiro Nakamura.",
+  "title": "The Crane"
+ },
+ "20": {
+  "date": "2007-02-13",
+  "desc": "Sylar searches for more potential victims and abilities.",
+  "title": "Road Kill"
+ },
+ "21": {
+  "date": "2007-02-20",
+  "desc": "Hana Gitelman leaves Ted Sprague and Matt Parkman to follow a different path.",
+  "title": "The Path of the Righteous"
+ },
+ "22": {
+  "date": "2007-02-27",
+  "desc": "14 years in the past, Noah Bennet goes on a routine mission to find someone special.",
+  "title": "Hell's Angel"
+ },
+ "23": {
+  "date": "2007-03-06",
+  "desc": "Noah Bennet turns his back on his employer to protect his family.",
+  "title": "Family Man"
+ },
+ "24": {
+  "date": "2007-03-13",
+  "desc": "Hana Gitelman's search for answers takes her to Washington, D.C.",
+  "title": "War Buddies, Part 1: The Lonestar File"
+ },
+ "25": {
+  "date": "2007-03-19",
+  "desc": "Hana Gitelman reads a report from a classified mission during the Vietnam War.",
+  "title": "War Buddies, Part 2: Unknown Soldiers"
+ },
+ "26": {
+  "date": "2007-03-26",
+  "desc": "Dallas and Austin try to find the downed plane.",
+  "title": "War Buddies, Part 3: Unknown Soldiers"
+ },
+ "27": {
+  "date": "2007-04-03",
+  "desc": "Dallas and Austin learn the secret of Au Co.",
+  "title": "War Buddies, Part 4: No Turning Back"
+ },
+ "28": {
+  "date": "2007-04-09",
+  "desc": "Dallas' and Austin's identities are revealed.",
+  "title": "War Buddies, Part 5: Introductions"
+ },
+ "29": {
+  "date": "2007-04-16",
+  "desc": "Hana Gitelman uncovers a political plot.",
+  "title": "War Buddies, Part 6: Call to Arms"
+ },
+ "3": {
+  "date": "2006-10-09",
+  "desc": "Nathan Petrelli contemplates his power.",
+  "title": "Trial By Fire"
+ },
+ "30": {
+  "date": "2007-04-23",
+  "desc": "Future Hiro recounts the time before, during and after he delivered his fateful message to Peter Petrelli: \"Save the Cheerleader, Save the World\".",
+  "title": "String Theory"
+ },
+ "31": {
+  "date": "2007-05-01",
+  "desc": "In the future, Hiro Nakamura and Peter Petrelli break Niki Sanders out of prison.",
+  "title": "Walls, Part 1"
+ },
+ "32": {
+  "date": "2007-05-08",
+  "desc": "Hiro Nakamura, Peter Petrelli and Niki Sanders fight the opposing heroes at the prison. Niki Sanders thinks about her life before and after the bomb.",
+  "title": "Walls, Part 2"
+ },
+ "33": {
+  "date": "2007-05-15",
+  "desc": "Hana Gitelman undertakes a mission to disable a tracking system.",
+  "title": "The Death of Hana Gitelman, Part 1"
+ },
+ "34": {
+  "date": "2007-05-22",
+  "desc": "Hana Gitelman continues her mission, while combatting multiple threats on her life.",
+  "title": "The Death of Hana Gitelman, Part 2"
+ },
+ "35": {
+  "date": "2007-05-29",
+  "desc": "The Haitian remembers his father and childhood in Haiti.",
+  "title": "It Takes a Village, Part 1"
+ },
+ "36": {
+  "date": "2007-06-05",
+  "desc": "The Haitian recalls the first time he used his powers.",
+  "title": "It Takes a Village, Part 2"
+ },
+ "37": {
+  "date": "2007-06-12",
+  "desc": "The Haitian and his father go on a journey to perform a penance.",
+  "title": "It Takes a Village, Part 3"
+ },
+ "38": {
+  "date": "2007-06-19",
+  "desc": "The Haitian learns the price of his mistakes.",
+  "title": "It Takes a Village, Part 4"
+ },
+ "39": {
+  "date": "2007-06-27",
+  "desc": "A hero learns about her powers.",
+  "title": "Betty, Part 1"
+ },
+ "4": {
+  "date": "2006-10-16",
+  "desc": "Continued from \"Collision\". Details the events after Claire Bennet crashed Brody Mitchum's car and before ambulances arrived.",
+  "title": "Aftermath"
+ },
+ "40": {
+  "date": "2007-07-03",
+  "desc": "Betty uses her powers on the students.",
+  "title": "Betty, Part 2"
+ },
+ "41": {
+  "date": "2007-07-10",
+  "desc": "Betty's actions have unexpected consequences.",
+  "title": "Betty, Part 3"
+ },
+ "42": {
+  "date": "2007-07-17",
+  "desc": "Betty decides to take revenge.",
+  "title": "Betty, Part 4"
+ },
+ "43": {
+  "date": "2007-07-24",
+  "desc": "An old case featuring Haram, the first partner of Claude, the invisible man.",
+  "title": "Golden Handshake, Part 1: Man Overboard"
+ },
+ "44": {
+  "date": "2007-07-31",
+  "desc": "Claude and Haram get closer to their suspect.",
+  "title": "Golden Handshake, Part 2: An American in Paris"
+ },
+ "45": {
+  "date": "2007-08-07",
+  "desc": "The real perpetrator tries to escape.",
+  "title": "Golden Handshake, Part 3: One More for the Road"
+ },
+ "46": {
+  "date": "2007-08-14",
+  "desc": "The chase ends with a dangerous fight.",
+  "title": "Golden Handshake, Part 4: Severance Pay"
+ },
+ "47": {
+  "date": "2007-08-21",
+  "desc": "Ando Masahashi seeks Hiro Nakamura's sister's affections.",
+  "title": "Heroism Is Found in the Heart, Part 1"
+ },
+ "48": {
+  "date": "2007-08-28",
+  "desc": "Ando Masahashi tries to protect Kimiko Nakamura.",
+  "title": "Heroism Is Found in the Heart, Part 2"
+ },
+ "49": {
+  "date": "2007-09-04",
+  "desc": "Mohinder Suresh travels to a hospital in search of support for carrying on his father's research.",
+  "title": "Blackout, Part 1"
+ },
+ "5": {
+  "date": "2006-10-23",
+  "desc": "Provides the backstory of D. L. Hawkins and his escape from jail.",
+  "title": "Snapshots"
+ },
+ "50": {
+  "date": "2007-09-11",
+  "desc": "Mohinder Suresh finds the source of the blackouts.",
+  "title": "Blackout, Part 2"
+ },
+ "51": {
+  "date": "2007-09-18",
+  "desc": "Two new characters are wanted for murder.",
+  "title": "Maya y Alejandro"
+ },
+ "52": {
+  "date": "2007-09-25",
+  "desc": "Introduction to West Rosen, a classmate of Claire Bennet's at Costa Verde High School.",
+  "title": "Flying Blind"
+ },
+ "53": {
+  "date": "2007-10-02",
+  "desc": "Continues from \"Lizards\". What the Haitian did before leaving Haiti.",
+  "title": "The Crossroads"
+ },
+ "54": {
+  "date": "2007-10-09",
+  "desc": "Peter Petrelli learns the tale of Cúchulainn.",
+  "title": "Petrified Lightning"
+ },
+ "55": {
+  "date": "2007-10-16",
+  "desc": "Takezo Kensei and Hiro Nakamura try to obtain a scroll from the Black Bear of Sakashita.",
+  "title": "The Trial of the Black Bear"
+ },
+ "56": {
+  "date": "2007-10-23",
+  "desc": "An exploration through one of Molly Walker's comatose nightmares.",
+  "title": "Molly's Dream"
+ },
+ "57": {
+  "date": "2007-10-30",
+  "desc": "Noah Bennet's first \"bag and tag\" mission with the Company.",
+  "title": "Team Building Exercise"
+ },
+ "58": {
+  "date": "2007-11-06",
+  "desc": "Homeland Security official Howard Lemay deals with the devastation of the Shanti virus.",
+  "title": "Quarantine"
+ },
+ "59": {
+  "date": "2007-11-13",
+  "desc": "D. L. Hawkins becomes a different kind of hero.",
+  "title": "Man on Fire"
+ },
+ "6": {
+  "date": "2006-10-30",
+  "desc": "Provides a backstory of how Niki Sanders stole the two million dollars.",
+  "title": "Stolen Time"
+ },
+ "60": {
+  "date": "2007-11-20",
+  "desc": "Adam Monroe meets his match.",
+  "title": "Revolutionary War, Part 1: Pursuit"
+ },
+ "61": {
+  "date": "2007-11-27",
+  "desc": "Adam Monroe learns a lesson from Evan.",
+  "title": "Revolutionary War, Part 2: Pursuit"
+ },
+ "62": {
+  "date": "2007-12-04",
+  "desc": "The backstory behind West Rosen's abduction as a child by Noah Bennet and the Haitian.",
+  "title": "Special"
+ },
+ "63": {
+  "date": "2007-12-11",
+  "desc": "Elle Bishop's first assignment from the Company.",
+  "title": "Elle's First Assignment, Part 1"
+ },
+ "64": {
+  "date": "2007-12-18",
+  "desc": "Elle Bishop continues her assignment from the Company.",
+  "title": "Elle's First Assignment, Part 2"
+ },
+ "65": {
+  "date": "2007-12-25",
+  "desc": "Noah Bennet tries to live a normal life.",
+  "title": "Normal Lives"
+ },
+ "66": {
+  "date": "2007-12-31",
+  "desc": "While buried alive, Adam Monroe recounts the many loves he has after Yaeko.",
+  "title": "The Ten Brides of Takezo Kensei"
+ },
+ "67": {
+  "date": "2008-01-08",
+  "desc": "In Bhutan, Richard Drucker's old pilot gets a visitor.",
+  "title": "The Golden Goose"
+ },
+ "68": {
+  "date": "2008-01-15",
+  "desc": "Introduces Matt Neuenberg, a high school outcast with a unique gift of memory.",
+  "title": "The Man with Too Much Brains"
+ },
+ "69": {
+  "date": "2008-01-22",
+  "desc": "Matt Neuenberg finds mysterious data from Bhutan.",
+  "title": "Hana and Drucker's Plot Discovered"
+ },
+ "7": {
+  "date": "2006-11-06",
+  "desc": "Continued from \"Nothing to Hide\". Features Officer Matt Parkman, and details the effect his mind reading abilities have on his life.",
+  "title": "Control"
+ },
+ "70": {
+  "date": "2008-01-29",
+  "desc": "Matt Neuenberg is forced to download the entire Company database into his memory in order to protect them from Hana and Drucker.",
+  "title": "The End of Hana and Drucker"
+ },
+ "71": {
+  "date": "2008-02-05",
+  "desc": "A young man's destiny comes calling with an ancient secret.",
+  "title": "History of a Secret"
+ },
+ "72": {
+  "date": "2008-02-11",
+  "desc": "Kimiko Nakamura learns the lesson from a story told by her father.",
+  "title": "Past Experience"
+ },
+ "73": {
+  "date": "2008-02-18",
+  "desc": "Linderman comes home from Vietnam and meets a woman.",
+  "title": "War Buddies, Part 7: Coming Home"
+ },
+ "74": {
+  "date": "2008-02-25",
+  "desc": "Noah Bennet once had perfect vision. One day, he becomes a man in need of glasses.",
+  "title": "Blindsided"
+ },
+ "75": {
+  "date": "2008-03-03",
+  "desc": "Another account of Benjamin Franklin's kite experiment.",
+  "title": "A Lesson in Electricity"
+ },
+ "76": {
+  "date": "2008-03-11",
+  "desc": "Ryan Covington experiences a recurring dream.",
+  "title": "Pieces of Me"
+ },
+ "77": {
+  "date": "2008-03-18",
+  "desc": "Brian, blogger of [http://www.brianundaunted.imeem.com brianundaunted on IMEEM], recounts life on the run from Linderman.",
+  "title": "On the Lam"
+ },
+ "78": {
+  "date": "2008-03-25",
+  "desc": "Focuses on Linda Tavara and how she got her notebook.",
+  "title": "Bounty Hunter"
+ },
+ "79": {
+  "date": "2008-03-31",
+  "desc": "Piper learns the truth from her dreams.",
+  "title": "Different and the Same"
+ },
+ "8": {
+  "date": "2006-11-13",
+  "desc": "Continued from \"Seven Minutes to Midnight\". Painter Isaac Mendez talks to Eden McCain about the earliest known manifestation of his ability.",
+  "title": "Isaac's First Time"
+ },
+ "80": {
+  "date": "2008-04-08",
+  "desc": "Linda learns her deadly ability.",
+  "title": "Moonlight Serenade"
+ },
+ "81": {
+  "date": "2008-04-15",
+  "desc": "Donna Dunlap has a date with the Company.",
+  "title": "Donna's Big Date, Part 1"
+ },
+ "82": {
+  "date": "2008-04-21",
+  "desc": "Donna learns more about the Company.",
+  "title": "Donna's Big Date, Part 2: Replay"
+ },
+ "83": {
+  "date": "2008-04-28",
+  "desc": "As her first assignment looms, Donna continues to be taken by surprise.",
+  "title": "Career Choices"
+ },
+ "84": {
+  "date": "2008-05-05",
+  "desc": "The younger Thompson tries to figure out what's wrong within the company.",
+  "title": "Trust Issues, Part 1"
+ },
+ "85": {
+  "date": "2008-05-12",
+  "desc": "An unsure Donna copes with being a double agent, and tries to decide her next move.",
+  "title": "Trust Issues, Part 2"
+ },
+ "86": {
+  "date": "2008-05-19",
+  "desc": "An agent with an unattractive look is paired up with her face changing mother",
+  "title": "Faces, Part 1"
+ },
+ "87": {
+  "date": "2008-05-26",
+  "desc": "The aftermath of sleeping with a fellow agent.",
+  "title": "Faces, Part 2"
+ },
+ "88": {
+  "date": "2008-06-02",
+  "desc": "A bag and tag mission involving a man's duplicates.",
+  "title": "Root and Branch, Part 1: The Big Bag and Tag"
+ },
+ "89": {
+  "date": "2008-06-10",
+  "desc": "The result of the bag and tag mission with the clones.",
+  "title": "Root and Branch, Part 2: Weeding Out"
+ },
+ "9": {
+  "date": "2006-11-20",
+  "desc": "Details the childhood backstory of Eden McCain.",
+  "title": "Life Before Eden"
+ },
+ "90": {
+  "date": "2008-06-16",
+  "desc": "Agent Sabine Hazel helps Julien Dumont escape.",
+  "title": "Root and Branch, Part 3: Extraction"
+ },
+ "91": {
+  "date": "2008-06-23",
+  "desc": "In the search for Evs Dropper, the company begins by investigating every agent with a special ability",
+  "title": "Berlin, Part 1"
+ },
+ "92": {
+  "date": "2008-07-01",
+  "desc": "The search for Evs Dropper continues with a surprise attack.",
+  "title": "Berlin, Part 2"
+ },
+ "93": {
+  "date": "2008-07-07",
+  "desc": "Donna and Thompson go to West Virginia on a bag and tag mission with a Company support team.",
+  "title": "The Kill Squad, Part 1"
+ },
+ "94": {
+  "date": "2008-07-14",
+  "desc": "The result of the bag and tag mission.",
+  "title": "The Kill Squad, Part 2"
+ },
+ "95": {
+  "date": "2008-07-22",
+  "desc": "Gael gives Fallon his own Kill Squad, and a new mission involving a relative of a family of Heroes.",
+  "title": "The Kill Squad, Part 3"
+ },
+ "96": {
+  "date": "2008-07-29",
+  "desc": "The events that led to the capture of Echo DeMille by The Company.",
+  "title": "Going Postal"
+ },
+ "97": {
+  "date": "2008-08-04",
+  "desc": "Two months before Evs Dropper infiltrated The Company, we are introduced to new hero Daphne Millbrook.",
+  "title": "Our Lady of Blessed Acceleration, Part 1"
+ },
+ "98": {
+  "date": "2008-08-11",
+  "desc": "Daphne Millbrook travels to Japan to take on a heist at Yamagato Industries.",
+  "title": "Our Lady of Blessed Acceleration, Part 2"
+ },
+ "99": {
+  "date": "2008-08-18",
+  "desc": "Gael confronts Donna over her links to Evs Dropper.",
+  "title": "Hindsight"
+ }
+}

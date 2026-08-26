@@ -1,0 +1,1664 @@
+{{short description|None}}
+
+{{about|webcomics of the American TV series ''Heroes''|other uses of "Heroes"|Heroes (disambiguation)}}
+{{DISPLAYTITLE:List of ''Heroes'' graphic novels}}
+This is a list of issues of [[NBC]]'s ''[[Heroes (American TV series)|Heroes]]'' [[webcomic]], which supplements the [[psychological thriller]] [[Superhero fiction|superhero]] television series of the same name. The comics, which NBC refers to as [[graphic novel]]s, were made available on their official website each Tuesday<ref name="NBC Heroes Comics">{{cite web|work=NBC.com |title=Heroes Comics |url=http://www.nbc.com/Heroes/novels/ |access-date=2007-10-27 |url-status=dead |archive-url=https://web.archive.org/web/20071128022233/http://www.nbc.com/Heroes/novels/ |archive-date=2007-11-28 }}</ref> as part of the [[Heroes Evolutions]] experience, starting with ''Monsters'' whose release coincided with the first episode of the show.<ref>{{cite web|url=http://www.nbc.com/Heroes/evolutions/ |title=Heroes Evolutions |access-date=2009-02-15 |url-status=dead |archive-url=https://web.archive.org/web/20090216113944/http://www.nbc.com/Heroes/evolutions/ |archive-date=2009-02-16 }}</ref> They ceased publication on June 9, 2010 with the release of ''From the Files of Primatech, Part 8''.  Written by the show's writers and drawn by [[Aspen Comics]],<ref>Is 'Heroes' Headed To Print?, by Deahl, Rachel, Publishers Weekly, 12/4/2006, Vol. 253, Issue 48</ref> they were generally 7-9 pages long, the first page of which is always an advertisement for a vehicle made by [[Nissan Motors|Nissan]], one of the sponsors for the series. The comics give additional character background and plot information not shown in the television episodes.
+
+[[WildStorm]], a subsidiary of [[DC Comics]] released the first 34 chapters in a hardcover volume on November 7, 2007 entitled "Volume One", with a softcover version released later. The collection also includes Tim Sale's artwork as seen on the show.<ref>{{cite web | title=HEROES VOL. 1 | publisher=DC Comics | url= http://www.dccomics.com/graphic-novels/heroes-vol-1}}</ref> "Volume Two" was released on November 19, 2008, and includes chapters 35-80 bound in a hardcover book.<ref>[http://www.dccomics.com/graphic-novels/heroes-vol-2 HEROES VOL. 2<!-- Bot generated title -->]</ref>
+
+The comics were available in both [[Portable Document Format|PDF]] and [[Adobe Flash|Flash]] formats; but the NBC page no longer exists. The PDF versions are linked below with archived versions made available via the [[Wayback Machine]] where possible. The Flash versions often offered a link to a "[[Easter egg (virtual)|hidden surprise]]", also listed below. A few also had an animated version.
+
+==Season 1==
+The comics listed here were published during Season One of the show, and continued through the summer preceding Season Two.<ref name="evolutions">{{cite web|work=NBC.com |title=Heroes Evolutions |url=http://www.nbc.com/Heroes/evolutions/ |access-date=2007-10-10 |url-status=dead |archive-url=https://web.archive.org/web/20071009141025/http://www.nbc.com/Heroes/evolutions/ |archive-date=2007-10-09 }}</ref>
+{| class="wikitable"
+! Issue
+! Title
+! Release date
+! Story
+! Art
+! Easter egg
+|-
+| rowspan="2" | 1
+| rowspan="2" | '''{{cite web |url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_001.pdf |url-status=dead |archive-url=https://web.archive.org/web/20061124140602/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_001.pdf |archive-date=2006-11-24 |title=Monsters}}&nbsp;{{small|(12.0&nbsp;MB)}}'''
+| 2006-09-25
+| [[Aron Eli Coleite]]
+| [[Michael Turner (artist)|Michael Turner]] & [[Koi Turnbull]]
+| [https://web.archive.org/web/20061124134919/http://www.nbc.com/Heroes/novels/downloads/hiro_line_01.jpg Line art] for "The Crane".
+|-
+| colspan="4" | Offers background information on [[Mohinder Suresh]], [[List of Heroes characters#Chandra Suresh|Chandra Suresh]] and his mysterious death.
+|-
+| rowspan="2" | 2
+| rowspan="2" | '''{{cite web |url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_002.pdf |url-status=dead |archive-url=https://web.archive.org/web/20061128150626/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_002.pdf |archive-date=2006-11-28 |title=The Crane}}&nbsp;{{small|(19.8&nbsp;MB)}}'''
+| 2006-10-02
+| Aron Eli Coleite
+| [[Micah Gunnell]]
+| [https://web.archive.org/web/20061211122708/http://www.nbc.com/Heroes/novels/downloads/nathan_line_01.jpg Line art] for "Trial By Fire".
+|-
+| colspan="4" | Continued from "[[Don't Look Back (Heroes)|Don't Look Back]]". Offers some background on [[Hiro Nakamura]].
+|-
+| rowspan="2" | 3
+| rowspan="2" | '''{{cite web |url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_003.pdf |url-status=dead |archive-url=https://web.archive.org/web/20061128150755/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_003.pdf |archive-date=2006-11-28 |title=Trial By Fire}}&nbsp;{{small|(17.7&nbsp;MB)}}'''
+| 2006-10-09
+| [[Chuck Kim]]
+| [[Marcus To]]
+| [[Viral marketing|Viral]] [https://web.archive.org/web/20090924113511/http://www.nbc.com/heroes/video/video_display.shtml#mea=37083#mea=37083 campaign video] for [[Nathan Petrelli]].
+|-
+| colspan="4" | [[Nathan Petrelli]] contemplates his power.
+|-
+| rowspan="2" | 4
+| rowspan="2" | '''{{cite web |url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_004.pdf |archive-url=https://web.archive.org/web/20090325102849/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_004.pdf |archive-date=2009-03-25 |title=Aftermath}}&nbsp;{{small|(19.3&nbsp;MB)}}'''
+| 2006-10-16
+| [[Joe Pokaski]]
+| Micah Gunnell
+| [[Viral marketing|Viral]] [http://www.myspace.com/clairebennet MySpace page] for [[Claire Bennet]].
+|-
+| colspan="4" | Continued from "[[Collision (Heroes)|Collision]]". Details the events after [[Claire Bennet]] crashed [[List of Heroes characters#Brody Mitchum|Brody Mitchum]]'s car and before ambulances arrived.
+|-
+| rowspan="2" | 5
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_005.pdf |title=Snapshots |url-status=dead |archive-url=https://web.archive.org/web/20061124140619/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_005.pdf |archive-date=2006-11-24 }}&nbsp;{{small|(16.3&nbsp;MB)}}'''
+| 2006-10-23
+| Joe Pokaski
+| Marcus To
+| [[Nissan Versa#Nissan Versa|Nissan Versa]] [https://web.archive.org/web/20070706065519/http://www.nissanusa.com/versa/ official website].
+|-
+| colspan="4" | Provides the backstory of [[D. L. Hawkins]] and his escape from jail.
+|-
+| rowspan="2" | 6
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_006.pdf |title= Stolen Time |url-status= dead |archive-url= https://web.archive.org/web/20061201093121/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_006.pdf |archive-date= 2006-12-01 }}&nbsp;{{small|(14.7&nbsp;MB)}}'''
+| 2006-10-30
+| Joe Pokaski
+| Marcus To
+| [http://www.nbc.com/Heroes/novels/downloads/HRS_PeterDoor2.jpg Artwork] of Peter Petrelli.
+|-
+| colspan="4" | Provides a backstory of how [[Niki Sanders]] stole the two million dollars.
+|-
+| rowspan="2" | 7
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_007.pdf |title=Control }}&nbsp;{{small|(13.3&nbsp;MB)}}'''
+| 2006-11-06
+| [[Oliver Grigsby]]
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/HRS_SylarGymFlr_clr.jpg Artwork] of [[Sylar]].
+|-
+| colspan="4" | Continued from "[[Nothing to Hide (Heroes)|Nothing to Hide]]". Features Officer [[Matt Parkman]], and details the effect his [[Telepathy|mind reading abilities]] have on his life.
+|-
+| rowspan="2" | 8
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_008.pdf |title=Isaac's First Time }}&nbsp;{{small|(13.9&nbsp;MB)}}'''
+| 2006-11-13
+| Aron Eli Coleite
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/HRS_HiroAndo1.jpg Artwork] of [[Hiro Nakamura]] and [[Ando Masahashi]].
+|-
+| colspan="4" | Continued from "[[Seven Minutes to Midnight (Heroes)|Seven Minutes to Midnight]]". Painter [[Isaac Mendez]] talks to [[List of Heroes characters with special abilities#Eden McCain|Eden McCain]] about the earliest known manifestation of his [[Precognition|ability]].
+|-
+| rowspan="2" | 9
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_009.pdf |title=Life Before Eden }}&nbsp;{{small|(20.0&nbsp;MB)}}'''
+| 2006-11-20
+| [[Pierluigi Cothran]]
+| Marcus To
+| [http://www.nbc.com/Heroes/novels/downloads/HRS_HomecomingBTS.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]) and [[Milo Ventimiglia]] (Peter Petrelli).
+|-
+| colspan="4" | Details the childhood backstory of [[List of Heroes characters with special abilities#Eden McCain|Eden McCain]].
+|-
+| rowspan="2" | 10
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_010.pdf |title=Turning Point }}&nbsp;{{small|(12.9&nbsp;MB)}}'''
+| 2006-11-27
+| [[Christopher Zatta]]
+| Micah Gunnell & Marcus To
+| [http://www.nbc.com/Heroes/novels/downloads/audry.jpg Behind-the-scenes photo] of [[Clea DuVall]] ([[List of Heroes characters#Audrey Hanson|Audrey Hanson]]) and [[Greg Grunberg]] ([[Matt Parkman]]).
+|-
+| colspan="4" | Details [[List of Heroes characters#Audrey Hanson|Audrey Hanson]]'s hunt for [[Sylar]].
+|-
+| rowspan="2" | 11
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_011.pdf |title=Fathers & Daughters |url-status=dead |archive-url=https://web.archive.org/web/20061206225707/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_011.pdf |archive-date=2006-12-06 }}&nbsp;{{small|(13.1&nbsp;MB)}}'''
+| 2006-12-04
+| [[Andrew Chambliss]]
+| [[Travis Kotzebue]] & Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/energyman.jpg Artwork] of Peter Petrelli.
+|-
+| colspan="4" | [[Noah Bennet]] visits [[List of Heroes characters with special abilities#Eden McCain|Eden McCain]]'s father to explain her death.
+|-
+| rowspan="2" | 12
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_012.pdf |title=Super-Heroics }}&nbsp;{{small|(14.3&nbsp;MB)}}'''
+| 2006-12-11
+| [[Harrison Wilcox]]
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/peter_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] ([[Peter Petrelli]]).
+|-
+| colspan="4" | Peter Petrelli dreams while in a coma.
+|-
+| rowspan="2" | 13
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_013.pdf |title=Wireless, Part 1 |url-status= dead |archive-url=https://web.archive.org/web/20070212220441/https://www.nbc.com/heroes/novels/downloads/heroes_novel_013.pdf |archive-date=2007-02-12 }}&nbsp;{{small|(17.0&nbsp;MB)}}'''
+| 2006-12-25
+| Aron Eli Coleite
+| Micah Gunnell & [[Phil Jimenez]] (Guest)
+| [http://www.nbc.com/Heroes/novels/downloads/hana_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | Introduces a new character, [[Hana Gitelman]].
+|-
+| rowspan="2" | 14
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_014.pdf |title=Wireless, Part 2 }}&nbsp;{{small|(17.4&nbsp;MB)}}'''
+| 2007-01-01
+| Aron Eli Coleite & Joe Pokaski
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/hana2_ee.jpg Behind-the-scenes photo] of [[Adrian Pasdar]] ([[Nathan Petrelli]]) and [[Milo Ventimiglia]] (Peter Petrelli). Visually identical to the following easter egg, albeit the file size is slightly higher.
+|-
+| colspan="4" | Noah Bennet gives [[Hana Gitelman]] an opportunity.
+|-
+| rowspan="2" | 15
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_015.pdf |title=Wireless, Part 3 }}&nbsp;{{small|(12.8&nbsp;MB)}}'''
+| 2007-01-08
+| Aron Eli Coleite & Joe Pokaski
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/hana3_ee.jpg Behind-the-scenes photo] of [[Adrian Pasdar]] ([[Nathan Petrelli]]) and [[Milo Ventimiglia]] (Peter Petrelli). Visually identical to the previous easter egg, albeit the file size is slightly lower.
+|-
+| colspan="4" | [[Hana Gitelman]] attempts her first mission for Noah Bennet.
+|-
+| rowspan="2" | 16
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_016.pdf |title=Wireless, Part 4 }}&nbsp;{{small|(12.3&nbsp;MB)}}'''
+| 2007-01-16
+| Aron Eli Coleite & Joe Pokaski
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/hana4_ee.jpg Photo] of [[Ali Larter]] ([[Niki Sanders]]), [[Masi Oka]] ([[Hiro Nakamura]]), [[Greg Grunberg]] ([[Matt Parkman]]), [[Milo Ventimiglia]] (Peter Petrelli), [[Hayden Panettiere]] ([[Claire Bennet]]), [[Adrian Pasdar]] ([[Nathan Petrelli]]) and [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]) at the [[64th Golden Globe Awards]].
+|-
+| colspan="4" |A captive [[Hana Gitelman]] discovers a lie and makes a life changing decision.
+|-
+| rowspan="2" | 17
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_017.pdf |title=How Do You Stop an Exploding Man?, Part 1 }}&nbsp;{{small|(15.3&nbsp;MB)}}'''
+| 2007-01-22
+| [[Jesse Alexander (TV producer)|Jesse Alexander]] & Aron Eli Coleite
+| Travis Kotzebue
+| [http://www.nbc.com/Heroes/novels/downloads/chapter17_ee.jpg Behind-the-scenes photo] of [[Santiago Cabrera]] ([[Isaac Mendez]]) pinned to the floor.
+|-
+| colspan="4" | [[List of Heroes characters with special abilities#Ted Sprague|Ted Sprague]] meets [[Hana Gitelman|someone]] who wants to help.
+|-
+| rowspan="2" | 18
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_018.pdf |title=How Do You Stop an Exploding Man?, Part 2 }}&nbsp;{{small|(14.0&nbsp;MB)}}'''
+| 2007-01-29
+| Jesse Alexander & Aron Eli Coleite
+| [[Jordan Kotzebue]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter18_ee.jpg Behind-the-scenes photo] of [[George Takei]] ([[List of Heroes characters with special abilities#Kaito Nakamura|Kaito Nakamura]]) and [[Masi Oka]] ([[Hiro Nakamura]]).
+|-
+| colspan="4" | [[List of Heroes characters with special abilities#Ted Sprague|Ted Sprague]] escapes from his would-be captors and goes looking for answers.
+|-
+| rowspan="2" | 19
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_019.pdf |title=Bully }}&nbsp;{{small|(10.9&nbsp;MB)}}'''
+| 2007-02-06
+| Chuck Kim
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/micah_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]) with the sword.
+|-
+| colspan="4" | [[Micah Sanders]] has a brief confrontation with a school punk.
+|-
+| rowspan="2" | 20
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_020.pdf |title=Road Kill }}&nbsp;{{small|(14.1&nbsp;MB)}}'''
+| 2007-02-13
+| Joe Pokaski
+| [[Jason Badower]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter20_ee.jpg Behind-the-scenes photo] of [[Jack Coleman (actor)|Jack Coleman]] (Noah Bennet) standing before [[Sylar]]'s cell.
+|-
+| colspan="4" | [[Sylar]] searches for more potential [[Sylar#Powers, abilities and skills|victims and abilities]].
+|-
+| rowspan="2" | 21
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_021.pdf |title=The Path of the Righteous }}&nbsp;{{small|(6.98&nbsp;MB)}}'''
+| 2007-02-20
+| Aron Eli Coleite
+| [[Staz Johnson]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter21_ee.jpg Behind-the-scenes photo] of [[Ali Larter]] ([[Niki Sanders]]) in a padded cell.
+|-
+| colspan="4" | [[Hana Gitelman]] leaves [[List of Heroes characters with special abilities#Ted Sprague|Ted Sprague]] and [[Matt Parkman]] to follow a different path.
+|-
+| rowspan="2" | 22
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_022.pdf |title=Hell's Angel }}&nbsp;{{small|(3.95&nbsp;MB)}}'''
+| 2007-02-27
+| Jesse Alexander
+| [[Michael Gaydos]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter22_ee.jpg Behind-the-scenes photo] of a crew member showing [[Greg Grunberg]] ([[Matt Parkman]]) a prop gun.
+|-
+| colspan="4" | 14 years in the past, Noah Bennet goes on a routine mission to find [[List of Heroes characters with special abilities#Meredith Gordon|someone special]].
+|-
+| rowspan="2" | 23
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_023.pdf |title= Family Man |url-status= dead |archive-url= https://web.archive.org/web/20070308094709/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_023.pdf |archive-date= 2007-03-08 }}&nbsp;{{small|(4.26&nbsp;MB)}}'''
+| 2007-03-06
+| Jesse Alexander
+| Staz Johnson
+| [[Viral marketing|Viral]] [https://web.archive.org/web/20071029021020/http://samantha48616e61.com/ blog] for [[Hana Gitelman]].
+|-
+| colspan="4" | Noah Bennet turns his back on his employer to protect his family.
+|-
+|-
+| rowspan="2" | 24
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_024.pdf |title=War Buddies, Part 1: The Lonestar File }}&nbsp;{{small|(4.97&nbsp;MB)}}'''
+| 2007-03-13
+| [[Mark Warshaw]]
+| [[Steven Lejeune]]
+| [[Viral marketing|Viral]] [https://web.archive.org/web/20071029021020/http://samantha48616e61.com/ blog] for [[Hana Gitelman]].
+|-
+| colspan="4" | [[Hana Gitelman]]'s search for answers takes her to [[Washington, D.C.]]
+|-
+| rowspan="2" | 25
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_025.pdf |title=War Buddies, Part 2: Unknown Soldiers }}&nbsp;{{small|(15.2&nbsp;MB)}}'''
+| 2007-03-19
+| Andrew Chambliss & Pierluigi Cothran
+| [[Adam Archer]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter25_ee.jpg Behind the scenes photo] of [[Isaac Mendez]]' loft.
+|-
+| colspan="4" | [[Hana Gitelman]] reads a report from a classified mission during the [[Vietnam War]].
+|-
+| rowspan="2" | 26
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_026.pdf |title=War Buddies, Part 3: Unknown Soldiers }}&nbsp;{{small|(16.3&nbsp;MB)}}'''
+| 2007-03-26
+| [[DJ Doyle]]
+| Adam Archer
+| [http://www.nbc.com/Heroes/novels/downloads/chapter26_ee.jpg Behind the scenes photo] of [[Ali Larter]] ([[Niki Sanders]]) and [[Malcolm McDowell]] ([[Daniel Linderman]]).
+|-
+| colspan="4" | [[List of Heroes characters#Arthur Petrelli|Dallas]] and [[Daniel Linderman|Austin]] try to find the downed plane.
+|-
+| rowspan="2" | 27
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_027.pdf |title=War Buddies, Part 4: No Turning Back }}&nbsp;{{small|(17.5&nbsp;MB)}}'''
+| 2007-04-03
+| [[Timm Keppler]]
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter27_ee.jpg Behind-the-scenes photo] of [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]) and [[Zachary Quinto]] ([[Sylar]]).
+|-
+| colspan="4" | [[List of Heroes characters#Arthur Petrelli|Dallas]] and [[Daniel Linderman|Austin]] learn the secret of [[List of Heroes characters with special abilities#Au Co|Au Co]].
+|-
+| rowspan="2" | 28
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_028.pdf |title=War Buddies, Part 5: Introductions }}&nbsp;{{small|(16.1&nbsp;MB)}}'''
+| 2007-04-09
+| Harrison Wilcox & Oliver Grigsby
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter28_ee.jpg Behind-the-scenes photo] of [[Malcolm McDowell]] ([[Daniel Linderman]]).
+|-
+| colspan="4" | [[List of Heroes characters#Arthur Petrelli|Dallas]]' and [[Daniel Linderman|Austin]]'s identities are revealed.
+|-
+| rowspan="2" | 29
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_029.pdf |title=War Buddies, Part 6: Call to Arms }}&nbsp;{{small|(22.6&nbsp;MB)}}'''
+| 2007-04-16
+| Mark Warshaw
+| Staz Johnson
+| [[Viral marketing|Viral]] [https://web.archive.org/web/20071029021020/http://samantha48616e61.com/ blog] for [[Hana Gitelman]].
+|-
+| colspan="4" | [[Hana Gitelman]] uncovers a political plot.
+|-
+| rowspan="2" | 30
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_030.pdf |title=String Theory }}&nbsp;{{small|(24.0&nbsp;MB)}}'''
+| 2007-04-23
+| Joe Pokaski
+| Staz Johnson
+| [http://www.nbc.com/Heroes/novels/downloads/chapter30_ee.pdf Previous chapter's final page in higher quality and without text boxes.] <small>[[Portable Document Format|PDF]] (41.6&nbsp;MB)</small>
+|-
+| colspan="4" | [[Hiro Nakamura#Alternate futures|Future Hiro]] recounts the time before, during and after he delivered his fateful message to Peter Petrelli: "Save the Cheerleader, Save the World".
+|-
+| rowspan="2" | 31
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_031.pdf |title=Walls, Part 1 }}&nbsp;{{small|(17.3&nbsp;MB)}}'''
+| 2007-05-01
+| Joe Pokaski
+| [[Tom Grummett]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter31_ee.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | In the future, [[Hiro Nakamura#Future Hiro|Hiro Nakamura]] and [[Peter Petrelli#Alternate futures|Peter Petrelli]] break [[Niki Sanders#Alternate future|Niki Sanders]] out of prison.
+|-
+| rowspan="2" | 32
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_032.pdf |title=Walls, Part 2 |url-status=dead |archive-url=https://web.archive.org/web/20071024163602/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_032.pdf |archive-date=2007-10-24 }}&nbsp;{{small|(12.3&nbsp;MB)}}'''
+| 2007-05-08
+| Joe Pokaski
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter32_ee.jpg Behind-the-scenes photo] of [[Zachary Quinto]] ([[Sylar]]) and [[Ellen Greene]] ([[List of Heroes characters#Virginia Gray|Virginia Gray]]).
+|-
+| colspan="4" | [[Hiro Nakamura#Future Hiro|Hiro Nakamura]], [[Peter Petrelli#Alternate futures|Peter Petrelli]] and [[Niki Sanders#Alternate future|Niki Sanders]] fight the opposing heroes at the prison. Niki Sanders thinks about her life before and after the bomb.
+|-
+| rowspan="2" | 33
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_033.pdf |title=The Death of Hana Gitelman, Part 1 |url-status=dead |archive-url=https://web.archive.org/web/20071024102733/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_033.pdf |archive-date=2007-10-24 }}&nbsp;{{small|(24.3&nbsp;MB)}}'''
+| 2007-05-15
+| Aron Eli Coleite
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter33_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | [[Hana Gitelman]] undertakes a mission to disable a tracking system.
+|-
+| rowspan="2" | 34
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_034.pdf |title=The Death of Hana Gitelman, Part 2 }}&nbsp;{{small|(23.2&nbsp;MB)}}'''
+| 2007-05-22
+| Aron Eli Coleite
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter34_ee.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | [[Hana Gitelman]] continues her mission, while combatting multiple threats on her life.
+|-
+| rowspan="2" | 35
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_035.pdf |title=It Takes a Village, Part 1 |url-status=dead |archive-url=https://web.archive.org/web/20071024163401/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_035.pdf |archive-date=2007-10-24 }}&nbsp;{{small|(16.8&nbsp;MB)}}'''
+| 2007-05-29
+| [[Joe Kelly (comics writer)|Joe Kelly]]
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter35_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli), [[Adrian Pasdar]] ([[Nathan Petrelli]]) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | [[Haitian (Heroes)|The Haitian]] remembers his [[List of Heroes characters with special abilities#Guillame|father]] and childhood in [[Haiti]].
+|-
+| rowspan="2" | 36
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_036.pdf |title=It Takes a Village, Part 2 }}&nbsp;{{small|(19.2&nbsp;MB)}}'''
+| 2007-06-05
+| Joe Kelly
+| Staz Johnson
+| [http://www.nbc.com/Heroes/novels/downloads/chapter36_ee.jpg Behind-the-scenes photo] of [[Ali Larter]] ([[Niki Sanders]]) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | [[Haitian (Heroes)|The Haitian]] recalls the first time he used his powers.
+|-
+| rowspan="2" | 37
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_037.pdf |title=It Takes a Village, Part 3 }}&nbsp;{{small|(18.5&nbsp;MB)}}'''
+| 2007-06-12
+| Joe Kelly
+| Tom Grummett
+| [http://www.nbc.com/Heroes/novels/downloads/chapter37_ee.jpg Behind-the-scenes photo] of Jack Coleman (Noah Bennet) and [[Jimmy Jean-Louis]] ([[Haitian (Heroes)|the Haitian]]).
+|-
+| colspan="4" | [[Haitian (Heroes)|The Haitian]] and his [[List of Heroes characters with special abilities#Guillame|father]] go on a journey to perform a [[penance]].
+|-
+| rowspan="2" | 38
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_038.pdf |title=It Takes a Village, Part 4 }}&nbsp;{{small|(21.9&nbsp;MB)}}'''
+| 2007-06-19
+| Joe Kelly
+| Staz Johnson
+| [http://www.nbc.com/Heroes/novels/downloads/chapter38_ee.jpg Behind-the-scenes photo] of [[Ali Larter]] ([[Niki Sanders]]).
+|-
+| colspan="4" | [[Haitian (Heroes)|The Haitian]] learns the price of his mistakes.
+|-
+| rowspan="2" | 39
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_039.pdf |title=Betty, Part 1 }}&nbsp;{{small|(17.5&nbsp;MB)}}'''
+| 2007-06-27
+| [[Joe Casey]]
+| [[Ryan Odagawa]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter39_ee.jpg Behind-the-scenes photo] of [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]) and [[Greg Grunberg]] ([[Matt Parkman]]).
+|-
+| colspan="4" | A [[Candice Wilmer|hero]] learns about her powers.
+|-
+| rowspan="2" | 40
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_040.pdf |title=Betty, Part 2 }}&nbsp;{{small|(18.2&nbsp;MB)}}'''
+| 2007-07-03
+| Joe Casey
+| Ryan Odagawa
+| [http://www.nbc.com/Heroes/novels/downloads/chapter40_ee.jpg Behind-the-scenes photo] of Jack Coleman (Noah Bennet) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | [[Candice Wilmer|Betty]] uses her powers on the students.
+|-
+| rowspan="2" | 41
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_041.pdf |title=Betty, Part 3 }}&nbsp;{{small|(13.6&nbsp;MB)}}'''
+| 2007-07-10
+| Joe Casey
+| Ryan Odagawa
+| [http://www.nbc.com/Heroes/novels/downloads/chapter41_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli).
+|-
+| colspan="4" | [[Candice Wilmer|Betty]]'s actions have unexpected consequences.
+|-
+| rowspan="2" | 42
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_042.pdf |title=Betty, Part 4 }}&nbsp;{{small|(17.3&nbsp;MB)}}'''
+| 2007-07-17
+| Joe Casey
+| Ryan Odagawa
+| [http://www.nbc.com/Heroes/novels/downloads/chapter42_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]).
+|-
+| colspan="4" | [[Candice Wilmer|Betty]] decides to take revenge.
+|-
+| rowspan="2" | 43
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_043.pdf |title=Golden Handshake, Part 1: Man Overboard }}&nbsp;{{small|(14.5&nbsp;MB)}}'''
+| 2007-07-24
+| [[Steven T. Seagle]] & [[Duncan Rouleau]]
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter43_ee.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]) and Jack Coleman (Noah Bennet).
+|-
+| colspan="4" | An old case featuring Haram, the first partner of [[Claude (Heroes)|Claude]], the [[Invisibility|invisible]] man.
+|-
+| rowspan="2" | 44
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_044.pdf |title=Golden Handshake, Part 2: An American in Paris }}&nbsp;{{small|(16.9&nbsp;MB)}}'''
+| 2007-07-31
+| Steven T. Seagle & Duncan Rouleau
+| Tom Grummett
+| [http://www.nbc.com/Heroes/novels/downloads/chapter44_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]).
+|-
+| colspan="4" | [[Claude (Heroes)|Claude]] and Haram get closer to their suspect.
+|-
+| rowspan="2" | 45
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_045.pdf |title=Golden Handshake, Part 3: One More for the Road }}&nbsp;{{small|(18.6&nbsp;MB)}}'''
+| 2007-08-07
+| Steven T. Seagle & Duncan Rouleau
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter45_ee.jpg Behind-the-scenes photo] of [[Zachary Quinto]] ([[Sylar]]) and [[Ellen Greene]] ([[List of Heroes characters#Virginia Gray|Virginia Gray]]).
+|-
+| colspan="4" | The [[List of Heroes characters with special abilities#Rollo Fusor's partner|real perpetrator]] tries to escape.
+|-
+| rowspan="2" | 46
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_046.pdf |title=Golden Handshake, Part 4: Severance Pay }}&nbsp;{{small|(14.9&nbsp;MB)}}'''
+| 2007-08-14
+| Steven T. Seagle & Duncan Rouleau
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter46_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]).
+|-
+| colspan="4" | The chase ends with a dangerous fight.
+|-
+| rowspan="2" | 47
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_047.pdf |title= Heroism Is Found in the Heart, Part 1 |url-status= dead |archive-url= https://web.archive.org/web/20080319041053/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_047.pdf |archive-date= 2008-03-19 }}&nbsp;{{small|(15.2&nbsp;MB)}}'''
+| 2007-08-21
+| Christopher Zatta
+| Ryan Odagawa
+| [http://www.nbc.com/Heroes/novels/downloads/chapter47_ee.jpg Behind-the-scenes photo] of [[Missi Pyle]] (Hope).
+|-
+| colspan="4" | [[Ando Masahashi]] seeks [[Hiro Nakamura]]'s [[List of Heroes characters#Kimiko Nakamura|sister]]'s affections.
+|-
+| rowspan="2" | 48
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_048.pdf |title= Heroism Is Found in the Heart, Part 2 |url-status= dead |archive-url= https://web.archive.org/web/20080319041405/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_048.pdf |archive-date= 2008-03-19 }}&nbsp;{{small|(14.7&nbsp;MB)}}'''
+| 2007-08-28
+| Christopher Zatta
+| Ryan Odagawa
+| [http://www.nbc.com/Heroes/novels/downloads/chapter48_ee.jpg Promotional image] of [[Saemi Nakamura]] ([[List of Heroes characters#Kimiko Nakamura|Kimiko Nakamura]]).
+|-
+| colspan="4" | [[Ando Masahashi]] tries to protect [[List of Heroes characters#Kimiko Nakamura|Kimiko Nakamura]].
+|-
+| rowspan="2" | 49
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_049.pdf |title=Blackout, Part 1 }}&nbsp;{{small|(12.0&nbsp;MB)}}'''
+| 2007-09-04
+| [[Mark Sable]]
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter49_ee.jpg Behind-the-scenes photo] of [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]) and [[Adair Tishler]] ([[Molly Walker (Heroes)|Molly Walker]]).
+|-
+| colspan="4" | [[Mohinder Suresh]] travels to a hospital in search of support for carrying on his [[List of Heroes characters#Chandra Suresh|father]]'s research.
+|-
+| rowspan="2" | 50
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_050.pdf |title=Blackout, Part 2 }}&nbsp;{{small|(10.9&nbsp;MB)}}'''
+| 2007-09-11
+| Mark Sable
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter50_ee.jpg Behind-the-scenes photo] of [[Erick Avari]] ([[List of Heroes characters#Chandra Suresh|Chandra Suresh]]).
+|-
+| colspan="4" | [[Mohinder Suresh]] finds the source of the blackouts.
+|-
+| rowspan="2" | 51
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_051.pdf |title=Maya y Alejandro }}&nbsp;{{small|(15.4&nbsp;MB)}}'''
+| 2007-09-18
+| Mark Warshaw
+| Ryan Odagawa
+| [http://www.nbc.com/Heroes/novels/downloads/chapter51_ee.jpg Behind-the-scenes photo] of [[Santiago Cabrera]] ([[Isaac Mendez]]) and [[Tawny Cypress]] ([[Simone Deveaux]]).
+|-
+| colspan="4" | Two new characters are wanted for murder.
+|}
+
+==Season 2==
+The comics listed here were published during Season Two of the show, and continued through the summer preceding Season Three.<ref name="evolutions" />
+
+{| class="wikitable"
+! Issue
+! Title
+! Release date
+! Story
+! Art
+! Easter egg
+|-
+| rowspan="2" | 52
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_052.pdf |title=Flying Blind }}&nbsp;{{small|(19.8&nbsp;MB)}}'''
+| 2007-09-25
+| [[Christine Boylan]]
+| Tom Grummett
+| [http://www.nbc.com/Heroes/novels/downloads/chapter52_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]) and [[David Anders]] ([[Adam Monroe|Takezo Kensei]]).
+|-
+| colspan="4" | Introduction to [[List of Heroes characters with special abilities#West Rosen|West Rosen]], a classmate of [[Claire Bennet]]'s at Costa Verde High School.
+|-
+| rowspan="2" | 53
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_053.pdf |title=The Crossroads }}&nbsp;{{small|(14.1&nbsp;MB)}}'''
+| 2007-10-02
+| Joe Kelly
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter53_ee.jpg Behind-the-scenes photo] of Lestat ([[List of Heroes characters#Sandra Bennet|Mr. Muggles]]).
+|-
+| colspan="4" | Continues from "[[Lizards (Heroes)|Lizards]]". What [[Haitian (Heroes)|the Haitian]] did before leaving [[Haiti]].
+|-
+| rowspan="2" | 54
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_054.pdf |title=Petrified Lightning }}&nbsp;{{small|(17.0&nbsp;MB)}}'''
+| 2007-10-09
+| Christine Boylan
+| Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter54_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli) and [[Katie Carr]] ([[List of Heroes characters#Caitlin|Caitlin]]).
+|-
+| colspan="4" | Peter Petrelli learns the tale of [[Cúchulainn]].
+|-
+| rowspan="2" | Bonus
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/downloads/Heroes_Rogue_Novel.pdf |title=The Rogue }}&nbsp;{{small|(12.0&nbsp;MB)}}'''
+| 2007-10-15
+| Mark Warshaw
+| Ryan Odagawa
+| http://www.nbc.com/Heroes/novels/downloads/rogue_ee.jpg
+|-
+| colspan="4" | Derek steals [[Claire Bennet]]'s car and drives to [[Mexico]].
+|-
+| rowspan="2" | 55
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_055.pdf |title=The Trial of the Black Bear }}&nbsp;{{small|(16.7&nbsp;MB)}}'''
+| 2007-10-16
+| Chuck Kim
+| Tom Grummett
+|[http://www.nbc.com/Heroes/novels/downloads/chapter55_ee.jpg Behind-the-scenes photo] of [[David Anders]] ([[Adam Monroe|Takezo Kensei]]).
+|-
+| colspan="4" | [[Adam Monroe|Takezo Kensei]] and [[Hiro Nakamura]] try to obtain a scroll from the Black Bear of Sakashita.
+|-
+| rowspan="2" | 56
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_056.pdf |title=Molly's Dream }}&nbsp;{{small|(15.1&nbsp;MB)}}'''
+| 2007-10-23
+| Harrison Wilcox
+| Ryan Odagawa
+|[http://www.nbc.com/Heroes/novels/downloads/chapter56_ee.jpg Behind-the-scenes photo] of [[Adrian Pasdar]] ([[Nathan Petrelli]]).
+|-
+| colspan="4" | An exploration through one of [[Molly Walker (Heroes)|Molly Walker]]'s comatose nightmares.
+|-
+| rowspan="2" | 57
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_057.pdf |title=Team Building Exercise }}&nbsp;{{small|(15.1&nbsp;MB)}}'''
+| 2007-10-30
+| Pierluigi Cothran
+| Travis Kotzebue
+|[http://www.nbc.com/Heroes/novels/downloads/chapter57_ee.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | Noah Bennet's first "bag and tag" mission with the Company.
+|-
+| rowspan="2" | Interactive Novel
+| rowspan="2" | '''{{Deprecated archive|url=https://archive.today/20130129185418/http://studiopass.nbc.com/t/76354/5457548/1103/0/|title=The Last Shangri-La}}'''
+| 2007-11-04
+| [[Yule Caise]]
+| Ryan Odagawa
+| None.
+|-
+| colspan="4" | [[Hana Gitelman]] sends an [[List of Heroes characters with special abilities#Traveler|associate]] to [[Bhutan]] in search of a [[List of Heroes characters with special abilities#Richard Drucker|long-lost relative]]. Continuing events from [[Heroes Evolutions]], this is the first graphic novel presented exclusively in [[SWF|Flash]].
+|-
+| rowspan="2" | 58
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_058.pdf |title=Quarantine }}&nbsp;{{small|(15.6&nbsp;MB)}}'''
+| 2007-11-06
+| [[Jim Martin (graphic novelist)|Jim Martin]]
+| Marcus To
+|[http://www.nbc.com/Heroes/novels/downloads/chapter58_ee.jpg Behind-the-scenes photo] of [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]) and [[Ali Larter]] ([[Niki Sanders]]).
+|-
+| colspan="4" | [[United States Department of Homeland Security|Homeland Security]] official Howard Lemay deals with the devastation of the Shanti virus.
+|-
+| rowspan="2" | 59
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_059.pdf |title=Man on Fire }}&nbsp;{{small|(15.4&nbsp;MB)}}'''
+| 2007-11-13
+| Timm Keppler
+| Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter59_ee.jpg Behind-the-scenes photo] of [[Greg Grunberg]] ([[Matt Parkman]]) with a [[cello]].
+|-
+| colspan="4" | [[D. L. Hawkins]] becomes a [[Firefighter|different kind of hero]].
+|-
+| rowspan="2" | 60
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_060.pdf |title=Revolutionary War, Part 1: Pursuit }}&nbsp;{{small|(20.1&nbsp;MB)}}'''
+| 2007-11-20
+| DJ Doyle
+| Tom Grummett
+|[http://www.nbc.com/Heroes/novels/downloads/chapter60_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli) and [[Adrian Pasdar]] ([[Nathan Petrelli]]).
+|-
+| colspan="4" | [[Adam Monroe]] meets his [[List of Heroes characters with special abilities#Evan|match]].
+|-
+| rowspan="2" | 61
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_061.pdf |title=Revolutionary War, Part 2: Pursuit }}&nbsp;{{small|(18.7&nbsp;MB)}}'''
+| 2007-11-27
+| Oliver Grigsby
+| Tom Grummett
+|[http://www.nbc.com/Heroes/novels/downloads/chapter61_ee.jpg Behind-the-scenes photo] of [[Adam Monroe|Takezo Kensei]]'s armor.
+|-
+| colspan="4" | [[Adam Monroe]] learns a lesson from [[List of Heroes characters with special abilities#Evan|Evan]].
+|-
+| rowspan="2" | 62
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_062.pdf |title=Special }}&nbsp;{{small|(15.5&nbsp;MB)}}'''
+| 2007-12-04
+| Joe Pokaski
+| Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter62_ee.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]) holding a photo of [[Nicholas D'Agosto]] ([[List of Heroes characters with special abilities#West Rosen|West Rosen]]) as a child.
+|-
+| colspan="4" | The backstory behind [[List of Heroes characters with special abilities#West Rosen|West Rosen]]'s abduction as a child by Noah Bennet and [[Haitian (Heroes)|the Haitian]].
+|-
+| rowspan="2" | 63
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_063.pdf |title=Elle's First Assignment, Part 1 }}&nbsp;{{small|(17.0&nbsp;MB)}}'''
+| 2007-12-11
+| Chuck Kim
+| Ryan Odagawa
+|[http://www.nbc.com/Heroes/novels/downloads/chapter63_ee.jpg Behind-the-scenes photo] of [[Kristen Bell]] ([[Elle Bishop]]) after being shot in the arm.
+|-
+| colspan="4" | [[Elle Bishop]]'s first assignment from the Company.
+|-
+| rowspan="2" | 64
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_064.pdf |title=Elle's First Assignment, Part 2 }}&nbsp;{{small|(19.3&nbsp;MB)}}'''
+| 2007-12-18
+| Chuck Kim
+| Ryan Odagawa
+|[http://www.nbc.com/Heroes/novels/downloads/chapter64_ee.jpg Behind-the-scenes photo] of Jack Coleman (Noah Bennet) and [[Nora Zehetner]] ([[List of Heroes characters with special abilities#Eden McCain|Eden McCain]]).
+|-
+| colspan="4" | [[Elle Bishop]] continues her assignment from the Company.
+|-
+| rowspan="2" | 65
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_065.pdf |title=Normal Lives }}&nbsp;{{small|(15.6&nbsp;MB)}}'''
+| 2007-12-25
+| Chuck Kim
+| Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter65_ee.jpg Behind-the-scenes photo] of Jack Coleman (Noah Bennet) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" |Noah Bennet tries to live a normal life.
+|-
+| rowspan="2" | 66
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_066.pdf |title= The Ten Brides of Takezo Kensei |url-status= dead |archive-url= https://web.archive.org/web/20080319042042/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_066.pdf |archive-date= 2008-03-19 }}&nbsp;{{small|(13.9&nbsp;MB)}}'''
+| 2007-12-31
+| Chuck Kim
+| [[Peter Steigerwald]]
+|[http://www.nbc.com/Heroes/novels/downloads/chapter66_ee.jpg Behind-the-scenes photo] of [[David Anders]] ([[Adam Monroe]]).
+|-
+| colspan="4" | While [[buried alive]], [[Adam Monroe]] recounts the many loves he has after [[List of Heroes characters#Yaeko|Yaeko]].
+|-
+| rowspan="2" | 67
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_067.pdf |title=The Golden Goose }}&nbsp;{{small|(13.4&nbsp;MB)}}'''
+| 2008-01-08
+| [[John O'Hara (producer)|John O'Hara]]
+| Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter67_ee.jpg Behind-the-scenes photo] of [[Stephen Tobolowsky]] ([[Bob Bishop (Heroes)|Bob Bishop]]).
+|-
+| colspan="4" |In Bhutan, [[List of Heroes characters with special abilities#Richard Drucker|Richard Drucker]]'s old pilot gets a visitor.
+|-
+| rowspan="2" | 68
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_068.pdf |title=The Man with Too Much Brains }}&nbsp;{{small|(21.4&nbsp;MB)}}'''
+| 2008-01-15
+| [[Carrie Wagner]] and John O'Hara
+| Tom Grummett
+|[http://www.nbc.com/Heroes/novels/downloads/chapter68_ee.jpg Behind-the-scenes photo] of [[Milo Ventimiglia]] (Peter Petrelli) and [[Kristen Bell]] ([[Elle Bishop]]).
+|-
+| colspan="4" |Introduces [[List of Heroes characters with special abilities#Matt Neuenberg|Matt Neuenberg]], a high school outcast with a [[Eidetic memory|unique gift of memory]].
+|-
+| rowspan="2" | 69
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_069.pdf |title=Hana and Drucker's Plot Discovered }}&nbsp;{{small|(23.1&nbsp;MB)}}'''
+| 2008-01-22
+| [[R.D. Hall]]
+| Tom Grummett
+|[http://www.nbc.com/Heroes/novels/downloads/chapter69_ee.jpg Behind-the-scenes photo] of [[Kristen Bell]] ([[Elle Bishop]]).
+|-
+| colspan="4" | Matt Neuenberg finds mysterious data from [[Bhutan]].
+|-
+| rowspan="2" | 70
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_070.pdf |title=The End of Hana and Drucker }}&nbsp;{{small|(23.6&nbsp;MB)}}'''
+| 2008-01-29
+| R.D. Hall
+| Tom Grummett
+|[http://www.nbc.com/Heroes/novels/downloads/chapter70_ee.jpg Behind-the-scenes photo] of [[Greg Grunberg]] ([[Matt Parkman]]) and Jack Coleman (Noah Bennet).
+|-
+| colspan="4" | Matt Neuenberg is forced to download the entire Company database into his memory in order to protect them from Hana and Drucker.
+|-
+| rowspan="2" | 71
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_071.pdf |title= History of a Secret |url-status= dead |archive-url= https://web.archive.org/web/20080319041421/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_071.pdf |archive-date= 2008-03-19 }}&nbsp;{{small|(12.1&nbsp;MB)}}'''
+| 2008-02-05
+| John O'Hara and Carrie Wagner
+| Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter71_ee.jpg Behind-the-scenes photo] of Lestat ([[List of Heroes characters#Sandra Bennet|Mr. Muggles]]).
+|-
+| colspan="4" |A young man's destiny comes calling with an ancient secret.
+|-
+| rowspan="2" | 72
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_072.pdf |title=Past Experience |url-status=dead |archive-url=https://web.archive.org/web/20110629154800/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_072.pdf |archive-date=2011-06-29 }}&nbsp;{{small|(14&nbsp;MB)}}'''
+| 2008-02-11
+| [[J. T. Krul|J.T. Krul]]
+| Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter72_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]) and [[George Takei]] ([[Kaito Nakamura (Heroes)|Kaito Nakamura]]).
+|-
+| colspan="4" | [[Kimiko Nakamura]] learns the lesson from a story told by [[Kaito Nakamura (Heroes)|her father]].
+|-
+| rowspan="2" | 73
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_073.pdf |title=War Buddies, Part 7: Coming Home }}&nbsp;{{small|(14.9&nbsp;MB)}}'''
+| 2008-02-18
+| John O'Hara
+| Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter73_ee.jpg Behind-the-scenes photo] of [[Malcolm McDowell]] ([[Daniel Linderman|Linderman]]).
+|-
+| colspan="4" | [[Daniel Linderman|Linderman]] comes home from [[Vietnam War|Vietnam]] and meets a woman.
+|-
+| rowspan="2" | 74
+| rowspan="2" | '''{{cite web |url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_074.pdf |title= Blindsided |url-status= dead |archive-url= https://web.archive.org/web/20080923174803/http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_074.pdf |archive-date= 2008-09-23 }}&nbsp;{{small|(11.9&nbsp;MB)}}'''
+| 2008-02-25
+| Joe Pokaski
+| Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter74_ee.jpg Behind-the-scenes photo] of [[Jimmy Jean-Louis]] ([[Haitian (Heroes)|The Haitian]]), [[Kristen Bell]] ([[Elle Bishop]]) and [[Milo Ventimiglia]] (Peter Petrelli).
+|-
+| colspan="4" | Noah Bennet once had perfect vision. One day, he becomes a man in need of glasses.
+|-
+| rowspan="2" | 75
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_075.pdf |title=A Lesson in Electricity }}&nbsp;{{small|(17.25&nbsp;MB)}}'''
+| 2008-03-03
+| [[David Wohl]]
+| Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter75_ee.jpg Behind-the-scenes photo] of [[Ali Larter]] ([[Niki Sanders]]) and [[Noah Gray-Cabey]] ([[Micah Sanders]]).
+|-
+| colspan="4" | Another account of [[Benjamin Franklin]]'s kite experiment.
+|-
+| rowspan="2" | 76
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_076.pdf |title=Pieces of Me }}&nbsp;{{small|(17.71&nbsp;MB)}}'''
+| 2008-03-11
+| J.T. Krul
+| [[Robert Atkins (comics)|Robert Atkins]]
+|[http://www.nbc.com/Heroes/novels/downloads/chapter76_ee.jpg Behind-the-scenes photo] of [[Zachary Quinto]] ([[Sylar]]) and [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | Ryan Covington experiences a recurring dream.
+|-
+| rowspan="2" | 77
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_077.pdf |title=On the Lam }}&nbsp;{{small|(22.9&nbsp;MB)}}'''
+| 2008-03-18
+| J.T. Krul
+| [[Eric Nguyen]]
+|[http://www.nbc.com/Heroes/novels/downloads/chapter77_ee.jpg Photo] of [[Malcolm McDowell]] ([[Daniel Linderman|Linderman]]), Brian and 2 associates.
+|-
+| colspan="4" | Brian, blogger of [http://www.brianundaunted.imeem.com brianundaunted on IMEEM], recounts life on the run from Linderman.
+|-
+| rowspan="2" | 78
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_078.pdf |title=Bounty Hunter }}&nbsp;{{small|(17.14&nbsp;MB)}}'''
+| 2008-03-25
+| R.D. Hall
+| Robert Atkins
+|[http://www.nbc.com/Heroes/novels/downloads/chapter78_ee.jpg Photo] of [[Adrian Pasdar]] ([[Nathan Petrelli]]).
+|-
+| colspan="4" | Focuses on Linda Tavara and how she got her notebook.
+|-
+| rowspan="2" | 79
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_079.pdf |title=Different and the Same }}&nbsp;{{small|(15.4&nbsp;MB)}}'''
+| 2008-03-31
+| J.T. Krul
+| Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter79_ee.jpg Photo] of [[Jimmy Jean-Louis]] ([[Haitian (Heroes)|The Haitian]]).
+|-
+| colspan="4" | Piper learns the truth from her dreams.
+|-
+| rowspan="2" | 80
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_080.pdf |title=Moonlight Serenade }}&nbsp;{{small|(15.4&nbsp;MB)}}'''
+| 2008-04-08
+| R.D. Hall
+| Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter80_ee.jpg Behind-the-scenes photo] of Jack Coleman (Noah Bennet) and [[Zachary Quinto]] ([[Sylar]]).
+|-
+| colspan="4" | Linda learns her deadly ability.
+|-
+| rowspan="2" | 81
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_081.pdf |title=Donna's Big Date, Part 1 }}&nbsp;{{small|(16.1&nbsp;MB)}}'''
+| 2008-04-15
+| Chuck Kim
+| Peter Steigerwald
+|[http://www.nbc.com/Heroes/novels/downloads/chapter81_ee.jpg Behind-the-scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]).
+|-
+| colspan="4" | [[List of Heroes characters with special abilities#Donna Dunlap|Donna Dunlap]] has a date with the Company.
+|-
+| rowspan="2" | 82
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_082.pdf |title=Donna's Big Date, Part 2: Replay }}&nbsp;{{small|(15.1&nbsp;MB)}}'''
+| 2008-04-21
+| Chuck Kim
+| Peter Steigerwald
+|[http://www.nbc.com/Heroes/novels/downloads/chapter82_ee.jpg Behind-the-scenes photo] of [[Dania Ramírez]] ([[Maya Herrera]]).
+|-
+| colspan="4" | Donna learns more about the Company.
+|-
+| rowspan="2" | 83
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_083.pdf |title=Career Choices }}&nbsp;{{small|(15.4&nbsp;MB)}}'''
+| 2008-04-28
+| Chuck Kim
+| Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter83_ee.jpg Behind-the-scenes photo] of [[Eric Roberts]] ([[List of Heroes characters#Eric Thompson, Sr.|Thompson]]).
+|-
+| colspan="4" | As her first assignment looms, Donna continues to be taken by surprise.
+|-
+| rowspan="2" | 84
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_084.pdf |title=Trust Issues, Part 1 }}&nbsp;{{small|(15.9&nbsp;MB)}}'''
+| 2008-05-05
+| DJ Doyle
+| Robert Atkins
+| [http://www.nbc.com/Heroes/novels/downloads/chapter84_ee.jpg An artistic rendering] of Donna Dunlap.<ref>[http://www.primatechpaper.com/AT_2.0/assignmentTracker.php?subject=20ccc44d9280df61f9edf33cd21f51b4 Assignment Tracker 2.0<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20080502003950/http://www.primatechpaper.com/AT_2.0/assignmentTracker.php?subject=20ccc44d9280df61f9edf33cd21f51b4 |date=2008-05-02 }}</ref>
+|-
+| colspan="4" | The younger Thompson tries to figure out what's wrong within the company.
+|-
+| rowspan="2" | 85
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_085.pdf |title=Trust Issues, Part 2 }}&nbsp;{{small|(13.9&nbsp;MB)}}'''
+| 2008-05-12
+| DJ Doyle
+| Robert Atkins
+| [http://www.nbc.com/Heroes/novels/downloads/chapter85_ee.jpg Behind-the-scenes photo] of [[Stephen Tobolowsky]] ([[Bob Bishop (Heroes)|Bob Bishop]]) and [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]).
+|-
+| colspan="4" | An unsure Donna copes with being a double agent, and tries to decide her next move.
+|-
+| rowspan="2" | 86
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_086.pdf |title=Faces, Part 1 }}&nbsp;{{small|(19.1&nbsp;MB)}}'''
+| 2008-05-19
+| Mark Sable
+| [[Alitha Martinez]]
+| [http://www.nbc.com/Heroes/novels/downloads/chapter86_ee.jpg Behind-the-scenes photo] of [[Rachel Kimsey]] ([[List of Heroes characters#Candice Wilmer|Candice/Michelle]]).
+|-
+| colspan="4" | An agent with an unattractive look is paired up with her face changing mother
+|-
+| rowspan="2" | 87
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_087.pdf |title=Faces, Part 2 }}&nbsp;{{small|(14.1&nbsp;MB)}}'''
+| 2008-05-26
+| Mark Sable
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/chapter87_ee.jpg Behind-the-scenes photo] of [[Cristine Rose]] ([[Angela Petrelli]]).
+|-
+| colspan="4" | The aftermath of sleeping with a fellow agent.
+|-
+| rowspan="2" | 88
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_088.pdf |title=Root and Branch, Part 1: The Big Bag and Tag }}&nbsp;{{small|(13.6&nbsp;MB)}}'''
+| 2008-06-02
+| Oliver Grigsby
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter88_ee.jpg Behind-the-scenes photo] of [[James Kyson Lee]] ([[Ando Masahashi]]).
+|-
+| colspan="4" | A bag and tag mission involving a man's duplicates.
+|-
+| rowspan="2" | 89
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_089.pdf |title=Root and Branch, Part 2: Weeding Out }}&nbsp;{{small|(14.5&nbsp;MB)}}'''
+| 2008-06-10
+| [[Zach Craley]]
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter89_ee.jpg Behind-the-scenes photo] of [[Hiro Nakamura|Hiro's]] time-line in [[Isaac Mendez]]'s apartment.
+|-
+| colspan="4" | The result of the bag and tag mission with the clones.
+|-
+| rowspan="2" | 90
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_090.pdf |title=Root and Branch, Part 3: Extraction }}&nbsp;{{small|(16.5&nbsp;MB)}}'''
+| 2008-06-16
+| Zach Craley & Oliver Grigsby
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter90_ee.jpg Scene] from [[Company Man (Heroes)|Company Man]] of [[Christopher Eccleston]] ([[List of Heroes characters#Claude Rains|Claude]]) and Jack Coleman (Noah Bennet) on the bridge.
+|-
+| colspan="4" | Agent Sabine Hazel helps Julien Dumont escape.
+|-
+| rowspan="2" | 91
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_091.pdf |title=Berlin, Part 1 }}&nbsp;{{small|(18.6&nbsp;MB)}}'''
+| 2008-06-23
+| Christopher Zatta
+| Alitha Martinez
+| [http://www.nbc.com/Heroes/novels/downloads/chapter91_ee.jpg Photo] of [[Dana Davis]] ([[Monica Dawson]]).
+|-
+| colspan="4" | In the search for Evs Dropper, the company begins by investigating every agent with a special ability
+|-
+| rowspan="2" | 92
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_092.pdf |title=Berlin, Part 2 }}&nbsp;{{small|(18.6&nbsp;MB)}}'''
+| 2008-07-01
+| Christopher Zatta
+| Alitha Martinez
+| [http://www.nbc.com/Heroes/novels/downloads/chapter92_ee.jpg Behind-the-scenes photo] of [[Masi Oka]] ([[Hiro Nakamura]]) from [[Powerless (Heroes)|Powerless]].
+|-
+| colspan="4" | The search for Evs Dropper continues with a surprise attack.
+|-
+| rowspan="2" | 93
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_093.pdf |title=The Kill Squad, Part 1 }}&nbsp;{{small|(16.7&nbsp;MB)}}'''
+| 2008-07-07
+| Harrison Wilcox
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter93_ee.jpg Behind the scenes photo] of [[Missy Peregrym]] ([[Candice Wilmer]]).
+|-
+| colspan="4" | Donna and Thompson go to West Virginia on a bag and tag mission with a Company support team.
+|-
+| rowspan="2" | 94
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_094.pdf |title=The Kill Squad, Part 2 }}&nbsp;{{small|(15.6&nbsp;MB)}}'''
+| 2008-07-14
+| Harrison Wilcox
+| Michael Gaydos
+| [http://www.nbc.com/Heroes/novels/downloads/chapter94_ee.jpg Behind the scenes photo] of [[Zachary Quinto]] ([[Sylar]]).
+|-
+| colspan="4" | The result of the bag and tag mission.
+|-
+| rowspan="2" | 95
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_095.pdf |title=The Kill Squad, Part 3 }}&nbsp;{{small|(17.0&nbsp;MB)}}'''
+| 2008-07-22
+| Harrison Wilcox
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/chapter95_ee.jpg Photo] of [[Leonard Roberts]] ([[D. L. Hawkins]]), [[Ali Larter]] ([[Niki Sanders]]) and [[Noah Gray-Cabey]] ([[Micah Sanders]]).
+|-
+| colspan="4" | Gael gives Fallon his own Kill Squad, and a new mission involving a relative of a family of Heroes.
+|-
+| rowspan="2" | 96
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_096.pdf |title=Going Postal }}&nbsp;{{small|(18.4&nbsp;MB)}}'''
+| 2008-07-29
+| Yule Caise
+| Marcus To
+| [http://www.nbc.com/Heroes/novels/downloads/chapter96_ee.jpg Photo] of Jack Coleman (Noah Bennet), [[Jimmy Jean-Louis]] ([[Haitian (Heroes)|The Haitian]]) and [[Nora Zehetner]] ([[Eden McCain]]).
+|-
+| colspan="4" | The events that led to the capture of [[List of Heroes characters with special abilities#Echo DeMille|Echo DeMille]] by The Company.
+|-
+| rowspan="2" | 97
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_097.pdf |title=Our Lady of Blessed Acceleration, Part 1 }}&nbsp;{{small|(14.9&nbsp;MB)}}'''
+| 2008-08-04
+| Zach Craley
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/chapter97_ee.jpg Photo] of [[Brea Grant]] (Daphne Millbrook) and [[Masi Oka]] ([[Hiro Nakamura]]).
+|-
+| colspan="4" | Two months before Evs Dropper infiltrated The Company, we are introduced to new hero Daphne Millbrook.
+|-
+| rowspan="2" | 98
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_098.pdf |title=Our Lady of Blessed Acceleration, Part 2 }}&nbsp;{{small|(14.6&nbsp;MB)}}'''
+| 2008-08-11
+| Zach Craley
+| Micah Gunnell
+| [http://www.nbc.com/Heroes/novels/downloads/chapter98_ee.jpg Photo] of [[Ali Larter]] (Niki Sanders).
+|-
+| colspan="4" | Daphne Millbrook travels to Japan to take on a heist at Yamagato Industries.
+|-
+| rowspan="2" | 99
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_099.pdf |title=Hindsight }}&nbsp;{{small|(18.1&nbsp;MB)}}'''
+| 2008-08-18
+| Oliver Grigsby
+| Alitha Martinez
+| [http://www.nbc.com/Heroes/novels/downloads/chapter99_ee.jpg Scene] from [[The Line (Heroes)|The Line]] of [[Elya Baskin]] (Ivan Spector) .
+|-
+| colspan="4" | Gael confronts Donna over her links to Evs Dropper.
+|-
+| rowspan="2" | 100
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_100.pdf |title=Foresight }}&nbsp;{{small|(16.2&nbsp;MB)}}'''
+| 2008-08-25
+| Zach Craley
+| Alitha Martinez
+| [http://www.nbc.com/Heroes/novels/downloads/chapter100_ee.jpg Behind the scenes photo] of [[Greg Grunberg]] (Matt Parkman).
+|-
+| colspan="4" | Donna and Thompson try to find Evs Dropper
+|-
+| rowspan="2" | 101
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_101.pdf |title=Into the Wild, Part 1 }}&nbsp;{{small|(14.9&nbsp;MB)}}'''
+| 2008-09-01
+| Timm Keppler and Jim Martin
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter101_ee.jpg Behind the scenes photo] of [[Hayden Panettiere]] ([[Claire Bennet]]) and [[Adrian Pasdar]] ([[Nathan Petrelli]]).
+|-
+| colspan="4" | The identity of Evs Dropper is revealed
+|-
+| rowspan="2" | 102
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_102.pdf |title=Into the Wild, Part 2 }}&nbsp;{{small|(24.7&nbsp;MB)}}'''
+| 2008-09-08
+| Timm Keppler
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter102_ee.jpg Behind the scenes photo] of [[Sendhil Ramamurthy]] ([[Mohinder Suresh]]).
+|-
+| colspan="4" | More of Evs Dropper's past is revealed, and a surprising double-cross occurs
+|-
+| rowspan="2" | 103
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_103.pdf |title=Into the Wild, Part 3 }}&nbsp;{{small|(27.4&nbsp;MB)}}'''
+| 2008-09-15
+| Jim Martin
+| Jason Badower
+| [http://www.nbc.com/Heroes/novels/downloads/chapter103_ee.jpg Cast photo].
+|-
+| colspan="4" | The Evs Dropper storyline concludes.
+|-
+|}
+
+==Season 3==
+The comics listed here were published during Season Three of the show.
+
+===Volume 3: Villains===
+The comics listed here were published during the show's "Volume 3: Villains" arc.
+
+{| class="wikitable"
+! Issue
+! Title
+! Release date
+! Story
+! Art
+! Easter egg
+|-
+| rowspan="2" | 104
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_104.pdf |title=Dreams Until Death }}&nbsp;{{small|(18.8&nbsp;MB)}}'''
+| 2008-09-22
+| Christopher Zatta
+| Alitha Martinez
+| [http://www.nbc.com/Heroes/novels/downloads/chapter104_ee.jpg Behind the scenes photo] of Zachary Quinto (Sylar).
+|-
+| colspan="4" | Company agents Gael Cruz and [[List of Heroes characters with special abilities#Bianca Karina|Bianca]] confront Sylar outside the Bennets' home.
+|-
+| rowspan="2" | 105
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_105.pdf |title=The Sting of Injustice }}&nbsp;{{small|(20.3&nbsp;MB)}}'''
+| 2008-09-29
+| Christopher Zatta
+| Alitha Martinez
+| [http://www.nbc.com/Heroes/novels/downloads/chapter105_ee.jpg Behind the scenes photo] of Zachary Quinto (Sylar) examining Hayden Panetteire (Claire Bennet)'s brain.
+|-
+| colspan="4" | How escaped Level 5 inmates [[List of Heroes characters with special abilities#Benjamin "Knox" Washington|Knox]] and [[List of Heroes characters with special abilities#Jesse Murphy|Jesse]] first aroused The Company's attention.
+|-
+| rowspan="2" | 106
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_106.pdf |title=Resistance }}&nbsp;{{small|(14.5&nbsp;MB)}}'''
+| 2008-10-07
+| Bill Hooper
+| Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter106_ee.jpg Behind the scenes photo] of Brea Grant.
+|-
+| colspan="4" | The events that lead up to Claire's decision to kill Peter Petrelli.
+|-
+| rowspan="2" | 107
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_107.pdf |title=Doyle }}&nbsp;{{small|(14.7&nbsp;MB)}}'''
+| 2008-10-13
+| Chuck Kim
+| Marcus To
+|[http://www.nbc.com/Heroes/novels/downloads/chapter107_ee.jpg Behind the scenes photo] of Sendhil Ramamurthy.
+|-
+| colspan="4" | [[List of Heroes characters#Eric Doyle|Doyle's]] incarceration in, and subsequent escape from, Level 5.
+|-
+| rowspan="2" | 108
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_108.pdf |title=Sum Quod Sum, Part 1 }}&nbsp;{{small|(15.1&nbsp;MB)}}'''
+| 2008-10-20
+|Oliver Grisby
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter108_ee.jpg Behind the scenes photo] of Robert Forster (Arthur Petrelli).
+|-
+| colspan="4" | Elle gets by with a little help from a friend.
+|-
+| rowspan="2" | 109
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_109.pdf |title=Sum Quod Sum, Part 2 }}&nbsp;{{small|(15.9&nbsp;MB)}}'''
+| 2008-10-27
+|Oliver Grisby
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter109_ee.jpg Behind the scenes photo] of Sendhil Ramamurthy, Robert Forster, and Zachary Quinto.
+|-
+| colspan="4" | Elle gets some assistance.
+|-
+| rowspan="2" | 110
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_110.pdf |title=Viewpoints }}&nbsp;{{small|(18.7&nbsp;MB)}}'''
+| 2008-11-04
+|Chuck Kim
+|Alitha Martinez
+|[http://www.nbc.com/Heroes/novels/downloads/chapter110_ee.jpg Behind the scenes photo] of Zachary Quinto, Hayden Panettiere, and Allan Arkush.
+|-
+| colspan="4" | Sylar's first and only solo mission.
+|-
+| rowspan="2" | 111
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_111.pdf |title=Playing With Fire }}&nbsp;{{small|(18.3&nbsp;MB)}}'''
+| 2008-11-11
+|Zach Craley
+|Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter111_ee.jpg Behind the scenes photo] of Zachary Quinto.
+|-
+| colspan="4" | The childhood of Meredith and Flint is explored.
+|-
+| rowspan="2" | 112
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_112.pdf |title=Partners }}&nbsp;{{small|(17.26&nbsp;MB)}}'''
+| 2008-11-18
+|Bill Hooper
+|Dan Panosian
+|[http://www.nbc.com/Heroes/novels/downloads/chapter112_ee.jpg Behind the scenes photo] of Milo Ventimiglia and Robert Forster.
+|-
+| colspan="4" | Noah Bennet and Meredith Gordon track down an escaped prisoner from Level 5.
+|-
+| rowspan="2" | 113
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_113.pdf |title=The Caged Bird, Part 1 }}&nbsp;{{small|(20.7&nbsp;MB)}}'''
+| 2008-11-25
+|Timm Keppler
+|Alitha Martinez
+|[http://www.nbc.com/Heroes/novels/downloads/chapter113_ee.jpg Behind the scenes photo] of Sendhil Ramamurthy.
+|-
+| colspan="4" | [[Daphne Millbrook]]'s [[back-story]] is revealed, from her childhood until the manifestation of her ability.
+|-
+| rowspan="2" | 114
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_114.pdf |title=The Caged Bird, Part 2 }}&nbsp;{{small|(21.7&nbsp;MB)}}'''
+| 2008-12-02
+|Timm Keppler
+|Alitha Martinez
+|[http://www.nbc.com/Heroes/novels/downloads/chapter114_ee.jpg Photo of Claire] from the episode "[[The Eclipse (Heroes)|The Eclipse, Part 2]]"
+|-
+| colspan="4" | Daphne's back-story continued, fleeing and eventually coming back home to [[Kansas]] and her father.
+|-
+| rowspan="2" | 115
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_115.pdf |title=Truths }}&nbsp;{{small|(17.57&nbsp;MB)}}'''
+| 2008-12-09
+|Zach Craley
+|Peter Steigerwald
+|[http://www.nbc.com/Heroes/novels/downloads/chapter115_ee.jpg Behind the scenes photo] of [[Masi Oka]] and [[Robert Forster]].
+|-
+| colspan="4" | Arthur Petrelli reflects on his life in the moments before he is killed.
+|-
+| rowspan="2" | 116
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_116.pdf |title=Stuck In The Middle }}&nbsp;{{small|(12.58&nbsp;MB)}}'''
+| 2008-12-16
+|Jim Martin
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter116_ee.jpg Photo] of Masi Oka and Garrett Masuda.
+|-
+| colspan="4" | Ryan learns the truth about the program at Pinehearst.
+|-
+| rowspan="2" | 117
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_117.pdf |title=Red Eye, Part 1 }}&nbsp;{{small|(17.1&nbsp;MB)}}'''
+| 2008-12-23
+|J.T. Krul
+|Marcus To
+|[http://www.nbc.com/Heroes/novels/downloads/chapter117_ee.jpg Behind the scenes photo] of Greg Grunberg.
+|-
+| colspan="4" | Revenge on the Kill Squad.
+|-
+| rowspan="2" | 118
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_118.pdf |title=Red Eye, Part 2 }}&nbsp;{{small|(16.5&nbsp;MB)}}'''
+| 2008-12-30
+|David Wohl
+|Marcus To
+|[http://www.nbc.com/Heroes/novels/downloads/chapter118_ee.jpg Behind the scenes photo] of Kristen Bell.
+|-
+| colspan="4" | Running away from the past rarely leads to the future.
+|-
+| rowspan="2" | 119
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_119.pdf |title=Under The Bridge, Part 1 }}&nbsp;{{small|(14.5&nbsp;MB)}}'''
+| 2009-01-06
+|Harrison Wilcox
+|Dennis Calero
+|[http://www.nbc.com/Heroes/novels/downloads/chapter119_ee.jpg Behind the scenes photo] of [[Masi Oka]] and [[Robert Forster]].
+|-
+| colspan="4" | Surviving a bus crash.
+|-
+| rowspan="2" | 120
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_120.pdf |title=Under The Bridge, Part 2 }}&nbsp;{{small|(14.1&nbsp;MB)}}'''
+| 2009-01-13
+|Harrison Wilcox
+|Dennis Calero
+|[http://www.nbc.com/Heroes/novels/downloads/chapter120_ee.jpg Behind the scenes photo] of [[Jimmy Jean-Louis]], [[Jamie Hector]] and Hayden Panettiere.
+|-
+| colspan="4" | Attempting to run.
+|-
+| rowspan="2" | 121
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_121.pdf |title=What We Have Wrought }}&nbsp;{{small|(12.1&nbsp;MB)}}'''
+| 2009-01-20
+|Joseph Robert Donnelly
+|Alitha Martinez
+|[http://www.nbc.com/Heroes/novels/downloads/chapter121_ee.jpg Behind the scenes photo] of Hayden Panettiere and Milo Ventimiglia.
+|-
+| colspan="4" | Mohinder is asked to reproduce the formula.
+|-
+| rowspan="2" | 122
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_122.pdf |title=Almost Famous }}&nbsp;{{small|(16.1&nbsp;MB)}}'''
+| 2009-01-27
+|R.D. Hall
+|Chris Cross
+|[http://www.nbc.com/Heroes/novels/downloads/chapter122_ee.jpg Behind the scenes photo] of Greg Grunberg and Ntare Guma Mbaho Mwine.
+|-
+| colspan="4" | Parkman tries to stay out of the limelight.
+|-
+|}
+
+===Volume 4: Fugitives===
+The comics listed here were published during the show's "Volume 4: Fugitives" arc.
+
+{| class="wikitable"
+! Issue
+! Title
+! Release date
+! Story
+! Art
+! Easter egg
+|-
+| rowspan="2" | 123
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_123.pdf |title=Out of Town...On Business }}&nbsp;{{small|(13.45&nbsp;MB)}}'''
+| 2009-02-03
+|Jim Martin
+|Jason Badower
+||[http://www.nbc.com/Heroes/novels/downloads/chapter123_ee.jpg Behind the scenes photo] of Greg Grunberg, Brea Grant, and Ntare Guma Mbaho Mwine.
+|-
+| colspan="4" | Noah Bennet goes out on "business".
+|-
+| rowspan="2" | 124
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_124.pdf |title=Libertad }}&nbsp;{{small|(16.86&nbsp;MB)}}'''
+| 2009-02-10
+|D.J. Doyle
+|Marcus To
+|[http://www.nbc.com/Heroes/novels/downloads/chapter124_ee.jpg Behind the scenes photo] from the episode [[Trust and Blood]].
+|-
+| colspan="4" | Claire receives a call to arms from a mysterious "friend".
+|-
+| rowspan="2" | 125
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_125.pdf |title=The Swimmer }}&nbsp;{{small|(15&nbsp;MB)}}'''
+| 2009-02-17
+|D.J. Doyle
+|Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter125_ee.jpg Behind the scenes photo] from the episode [[Building 26]] of [[Moira Kelly]] (Abby Collins).
+|-
+| colspan="4" | Some of Alex Woolsley's back-story is revealed.
+|-
+| rowspan="2" | 126
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_126.pdf |title=Comrades, Part 1 }}&nbsp;{{small|(14.4&nbsp;MB)}}'''
+| 2009-02-24
+|Christopher Zatta
+|Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter126_ee.jpg Behind the scenes photo] from the episode [[Cold Wars]]
+|-
+| colspan="4" | Noah & Claude meet a retired Ivan whilst hunting "The Russian".
+|-
+| rowspan="2" | 127
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_127.pdf |title=Comrades, Part 2 }}&nbsp;{{small|(15.2&nbsp;MB)}}'''
+| 2009-03-03
+|Christopher Zatta
+|Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter127_ee.jpg Behind the scenes photo] from the episode [[Exposed (Heroes)]]
+|-
+| colspan="4" | Ivan causes problems for Noah & Claude whilst after "The Russian".
+|-
+| rowspan="2" | 128
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_128.pdf |title=Puppet With No Strings }}&nbsp;{{small|(24.2&nbsp;MB)}}'''
+| 2009-03-10
+|Greg Beeman
+|Edgar Delgado
+|[http://www.nbc.com/Heroes/novels/downloads/chapter128_ee.jpg Behind the scenes photo] Sylar (Zachary Quinto) and his father ([[John Glover (actor)|John Glover]])
+|-
+| colspan="4" | There is no happy ending to Doyle's tale of woe.
+|-
+| rowspan="2" | 129
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_129.pdf |title=Hanging By a Thread }}&nbsp;{{small|(13.7&nbsp;MB)}}'''
+| 2009-03-17
+|Jim Martin
+|Micah Gunnell
+|[http://www.nbc.com/Heroes/novels/downloads/chapter129_ee.jpg Behind the scenes photo] of [[Ando Masahashi|Ando]] on a motorcycle.
+|-
+| colspan="4" | On the trail of a slippery special, Rachel's truth slips out.
+|-
+| rowspan="2" | 130
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_130.pdf |title=Baby Power }}&nbsp;{{small|(17.6&nbsp;MB)}}'''
+| 2009-03-24
+|Yule Caise
+|Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter130_ee.jpg Behind the scenes photo] of Noah pointing a gun at Peter.
+|-
+| colspan="4" | Hiro and Ando get their first parenting experience.
+|-
+| rowspan="2" | 131
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_131.pdf |title=Cog }}&nbsp;{{small|(13.1&nbsp;MB)}}'''
+| 2009-03-31
+|Foz McDermott
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter131_ee.jpg Behind the scenes photo] of [[Angela Petrelli]] on a bench in the cathedral.
+|-
+| colspan="4" | In his final hours on the job, Agent Jenkins meets his match.
+|-
+| rowspan="2" | 132
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_132.pdf |title=Scenic Route }}&nbsp;{{small|(15.29&nbsp;MB)}}'''
+| 2009-04-07
+|Zach Craley
+|Marcus To
+|[http://www.nbc.com/Heroes/novels/downloads/chapter132_ee.jpg Behind the scenes photo] of [[List of Heroes characters#Samson Gray|Samson Gray]] (John Glover).
+|-
+| colspan="4" | West and Alex need Mr Bennet's help.
+|-
+| rowspan="2" | 133
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_133.pdf |title=Exodus }}&nbsp;{{small|(11.5&nbsp;MB)}}'''
+| 2009-04-14
+|Bill Hooper
+|Siya Oum
+|[http://www.nbc.com/Heroes/novels/downloads/chapter133_ee.jpg Behind the scenes photo] of [[Alice Shaw (Heroes)|Alice Shaw]] (Diana Scarwid) and [[Angela Petrelli]] (Cristine Rose).
+|-
+| colspan="4" | Rachel's coming out party.
+|-
+| rowspan="2" | 134
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_134.pdf |title=One Good Hero }}&nbsp;{{small|(17.3&nbsp;MB)}}'''
+| 2009-04-21
+|Oliver Grigsby
+|Michael Gaydos
+|[http://www.nbc.com/Heroes/novels/downloads/chapter134_ee.jpg Behind the scenes photo] of [[Sylar]] (Zachary Quinto).
+|-
+| colspan="4" | Rescuing Nathan.
+|-
+| rowspan="2" | 135
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_135.pdf |title=The Natural Order of Things }}&nbsp;{{small|(20.2&nbsp;MB)}}'''
+| 2009-04-28
+|Harrison Wilcox
+|Phil Jimenez
+|[http://www.nbc.com/Heroes/novels/downloads/chapter135_ee.jpg Behind the scenes photo] of [[Sylar]] (Zachary Quinto).
+|-
+| colspan="4" | A moment of reflection.
+|-
+| rowspan="2" | 136
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_136.pdf |title=Rebellion, Part 1: Rebel Yell }}&nbsp;{{small|(14.0&nbsp;MB)}}'''
+| 2009-05-05
+|Zach Craley
+|Dennis Calero
+|[http://www.nbc.com/Heroes/novels/downloads/chapter136_ee.jpg Behind the scenes photo] of [[Claire Bennet]] (Hayden Panettiere) and [[Emile Danko]] (Željko Ivanek).
+|-
+| colspan="4" | In the midnight hour, Micah's rebel yell.
+|-
+| rowspan="2" | 137
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_137.pdf |title=Rebellion, Part 2: Providence in the Fall of a Sparrow }}&nbsp;{{small|(15.78&nbsp;MB)}}'''
+| 2009-05-12
+|Zach Craley
+|Dennis Calero
+|[http://www.nbc.com/Heroes/novels/downloads/chapter137_ee.jpg Behind the scenes photo] of Matt Parkman (Greg Grunberg) and Daphne Millbrook (Brea Grant) .
+|-
+| colspan="4" |Micah meets Sparrow.
+|-
+| rowspan="2" | 138
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_138.pdf |title=Rebellion, Part 3: Family }}&nbsp;{{small|(17.7&nbsp;MB)}}'''
+| 2009-05-19
+|Oliver Grigsby
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter138_ee.jpg Behind the scenes photo] of [[List of Heroes characters#West Rosen|West Rosen]] (Nicholas D'Agosto) and [[Claire Bennet]] (Hayden Panettiere).
+|-
+| colspan="4" |While families were being torn apart, another was formed.
+|-
+| rowspan="2" | 139
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_139.pdf |title=Rebellion, Part 4: Left Behind }}&nbsp;{{small|(13.5&nbsp;MB)}}'''
+| 2009-06-01
+|Oliver Grigsby
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter139_ee.jpg Behind the scenes photo] of [[Micah Sanders]] (Noah Gray-Cabey) and [[Monica Dawson]] (Dana Davis).
+|-
+| colspan="4" |The sights have been set on Micah.
+|-
+| rowspan="2" | 140
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_140.pdf |title=Rebellion, Part 5: Wanted }}&nbsp;{{small|(17.6&nbsp;MB)}}'''
+| 2009-06-16
+|Harrison Wilcox
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter140_ee.jpg Behind the scenes photo] of [[Nathan Petrelli]] (Adrian Pasdar).
+|-
+| colspan="4" |Micah turns the tables on Thompson.
+|-
+| rowspan="2" | 141
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_141.pdf |title=Rebellion, Part 6: Lost and Found  }}&nbsp;{{small|(21.0&nbsp;MB)}}'''
+| 2009-07-14
+|Timm Keppler
+|Dennis Calero
+|[http://www.nbc.com/Heroes/novels/downloads/chapter141_ee.jpg Behind the scenes photo] of Peter Petrelli (Milo Ventimiglia) and [[Angela Petrelli]] (Cristine Rose).
+|-
+| colspan="4" |Micah's plan to find Monica comes off the rails.
+|-
+| rowspan="2" | 142
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_142.pdf |title=Rebellion, Part 7: The Liberation of Saint Joan }}&nbsp;{{small|(18.6&nbsp;MB)}}'''
+| 2009-08-18
+|Jim Martin
+|Jason Badower
+|[http://www.nbc.com/Heroes/novels/downloads/chapter142_ee.jpg Behind the scenes photo] of [[Sylar]] (Zachary Quinto).
+|-
+| colspan="4" |Micah's efforts to find Monica take a new twist.
+|-
+| rowspan="2" | 143
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_143.pdf |title=Ice Queen, Part 1 }}&nbsp;{{small|(17.9&nbsp;MB)}}'''
+| 2009-09-08
+|Harrison Wilcox
+|Robert Atkins
+|[http://www.nbc.com/Heroes/novels/downloads/chapter143_ee.jpg Behind the scenes photo] of [[Tracy Strauss]] (Ali Larter) and Dr. Zimmerman (Ronald Guttman).
+|-
+| colspan="4" |Is Tracy on the cold path of revenge?
+|-
+| rowspan="2" | 144
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_144.pdf |title=Ice Queen, Part 2 }}&nbsp;{{small|(15.1&nbsp;MB)}}'''
+| 2009-09-15
+|Harrison Wilcox
+|Robert Atkins
+|[http://www.nbc.com/Heroes/novels/downloads/chapter144_ee.jpg Behind the scenes photo] of [[Tracy Strauss]] (Ali Larter).
+|-
+| colspan="4" |Tracy's killing ways begin to weigh on her soul.
+|}
+
+==Season 4==
+The comics listed here were published during and after Season Four (''Volume Five: Redemption'') of the show.<ref name="evolutions" />
+
+{| class="wikitable"
+! Issue
+! Title
+! Release date
+! Story
+! Art
+! Easter egg
+|-
+| rowspan="2" | 145
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_145.pdf |title=Stolen Fate }}&nbsp;{{small|(20.55&nbsp;MB)}}'''
+| 2009-09-22
+|Zach Craley
+|Luis Puig
+||[http://www.nbc.com/Heroes/novels/downloads/chapter145_ee.jpg Behind the scenes photo] of Robert Knepper, Dawn Olivieri, and Ray Park.
+|-
+| colspan="4" | Lydia and Hiro have a common carnival past.
+|-
+| rowspan="2" | 146
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_146.pdf |title=Running in Circles }}&nbsp;{{small|(13.75&nbsp;MB)}}'''
+| 2009-09-29
+|Zach Craley
+|Michael Gaydos
+||[http://www.nbc.com/Heroes/novels/downloads/chapter146_ee.jpg Behind the scenes photo] of Ali Larter and Ray Park.
+|-
+| colspan="4" | Edgar and Lydia share a secret bond.
+|-
+| rowspan="2" | 147
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_147.pdf |title=Boom }}&nbsp;{{small|(17.67&nbsp;MB)}}'''
+| 2009-10-06
+|Foz McDermott
+|Ryan Odagawa
+||[http://www.nbc.com/Heroes/novels/downloads/chapter147_ee.jpg Behind the scenes photo] of Hayden Panettiere.
+|-
+| colspan="4" | H.R.G. tries to save a young fire-starter.
+|-
+| rowspan="2" | 148
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_148.pdf |title=Amanda's Journey, Part 1 }}&nbsp;{{small|(13.72&nbsp;MB)}}'''
+| 2009-10-13
+|Christopher Zatta
+|Siya Oum
+||[http://www.nbc.com/Heroes/novels/downloads/chapter148_ee.jpg Behind the scenes photo] of Sasha Pieterse.
+|-
+| colspan="4" | Amanda's fire-starting ability leads her to Peter.
+|-
+| rowspan="2" | 149
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_149.pdf |title=Amanda's Journey, Part 2 }}&nbsp;{{small|(11.15&nbsp;MB)}}'''
+| 2009-10-20
+|Christopher Zatta
+|Siya Oum
+||[http://www.nbc.com/Heroes/novels/downloads/chapter149_ee.jpg Behind the scenes photo] of Ali Larter.
+|-
+| colspan="4" | Tracy steps up to save Amanda from herself.
+|-
+| rowspan="2" | 150
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_150.pdf |title=Yang & Yang }}&nbsp;{{small|(11.56&nbsp;MB)}}'''
+| 2009-10-27
+|Foz McDermott
+|Ryan Odagawa
+||[http://www.nbc.com/Heroes/novels/downloads/chapter150_ee.jpg Behind the scenes photo] of Jordon Dang, Mikey Kawata, and Satomi Okuno.
+|-
+| colspan="4" | At the carnival, Amanda encounters Sylar.
+|-
+| rowspan="2" | 151
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_151.pdf |title=Smoke & Mirrors }}&nbsp;{{small|(11.47&nbsp;MB)}}'''
+| 2009-11-03
+|Erin Fitzgerald
+|Michael Gaydos
+||[http://www.nbc.com/Heroes/novels/downloads/chapter151_ee.jpg Behind the scenes photo] of Robert Knepper.
+|-
+| colspan="4" | Amanda's carnival odyssey opens some eyes.
+|-
+| rowspan="2" | 152
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_152.pdf |title=The Painted Lady }}&nbsp;{{small|(11.93&nbsp;MB)}}'''
+| 2009-11-10
+|Oliver Grigsby
+|Dennis Calero
+||[http://www.nbc.com/Heroes/novels/downloads/chapter152_ee.jpg Behind the scenes photo] of Dawn Olivieri.
+|-
+| colspan="4" | Lydia reaches out to bring Amanda back into the family fold.
+|-
+| rowspan="2" | 153
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_153.pdf |title=Prodigals, Part 1 }}&nbsp;{{small|(12.90&nbsp;MB)}}'''
+| 2009-11-17
+|Foz McDermott
+|Dennis Calero
+||[http://www.nbc.com/Heroes/novels/downloads/chapter153_ee.jpg Behind the scenes photo] of Adrian Pasdar, Milo Ventimiglia, and Greg Grunberg.
+|-
+| colspan="4" | Tracy embarks on a secret mission for Samuel.
+|-
+| rowspan="2" | 154
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_154.pdf |title=Prodigals, Part 2 }}&nbsp;{{small|(11.48&nbsp;MB)}}'''
+| 2009-11-24
+|Foz McDermott
+|Dennis Calero
+||[http://www.nbc.com/Heroes/novels/downloads/chapter154_ee.jpg Behind the scenes photo] of Zachary Quinto.
+|-
+| colspan="4" | Eli sends Tracy away from the Carnival — to an uncertain fate.
+|-
+| rowspan="2" | 155
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_155.pdf |title=Prodigals, Part 3 }}&nbsp;{{small|(14.24&nbsp;MB)}}'''
+| 2009-12-01
+|Howie Kaplan
+|Dennis Calero
+||[http://www.nbc.com/Heroes/novels/downloads/chapter155_ee.jpg Behind the scenes photo] of Milo Ventimiglia and Adrian Pasdar.
+|-
+| colspan="4" | Tracy's mysterious mission for Samuel takes an unexpected twist.
+|-
+| rowspan="2" | 156
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_156.pdf |title=Requiem for My Brother }}&nbsp;{{small|(11.48&nbsp;MB)}}'''
+| 2009-12-08
+|Bill Hooper
+|Ryan Odagawa
+||[http://www.nbc.com/Heroes/novels/downloads/chapter156_ee.jpg Behind the scenes photo] of Danica Stewart.
+|-
+| colspan="4" | A look at the man, the Senator, and the brother.
+|-
+| rowspan="2" | 157
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_157.pdf |title=Bloodlines, Part 1 |url-status=dead |archive-url=https://web.archive.org/web/20101018173743/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_157.pdf |archive-date=2010-10-18 }}&nbsp;{{small|(12.34&nbsp;MB)}}'''
+| 2009-12-15
+|Zach Craley
+|Siya Oum
+||[http://www.nbc.com/Heroes/novels/downloads/chapter157_ee.jpg Behind the scenes image] of Dawn Olivieri's tattoos being applied.
+|-
+| colspan="4" | Joseph's quest to find the root of Samuel's power goes terribly awry.
+|-
+| rowspan="2" | 158
+| rowspan="2" | '''{{cite web|url=http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_158.pdf |title=Bloodlines, Part 2 |url-status=dead |archive-url=https://web.archive.org/web/20101018173654/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_158.pdf |archive-date=2010-10-18 }}&nbsp;{{small|(11.63&nbsp;MB)}}'''
+| 2009-12-22
+|Zach Craley
+|Siya Oum
+||[http://www.nbc.com/Heroes/novels/downloads/chapter158_ee.jpg Behind the scenes image] of Željko Ivanek and Ray Park.
+|-
+| colspan="4" | Joseph meets up with Danko — and pays Arnold a fateful visit.
+|-
+| rowspan="2" | 159
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_159.pdf |title=Starting Over }}&nbsp;{{small|(13.79&nbsp;MB)}}'''
+| 2009-12-28
+|Erin Fitzgerald
+|Ryan Odagawa
+||[http://www.nbc.com/Heroes/novels/downloads/chapter159_ee.jpg Behind the scenes image] of David H. Lawrence XVII.
+|-
+| colspan="4" | Doyle's fate is in the hands of Samuel and Joseph.
+|-
+| rowspan="2" | 160
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_160.pdf |title=The Trip, Part 1 }}&nbsp;{{small|(14.6&nbsp;MB)}}'''
+| 2010-01-04
+|Foz McDermott
+|Jason Badower
+||[http://www.nbc.com/Heroes/novels/downloads/chapter160_ee.jpg Behind the scenes image] of Doug Haley and Julian De La Celle.
+|-
+| colspan="4" | Hiro's scrambled brain leads him on a weird, wonderful trip to Florida.
+|-
+| rowspan="2" | 161
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_161.pdf |title=The Trip, Part 2 }}&nbsp;{{small|(14.69&nbsp;MB)}}'''
+| 2010-01-12
+|Jim Martin
+|Jason Badower
+||[http://www.nbc.com/Heroes/novels/downloads/chapter161_ee.jpg Behind the scenes image] of Jack Coleman, Hayden Panettiere, and Milo Ventimiglia.
+|-
+| colspan="4" | Hiro's addled odyssey continues.
+|-
+| rowspan="2" | 162
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_162.pdf |title=Second Chances }}&nbsp;{{small|(12.08&nbsp;MB)}}'''
+| 2010-01-19
+|Oliver Grigsby
+|Luis Puig
+||[http://www.nbc.com/Heroes/novels/downloads/chapter162_ee.jpg Behind the scenes image] of Sendhil Ramamurthy.
+|-
+| colspan="4" | Can Suresh really withdraw and start a new life with Mira?
+|-
+| rowspan="2" | 163
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_163.pdf |title=Reaching Out, Part 1 }}&nbsp;{{small|(12.89&nbsp;MB)}}'''
+| 2010-01-26
+|Oliver Grigsby
+|Siya Oum
+||[http://www.nbc.com/Heroes/novels/downloads/chapter163_ee.jpg Behind the scenes image] of Robert Knepper.
+|-
+| colspan="4" | Lauren knows Tracy's the only hope for thwarting Samuel.
+|-
+| rowspan="2" | 164
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_164.pdf |title=Reaching Out, Part 2 }}&nbsp;{{small|(11.21&nbsp;MB)}}'''
+| 2010-02-02
+|Oliver Grigsby
+|Siya Oum
+||[http://www.nbc.com/Heroes/novels/downloads/chapter164_ee.jpg Behind the scenes image] of Sendhil Ramamurthy, James Kyson Lee, and Masi Oka.
+|-
+| colspan="4" | Despite attacks from Eli and Becky, Tracy finds her way to the Carnival.
+|-
+| rowspan="2" | 165
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_165.pdf |title=Consequences }}&nbsp;{{small|(14.21&nbsp;MB)}}'''
+| 2010-02-09
+|Zach Craley
+|Ryan Odagawa
+||[http://www.nbc.com/Heroes/novels/downloads/chapter165_ee.jpg Behind the scenes image] of Hayden Panettiere, Milo Ventimiglia, Greg Grunberg, Leonard Roberts, Sendhil Ramamurthy, James Kyson Lee and Masi Oka.
+|-
+| colspan="4" | Angela tries to make sense of what Samuel has wrought on her family.
+|-
+| rowspan="2" | 166
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_166.pdf |title=From the Files of Primatech, Part 1 }}&nbsp;{{small|(20.01&nbsp;MB)}}'''
+| 2010-02-16
+|Howie Kaplan
+|Jason Badower
+||None.
+|-
+| colspan="4" | The original founders of The Company have come together in Greenwich Village for a folk concert—but they're not there for the music.
+|-
+| rowspan="2" | 167
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_167.pdf |title=From the Files of Primatech, Part 2 }}&nbsp;{{small|(20.95&nbsp;MB)}}'''
+| 2010-03-01
+|Howie Kaplan
+|Jason Badower
+||None.
+|-
+| colspan="4" | The Company's co-founders find trouble at a coffeehouse concert.
+|-
+| rowspan="2" | 168
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_168.pdf |title=From the Files of Primatech, Part 3 }}&nbsp;{{small|(25.4&nbsp;MB)}}'''
+| 2010-03-15
+| Foz McDermott
+| Ryan Odagawa
+|| None.
+|-
+| colspan="4" | What has summoned Hiro to the Three Mile Island nuclear power plant? 
+|-
+| rowspan="2" | 169
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_169.pdf |title=From the Files of Primatech, Part 4 }}&nbsp;{{small|(24.03&nbsp;MB)}}'''
+| 2010-03-29
+| Foz McDermott
+| Ryan Odagawa
+|| None.
+|-
+| colspan="4" | What's happened at Three Mile Island—and why are The Company's founders freaking out?
+|-
+| rowspan="2" | 170
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_170.pdf |title=From the Files of Primatech, Part 5 }}&nbsp;{{small|(11.23&nbsp;MB)}}'''
+| 2010-04-12
+| Erin Fitzgerald
+| Jason Badower
+|| None.
+|-
+| colspan="4" | Hiro time travels to Berlin circa 1988 as Claude and Thompson make a shocking discovery.
+|-
+| rowspan="2" | 171
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_171.pdf |title=From the Files of Primatech, Part 6 }}&nbsp;{{small|(11.73&nbsp;MB)}}'''
+| 2010-04-26
+| Erin Fitzgerald
+| Jason Badower
+|| None.
+|-
+| colspan="4" | When a KGB agent goes big, Claude's clearly overmatched.
+|-
+| rowspan="2" | 172
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_172.pdf |title=From the Files of Primatech, Part 7 }}&nbsp;{{small|(14.43&nbsp;MB)}}'''
+| 2010-05-10
+| Zach Craley
+| Ryan Odagawa
+|| None.
+|-
+| colspan="4" | In 1991, Bob Bishop began a sick series of experiments on his daughter Elle.
+|-
+| rowspan="2" | 173
+| rowspan="2" | '''{{cite web|url= http://www.nbc.com/heroes/novels/images/Heroes_novel_173.pdf |title=From the Files of Primatech, Part 8 }}&nbsp;{{small|(13.12&nbsp;MB)}}'''
+| 2010-06-09
+| Zach Craley
+| Ryan Odagawa
+|| None.
+|-
+| colspan="4" | In 1991, Bob Bishop began a sick series of experiments on his daughter Elle.
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20071128022233/http://www.nbc.com/Heroes/novels/ NBC's website for the graphic novels]
+* [http://www.heroesrevealed.com/novels/heroes-novels-as-image-files/ as JPG files]
+* [https://comicvine.gamespot.com/evolved-humans/4060-54665/ Evolved Humans] at Comic Vine
+{{Heroes}}
+
+{{DEFAULTSORT:List Of Heroes Graphic Novels}}
+[[Category:Superhero webcomics]]
+[[Category:Lists of comics by title|Heroes graphic novels]]
+[[Category:Aspen Comics titles|Heroes]]
+[[Category:Heroes (American TV series) lists|Graphic novels]]

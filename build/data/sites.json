@@ -1,0 +1,177 @@
+{
+ "found": {
+  "9thwonders.com": {
+   "row": 4,
+   "col": "misc",
+   "domain": "9thwonders.com",
+   "snapshots": 172,
+   "url": "https://web.archive.org/web/20060721133918/http://www.9thwonders.com:80/",
+   "ts": "20060721133918"
+  },
+  "Heroeswiki.com": {
+   "row": 7,
+   "col": "misc",
+   "domain": "heroeswiki.com",
+   "snapshots": 3,
+   "url": "https://web.archive.org/web/20080820105309/http://www.heroeswiki.com/",
+   "ts": "20080820105309"
+  },
+  "PrimatechPaper.com": {
+   "row": 21,
+   "col": "evo",
+   "domain": "primatechpaper.com",
+   "snapshots": 73,
+   "url": "https://web.archive.org/web/20070127061808/http://www.primatechpaper.com:80/",
+   "ts": "20070127061808"
+  },
+  "Assignment Tracker 2.0": {
+   "row": 22,
+   "col": "evo",
+   "domain": "primatechpaper.com",
+   "snapshots": 73,
+   "url": "https://web.archive.org/web/20070127061808/http://www.primatechpaper.com:80/",
+   "ts": "20070127061808"
+  },
+  "CorinthianLasVegas.com": {
+   "row": 24,
+   "col": "evo",
+   "domain": "corinthianlasvegas.com",
+   "snapshots": 84,
+   "url": "https://web.archive.org/web/20070222080748/http://www.corinthianlasvegas.com:80/",
+   "ts": "20070222080748"
+  },
+  "Activating Evolution": {
+   "row": 27,
+   "col": "evo",
+   "domain": "activatingevolution.com",
+   "snapshots": 21,
+   "url": "https://web.archive.org/web/20070527220145/http://activatingevolution.com:80/",
+   "ts": "20070527220145"
+  },
+  "brianundaunted.imeem.com": {
+   "row": 32,
+   "col": "evo",
+   "domain": "brianundaunted.imeem.com",
+   "snapshots": 7,
+   "url": "https://web.archive.org/web/20070415100253/http://brianundaunted.imeem.com:80/",
+   "ts": "20070415100253"
+  },
+  "VotePetrelli.com": {
+   "row": 34,
+   "col": "evo",
+   "domain": "votepetrelli.com",
+   "snapshots": 80,
+   "url": "https://web.archive.org/web/20070426023845/http://votepetrelli.com:80/",
+   "ts": "20070426023845"
+  },
+  "YamagatoFellowship.org": {
+   "row": 36,
+   "col": "evo",
+   "domain": "yamagatofellowship.org",
+   "snapshots": 103,
+   "url": "https://web.archive.org/web/20070509021856/http://www.yamagatofellowship.org:80/",
+   "ts": "20070509021856"
+  },
+  "9thwonders.com: Cogitoergosum Blog": {
+   "row": 67,
+   "col": "evo",
+   "domain": "9thwonders.com",
+   "snapshots": 172,
+   "url": "https://web.archive.org/web/20071228043938/http://www.9thwonders.com:80/",
+   "ts": "20071228043938"
+  },
+  "9thwonders.com: Evsdropr messages and threads": {
+   "row": 80,
+   "col": "evo",
+   "domain": "9thwonders.com",
+   "snapshots": 172,
+   "url": "https://web.archive.org/web/20080301145631/http://www.9thwonders.com:80/",
+   "ts": "20080301145631"
+  },
+  "PinehearstResearch.com": {
+   "row": 98,
+   "col": "evo",
+   "domain": "pinehearstresearch.com",
+   "snapshots": 67,
+   "url": "https://web.archive.org/web/20080714084942/http://www.pinehearstresearch.com:80/",
+   "ts": "20080714084942"
+  },
+  "Assignment tracker map": {
+   "row": 101,
+   "col": "evo",
+   "domain": "primatechpaper.com",
+   "snapshots": 73,
+   "url": "https://web.archive.org/web/20080805093935/http://www.primatechpaper.com:80/",
+   "ts": "20080805093935"
+  },
+  "LasVegasNiki.com": {
+   "row": 108,
+   "col": "evo",
+   "domain": "lasvegasniki.com",
+   "snapshots": 27,
+   "url": "https://web.archive.org/web/20080923205157/http://www.lasvegasniki.com:80/",
+   "ts": "20080923205157"
+  },
+  "Heroes All Access official fan club website": {
+   "row": 136,
+   "col": "misc",
+   "domain": "heroesallaccess.com",
+   "snapshots": 3,
+   "url": "https://web.archive.org/web/20110208070644/http://heroesallaccess.com/",
+   "ts": "20110208070644"
+  },
+  "Heroes Survival": {
+   "row": 127,
+   "col": "evo",
+   "domain": "nbc.com/Heroes/survival",
+   "snapshots": 31,
+   "url": "https://web.archive.org/web/20090727132807/http://www.nbc.com:80/Heroes/survival/",
+   "ts": "20090727132807"
+  },
+  "HeroTruther YouTube channel": {
+   "row": 191,
+   "col": "evo",
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/@HeroTruther",
+   "ts": null,
+   "note": "still live"
+  },
+  "Are You A Hero?": {
+   "row": 16,
+   "col": "evo",
+   "domain": "heroeswiki.com",
+   "url": "https://web.archive.org/web/2020/http://heroeswiki.com/Are_You_a_Hero%3F",
+   "ts": null,
+   "note": "wiki page (no site snapshot)"
+  },
+  "The Odessa Report": {
+   "row": 194,
+   "col": "evo",
+   "domain": "heroeswiki.com",
+   "url": "https://web.archive.org/web/2020/http://heroeswiki.com/The_Odessa_Report",
+   "ts": null,
+   "note": "wiki page (no site snapshot)"
+  }
+ },
+ "misses": [
+  {
+   "row": 191,
+   "col": "evo",
+   "title": "HeroTruther YouTube channel",
+   "domain": "youtube.com/user/herotruther"
+  },
+  {
+   "row": 194,
+   "col": "evo",
+   "title": "The Odessa Report",
+   "domain": "theodessareport.com"
+  },
+  {
+   "row": 16,
+   "col": "evo",
+   "domain": "areyouahero.com",
+   "title": "Are You A Hero?",
+   "why": "no snapshot near the entry date"
+  }
+ ]
+}
