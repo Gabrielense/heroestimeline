@@ -1,42 +1,73 @@
-element,week_of,instalments,source
-Hiro's SMS,2010-02-08,2,Hiro's_messages
-Hiro's SMS,2010-02-22,2,Hiro's_messages
-Hiro's SMS,2010-03-01,1,Hiro's_messages
-Hiro's Blog,2006-09-25,1,Hiro's_blog
-Hana's SMS,2007-01-22,1,Hana's_messages
-Hana's SMS,2007-08-06,1,Hana's_messages
-Hana's SMS,2007-08-20,1,Hana's_messages
-Hana's SMS,2007-10-01,1,Hana's_messages
-Hana's SMS,2007-10-08,1,Hana's_messages
-Hana's SMS,2007-10-15,1,Hana's_messages
-Hana's SMS,2007-10-22,5,Hana's_messages
-Hana's SMS,2007-10-29,1,Hana's_messages
-Hana's SMS,2007-11-05,2,Hana's_messages
-Hana's SMS,2007-11-19,1,Hana's_messages
-Hana's SMS,2007-11-26,1,Hana's_messages
-Hana's SMS,2007-12-03,2,Hana's_messages
-Hana's SMS,2007-12-10,1,Hana's_messages
-Hana's SMS,2007-12-17,1,Hana's_messages
-Hana's SMS,2007-12-24,3,Hana's_messages
-Hana's SMS,2008-01-07,1,Hana's_messages
-Hana's SMS,2008-01-14,1,Hana's_messages
-Rebel's SMS/emails,2009-02-09,2,Rebel's_messages
-Rebel's SMS/emails,2009-02-16,2,Rebel's_messages
-Rebel's SMS/emails,2009-02-23,2,Rebel's_messages
-Rebel's SMS/emails,2009-03-02,2,Rebel's_messages
-Rebel's SMS/emails,2009-03-09,3,Rebel's_messages
-Rebel's SMS/emails,2009-03-16,1,Rebel's_messages
-Rebel's SMS/emails,2009-03-23,2,Rebel's_messages
-Rebel's SMS/emails,2009-03-30,1,Rebel's_messages
-Rebel's SMS/emails,2009-04-06,2,Rebel's_messages
-Rebel's SMS/emails,2009-04-13,1,Rebel's_messages
-Rebel's SMS/emails,2009-04-27,2,Rebel's_messages
-Evs Dropper's blog,2008-08-11,1,Evs_Dropper's_blog
-Bridget's messages,2007-07-09,1,Bridget_Bailey's_messages
-Pinehearst & Primatech SMS and emails,2008-10-27,2,Pinehearst_and_Primatech_messages
-Pinehearst & Primatech SMS and emails,2008-11-17,1,Pinehearst_and_Primatech_messages
-Pinehearst & Primatech SMS and emails,2008-12-01,1,Pinehearst_and_Primatech_messages
-Pinehearst & Primatech SMS and emails,2008-12-08,3,Pinehearst_and_Primatech_messages
-Pinehearst & Primatech SMS and emails,2008-12-15,3,Pinehearst_and_Primatech_messages
-Pinehearst & Primatech SMS and emails,2009-01-12,1,Pinehearst_and_Primatech_messages
-Pinehearst & Primatech SMS and emails,2009-02-02,1,Pinehearst_and_Primatech_messages
+element,week_of,instalments,dates,titles,source
+Hiro's SMS,2010-02-08,2,2010-02-10 | 2010-02-10,First mentioned: | Subject:Message from Hiro Nakamura Greetings fellow Hero! Now that Claire Bennet has let t,Hiro's_messages
+Hiro's SMS,2010-02-22,2,2010-02-22 | 2010-02-24,"Subject:Message from Hiro Nakamura Just a quick note to let you know that I'm back online. | Subject:A startling discovery - is it Destiny?‏ Ladies and Gentlemen, Amazing news! I have",Hiro's_messages
+Hiro's SMS,2010-03-01,1,2010-03-03,"Subject:Message from Hiro Nakamura I know you just heard from me, but I have exciting news",Hiro's_messages
+Hiro's Blog,2006-09-25,1,2006-09-25,September 2006,Hiro's_blog
+Hiro's Blog,2006-10-02,1,2006-10-04,October 2006,Hiro's_blog
+Hiro's Blog,2006-10-30,1,2006-11-03,November 2006,Hiro's_blog
+Hiro's Blog,2006-12-04,1,2006-12-04,December 2006,Hiro's_blog
+Hiro's Blog,2007-01-22,1,2007-01-22,January 2007,Hiro's_blog
+Hiro's Blog,2007-02-05,1,2007-02-10,February 2007,Hiro's_blog
+Hiro's Blog,2007-03-05,1,2007-03-05,March 2007,Hiro's_blog
+Hiro's Blog,2007-05-21,1,2007-05-23,May 2007,Hiro's_blog
+Hana's SMS,2007-01-22,1,2007-01-22,First mentioned:,Hana's_messages
+Hana's SMS,2007-08-06,1,2007-08-06,"New stuff 2 share. Time to begin again. 4 more, visit www.samantha48616e61.com - HG From: ",Hana's_messages
+Hana's SMS,2007-08-20,1,2007-08-20,"From: ""wireless@samantha48616e61.com"" &lt;wireless@samantha48616e61.com&gt; Subject: Conne",Hana's_messages
+Hana's SMS,2007-10-01,1,2007-10-01,Bennet has gone dark. Need 2 fnd nthr nsider. U kno how clvr they r. Looking for new place,Hana's_messages
+Hana's SMS,2007-10-08,1,2007-10-08,"Change is tough 4 us all. But like any good species, we adapt . Starting to feast on Linde",Hana's_messages
+Hana's SMS,2007-10-15,1,2007-10-15,"Boys like to blow stuff up, don't kno why, but this will b fun. Watch it crumble on Monday",Hana's_messages
+Hana's SMS,2007-10-22,5,2007-10-22 | 2007-10-23 | 2007-10-24 | 2007-10-25 | 2007-10-26,"In the rubble of the Corinthian , we've unearthed a treasure chest filled with secrets. Co | Micah has brokn thru 2 a nu level of Linderman's Archives unlocking a file a day. Follow m | Files are getting more interesting by the sec. Stay with me I think we are closer than we  | Seems our mystery man was quite a rebel. Not sure if he was for or against Linderman . Che | Finally finding concrete answers. We hav a grt lead today. Micahs been doing a lot of digg",Hana's_messages
+Hana's SMS,2007-10-29,1,2007-10-29,Micah found more important info from Linderman 's files. I think the mystery man is on our,Hana's_messages
+Hana's SMS,2007-11-05,2,2007-11-06 | 2007-11-07,Answers r hidden deep. Need help finding him . Must dig to find what we seek. Anyone near  | Ive found Drucker . He sent me a msg w/ an attachment that will really blow your mind. Che,Hana's_messages
+Hana's SMS,2007-11-19,1,2007-11-19,The potential ov a virus outbreak is growing. Always remember to be cautious and keep your,Hana's_messages
+Hana's SMS,2007-11-26,1,2007-11-26,Discovr more about the virus . It may lead us to deepr secrets within The Company . Follow,Hana's_messages
+Hana's SMS,2007-12-03,2,2007-12-03 | 2007-12-04,Drucker is a hard puzzl 2 crack. A new video has led me 2 more info than ever b4: http://w | 9th Wonders pulled Drucker video. Don't know why. Visit my blog instead Subject: Richard D,Hana's_messages
+Hana's SMS,2007-12-10,1,2007-12-10,Druckr amazes me more evry day. Follow the 2nd part of the reprt: http://www.samantha48616,Hana's_messages
+Hana's SMS,2007-12-17,1,2007-12-17,Like Jazz music? Druckr went 2 jazz clubs in NY with Deveaux ! Check out the new video. ww,Hana's_messages
+Hana's SMS,2007-12-24,3,2007-12-24 | 2007-12-27 | 2007-12-28,"I worry The Company has found Druckr . I keep getting cryptic msgs , he may be trying to w | I connected with Micah on Corinthian . Smthng is up www.samantha48616e61.com Subject: Cori | I retrieved the audio that interrupted my chat with Micah @ Corinthian . Listen at my blog",Hana's_messages
+Hana's SMS,2008-01-07,1,2008-01-07,R u experiencing any unusual dreams lately? Nightmares even? Suresh may be ov help. Go to:,Hana's_messages
+Hana's SMS,2008-01-14,1,2008-01-14,I received a strange puzzle. Perhaps from Drucker ? Maybe you can solve it. Go to www.sama,Hana's_messages
+Hana's Blog,2007-02-12,1,2007-02-12,Mr. Bennet's voicemail,Hana's_blog
+Hana's Blog,2008-03-10,1,2008-03-14,The needle,Hana's_blog
+Hana's Blog,2009-02-23,1,2009-02-24,The Agent,Hana's_blog
+Rebel's SMS/emails,2009-02-09,2,2009-02-09 | 2009-02-09,First mentioned: | THERE IS HOPE. YOU CAN STILL FIGHT BACK. REMEMBER CONNIE LOGAN . YOU FOUGHT THE COMPANY . ,Rebel's_messages
+Rebel's SMS/emails,2009-02-16,2,2009-02-18 | 2009-02-20,FIND THE MESSAGES. PASS THEM ALONG. -- REBEL From: Pinehearst Research &lt;donotreply.list | IT'S THE ONLY WAY. -- REBEL From: Rebel &lt;rebel@samantha48616e61.com&gt; MESS_BEGINS: is,Rebel's_messages
+Rebel's SMS/emails,2009-02-23,2,2009-02-24 | 2009-02-27,USE JN832 THIS TIME | TELL HOWIE : CLOUDS From: Rebel &lt;rebel@samantha48616e61.com&gt; END_BREAK–vised that ne,Rebel's_messages
+Rebel's SMS/emails,2009-03-02,2,2009-03-04 | 2009-03-06,EVERYONE: BREAK BLOCKS AT 60 FROM NOW ON –REBEL From: Rebel &lt;rebel@samantha48616e61.com | FORWARD TIPS YOU RECEIVE ABOUT SPECIALS IN TROUBLE TO REBEL@SAMANTHA48616E61.COM DO NOT GI,Rebel's_messages
+Rebel's SMS/emails,2009-03-09,3,2009-03-10 | 2009-03-13 | 2009-03-14,WE MUST PROTECT ELLEN. HOWIE COULD TELL THEM TOO MUCH. --REBEL From: Rebel &lt;rebel@saman | From: Rebel &lt;rebel@samantha48616e61.com&gt; MESS_BEGINS: rgent that I speak with you pr | SOMEONE IS TRYING TO CONTACT ME THROUGH WWW.ACTIVATINGEVOLUTION.ORG activatingevolution.or,Rebel's_messages
+Rebel's SMS/emails,2009-03-16,1,2009-03-17,RACHEL 'S WORLD IS ABOUT TO COME APART. BUT I DON'T KNOW IF SHE IS READY FOR THE TRUTH ABO,Rebel's_messages
+Rebel's SMS/emails,2009-03-23,2,2009-03-24 | 2009-03-27,"STAND BY, STILL SORTING THINGS OUT. –REBEL From: Rebel &lt;rebel@samantha48616e61.com&gt;  | YOU MAY RECEIVE AN IMPORTANT MESSAGE FROM LAWR SOON. YOU’LL KNOW IT’S THEM BECAUSE THEY WI",Rebel's_messages
+Rebel's SMS/emails,2009-03-30,1,2009-03-31,Being a kid. Who does it make a difference to? And who doesn't care? Sometimes I'm surpris,Rebel's_messages
+Rebel's SMS/emails,2009-04-06,2,2009-04-06 | 2009-04-08,From: Rebel &lt;rebel@samantha48616e61.com&gt; Subject: New communications‏ Who of these t | Building 26 found more of Howie 's Letters. They know the truth about Ellen now. Soon ever,Rebel's_messages
+Rebel's SMS/emails,2009-04-13,1,2009-04-15,From: Rebel &lt;rebel@samantha48616e61.com&gt; Subject: MESS_BEGINS: Priority alert from I,Rebel's_messages
+Rebel's SMS/emails,2009-04-27,2,2009-04-28 | 2009-05-01,"Okay, back online. Now to find everyone.&#160;? Rebel From: Rebel &lt;rebel@samantha48616e | See you soon. –Rebel From: Rebel &lt;rebel@samantha48616e61.com&gt; Subject: Janey Pierce ",Rebel's_messages
+Evs Dropper's blog,2008-08-11,1,2008-08-15,First mentioned:,Evs_Dropper's_blog
+Bridget's messages,2007-07-09,1,2007-07-11,I need some advice,Bridget_Bailey's_messages
+Bridget's messages,2007-07-16,1,2007-07-18,"Re: My credentials for your ""friend""",Bridget_Bailey's_messages
+Bridget's messages,2007-07-23,1,2007-07-25,I don't want to pester you but...,Bridget_Bailey's_messages
+Bridget's messages,2007-07-30,1,2007-08-01,Re: I'm afraid I have some sad news,Bridget_Bailey's_messages
+Bridget's messages,2007-08-06,1,2007-08-08,Had another vision today,Bridget_Bailey's_messages
+Bridget's messages,2007-08-13,1,2007-08-15,Thanks,Bridget_Bailey's_messages
+Bridget's messages,2007-08-20,1,2007-08-22,My world is falling apart,Bridget_Bailey's_messages
+Bridget's messages,2007-08-27,1,2007-08-29,More info about my visions,Bridget_Bailey's_messages
+Bridget's messages,2007-09-03,1,2007-09-05,Playing with my new phone,Bridget_Bailey's_messages
+Bridget's messages,2007-09-10,1,2007-09-12,Gaining some control,Bridget_Bailey's_messages
+Bridget's messages,2007-09-17,1,2007-09-19,Serious trouble today,Bridget_Bailey's_messages
+Bridget's messages,2007-09-24,2,2007-09-26 | 2007-09-26,More experiments | Something on my mind,Bridget_Bailey's_messages
+Bridget's messages,2007-10-01,1,2007-10-03,Talked to Harrison today,Bridget_Bailey's_messages
+Bridget's messages,2007-10-08,1,2007-10-10,Desperate times...,Bridget_Bailey's_messages
+Bridget's messages,2007-10-15,1,2007-10-17,Harmful side effects,Bridget_Bailey's_messages
+Bridget's messages,2007-10-22,1,2007-10-24,HELP!,Bridget_Bailey's_messages
+Bridget's messages,2007-10-29,2,2007-10-31 | 2007-10-31,Another murder! | You're a hero,Bridget_Bailey's_messages
+Bridget's messages,2007-11-05,1,2007-11-07,I'm enjoying this,Bridget_Bailey's_messages
+Bridget's messages,2007-11-12,2,2007-11-14 | 2007-11-14,Defending John Smith | Mission Accomplished,Bridget_Bailey's_messages
+Bridget's messages,2007-11-19,1,2007-11-21,Visions from the evidence,Bridget_Bailey's_messages
+Bridget's messages,2007-11-26,1,2007-11-28,Frustrating!,Bridget_Bailey's_messages
+Bridget's messages,2007-12-03,2,2007-12-05 | 2007-12-05,Yes! | You won't believe it!,Bridget_Bailey's_messages
+Pinehearst & Primatech SMS and emails,2008-10-27,2,2008-10-31 | 2008-10-31,First mentioned: | New chapter of Evolutions begins next week. Ready to save the world? http://www.nbc.com/He,Pinehearst_and_Primatech_messages
+Pinehearst & Primatech SMS and emails,2008-11-17,1,2008-11-19,New contract with Primatech Executive Services Available. See http://www.nbc.com/Heroes/iS,Pinehearst_and_Primatech_messages
+Pinehearst & Primatech SMS and emails,2008-12-01,1,2008-12-03,In response to your inquiry: Anna has been taken to FOC 06 for interrogation. Feel free to,Pinehearst_and_Primatech_messages
+Pinehearst & Primatech SMS and emails,2008-12-08,3,2008-12-08 | 2008-12-08 | 2008-12-11,"Discuss ""Friend Or Foe"" iStories at http://boards.9thwonders.com/index.php?showforum=40 | From: Primatech Paper &lt;donotreply.list.contractor@primatechpaper.com&gt; Subject: Agent | Please cease all activities related to Operation Bad Blood and report for new orders. -– P",Pinehearst_and_Primatech_messages
+Pinehearst & Primatech SMS and emails,2008-12-15,3,2008-12-18 | 2008-12-18 | 2008-12-19,Finale of the Red Eye/Kill iStory airs this week. Catch up at http://www.nbc.com/Heroes/iS | From: Pinehearst Research &lt;donotreply.list.contractor@pinehearstresearch.com&gt; Subjec | The Red Eye iStory finale had 14 unique endings . How many did you find? Discuss at 9th Wo,Pinehearst_and_Primatech_messages
+Pinehearst & Primatech SMS and emails,2009-01-12,1,2009-01-14,"iStory 2: ""The Private"" launches this week at www.nbc.com/heroes/iStory",Pinehearst_and_Primatech_messages
+Pinehearst & Primatech SMS and emails,2009-02-02,1,2009-02-04,iStory 2.4 now available: www.nbc.com/Heroes/iStory From: Pinehearst Research &lt;donotrep,Pinehearst_and_Primatech_messages

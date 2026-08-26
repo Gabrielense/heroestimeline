@@ -60,19 +60,46 @@ def get(page, tries=4):
     return None
 
 
-def dates_in(html):
-    """one count per dated row; falls back to a plain scan for prose pages"""
+def flat(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s)).strip()
+
+
+def as_date(m):
+    return datetime.date(int(m.group(3)), MONTHS[m.group(1)], int(m.group(2)))
+
+
+def entries_in(html):
+    """Return [(date, label)] for every instalment on the page.
+
+    Two layouts are in use and both must be handled: message logs are tables
+    with a date per row, while the blogs give each post its own <h3> with the
+    date inside the entry. Reading only table rows made 20- and 26-entry blogs
+    look like single instalments.
+    """
     body = re.search(r'(?s)<div id="mw-content-text".*?>(.*?)<div class="printfooter"', html)
     seg = body.group(1) if body else html
-    per = collections.Counter()
+    # layout A: one <h3> per entry, date somewhere inside it
+    by_head = []
+    for c in re.split(r"(?s)(?=<h3)", seg)[1:]:
+        head = re.search(r'(?s)<h3.*?<span class="mw-headline"[^>]*>(.*?)</span>', c)
+        m = DATE.search(flat(c)[:600])
+        if head and m:
+            by_head.append((as_date(m), flat(head.group(1))[:90]))
+
+    # layout B: one table row per entry
+    by_row = []
     for row in re.findall(r"(?s)<tr[^>]*>(.*?)</tr>", seg):
-        m = DATE.search(re.sub(r"<[^>]+>", " ", row))
+        t = flat(row)
+        m = DATE.search(t)
         if m:
-            per[datetime.date(int(m.group(3)), MONTHS[m.group(1)], int(m.group(2)))] += 1
-    if not per:
-        for m in DATE.finditer(re.sub(r"<[^>]+>", " ", seg)):
-            per[datetime.date(int(m.group(3)), MONTHS[m.group(1)], int(m.group(2)))] += 1
-    return per
+            by_row.append((as_date(m), re.sub(re.escape(m.group(0)), "", t).strip(" ,-–—")[:90]))
+
+    # A page can hold both a summary table and per-entry headings, so take
+    # whichever structured reading finds more. There is deliberately no prose
+    # fallback: scanning loose text scoops up cross-references and "see also"
+    # dates, which inflated Hiro's blog to 32 instalments across four years.
+    # A page with no structure is reported as needing review, not guessed at.
+    return max((by_head, by_row), key=len)
 
 
 def monday(d):
@@ -87,25 +114,34 @@ def main():
             summary.append((label, page, 0, 0, "", "", "page not retrieved"))
             print("  %-46s %-34s NOT RETRIEVED" % (label[:46], page[:34]))
             continue
-        per = dates_in(html)
-        if not per:
+        items = entries_in(html)
+        if not items:
             summary.append((label, page, 0, 0, "", "", "no dates on page"))
             print("  %-46s %-34s no dates found" % (label[:46], page[:34]))
             continue
-        weeks = collections.Counter()
-        for d, n in per.items():
-            weeks[monday(d)] += n
-        for w in sorted(weeks):
-            rows.append({"element": label, "week_of": w.isoformat(),
-                         "instalments": weeks[w], "source": page})
-        summary.append((label, page, sum(per.values()), len(weeks),
-                        min(per).isoformat(), max(per).isoformat(), ""))
+        by_week = collections.defaultdict(list)
+        for d, lab in items:
+            by_week[monday(d)].append((d, lab))
+        for w in sorted(by_week):
+            got = sorted(by_week[w])
+            rows.append({
+                "element": label,
+                "week_of": w.isoformat(),
+                "instalments": len(got),
+                "dates": " | ".join(d.isoformat() for d, _ in got),
+                "titles": " | ".join(t for _, t in got if t),
+                "source": page,
+            })
+        days = [d for d, _ in items]
+        summary.append((label, page, len(items), len(by_week),
+                        min(days).isoformat(), max(days).isoformat(), ""))
         print("  %-46s %3d instalments over %2d weeks  %s -> %s"
-              % (label[:46], sum(per.values()), len(weeks), min(per), max(per)))
+              % (label[:46], len(items), len(by_week), min(days), max(days)))
 
     os.makedirs(DATA, exist_ok=True)
     with open(os.path.join(DATA, "arg_schedule.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["element", "week_of", "instalments", "source"])
+        w = csv.DictWriter(f, fieldnames=["element", "week_of", "instalments",
+                                          "dates", "titles", "source"])
         w.writeheader()
         w.writerows(rows)
     json.dump(rows, open(os.path.join(DATA, "arg_schedule.json"), "w", encoding="utf-8"),

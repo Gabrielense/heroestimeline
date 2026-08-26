@@ -1,0 +1,772 @@
+{
+ "found": {
+  "1": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Monsters",
+   "card": "https://web.archive.org/web/20200515023845im_/http://heroeswiki.com/images/thumb/b/b3/Monsters_title.JPG/270px-Monsters_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023845im_/http://heroeswiki.com/images/thumb/d/d0/Gn_monsters.jpg/250px-Gn_monsters.jpg"
+  },
+  "2": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Crane",
+   "card": "https://web.archive.org/web/20200515023734im_/http://heroeswiki.com/images/thumb/e/e5/The_Crane_title.JPG/200px-The_Crane_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023734im_/http://heroeswiki.com/images/thumb/0/0d/Gn_the_crane.jpg/250px-Gn_the_crane.jpg"
+  },
+  "3": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Trial_By_Fire",
+   "card": "https://web.archive.org/web/20200515023831im_/http://heroeswiki.com/images/thumb/e/ee/Trial_By_Fire_title.JPG/270px-Trial_By_Fire_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023831im_/http://heroeswiki.com/images/thumb/c/cc/Gn_trial_by_fire.jpg/250px-Gn_trial_by_fire.jpg"
+  },
+  "4": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Aftermath",
+   "card": "https://web.archive.org/web/20200515023822im_/http://heroeswiki.com/images/thumb/1/18/Aftermath_title.JPG/270px-Aftermath_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023822im_/http://heroeswiki.com/images/thumb/0/06/Gn_aftermath.jpg/250px-Gn_aftermath.jpg"
+  },
+  "5": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Snapshots",
+   "card": "https://web.archive.org/web/20200515023818im_/http://heroeswiki.com/images/thumb/2/20/Snapshots_title.JPG/270px-Snapshots_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023818im_/http://heroeswiki.com/images/thumb/f/f6/Gn_snapshots.jpg/250px-Gn_snapshots.jpg"
+  },
+  "6": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Stolen_Time",
+   "card": "https://web.archive.org/web/20200515023748im_/http://heroeswiki.com/images/thumb/b/bc/Stolen_Time_title.JPG/270px-Stolen_Time_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023748im_/http://heroeswiki.com/images/thumb/4/43/Gn_stolen_time.jpg/250px-Gn_stolen_time.jpg"
+  },
+  "7": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Control",
+   "card": "https://web.archive.org/web/20200515023849im_/http://heroeswiki.com/images/thumb/8/89/Control_title.JPG/270px-Control_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023849im_/http://heroeswiki.com/images/thumb/6/6f/Gn_control.jpg/250px-Gn_control.jpg"
+  },
+  "8": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Isaac's_First_Time",
+   "card": "https://web.archive.org/web/20200515023841im_/http://heroeswiki.com/images/thumb/0/09/IFT_title.JPG/150px-IFT_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023841im_/http://heroeswiki.com/images/thumb/5/5f/Gn_isaacsfirsttime.jpg/250px-Gn_isaacsfirsttime.jpg"
+  },
+  "9": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Life_Before_Eden",
+   "card": "https://web.archive.org/web/20200515023836im_/http://heroeswiki.com/images/thumb/8/83/LBE_title.JPG/270px-LBE_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023836im_/http://heroeswiki.com/images/thumb/6/66/Gn_lifebeforeeden.jpg/250px-Gn_lifebeforeeden.jpg"
+  },
+  "11": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Fathers_&_Daughters",
+   "card": "https://web.archive.org/web/20200515023823im_/http://heroeswiki.com/images/thumb/4/4d/FnD_title.JPG/270px-FnD_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023823im_/http://heroeswiki.com/images/thumb/f/f0/Gn_fathersanddaughters.jpg/250px-Gn_fathersanddaughters.jpg"
+  },
+  "12": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Super-Heroics",
+   "card": "https://web.archive.org/web/20200515023851im_/http://heroeswiki.com/images/thumb/9/92/S-H_title.JPG/150px-S-H_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023851im_/http://heroeswiki.com/images/thumb/7/79/Gn_super-heroics.jpg/250px-Gn_super-heroics.jpg"
+  },
+  "13": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Wireless,_Part_1",
+   "card": "https://web.archive.org/web/20200515023850im_/http://heroeswiki.com/images/thumb/6/6f/WP1_title.JPG/270px-WP1_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023850im_/http://heroeswiki.com/images/thumb/b/b4/Gn_Wireless-part-one.jpg/250px-Gn_Wireless-part-one.jpg"
+  },
+  "14": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Wireless,_Part_2",
+   "card": "https://web.archive.org/web/20200515023820im_/http://heroeswiki.com/images/thumb/2/27/WP2_title.JPG/270px-WP2_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023820im_/http://heroeswiki.com/images/thumb/5/5b/Gn_Wireless-part-two.jpg/250px-Gn_Wireless-part-two.jpg"
+  },
+  "15": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Wireless,_Part_3",
+   "card": "https://web.archive.org/web/20200515023733im_/http://heroeswiki.com/images/thumb/d/d2/WP3_title.JPG/270px-WP3_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023733im_/http://heroeswiki.com/images/thumb/c/cf/Gn_Wireless-part-three.jpg/250px-Gn_Wireless-part-three.jpg"
+  },
+  "16": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Wireless,_Part_4",
+   "card": "https://web.archive.org/web/20200515023828im_/http://heroeswiki.com/images/thumb/4/44/WP4_title.JPG/270px-WP4_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023828im_/http://heroeswiki.com/images/thumb/c/c1/Gn_Wireless-part-four.jpg/250px-Gn_Wireless-part-four.jpg"
+  },
+  "17": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:How_Do_You_Stop_an_Exploding_Man?,_Part_1",
+   "card": "https://web.archive.org/web/20200515023810im_/http://heroeswiki.com/images/thumb/d/de/HDYSAEMP1_title.JPG/270px-HDYSAEMP1_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023810im_/http://heroeswiki.com/images/thumb/8/85/Gn_exploding_man_1.jpg/250px-Gn_exploding_man_1.jpg"
+  },
+  "18": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:How_Do_You_Stop_an_Exploding_Man?,_Part_2"
+  },
+  "19": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Bully",
+   "card": "https://web.archive.org/web/20200515023818im_/http://heroeswiki.com/images/thumb/4/4a/Bully_title.JPG/270px-Bully_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023818im_/http://heroeswiki.com/images/thumb/f/fb/Gn_bully.jpg/250px-Gn_bully.jpg"
+  },
+  "20": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Road_Kill",
+   "card": "https://web.archive.org/web/20200515023813im_/http://heroeswiki.com/images/thumb/b/b6/RK_title.JPG/270px-RK_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023813im_/http://heroeswiki.com/images/thumb/0/07/Gn_road_kill.jpg/250px-Gn_road_kill.jpg"
+  },
+  "21": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Path_of_the_Righteous",
+   "card": "https://web.archive.org/web/20200515023750im_/http://heroeswiki.com/images/thumb/7/71/PotR_title.JPG/270px-PotR_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023750im_/http://heroeswiki.com/images/thumb/5/55/Gn_path_righteous.jpg/250px-Gn_path_righteous.jpg"
+  },
+  "22": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Hell's_Angel",
+   "card": "https://web.archive.org/web/20200515023833im_/http://heroeswiki.com/images/thumb/3/32/H%27sA_title.JPG/270px-H%27sA_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023833im_/http://heroeswiki.com/images/thumb/9/9f/Gn_hells_angel.jpg/250px-Gn_hells_angel.jpg"
+  },
+  "23": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Family_Man",
+   "card": "https://web.archive.org/web/20200515023839im_/http://heroeswiki.com/images/thumb/7/7c/FM_title.JPG/270px-FM_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023839im_/http://heroeswiki.com/images/thumb/3/39/Gn_family_man.JPG/250px-Gn_family_man.JPG"
+  },
+  "24": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:War_Buddies,_Part_1",
+   "card": "https://web.archive.org/web/20200515023734im_/http://heroeswiki.com/images/thumb/8/83/WB_title.jpg/270px-WB_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023734im_/http://heroeswiki.com/images/thumb/5/55/Gn_war_buddies.jpg/250px-Gn_war_buddies.jpg"
+  },
+  "25": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:War_Buddies,_Part_2",
+   "card": "https://web.archive.org/web/20200515023824im_/http://heroeswiki.com/images/thumb/3/3f/Unknown_Soldiers_title.jpg/270px-Unknown_Soldiers_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023824im_/http://heroeswiki.com/images/thumb/1/1d/Gn_unknown_soldiers.jpg/250px-Gn_unknown_soldiers.jpg"
+  },
+  "26": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:War_Buddies,_Part_3",
+   "card": "https://web.archive.org/web/20200515023827im_/http://heroeswiki.com/images/thumb/3/38/War_buddies_3_title.jpg/270px-War_buddies_3_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023827im_/http://heroeswiki.com/images/thumb/8/84/Gn_war_buddies_3.jpg/250px-Gn_war_buddies_3.jpg"
+  },
+  "27": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:War_Buddies,_Part_4",
+   "card": "https://web.archive.org/web/20200515023824im_/http://heroeswiki.com/images/thumb/5/5c/War_buddies_4_title.jpg/270px-War_buddies_4_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023824im_/http://heroeswiki.com/images/thumb/7/78/Gn_war_buddies_4.jpg/250px-Gn_war_buddies_4.jpg"
+  },
+  "28": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:War_Buddies,_Part_5",
+   "card": "https://web.archive.org/web/20200515023848im_/http://heroeswiki.com/images/thumb/8/8b/War_Buddies_5_title.jpg/270px-War_Buddies_5_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023848im_/http://heroeswiki.com/images/thumb/1/16/Gn_War_Buddies_5.jpg/250px-Gn_War_Buddies_5.jpg"
+  },
+  "30": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:String_Theory",
+   "card": "https://web.archive.org/web/20200515023734im_/http://heroeswiki.com/images/thumb/4/44/String_theory_title.jpg/150px-String_theory_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023734im_/http://heroeswiki.com/images/thumb/0/0c/Gn_string_theory.jpg/250px-Gn_string_theory.jpg"
+  },
+  "31": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Walls,_Part_1",
+   "card": "https://web.archive.org/web/20200515023828im_/http://heroeswiki.com/images/thumb/8/89/Walls_part_1_title.jpg/270px-Walls_part_1_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023828im_/http://heroeswiki.com/images/thumb/2/2c/Gn_Walls_1.JPG/250px-Gn_Walls_1.JPG"
+  },
+  "32": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Walls,_Part_2",
+   "card": "https://web.archive.org/web/20200515023816im_/http://heroeswiki.com/images/thumb/f/f4/Walls_part_2_title.jpg/270px-Walls_part_2_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023816im_/http://heroeswiki.com/images/thumb/2/26/Gn_walls_2.jpg/250px-Gn_walls_2.jpg"
+  },
+  "33": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Death_of_Hana_Gitelman,_Part_1",
+   "card": "https://web.archive.org/web/20200515023740im_/http://heroeswiki.com/images/thumb/7/7c/Death_of_hana_1_title.jpg/270px-Death_of_hana_1_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023740im_/http://heroeswiki.com/images/thumb/2/2c/Gn_death_of_hana_1.jpg/250px-Gn_death_of_hana_1.jpg"
+  },
+  "34": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Death_of_Hana_Gitelman,_Part_2",
+   "card": "https://web.archive.org/web/20200515023850im_/http://heroeswiki.com/images/thumb/b/ba/Death_of_hana_2_title.jpg/270px-Death_of_hana_2_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023850im_/http://heroeswiki.com/images/thumb/b/b3/Gn_death_of_hana_2.jpg/250px-Gn_death_of_hana_2.jpg"
+  },
+  "36": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:It_Takes_a_Village,_Part_2",
+   "card": "https://web.archive.org/web/20200515023813im_/http://heroeswiki.com/images/thumb/d/d5/Village_part_2_title.JPG/270px-Village_part_2_title.JPG"
+  },
+  "37": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:It_Takes_a_Village,_Part_3",
+   "card": "https://web.archive.org/web/20200515023844im_/http://heroeswiki.com/images/thumb/3/3e/It_takes_a_village_part_3_title.JPG/270px-It_takes_a_village_part_3_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023844im_/http://heroeswiki.com/images/thumb/3/36/Gn_it_takes_a_village_p3.JPG/250px-Gn_it_takes_a_village_p3.JPG"
+  },
+  "38": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:It_Takes_a_Village,_Part_4",
+   "card": "https://web.archive.org/web/20200515023753im_/http://heroeswiki.com/images/thumb/7/72/It_takes_a_village_part_4_title.JPG/270px-It_takes_a_village_part_4_title.JPG",
+   "cover": "https://web.archive.org/web/20200515023753im_/http://heroeswiki.com/images/thumb/0/07/Gn_it_takes_a_village_p4.JPG/250px-Gn_it_takes_a_village_p4.JPG"
+  },
+  "39": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Betty,_Part_1",
+   "card": "https://web.archive.org/web/20200515023820im_/http://heroeswiki.com/images/thumb/c/c0/Betty_part_1_title.jpg/270px-Betty_part_1_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023820im_/http://heroeswiki.com/images/thumb/f/fc/Gn_betty_p1.jpg/250px-Gn_betty_p1.jpg"
+  },
+  "40": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Betty,_Part_2"
+  },
+  "43": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Golden_Handshake,_Part_1",
+   "card": "https://web.archive.org/web/20200515023819im_/http://heroeswiki.com/images/thumb/9/98/Golden_Handshake_Part_1_title.jpg/270px-Golden_Handshake_Part_1_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023819im_/http://heroeswiki.com/images/thumb/5/52/GN_Golden_Handshake_P1.jpg/250px-GN_Golden_Handshake_P1.jpg"
+  },
+  "44": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Golden_Handshake,_Part_2",
+   "cover": "https://web.archive.org/web/20200515023829im_/http://heroeswiki.com/images/thumb/d/d6/GN_Golden_Handshake_P2.jpg/250px-GN_Golden_Handshake_P2.jpg"
+  },
+  "45": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Golden_Handshake,_Part_3",
+   "card": "https://web.archive.org/web/20200515023812im_/http://heroeswiki.com/images/thumb/9/93/Golden_Handshake_Part_3_title.jpg/270px-Golden_Handshake_Part_3_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023812im_/http://heroeswiki.com/images/thumb/8/80/GN_Golden_Handshake_P3.jpg/250px-GN_Golden_Handshake_P3.jpg"
+  },
+  "46": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Golden_Handshake,_Part_4",
+   "card": "https://web.archive.org/web/20200515023749im_/http://heroeswiki.com/images/thumb/e/ea/Golden_Handshake_Part_4_title.jpg/270px-Golden_Handshake_Part_4_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023749im_/http://heroeswiki.com/images/thumb/2/28/GN_Golden_Handshake_P4.jpg/250px-GN_Golden_Handshake_P4.jpg"
+  },
+  "47": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Heroism_is_Found_in_the_Heart,_Part_1",
+   "card": "https://web.archive.org/web/20200515023804im_/http://heroeswiki.com/images/thumb/1/11/Heroism_is_Found_in_the_Heart%2C_Part_1_title.jpg/270px-Heroism_is_Found_in_the_Heart%2C_Part_1_title.jpg"
+  },
+  "48": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Heroism_is_Found_in_the_Heart,_Part_2",
+   "card": "https://web.archive.org/web/20200515023809im_/http://heroeswiki.com/images/thumb/2/24/Heroism_is_Found_in_the_Heart%2C_Part_2_title.jpg/270px-Heroism_is_Found_in_the_Heart%2C_Part_2_title.jpg"
+  },
+  "49": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Blackout,_Part_1",
+   "card": "https://web.archive.org/web/20200515023757im_/http://heroeswiki.com/images/thumb/0/06/Blackout%2C_Part_1_title.jpg/270px-Blackout%2C_Part_1_title.jpg"
+  },
+  "50": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Blackout,_Part_2",
+   "card": "https://web.archive.org/web/20200515023820im_/http://heroeswiki.com/images/thumb/7/7a/Blackout%2C_Part_2_title.jpg/270px-Blackout%2C_Part_2_title.jpg"
+  },
+  "51": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Maya_y_Alejandro",
+   "card": "https://web.archive.org/web/20200515023813im_/http://heroeswiki.com/images/thumb/7/75/Maya_y_Alejandro_title.jpg/270px-Maya_y_Alejandro_title.jpg"
+  },
+  "52": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Flying_Blind",
+   "card": "https://web.archive.org/web/20200515023837im_/http://heroeswiki.com/images/thumb/4/41/Flying_Blind_title.jpg/200px-Flying_Blind_title.jpg"
+  },
+  "54": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Petrified_Lightning",
+   "card": "https://web.archive.org/web/20200515023829im_/http://heroeswiki.com/images/thumb/1/1d/Petrified_Lightning_title.jpg/220px-Petrified_Lightning_title.jpg"
+  },
+  "The Rogue": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Rogue",
+   "card": "https://web.archive.org/web/20200515023823im_/http://heroeswiki.com/images/thumb/0/04/The_Rogue_title.jpg/270px-The_Rogue_title.jpg",
+   "cover": "https://web.archive.org/web/20200515023823im_/http://heroeswiki.com/images/thumb/b/b9/Gn_The_Rogue.jpg/250px-Gn_The_Rogue.jpg"
+  },
+  "55": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Trial_of_the_Black_Bear",
+   "card": "https://web.archive.org/web/20200515023759im_/http://heroeswiki.com/images/thumb/e/e3/The_Trial_of_the_Black_Bear_title.jpg/270px-The_Trial_of_the_Black_Bear_title.jpg"
+  },
+  "56": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Molly's_Dream",
+   "card": "https://web.archive.org/web/20200515023841im_/http://heroeswiki.com/images/thumb/5/5b/Molly%27s_dream_title.jpg/270px-Molly%27s_dream_title.jpg"
+  },
+  "57": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Team_Building_Exercise",
+   "card": "https://web.archive.org/web/20200515023835im_/http://heroeswiki.com/images/thumb/0/02/Team_Building_Exercise_title.jpg/200px-Team_Building_Exercise_title.jpg"
+  },
+  "58": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Quarantine",
+   "card": "https://web.archive.org/web/20200515023821im_/http://heroeswiki.com/images/thumb/9/91/Quarantine_title.jpg/270px-Quarantine_title.jpg"
+  },
+  "59": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Man_on_Fire",
+   "card": "https://web.archive.org/web/20200515023809im_/http://heroeswiki.com/images/thumb/7/70/Man_on_Fire_title.jpg/270px-Man_on_Fire_title.jpg"
+  },
+  "60": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Revolutionary_War,_Part_1",
+   "card": "https://web.archive.org/web/20200515023808im_/http://heroeswiki.com/images/thumb/6/60/Revolutionary_War%2C_Part_1_title.jpg/270px-Revolutionary_War%2C_Part_1_title.jpg"
+  },
+  "61": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Revolutionary_War,_Part_2",
+   "card": "https://web.archive.org/web/20200515023738im_/http://heroeswiki.com/images/thumb/7/76/Revolutionary_War%2C_Part_2_title.jpg/270px-Revolutionary_War%2C_Part_2_title.jpg"
+  },
+  "62": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Special",
+   "card": "https://web.archive.org/web/20200515023841im_/http://heroeswiki.com/images/thumb/d/d0/Special_title.jpg/270px-Special_title.jpg"
+  },
+  "63": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Elle's_First_Assignment,_Part_1",
+   "card": "https://web.archive.org/web/20200515023851im_/http://heroeswiki.com/images/thumb/0/06/Elle%27s_First_Assignment%2C_Part_1_title.jpg/270px-Elle%27s_First_Assignment%2C_Part_1_title.jpg"
+  },
+  "65": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Normal_Lives",
+   "card": "https://web.archive.org/web/20200515023816im_/http://heroeswiki.com/images/thumb/4/4c/Normal_Lives_title.jpg/270px-Normal_Lives_title.jpg"
+  },
+  "66": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Ten_Brides_of_Takezo_Kensei",
+   "card": "https://web.archive.org/web/20200515023742im_/http://heroeswiki.com/images/thumb/0/0f/The_Ten_Brides_of_Takezo_Kensei_title.jpg/270px-The_Ten_Brides_of_Takezo_Kensei_title.jpg"
+  },
+  "67": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Golden_Goose",
+   "card": "https://web.archive.org/web/20200515023825im_/http://heroeswiki.com/images/thumb/a/ae/The_Golden_Goose_Title.jpg/270px-The_Golden_Goose_Title.jpg"
+  },
+  "68": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Man_with_Too_Much_Brains",
+   "card": "https://web.archive.org/web/20200515023805im_/http://heroeswiki.com/images/thumb/7/78/The_Man_with_Too_Much_Brains_title.jpg/270px-The_Man_with_Too_Much_Brains_title.jpg"
+  },
+  "69": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Hana_and_Drucker's_Plot_Discovered",
+   "card": "https://web.archive.org/web/20200515023819im_/http://heroeswiki.com/images/thumb/0/09/Hana_and_Drucker%27s_Plot_Discovered_title.jpg/270px-Hana_and_Drucker%27s_Plot_Discovered_title.jpg"
+  },
+  "70": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_End_of_Hana_and_Drucker",
+   "card": "https://web.archive.org/web/20200515023845im_/http://heroeswiki.com/images/thumb/4/4c/The_End_of_Hana_and_Drucker_title.jpg/270px-The_End_of_Hana_and_Drucker_title.jpg"
+  },
+  "71": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:History_of_a_Secret",
+   "card": "https://web.archive.org/web/20200515023800im_/http://heroeswiki.com/images/thumb/e/ef/History_of_a_Secret_title.jpg/270px-History_of_a_Secret_title.jpg"
+  },
+  "73": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:War_Buddies,_Part_7",
+   "card": "https://web.archive.org/web/20200515023744im_/http://heroeswiki.com/images/thumb/0/0a/War_Buddies%2C_Part_7_Title.jpg/270px-War_Buddies%2C_Part_7_Title.jpg"
+  },
+  "74": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Blindsided",
+   "card": "https://web.archive.org/web/20200515023800im_/http://heroeswiki.com/images/thumb/4/44/Blindsided_title.jpg/270px-Blindsided_title.jpg"
+  },
+  "75": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:A_Lesson_in_Electricity",
+   "card": "https://web.archive.org/web/20200515023825im_/http://heroeswiki.com/images/thumb/d/d2/A_Lesson_in_Electricity_title.jpg/270px-A_Lesson_in_Electricity_title.jpg"
+  },
+  "77": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:On_the_Lam",
+   "card": "https://web.archive.org/web/20200515023751im_/http://heroeswiki.com/images/thumb/8/8a/On_the_Lam_title.jpg/270px-On_the_Lam_title.jpg"
+  },
+  "78": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Bounty_Hunter",
+   "card": "https://web.archive.org/web/20200515023754im_/http://heroeswiki.com/images/thumb/3/37/Bounty_Hunter_title.jpg/270px-Bounty_Hunter_title.jpg"
+  },
+  "79": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Different_and_the_Same",
+   "card": "https://web.archive.org/web/20200515023829im_/http://heroeswiki.com/images/thumb/c/c6/Different_and_the_Same_title.jpg/270px-Different_and_the_Same_title.jpg"
+  },
+  "80": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Moonlight_Serenade",
+   "card": "https://web.archive.org/web/20200515023822im_/http://heroeswiki.com/images/thumb/1/1c/Moonlight_Serenade_title.jpg/270px-Moonlight_Serenade_title.jpg"
+  },
+  "81": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Donna's_Big_Date,_Part_1",
+   "card": "https://web.archive.org/web/20200515023840im_/http://heroeswiki.com/images/thumb/3/30/Donna%27s_Big_Date%2C_Part_1_title.jpg/270px-Donna%27s_Big_Date%2C_Part_1_title.jpg"
+  },
+  "82": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Donna's_Big_Date,_Part_2",
+   "card": "https://web.archive.org/web/20200515023731im_/http://heroeswiki.com/images/thumb/3/3b/Donna%27s_Big_Date%2C_Part_2_title.jpg/270px-Donna%27s_Big_Date%2C_Part_2_title.jpg"
+  },
+  "83": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Career_Choices",
+   "card": "https://web.archive.org/web/20200515023742im_/http://heroeswiki.com/images/thumb/b/be/Career_Choices_title.jpg/270px-Career_Choices_title.jpg"
+  },
+  "84": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Trust_Issues,_Part_1",
+   "card": "https://web.archive.org/web/20200515023827im_/http://heroeswiki.com/images/thumb/6/68/Trust_Issues%2C_Part_1_title.jpg/270px-Trust_Issues%2C_Part_1_title.jpg"
+  },
+  "85": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Trust_Issues,_Part_2",
+   "card": "https://web.archive.org/web/20200515023756im_/http://heroeswiki.com/images/thumb/3/38/Trust_Issues%2C_Part_2_title.jpg/270px-Trust_Issues%2C_Part_2_title.jpg"
+  },
+  "87": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Faces,_Part_2",
+   "card": "https://web.archive.org/web/20200515023807im_/http://heroeswiki.com/images/thumb/8/8d/Faces%2C_Part_2_title.jpg/270px-Faces%2C_Part_2_title.jpg"
+  },
+  "88": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Root_and_Branch,_Part_1",
+   "card": "https://web.archive.org/web/20200515023839im_/http://heroeswiki.com/images/thumb/d/dd/Root_and_Branch%2C_Part_1_title.jpg/270px-Root_and_Branch%2C_Part_1_title.jpg"
+  },
+  "89": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Root_and_Branch,_Part_2",
+   "card": "https://web.archive.org/web/20200515023745im_/http://heroeswiki.com/images/thumb/c/c0/Root_and_Branch%2C_Part_2_title.jpg/270px-Root_and_Branch%2C_Part_2_title.jpg"
+  },
+  "90": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Root_and_Branch,_Part_3",
+   "card": "https://web.archive.org/web/20200515023801im_/http://heroeswiki.com/images/thumb/4/43/Root_and_Branch%2C_Part_3_title.jpg/270px-Root_and_Branch%2C_Part_3_title.jpg"
+  },
+  "91": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Berlin,_Part_1",
+   "card": "https://web.archive.org/web/20200515023804im_/http://heroeswiki.com/images/thumb/7/72/Berlin%2C_Part_1_title.jpg/270px-Berlin%2C_Part_1_title.jpg"
+  },
+  "93": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Kill_Squad,_Part_1",
+   "card": "https://web.archive.org/web/20200515023815im_/http://heroeswiki.com/images/thumb/a/a0/The_Kill_Squad%2C_Part_1_title.jpg/270px-The_Kill_Squad%2C_Part_1_title.jpg"
+  },
+  "94": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Kill_Squad,_Part_2",
+   "card": "https://web.archive.org/web/20200515023744im_/http://heroeswiki.com/images/thumb/5/50/The_Kill_Squad%2C_Part_2_title.jpg/270px-The_Kill_Squad%2C_Part_2_title.jpg"
+  },
+  "96": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Going_Postal",
+   "card": "https://web.archive.org/web/20200515023811im_/http://heroeswiki.com/images/thumb/c/cb/Going_Postal_title.jpg/270px-Going_Postal_title.jpg"
+  },
+  "97": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Our_Lady_of_Blessed_Acceleration,_Part_1",
+   "card": "https://web.archive.org/web/20200515023735im_/http://heroeswiki.com/images/thumb/6/62/Our_Lady_of_Blessed_Acceleration_Part_1_title.jpg/270px-Our_Lady_of_Blessed_Acceleration_Part_1_title.jpg"
+  },
+  "99": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Hindsight",
+   "card": "https://web.archive.org/web/20200515023816im_/http://heroeswiki.com/images/thumb/9/95/Hindsight_title.jpg/270px-Hindsight_title.jpg"
+  },
+  "100": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Foresight",
+   "card": "https://web.archive.org/web/20200515023832im_/http://heroeswiki.com/images/thumb/4/42/Foresight_title.jpg/270px-Foresight_title.jpg"
+  },
+  "102": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Into_the_Wild,_Part_2",
+   "card": "https://web.archive.org/web/20200515023800im_/http://heroeswiki.com/images/thumb/8/8b/Into_the_Wild%2C_Part_2_title.jpg/270px-Into_the_Wild%2C_Part_2_title.jpg"
+  },
+  "103": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Into_the_Wild,_Part_3",
+   "card": "https://web.archive.org/web/20200515023747im_/http://heroeswiki.com/images/thumb/4/43/Into_the_Wild%2C_Part_3_title.jpg/270px-Into_the_Wild%2C_Part_3_title.jpg"
+  },
+  "104": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Dreams_Until_Death",
+   "card": "https://web.archive.org/web/20200515023847im_/http://heroeswiki.com/images/thumb/9/90/Dreams_Until_Death_title.jpg/270px-Dreams_Until_Death_title.jpg"
+  },
+  "105": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Sting_of_Injustice",
+   "card": "https://web.archive.org/web/20200515023807im_/http://heroeswiki.com/images/thumb/6/6b/The_Sting_of_Injustice_title.jpg/270px-The_Sting_of_Injustice_title.jpg"
+  },
+  "106": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Resistance",
+   "card": "https://web.archive.org/web/20200515023837im_/http://heroeswiki.com/images/thumb/8/81/Resistance_title.jpg/270px-Resistance_title.jpg"
+  },
+  "107": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Doyle",
+   "card": "https://web.archive.org/web/20200515023758im_/http://heroeswiki.com/images/thumb/8/8c/Doyle_title.jpg/150px-Doyle_title.jpg"
+  },
+  "108": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Sum_Quod_Sum,_Part_1",
+   "card": "https://web.archive.org/web/20200515023732im_/http://heroeswiki.com/images/thumb/9/9f/Sum_Quod_Sum%2C_Part_1_title.jpg/270px-Sum_Quod_Sum%2C_Part_1_title.jpg"
+  },
+  "109": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Sum_Quod_Sum,_Part_2",
+   "card": "https://web.archive.org/web/20200515023759im_/http://heroeswiki.com/images/thumb/6/6a/Sum_Quod_Sum%2C_Part_2_title.jpg/270px-Sum_Quod_Sum%2C_Part_2_title.jpg"
+  },
+  "110": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Viewpoints",
+   "card": "https://web.archive.org/web/20200515023735im_/http://heroeswiki.com/images/thumb/e/e9/Viewpoints_title.jpg/270px-Viewpoints_title.jpg"
+  },
+  "111": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Playing_with_Fire",
+   "card": "https://web.archive.org/web/20200515023848im_/http://heroeswiki.com/images/thumb/b/b4/Playing_With_Fire_title.jpg/270px-Playing_With_Fire_title.jpg"
+  },
+  "112": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Partners",
+   "card": "https://web.archive.org/web/20200515023819im_/http://heroeswiki.com/images/thumb/c/c2/Partners_title.jpg/270px-Partners_title.jpg"
+  },
+  "113": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Caged_Bird,_Part_1",
+   "card": "https://web.archive.org/web/20200515023733im_/http://heroeswiki.com/images/thumb/7/70/The_Caged_Bird_title.jpg/270px-The_Caged_Bird_title.jpg"
+  },
+  "114": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Caged_Bird,_Part_2",
+   "card": "https://web.archive.org/web/20200515023826im_/http://heroeswiki.com/images/thumb/7/70/The_Caged_Bird%2C_Part_2_title.jpg/270px-The_Caged_Bird%2C_Part_2_title.jpg"
+  },
+  "115": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Truths",
+   "card": "https://web.archive.org/web/20200515023847im_/http://heroeswiki.com/images/thumb/4/4e/Truths_title.jpg/270px-Truths_title.jpg"
+  },
+  "116": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Stuck_in_the_Middle",
+   "card": "https://web.archive.org/web/20200515023754im_/http://heroeswiki.com/images/thumb/0/03/Stuck_in_the_Middle_title.jpg/270px-Stuck_in_the_Middle_title.jpg"
+  },
+  "117": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Red_Eye,_Part_1",
+   "card": "https://web.archive.org/web/20200515023850im_/http://heroeswiki.com/images/thumb/5/54/Red_Eye%2C_Part_1_title.jpg/270px-Red_Eye%2C_Part_1_title.jpg"
+  },
+  "118": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Red_Eye,_Part_2",
+   "card": "https://web.archive.org/web/20200515023814im_/http://heroeswiki.com/images/thumb/c/cf/Red_Eye%2C_Part_2_title.jpg/270px-Red_Eye%2C_Part_2_title.jpg"
+  },
+  "119": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Under_the_Bridge,_Part_1",
+   "card": "https://web.archive.org/web/20200517151813im_/http://heroeswiki.com/images/thumb/2/22/Under_the_Bridge%2C_Part_1_title.jpg/270px-Under_the_Bridge%2C_Part_1_title.jpg"
+  },
+  "120": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Under_the_Bridge,_Part_2",
+   "card": "https://web.archive.org/web/20200515023758im_/http://heroeswiki.com/images/thumb/4/48/Under_the_Bridge%2C_Part_2_title.jpg/270px-Under_the_Bridge%2C_Part_2_title.jpg"
+  },
+  "121": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:What_We_Have_Wrought",
+   "card": "https://web.archive.org/web/20200515023849im_/http://heroeswiki.com/images/thumb/2/2b/What_We_Have_Wrought_title.jpg/270px-What_We_Have_Wrought_title.jpg"
+  },
+  "122": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Almost_Famous",
+   "card": "https://web.archive.org/web/20200515023825im_/http://heroeswiki.com/images/thumb/6/60/Almost_famous_title.jpg/270px-Almost_famous_title.jpg"
+  },
+  "123": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Out_of_Town..._On_Business",
+   "card": "https://web.archive.org/web/20200515023839im_/http://heroeswiki.com/images/thumb/9/98/Out_of_Town..._On_Business_title.jpg/270px-Out_of_Town..._On_Business_title.jpg"
+  },
+  "124": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Libertad",
+   "card": "https://web.archive.org/web/20200515023817im_/http://heroeswiki.com/images/thumb/a/a6/Libertad_title.jpg/270px-Libertad_title.jpg"
+  },
+  "125": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Swimmer",
+   "card": "https://web.archive.org/web/20200515023817im_/http://heroeswiki.com/images/thumb/b/b6/The_Swimmer_title.jpg/270px-The_Swimmer_title.jpg"
+  },
+  "126": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Comrades,_Part_1",
+   "card": "https://web.archive.org/web/20200515023754im_/http://heroeswiki.com/images/thumb/0/04/Comrades%2C_Part_1_title.jpg/270px-Comrades%2C_Part_1_title.jpg"
+  },
+  "127": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Comrades,_Part_2",
+   "card": "https://web.archive.org/web/20200515023749im_/http://heroeswiki.com/images/thumb/b/be/Comrades%2C_Part_2_title.jpg/270px-Comrades%2C_Part_2_title.jpg"
+  },
+  "128": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Puppet_with_No_Strings",
+   "card": "https://web.archive.org/web/20200515023738im_/http://heroeswiki.com/images/thumb/a/af/Puppet_with_No_Strings_title.jpg/270px-Puppet_with_No_Strings_title.jpg"
+  },
+  "129": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Hanging_By_a_Thread",
+   "card": "https://web.archive.org/web/20200515023832im_/http://heroeswiki.com/images/thumb/b/ba/Hanging_By_a_Thread_title.jpg/220px-Hanging_By_a_Thread_title.jpg"
+  },
+  "131": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Cog",
+   "card": "https://web.archive.org/web/20200515023756im_/http://heroeswiki.com/images/thumb/b/b9/COG_title.jpg/270px-COG_title.jpg"
+  },
+  "132": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Scenic_Route",
+   "card": "https://web.archive.org/web/20200515023846im_/http://heroeswiki.com/images/thumb/a/ab/Scenic_Route_title.jpg/270px-Scenic_Route_title.jpg"
+  },
+  "134": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:One_Good_Hero",
+   "card": "https://web.archive.org/web/20200515023835im_/http://heroeswiki.com/images/thumb/c/ce/One_Good_Hero_title.jpg/270px-One_Good_Hero_title.jpg"
+  },
+  "137": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Rebellion,_Part_2",
+   "card": "https://web.archive.org/web/20200515023831im_/http://heroeswiki.com/images/thumb/4/43/Rebellion%2C_Part_2_title.jpg/270px-Rebellion%2C_Part_2_title.jpg"
+  },
+  "138": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Rebellion,_Part_3",
+   "card": "https://web.archive.org/web/20200515023801im_/http://heroeswiki.com/images/thumb/1/16/Rebellion%2C_Part_3_title.jpg/270px-Rebellion%2C_Part_3_title.jpg"
+  },
+  "139": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Rebellion,_Part_4",
+   "card": "https://web.archive.org/web/20200515023846im_/http://heroeswiki.com/images/thumb/2/2f/Rebellion%2C_Part_4_title.jpg/270px-Rebellion%2C_Part_4_title.jpg"
+  },
+  "140": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Rebellion,_Part_5",
+   "card": "https://web.archive.org/web/20200515023745im_/http://heroeswiki.com/images/thumb/1/19/Rebellion%2C_Part_5_title.jpg/270px-Rebellion%2C_Part_5_title.jpg"
+  },
+  "141": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Rebellion,_Part_6",
+   "card": "https://web.archive.org/web/20200515023847im_/http://heroeswiki.com/images/thumb/2/29/Rebellion%2C_Part_6_title.jpg/270px-Rebellion%2C_Part_6_title.jpg"
+  },
+  "142": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Rebellion,_Part_7",
+   "card": "https://web.archive.org/web/20200515023757im_/http://heroeswiki.com/images/thumb/e/e9/Rebellion%2C_Part_7_title.jpg/270px-Rebellion%2C_Part_7_title.jpg"
+  },
+  "143": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Ice_Queen,_Part_1",
+   "card": "https://web.archive.org/web/20200515023829im_/http://heroeswiki.com/images/thumb/7/74/Ice_Queen_Part_1_title.jpg/270px-Ice_Queen_Part_1_title.jpg"
+  },
+  "144": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Ice_Queen,_Part_2"
+  },
+  "146": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Running_in_Circles",
+   "card": "https://web.archive.org/web/20200515023750im_/http://heroeswiki.com/images/thumb/4/43/Running_in_Circles_title.jpg/270px-Running_in_Circles_title.jpg"
+  },
+  "148": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Amanda's_Journey,_Part_1",
+   "card": "https://web.archive.org/web/20200515023755im_/http://heroeswiki.com/images/thumb/3/32/When_everything_changed_title.jpg/270px-When_everything_changed_title.jpg"
+  },
+  "149": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Amanda's_Journey,_Part_2",
+   "card": "https://web.archive.org/web/20200515023805im_/http://heroeswiki.com/images/thumb/7/76/Amanda%27s_Journey%2C_Part_2_title.jpg/270px-Amanda%27s_Journey%2C_Part_2_title.jpg"
+  },
+  "150": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Yang_&_Yang",
+   "card": "https://web.archive.org/web/20200515023811im_/http://heroeswiki.com/images/thumb/6/6c/Yang_%26_Yang_title.jpg/270px-Yang_%26_Yang_title.jpg"
+  },
+  "151": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Smoke_&_Mirrors"
+  },
+  "152": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Painted_Lady",
+   "card": "https://web.archive.org/web/20200515023740im_/http://heroeswiki.com/images/thumb/c/cb/The_Painted_Lady_title.jpg/270px-The_Painted_Lady_title.jpg"
+  },
+  "153": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Prodigals,_Part_1",
+   "card": "https://web.archive.org/web/20200515023758im_/http://heroeswiki.com/images/thumb/7/7d/Prodigals%2C_Part_1_title.jpg/270px-Prodigals%2C_Part_1_title.jpg"
+  },
+  "154": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Prodigals,_Part_2",
+   "card": "https://web.archive.org/web/20200515023751im_/http://heroeswiki.com/images/thumb/1/1c/Prodigals%2C_Part_2_title.jpg/270px-Prodigals%2C_Part_2_title.jpg"
+  },
+  "155": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Prodigals,_Part_3",
+   "card": "https://web.archive.org/web/20200515023751im_/http://heroeswiki.com/images/thumb/d/d4/Prodigals%2C_Part_3_title.jpg/270px-Prodigals%2C_Part_3_title.jpg"
+  },
+  "156": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Requiem_For_My_Brother",
+   "card": "https://web.archive.org/web/20200515023815im_/http://heroeswiki.com/images/thumb/f/f2/Requiem_For_My_Brother_title.jpg/270px-Requiem_For_My_Brother_title.jpg"
+  },
+  "157": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Bloodlines,_Part_1",
+   "card": "https://web.archive.org/web/20200515023833im_/http://heroeswiki.com/images/thumb/f/f3/Bloodlines%2C_Part_1_title.jpg/270px-Bloodlines%2C_Part_1_title.jpg"
+  },
+  "158": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Bloodlines,_Part_2",
+   "card": "https://web.archive.org/web/20200515023840im_/http://heroeswiki.com/images/thumb/2/22/Bloodlines%2C_Part_2_title.jpg/270px-Bloodlines%2C_Part_2_title.jpg"
+  },
+  "159": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Starting_Over",
+   "card": "https://web.archive.org/web/20200515023819im_/http://heroeswiki.com/images/thumb/b/bf/Starting_Over_title.jpg/270px-Starting_Over_title.jpg"
+  },
+  "160": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Trip,_Part_1",
+   "card": "https://web.archive.org/web/20200515023802im_/http://heroeswiki.com/images/thumb/6/66/The_Trip%2C_Part_1_title.jpg/270px-The_Trip%2C_Part_1_title.jpg"
+  },
+  "161": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:The_Trip,_Part_2",
+   "card": "https://web.archive.org/web/20200515023830im_/http://heroeswiki.com/images/thumb/4/46/The_Trip%2C_Part_2_title.jpg/270px-The_Trip%2C_Part_2_title.jpg"
+  },
+  "162": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Second_Chances",
+   "card": "https://web.archive.org/web/20200515023820im_/http://heroeswiki.com/images/thumb/2/2d/Second_Chances_title.jpg/270px-Second_Chances_title.jpg"
+  },
+  "163": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Reaching_Out,_Part_1",
+   "card": "https://web.archive.org/web/20200515023806im_/http://heroeswiki.com/images/thumb/d/d8/Reaching_Out%2C_Part_1_title.jpg/270px-Reaching_Out%2C_Part_1_title.jpg"
+  },
+  "164": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Reaching_Out,_Part_2",
+   "card": "https://web.archive.org/web/20200515023755im_/http://heroeswiki.com/images/thumb/e/e3/Reaching_Out%2C_Part_2_title.jpg/270px-Reaching_Out%2C_Part_2_title.jpg"
+  },
+  "165": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Consequences",
+   "card": "https://web.archive.org/web/20200515023749im_/http://heroeswiki.com/images/thumb/b/b4/Consequences_title.jpg/270px-Consequences_title.jpg"
+  },
+  "166": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_1",
+   "card": "https://web.archive.org/web/20200515023850im_/http://heroeswiki.com/images/thumb/7/70/From_the_Files_of_Primatech%2C_Part_1_title.jpg/270px-From_the_Files_of_Primatech%2C_Part_1_title.jpg"
+  },
+  "167": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_2",
+   "card": "https://web.archive.org/web/20200515023848im_/http://heroeswiki.com/images/thumb/1/10/From_the_Files_of_Primatech%2C_Part_2_title.jpg/270px-From_the_Files_of_Primatech%2C_Part_2_title.jpg"
+  },
+  "168": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_3",
+   "card": "https://web.archive.org/web/20200515023843im_/http://heroeswiki.com/images/thumb/f/f8/From_the_Files_of_Primatech%2C_Part_3_title.jpg/270px-From_the_Files_of_Primatech%2C_Part_3_title.jpg"
+  },
+  "169": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_4",
+   "card": "https://web.archive.org/web/20200515023844im_/http://heroeswiki.com/images/thumb/a/a1/From_the_Files_of_Primatech%2C_Part_4_title.jpg/230px-From_the_Files_of_Primatech%2C_Part_4_title.jpg"
+  },
+  "170": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_5",
+   "card": "https://web.archive.org/web/20200515023744im_/http://heroeswiki.com/images/thumb/b/bd/From_the_Files_of_Primatech%2C_Part_5_title.jpg/270px-From_the_Files_of_Primatech%2C_Part_5_title.jpg"
+  },
+  "172": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_7",
+   "card": "https://web.archive.org/web/20200515023844im_/http://heroeswiki.com/images/thumb/b/bd/From_the_Files_of_Primatech%2C_Part_7_title.jpg/270px-From_the_Files_of_Primatech%2C_Part_7_title.jpg"
+  },
+  "173": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:From_the_Files_of_Primatech,_Part_8",
+   "card": "https://web.archive.org/web/20200515023818im_/http://heroeswiki.com/images/d/dd/From_the_Files_of_Primatech%2C_Part_8_title.jpg"
+  },
+  "174": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Vengeance,_Part_1",
+   "card": "https://web.archive.org/web/20200514152157im_/http://heroeswiki.com/images/thumb/a/a6/Vengeance%2C_Part_1_title.jpg/270px-Vengeance%2C_Part_1_title.jpg"
+  },
+  "175": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Vengeance,_Part_2"
+  },
+  "176": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Vengeance,_Part_3"
+  },
+  "177": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Vengeance,_Part_4"
+  },
+  "178": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Vengeance,_Part_5"
+  },
+  "180": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Godsend,_Part_2"
+  },
+  "181": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Godsend,_Part_3"
+  },
+  "182": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Godsend,_Part_4"
+  },
+  "183": {
+   "page": "https://web.archive.org/web/2020/http://heroeswiki.com/Graphic_Novel:Godsend,_Part_5"
+  }
+ },
+ "missing": [
+  [
+   "10",
+   "Turning Point"
+  ],
+  [
+   "29",
+   "War Buddies, Part 6"
+  ],
+  [
+   "35",
+   "It Takes a Village, Part 1"
+  ],
+  [
+   "41",
+   "Betty, Part 3"
+  ],
+  [
+   "42",
+   "Betty, Part 4"
+  ],
+  [
+   "53",
+   "The Crossroads"
+  ],
+  [
+   null,
+   "The Last Shangri-La"
+  ],
+  [
+   "64",
+   "Elle's First Assignment, Part 2"
+  ],
+  [
+   "72",
+   "Past Experience"
+  ],
+  [
+   "76",
+   "Pieces of Me"
+  ],
+  [
+   "86",
+   "Faces, Part 1"
+  ],
+  [
+   "92",
+   "Berlin, Part 2"
+  ],
+  [
+   "95",
+   "The Kill Squad, Part 3"
+  ],
+  [
+   "98",
+   "Our Lady of Blessed Acceleration, Part 2"
+  ],
+  [
+   "101",
+   "Into the Wild, Part 1"
+  ],
+  [
+   "130",
+   "Baby Power"
+  ],
+  [
+   "133",
+   "Exodus"
+  ],
+  [
+   "135",
+   "The Natural Order of Things"
+  ],
+  [
+   "136",
+   "Rebellion, Part 1"
+  ],
+  [
+   "145",
+   "Stolen Fate"
+  ],
+  [
+   "147",
+   "Boom"
+  ],
+  [
+   "171",
+   "From the Files of Primatech, Part 6"
+  ],
+  [
+   "179",
+   "Godsend, Part 1"
+  ]
+ ]
+}
