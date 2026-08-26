@@ -19,10 +19,33 @@ beyond Google Fonts. Open it directly or drop it on any static host.
   era. Hover for detail, click to jump.
 - **Era ribbon** — the eight eras as one proportional bar; click a segment to jump.
 - **Search** across titles, episode/issue codes and dates (`2009-09` works).
-- **Filters** by medium and by era (collapsed by default); shift-click an era to
-  isolate it.
+- **Filters** by medium and by era, collapsed by default.
+- **Play in place** — 58 entries open an Internet Archive player without leaving
+  the page. See below.
 - **Permalinks** — jumping to a week writes `#w<row>` to the URL.
-- Keyboard: `/` search · `t` timeline · `g` grid · `c` compact · `Esc` clear.
+
+## Watching things
+
+Entries with a ▶ open an `archive.org/embed` player in a panel over the page.
+Nothing is rehosted here; it streams from the Internet Archive, and every panel
+links back to the item.
+
+That covers all 46 *Heroes Unmasked* episodes plus 12 of the 13 *Inside the
+Eclipse* shorts — episode 9 is not on archive.org. The webisode item is a single
+1.4 GB ZIP and the graphic novels are five volume PDFs, so neither can be
+deep-linked per entry yet; both stay as collection links in the footer.
+
+The *Unmasked* map lives in `UNMASKED_FILES` in `sync.py`. Regenerate it with:
+
+```bash
+py build/link_archive.py
+```
+
+It matches on **title, not episode code** — on purpose. The archive item counts
+"A Heroes Welcome" and "The Story So Far" as episodes of their own, so from
+episode 9 on its numbering runs one ahead of the sheet's, and matching by code
+would silently shift 14 entries onto the wrong video. `--check` exits non-zero
+if anything goes unmatched in either direction.
 
 ## Refreshing the data
 
@@ -56,8 +79,8 @@ a near-black that the legend doesn't name. Those map to `v1`–`v5`, `hr` and
 
 ## Corrections
 
-`sync.py` patches 30 entries on the way through — see `TITLE_FIXES`, `ROW_FIXES`
-and `MARKER_FIXES` there. They are applied in the pipeline rather than in the
+`sync.py` patches 31 entries on the way through — see `TITLE_FIXES`, `ROW_FIXES`,
+`DATE_LABELS` and `EXTRA_LINKS` there. They are applied in the pipeline rather than in the
 sheet so they survive the next sync; delete a line to let the sheet's own
 wording back through. Every one was checked against Wikipedia's episode and
 graphic novel lists, and all 173 numbered graphic novels now match it exactly.
@@ -70,8 +93,10 @@ Most are plain misspellings ("Explosing" → "Exploding", "Gilteman" →
 - ***The Official Magazine* #11 appears twice.** The magazine ran twelve
   bi-monthly issues to December 2009, so the October 2009 entry is **#12**.
 
-`MARKER_FIXES` relabels the date column's own dividers — the sheet's
-"BEFORE PREMIERE" reads as **PRE-LAUNCH** on the page.
+`DATE_LABELS` handles undated rows in the date column: the sheet's
+"BEFORE PREMIERE" becomes the first row's own date, reading **Pre-pilot**.
+Anything else undated still renders as a divider above the row
+("CANCELLATION", "HEROES REBORN").
 
 ## A note on the UK tie-ins
 
@@ -84,9 +109,10 @@ recorded, it stays in the entry text. The site preserves that as-is.
 ## Files
 
 ```
-index.html        the site (data inlined)
-build/sync.py     re-reads the sheet and rewrites the data block
-build/sheet.xlsx  last downloaded copy of the sheet
+index.html             the site (data inlined)
+build/sync.py          re-reads the sheet and rewrites the data block
+build/link_archive.py  regenerates the Heroes Unmasked -> archive.org map
+build/sheet.xlsx       last downloaded copy of the sheet
 ```
 
 Heroes is a trademark of NBCUniversal. This is an unofficial fan reference.

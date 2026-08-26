@@ -26,6 +26,84 @@ ERAS = {
     "FFFFE599": "hr", "FFFFE699": "hr",
     "FFCCCCCC": "gap", "FF262626": "gap",
 }
+# --- Internet Archive -------------------------------------------------------
+# Entries that can be played in place. The page turns these into an
+# archive.org embed; nothing is rehosted here, it streams from archive.org.
+#
+# The archive item numbers Heroes Unmasked's first season differently from the
+# sheet - it counts "A Heroes Welcome" and "The Story So Far" as episodes of
+# their own - so these are matched on title, not on episode code. Regenerate
+# with build/link_archive.py if the item ever changes.
+UNMASKED_ID = "heroes.unmasked.behind-the-scenes"
+
+UNMASKED_FILES = {
+    "A Bug's Life":                    "Season 3/Heroes.Unmasked.S03E07.A.Bugs.Life.WS.PDTV.XviD-BiA.mp4",
+    "A Heroes Welcome":                "Season 1/Heroes.Unmasked.S01E09.A.Heroes.Welcome.WS.PDTV.XviD-BiA.mp4",
+    "A New Dawn (UK premiere date 7/25/2007)": "Season 1/Heroes.Unmasked.S01E01.A.New.Dawn.HDTV.XviD-PVR.mp4",
+    "Action!":                         "Season 3/Heroes.Unmasked.S03E09.Action.WS.PDTV.XviD-BiA.mp4",
+    "Bad Company":                     "Season 1/Heroes.Unmasked.S01E17.Bad.Company.HDTV.XviD-BiA.mp4",
+    "Dark Angel Gabriel":              "Season 1/Heroes.Unmasked.S01E10.Dark.Angel.Gabriel.HDTV.XviD-BiA.mp4",
+    "Double Trouble":                  "Season 1/Heroes.Unmasked.S01E06.Double.Trouble.HDTV.XviD-BiA.mp4",
+    "Finale":                          "Season 1/Heroes.Unmasked.S01E21.Finale.WS.PDTV.XviD-BiA.mp4",
+    "From Heroes to Villains":         "Season 2/Heroes.Unmasked.S02E10.From.Heroes.To.Villains.WS.PDTV.XviD-BiA.mp4",
+    "Generations":                     "Season 2/Heroes.Unmasked.S02E02.Generations.WS.PDTV.XviD-BiA.mp4",
+    "Growing Pains":                   "Season 1/Heroes.Unmasked.S01E02.Growing.Pains.HDTV.XviD-BiA.mp4",
+    "Head to Head":                    "Season 1/Heroes.Unmasked.S01E14.Head.to.Head.HDTV.XviD-BiA.mp4",
+    "Heroes Return":                   "Season 2/Heroes.Unmasked.S02E00.Heroes.Return.WS.PDTV.XviD-BiA.mp4",
+    "Heroes by Design":                "Season 3/Heroes.Unmasked.S03E11.Heroes.By.Design.WS.PDTV.XviD-PVR.mp4",
+    "Heroes on the Run":               "Season 3/Heroes.Unmasked.S03E13.Heroes.On.The.Run.WS.PDTV.XviD-BiA.mp4",
+    "Hiro Worship":                    "Season 1/Heroes.Unmasked.S01E04.Hiro.Worship.HDTV.XviD-BiA.avi.mp4",
+    "Isaac":                           "Season 1/Heroes.Unmasked.S01E18.Isaac.HDTV.XviD-BiA.mp4",
+    "Japanese Idol":                   "Season 2/Heroes.Unmasked.S02E01.Japanese.Idol.WS.PDTV.XviD-BiA.mp4",
+    "Let's Get Physical":              "Season 3/Heroes.Unmasked.S03E10.Let's.Get.Physical.WS.PDTV.XviD-BiA.mp4",
+    "Missing Links":                   "Season 3/Heroes.Unmasked.S03E08.Missing.Links.WS.PDTV.XviD-BiA.mp4",
+    "Mohinder's Journey":              "Season 1/Heroes.Unmasked.S01E11.Mohinders.Journey.WS.PDTV.XviD-BiA.mp4",
+    "New Heroes On The Block":         "Season 3/Heroes.Unmasked.S03E02.New.Heroes.On.The.Block.WS.PDTV.XviD-BiA.mp4",
+    "New World Disorder":              "Season 2/Heroes.Unmasked.S02E07.New.World.Disorder.WS.PDTV.XviD-BiA.mp4",
+    "On a Heroic Scale":               "Season 3/Heroes.Unmasked.S03E03.On.A.Heroic.Scale.WS.PDTV.XVID-BiA.mp4",
+    "Opening Pandora's Box":           "Season 3/Heroes.Unmasked.S03E01.Opening.Pandoras.Box.WS.PDTV.XviD-BiA.mp4",
+    "Painting the Future":             "Season 1/Heroes.Unmasked.S01E05.Painting.The.Future.WS.PDTV.XviD-UKN.mp4",
+    "Playing God":                     "Season 3/Heroes.Unmasked.S03E04.Playing.God.WS.PDTV.XVID-BIA.mp4",
+    "Sets and the City":               "Season 1/Heroes.Unmasked.S01E15.Sets.And.The.City.HDTV.XviD-BiA.mp4",
+    "Shock of the Old":                "Season 3/Heroes.Unmasked.S03E05.Shock.Of.The.Old.WS.PDTV.XviD-BiA.mp4",
+    "Sweet Dreams":                    "Season 2/Heroes.Unmasked.S02E05.Sweet.Dreams.WS.PDTV.XviD-BiA.mp4",
+    "Teenage Kicks":                   "Season 3/Heroes.Unmasked.S03E06.Teenage.Kicks.WS.PDTV.XviD-BiA.mp4",
+    "Telling Tales":                   "Season 1/Heroes.Unmasked.S01E13.Telling.Tales.HDTV.XviD-BiA.mp4",
+    "The Casting Couch":               "Season 2/Heroes.Unmasked.S02E08.The.Casting.Couch.WS.PDTV.XviD-BiA.mp4",
+    "The Director's Cut":              "Season 1/Heroes.Unmasked.S01E20.The.Director's.Cut.HDTV.XviD-BiA.mp4",
+    "The Dreamer":                     "Season 1/Heroes.Unmasked.S01E03.The.Dreamer.HDTV.XviD-BiA.mp4",
+    "The H.R.G. File":                 "Season 1/Heroes.Unmasked.S01E08.The.H.R.G.File.WS.PDTV.XviD-BiA.mp4",
+    "The Invisible Touch":             "Season 1/Heroes.Unmasked.S01E12.The.Invisible.Touch.HDTV.XviD-BiA.mp4",
+    "The Music of Heroes":             "Season 3/Heroes.Unmasked.S03E12.The.Music.Of.Heroes.WS.PDTV.XviD-BiA.mp4",
+    "The Story So Far":                "Season 1/Heroes.Unmasked.S01E22.The.Story.So.Far.WS.PDTV.XviD-NOsegmenT.mp4",
+    "Through Heroes Eyes":             "Season 2/Heroes.Unmasked.S02E09.Through.Heroes.Eyes.WS.PDTV.XviD-BiA.mp4",
+    "Tomorrow's World":                "Season 1/Heroes.Unmasked.S01E19.Tomorrows.World.WS.PDTV.XviD-BiA.mp4",
+    "Travelling in Style":             "Season 2/Heroes.Unmasked.S02E06.Travelling.In.Style.WS.PDTV.XviD-BiA.mp4",
+    "Turning Tides":                   "Season 1/Heroes.Unmasked.S01E16.Turning.Tides.HDTV.XviD-BiA.mp4",
+    "Voices":                          "Season 1/Heroes.Unmasked.S01E07.Voices.HDTV.XviD-BiA.mp4",
+    "What the Butlers Saw":            "Season 2/Heroes.Unmasked.S02E03.What.The.Butlers.Saw.WS.PDTV.XviD-BiA.mp4",
+    "When Worlds Collide":             "Season 2/Heroes.Unmasked.S02E04.When.Worlds.Collide.WS.PDTV.XviD-BiA.mp4",
+}
+
+# Inside the Eclipse lives in one archive item per episode. The sheet already
+# links most of them; this fills the gap. Episode 9 is not on archive.org.
+EXTRA_LINKS = {
+    (194, "unm", "Inside the Eclipse #02"):
+        "https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_2_-_Odessa",
+}
+
+
+def attach_archive(row, key, items, applied):
+    """Give an item an `ia` embed path when we know where it lives."""
+    for it in items:
+        url = EXTRA_LINKS.get((row, key, it["t"]))
+        if url:
+            applied.add(it["t"])
+            it.setdefault("l", url)
+        if key == "unm" and it["t"] in UNMASKED_FILES:
+            it["ia"] = UNMASKED_ID + "/" + UNMASKED_FILES[it["t"]]
+    return items
+
 KEYS = ["date", "ep", "gn", "web", "evo", "unm", "phys", "misc"]
 HEADER_ROW = 3          # column titles (and their source links) live here
 FIRST_DATA_ROW = 4
@@ -83,9 +161,10 @@ ROW_FIXES = {
     (172, "gn", "Starting Over"): "Second Chances",
 }
 
-# the date column's own divider labels
-MARKER_FIXES = {
-    "BEFORE PREMIERE": "PRE-LAUNCH",
+# Undated rows in the date column. DATE_LABELS ones read as the row's own date;
+# anything else becomes a full-width divider above the row.
+DATE_LABELS = {
+    "BEFORE PREMIERE": "Pre-pilot",
 }
 
 CODE_RE = re.compile(
@@ -170,10 +249,11 @@ def build(path):
             entry["d"] = dt.isoformat()
         elif cells[0].value:
             marker = str(cells[0].value).strip()
-            if marker in MARKER_FIXES:
+            if marker in DATE_LABELS:
                 applied.add(marker)
-                marker = MARKER_FIXES[marker]
-            entry["m"] = marker
+                entry["dl"] = DATE_LABELS[marker]
+            else:
+                entry["m"] = marker
 
         cols = {}
         for i in range(1, 8):
@@ -181,6 +261,7 @@ def build(path):
             if v is None or not str(v).strip():
                 continue
             items = apply_fixes(r, KEYS[i], split_items(str(v).strip()), applied)
+            items = attach_archive(r, KEYS[i], items, applied)
             if cells[i].hyperlink:
                 items[0]["l"] = cells[i].hyperlink.target
             cols[KEYS[i]] = items
@@ -188,7 +269,8 @@ def build(path):
             entry["c"] = cols
         entries.append(entry)
 
-    expected = {k[-1] for k in TITLE_FIXES} | {k[-1] for k in ROW_FIXES} | set(MARKER_FIXES)
+    expected = ({k[-1] for k in TITLE_FIXES} | {k[-1] for k in ROW_FIXES} |
+                set(DATE_LABELS) | {k[-1] for k in EXTRA_LINKS})
     for miss in sorted(expected - applied):
         print("  note: correction no longer matches anything - %r" % miss, file=sys.stderr)
     print("applied %d/%d corrections" % (len(applied), len(expected)))
