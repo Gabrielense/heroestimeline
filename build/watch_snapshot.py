@@ -47,6 +47,7 @@ fragment Title on MovieOrShow {
 }
 fragment Offer on Offer {
   monetizationType
+  presentationType
   standardWebURL
   package { clearName packageId icon }
 }
@@ -57,7 +58,13 @@ KIND = {
     'FREE': 'free', 'ADS': 'free',
     'RENT': 'rent', 'BUY': 'buy',
 }
-ORDER = {'stream': 0, 'free': 1, 'rent': 2, 'buy': 3}
+ORDER = {'stream': 0, 'free': 1, 'rent': 2, 'buy': 3, 'disc': 4}
+
+# A purchase of a disc rather than a file. JustWatch says so in presentationType
+# (DVD, BLURAY) where everything digital is SD/HD/_4K -- which is what lets the
+# page keep the two apart: a season on Blu-ray belongs to the physical release
+# that sold it, not to an episode.
+DISC = re.compile(r'DVD|BLURAY')
 
 
 def icon_url(tpl):
@@ -80,6 +87,8 @@ def offers(raw):
     out, seen, kept = [], set(), {}
     for o in raw or []:
         kind = KIND.get(o.get('monetizationType'))
+        if kind == 'buy' and DISC.search(o.get('presentationType') or ''):
+            kind = 'disc'
         url = o.get('standardWebURL')
         pkg = o.get('package') or {}
         if not kind or not url or not pkg.get('clearName'):

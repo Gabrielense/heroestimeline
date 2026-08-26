@@ -36,13 +36,13 @@
      "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.25f101d7-30cf-41e0-bb97-4ce81e1e8af6"
     },
     {
-     "k": "buy",
+     "k": "disc",
      "n": "GRUV",
      "i": "https://images.justwatch.com/icon/336965948/s100/gruv.png",
      "u": "https://gruv.com/products/heroes-season-1-2007-dvd-new-box-art-dvd-_61122567"
     },
     {
-     "k": "buy",
+     "k": "disc",
      "n": "Amazon DVD / Blu-ray",
      "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
      "u": "https://www.amazon.com/dp/B001B7CNWY?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
@@ -72,18 +72,6 @@
       },
       {
        "k": "buy",
-       "n": "GRUV",
-       "i": "https://images.justwatch.com/icon/336965948/s100/gruv.png",
-       "u": "https://gruv.com/products/heroes-season-1-2007-dvd-new-box-art-dvd-_61122567"
-      },
-      {
-       "k": "buy",
-       "n": "Amazon DVD / Blu-ray",
-       "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
-       "u": "https://www.amazon.com/dp/B001B7CNWY?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
-      },
-      {
-       "k": "buy",
        "n": "Fandango At Home",
        "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
        "u": "https://athome.fandango.com/content/browse/details/Heroes-Season-1/292630"
@@ -93,6 +81,18 @@
        "n": "Amazon Video",
        "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
        "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.25f101d7-30cf-41e0-bb97-4ce81e1e8af6"
+      },
+      {
+       "k": "disc",
+       "n": "GRUV",
+       "i": "https://images.justwatch.com/icon/336965948/s100/gruv.png",
+       "u": "https://gruv.com/products/heroes-season-1-2007-dvd-new-box-art-dvd-_61122567"
+      },
+      {
+       "k": "disc",
+       "n": "Amazon DVD / Blu-ray",
+       "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+       "u": "https://www.amazon.com/dp/B001B7CNWY?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
       }
      ]
     },
@@ -209,12 +209,6 @@
    "o": [
     {
      "k": "buy",
-     "n": "Amazon DVD / Blu-ray",
-     "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
-     "u": "https://www.amazon.com/dp/B01AT251Q6?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
-    },
-    {
-     "k": "buy",
      "n": "Amazon Video",
      "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
      "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.cea9f75f-652e-f1c3-921c-98fa0f276a29"
@@ -230,18 +224,18 @@
      "n": "Fandango At Home",
      "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
      "u": "https://athome.fandango.com/content/browse/details/Heroes-Reborn-Season-1/692021"
+    },
+    {
+     "k": "disc",
+     "n": "Amazon DVD / Blu-ray",
+     "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+     "u": "https://www.amazon.com/dp/B01AT251Q6?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
     }
    ],
    "s": {
     "1": {
      "u": "https://www.justwatch.com/us/tv-show/heroes-reborn/season-1",
      "o": [
-      {
-       "k": "buy",
-       "n": "Amazon DVD / Blu-ray",
-       "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
-       "u": "https://www.amazon.com/dp/B01EHDUMCG?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
-      },
       {
        "k": "buy",
        "n": "Amazon Video",
@@ -259,6 +253,12 @@
        "n": "Fandango At Home",
        "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
        "u": "https://athome.fandango.com/content/browse/details/Heroes-Reborn-Season-1/692021"
+      },
+      {
+       "k": "disc",
+       "n": "Amazon DVD / Blu-ray",
+       "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+       "u": "https://www.amazon.com/dp/B01EHDUMCG?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
       }
      ]
     }

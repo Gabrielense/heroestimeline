@@ -52,6 +52,7 @@ fragment Title on MovieOrShow {
 }
 fragment Offer on Offer {
   monetizationType
+  presentationType
   standardWebURL
   package { clearName packageId icon }
 }`;
@@ -61,7 +62,13 @@ const KIND = {
   FREE: 'free', ADS: 'free',
   RENT: 'rent', BUY: 'buy'
 };
-const ORDER = { stream: 0, free: 1, rent: 2, buy: 3 };
+const ORDER = { stream: 0, free: 1, rent: 2, buy: 3, disc: 4 };
+
+/* A purchase of a disc rather than a file. JustWatch says so in
+ * presentationType (DVD, BLURAY) where everything digital is SD/HD/_4K, which
+ * is what lets the page keep the two apart: a season on Blu-ray belongs to the
+ * physical release that sold it, not to an episode. */
+const DISC = /DVD|BLURAY/;
 
 function iconUrl(tpl) {
   return tpl ? IMAGES + tpl.replace('{profile}', 's100').replace('{format}', 'png') : '';
@@ -77,7 +84,8 @@ function page(path) {
 function offers(raw) {
   const out = [], seen = new Set(), kept = {};
   for (const o of raw || []) {
-    const kind = KIND[o && o.monetizationType];
+    let kind = KIND[o && o.monetizationType];
+    if (kind === 'buy' && DISC.test((o && o.presentationType) || '')) kind = 'disc';
     const url = o && o.standardWebURL;
     const pkg = (o && o.package) || {};
     if (!kind || !url || !pkg.clearName) continue;
