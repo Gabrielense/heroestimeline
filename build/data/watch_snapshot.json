@@ -1,0 +1,574 @@
+{
+ "d": "2026-08-26",
+ "US": {
+  "heroes": {
+   "t": "Heroes",
+   "u": "https://www.justwatch.com/us/tv-show/heroes",
+   "o": [
+    {
+     "k": "stream",
+     "n": "Netflix",
+     "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+     "u": "https://www.netflix.com/title/70136130"
+    },
+    {
+     "k": "free",
+     "n": "Tubi TV",
+     "i": "https://images.justwatch.com/icon/313528601/s100/tubitv.png",
+     "u": "https://tubitv.com/series/300020687/heroes"
+    },
+    {
+     "k": "buy",
+     "n": "Apple TV Store",
+     "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+     "u": "https://tv.apple.com/us/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+    },
+    {
+     "k": "buy",
+     "n": "Fandango At Home",
+     "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+     "u": "https://athome.fandango.com/content/browse/details/Heroes-Season-1/292630"
+    },
+    {
+     "k": "buy",
+     "n": "Amazon Video",
+     "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+     "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.25f101d7-30cf-41e0-bb97-4ce81e1e8af6"
+    },
+    {
+     "k": "buy",
+     "n": "GRUV",
+     "i": "https://images.justwatch.com/icon/336965948/s100/gruv.png",
+     "u": "https://gruv.com/products/heroes-season-1-2007-dvd-new-box-art-dvd-_61122567"
+    },
+    {
+     "k": "buy",
+     "n": "Amazon DVD / Blu-ray",
+     "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+     "u": "https://www.amazon.com/dp/B001B7CNWY?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
+    }
+   ],
+   "s": {
+    "1": {
+     "u": "https://www.justwatch.com/us/tv-show/heroes/season-1",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "free",
+       "n": "Tubi TV",
+       "i": "https://images.justwatch.com/icon/313528601/s100/tubitv.png",
+       "u": "https://tubitv.com/series/300020687/heroes/season-1"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/us/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "GRUV",
+       "i": "https://images.justwatch.com/icon/336965948/s100/gruv.png",
+       "u": "https://gruv.com/products/heroes-season-1-2007-dvd-new-box-art-dvd-_61122567"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon DVD / Blu-ray",
+       "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+       "u": "https://www.amazon.com/dp/B001B7CNWY?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
+      },
+      {
+       "k": "buy",
+       "n": "Fandango At Home",
+       "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+       "u": "https://athome.fandango.com/content/browse/details/Heroes-Season-1/292630"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.25f101d7-30cf-41e0-bb97-4ce81e1e8af6"
+      }
+     ]
+    },
+    "2": {
+     "u": "https://www.justwatch.com/us/tv-show/heroes/season-2",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "free",
+       "n": "Tubi TV",
+       "i": "https://images.justwatch.com/icon/313528601/s100/tubitv.png",
+       "u": "https://tubitv.com/series/300020687/heroes/season-2"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/us/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.fb90b02e-b554-4abd-aab6-d50f84dcc75e"
+      },
+      {
+       "k": "buy",
+       "n": "Fandango At Home",
+       "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+       "u": "https://athome.fandango.com/content/browse/details/Heroes-Season-2/292726"
+      }
+     ]
+    },
+    "3": {
+     "u": "https://www.justwatch.com/us/tv-show/heroes/season-3",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "free",
+       "n": "Tubi TV",
+       "i": "https://images.justwatch.com/icon/313528601/s100/tubitv.png",
+       "u": "https://tubitv.com/series/300020687/heroes/season-3"
+      },
+      {
+       "k": "buy",
+       "n": "Fandango At Home",
+       "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+       "u": "https://athome.fandango.com/content/browse/details/Heroes-Season-3/292774"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.795c3c43-f503-4be6-ac54-ee74119a0057"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/us/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      }
+     ]
+    },
+    "4": {
+     "u": "https://www.justwatch.com/us/tv-show/heroes/season-4",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "free",
+       "n": "Tubi TV",
+       "i": "https://images.justwatch.com/icon/313528601/s100/tubitv.png",
+       "u": "https://tubitv.com/series/300020687/heroes/season-4"
+      },
+      {
+       "k": "buy",
+       "n": "Fandango At Home",
+       "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+       "u": "https://athome.fandango.com/content/browse/details/Heroes-Season-4/292878"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.75d10eb0-eca5-45e2-823e-18eb86f92159"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/us/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      }
+     ]
+    }
+   }
+  },
+  "reborn": {
+   "t": "Heroes Reborn",
+   "u": "https://www.justwatch.com/us/tv-show/heroes-reborn",
+   "o": [
+    {
+     "k": "buy",
+     "n": "Amazon DVD / Blu-ray",
+     "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+     "u": "https://www.amazon.com/dp/B01AT251Q6?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "k": "buy",
+     "n": "Amazon Video",
+     "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+     "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.cea9f75f-652e-f1c3-921c-98fa0f276a29"
+    },
+    {
+     "k": "buy",
+     "n": "Apple TV Store",
+     "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+     "u": "https://tv.apple.com/us/show/heroes-reborn/umc.cmc.6e6xzlaxtvyaw8wgul7k1jlzh?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+    },
+    {
+     "k": "buy",
+     "n": "Fandango At Home",
+     "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+     "u": "https://athome.fandango.com/content/browse/details/Heroes-Reborn-Season-1/692021"
+    }
+   ],
+   "s": {
+    "1": {
+     "u": "https://www.justwatch.com/us/tv-show/heroes-reborn/season-1",
+     "o": [
+      {
+       "k": "buy",
+       "n": "Amazon DVD / Blu-ray",
+       "i": "https://images.justwatch.com/icon/338364164/s100/amazondvdbr.png",
+       "u": "https://www.amazon.com/dp/B01EHDUMCG?tag=justwatch09-20&linkCode=osi&th=1&psc=1"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.cea9f75f-652e-f1c3-921c-98fa0f276a29"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/us/show/heroes-reborn/umc.cmc.6e6xzlaxtvyaw8wgul7k1jlzh?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "Fandango At Home",
+       "i": "https://images.justwatch.com/icon/346744144/s100/vudu.png",
+       "u": "https://athome.fandango.com/content/browse/details/Heroes-Reborn-Season-1/692021"
+      }
+     ]
+    }
+   }
+  }
+ },
+ "GB": {
+  "heroes": {
+   "t": "Heroes",
+   "u": "https://www.justwatch.com/uk/tv-series/heroes",
+   "o": [
+    {
+     "k": "stream",
+     "n": "Netflix",
+     "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+     "u": "https://www.netflix.com/title/70136130"
+    },
+    {
+     "k": "stream",
+     "n": "Amazon Prime Video",
+     "i": "https://images.justwatch.com/icon/322992749/s100/amazonprime.png",
+     "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.56afc99c-aec9-6cd1-1b64-78d740d19b5d"
+    },
+    {
+     "k": "buy",
+     "n": "Apple TV Store",
+     "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+     "u": "https://tv.apple.com/gb/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+    },
+    {
+     "k": "buy",
+     "n": "Amazon Video",
+     "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+     "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.48a9f67a-6dd2-ce8f-2553-99c9f8497d5a"
+    },
+    {
+     "k": "buy",
+     "n": "Sky Store",
+     "i": "https://images.justwatch.com/icon/339565920/s100/skystore.png",
+     "u": "https://www.skystore.com/product/heroes-season-1/00b281fb-485d-4d53-bc87-b0a26c53d4d1"
+    }
+   ],
+   "s": {
+    "1": {
+     "u": "https://www.justwatch.com/uk/tv-series/heroes/season-1",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "stream",
+       "n": "Amazon Prime Video",
+       "i": "https://images.justwatch.com/icon/322992749/s100/amazonprime.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.56afc99c-aec9-6cd1-1b64-78d740d19b5d"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/gb/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.48a9f67a-6dd2-ce8f-2553-99c9f8497d5a"
+      },
+      {
+       "k": "buy",
+       "n": "Sky Store",
+       "i": "https://images.justwatch.com/icon/339565920/s100/skystore.png",
+       "u": "https://www.skystore.com/product/heroes-season-1/00b281fb-485d-4d53-bc87-b0a26c53d4d1"
+      }
+     ]
+    },
+    "2": {
+     "u": "https://www.justwatch.com/uk/tv-series/heroes/season-2",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "stream",
+       "n": "Amazon Prime Video",
+       "i": "https://images.justwatch.com/icon/322992749/s100/amazonprime.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.54afc9d4-5742-be8a-ac92-aa4922957de0"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/gb/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.82a9f66a-d904-af07-7393-06826597321c"
+      },
+      {
+       "k": "buy",
+       "n": "Sky Store",
+       "i": "https://images.justwatch.com/icon/339565920/s100/skystore.png",
+       "u": "https://www.skystore.com/product/heroes-season-2/2ac13b9d-1a9a-4f17-a897-60b377446791"
+      }
+     ]
+    },
+    "3": {
+     "u": "https://www.justwatch.com/uk/tv-series/heroes/season-3",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/gb/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.02a9f687-08ed-d910-9887-d40e954dc1c7"
+      },
+      {
+       "k": "buy",
+       "n": "Sky Store",
+       "i": "https://images.justwatch.com/icon/339565920/s100/skystore.png",
+       "u": "https://www.skystore.com/product/heroes-season-3/7c2e4d73-319c-4577-8eb3-5ac9945041b6"
+      }
+     ]
+    },
+    "4": {
+     "u": "https://www.justwatch.com/uk/tv-series/heroes/season-4",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/gb/show/heroes/umc.cmc.2qp5mxx3mr2tmsvl484jrury2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      },
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.7ca9f68d-6454-408f-e9ab-2af08e3094b8"
+      },
+      {
+       "k": "buy",
+       "n": "Sky Store",
+       "i": "https://images.justwatch.com/icon/339565920/s100/skystore.png",
+       "u": "https://www.skystore.com/product/heroes-season-4/0af9ecb4-da03-49f3-8ebb-dc7debc516c9"
+      }
+     ]
+    }
+   }
+  },
+  "reborn": {
+   "t": "Heroes Reborn",
+   "u": "https://www.justwatch.com/uk/tv-series/heroes-reborn",
+   "o": [
+    {
+     "k": "buy",
+     "n": "Amazon Video",
+     "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+     "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.1ca9f68a-f88e-2723-e5e0-75c1cd1d0c15"
+    },
+    {
+     "k": "buy",
+     "n": "Apple TV Store",
+     "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+     "u": "https://tv.apple.com/gb/show/heroes-reborn/umc.cmc.6e6xzlaxtvyaw8wgul7k1jlzh?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+    }
+   ],
+   "s": {
+    "1": {
+     "u": "https://www.justwatch.com/uk/tv-series/heroes-reborn/season-1",
+     "o": [
+      {
+       "k": "buy",
+       "n": "Amazon Video",
+       "i": "https://images.justwatch.com/icon/340823436/s100/amazon.png",
+       "u": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.1ca9f68a-f88e-2723-e5e0-75c1cd1d0c15"
+      },
+      {
+       "k": "buy",
+       "n": "Apple TV Store",
+       "i": "https://images.justwatch.com/icon/338253243/s100/itunes.png",
+       "u": "https://tv.apple.com/gb/show/heroes-reborn/umc.cmc.6e6xzlaxtvyaw8wgul7k1jlzh?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv"
+      }
+     ]
+    }
+   }
+  }
+ },
+ "BR": {
+  "heroes": {
+   "t": "Heróis",
+   "u": "https://www.justwatch.com/br/serie/heroes",
+   "o": [
+    {
+     "k": "stream",
+     "n": "Netflix",
+     "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+     "u": "https://www.netflix.com/title/70136130"
+    },
+    {
+     "k": "stream",
+     "n": "Amazon Prime Video",
+     "i": "https://images.justwatch.com/icon/322992749/s100/amazonprimevideo.png",
+     "u": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.56afc99c-aec9-6cd1-1b64-78d740d19b5d"
+    }
+   ],
+   "s": {
+    "1": {
+     "u": "https://www.justwatch.com/br/serie/heroes/temporada-1",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "stream",
+       "n": "Amazon Prime Video",
+       "i": "https://images.justwatch.com/icon/322992749/s100/amazonprimevideo.png",
+       "u": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.56afc99c-aec9-6cd1-1b64-78d740d19b5d"
+      }
+     ]
+    },
+    "2": {
+     "u": "https://www.justwatch.com/br/serie/heroes/temporada-2",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "stream",
+       "n": "Amazon Prime Video",
+       "i": "https://images.justwatch.com/icon/322992749/s100/amazonprimevideo.png",
+       "u": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54afc9d4-5742-be8a-ac92-aa4922957de0"
+      }
+     ]
+    },
+    "3": {
+     "u": "https://www.justwatch.com/br/serie/heroes/temporada-3",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "stream",
+       "n": "Amazon Prime Video",
+       "i": "https://images.justwatch.com/icon/322992749/s100/amazonprimevideo.png",
+       "u": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2afcc17-b819-d353-d0e4-d82d6d2ad864"
+      }
+     ]
+    },
+    "4": {
+     "u": "https://www.justwatch.com/br/serie/heroes/temporada-4",
+     "o": [
+      {
+       "k": "stream",
+       "n": "Netflix",
+       "i": "https://images.justwatch.com/icon/207360008/s100/netflix.png",
+       "u": "https://www.netflix.com/title/70136130"
+      },
+      {
+       "k": "stream",
+       "n": "Amazon Prime Video",
+       "i": "https://images.justwatch.com/icon/322992749/s100/amazonprimevideo.png",
+       "u": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52aff318-3930-ede6-e09d-d263c239feff"
+      }
+     ]
+    }
+   }
+  },
+  "reborn": {
+   "t": "Heroes Reborn",
+   "u": "https://www.justwatch.com/br/serie/heroes-reborn",
+   "o": [],
+   "s": {
+    "1": {
+     "u": "https://www.justwatch.com/br/serie/heroes-reborn/temporada-1",
+     "o": []
+    }
+   }
+  }
+ }
+}
