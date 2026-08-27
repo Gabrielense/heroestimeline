@@ -21,30 +21,33 @@ WIKI = os.path.join(DATA, "gn_list.wiki")
 OUT = os.path.join(DATA, "gn_pdfs.json")
 
 CDX = "http://web.archive.org/cdx/search/cdx"
-# NBC moved these twice; ask for both spellings, per issue. A wildcard sweep of
-# the whole directory looks cheaper and is not -- it returns tens of thousands
-# of captures of everything else that ever sat there, and the PDFs get lost in
-# them. One exact query per issue is slower and actually answers the question.
-PATHS = ["http://www.nbc.com/Heroes/novels/downloads/Heroes_novel_%03d.pdf",
-         "http://www.nbc.com/heroes/novels/images/Heroes_novel_%03d.pdf"]
+# NBC kept these in two places over the years. One query per directory, with
+# the filtering done by the server: asked without `filter=mimetype`, the same
+# query returns seventeen thousand captures of everything else that ever sat
+# there and the PDFs are lost among them. Asked with it, one request answers
+# in seconds -- which matters, because the archive throttles hard, and a
+# per-issue sweep of 366 requests took over an hour and never finished.
+PREFIXES = ["nbc.com/Heroes/novels/downloads/*",
+            "nbc.com/heroes/novels/images/*"]
 UA = {"User-Agent": "heroes-timeline/1.0 (https://github.com/Gabrielense/heroestimeline)"}
 
 
-def captures(url):
-    """Every 200-status PDF capture of one exact address."""
-    query = urllib.parse.urlencode({
-        "url": url, "output": "json",
-        "fl": "original,timestamp,mimetype,statuscode,length",
-        "filter": "statuscode:200",
-    })
+def captures(prefix):
+    """Every 200-status PDF capture under a directory, filtered server-side."""
+    query = urllib.parse.urlencode([
+        ("url", prefix), ("output", "json"),
+        ("fl", "original,timestamp,mimetype,statuscode,length"),
+        ("filter", "statuscode:200"),
+        ("filter", "mimetype:application/pdf"),
+    ])
     req = urllib.request.Request(CDX + "?" + query, headers=UA)
     try:
-        with urllib.request.urlopen(req, timeout=60) as r:
+        with urllib.request.urlopen(req, timeout=120) as r:
             rows = json.loads(r.read().decode("utf-8", "replace"))
     except Exception as e:
-        print("  cdx failed for %s: %s" % (url.rsplit("/", 1)[-1], e))
+        print("  cdx failed for %s: %s" % (prefix, e))
         return []
-    return [r for r in rows[1:] if "pdf" in (r[2] or "").lower()]
+    return rows[1:]
 
 
 def issue_of(url):
@@ -82,17 +85,14 @@ def verify(url, tries=2):
 
 def main():
     sizes = wiki_sizes()
-    last = int(sys.argv[sys.argv.index("--last") + 1]) if "--last" in sys.argv else 183
     best = {}
-    for issue in range(1, last + 1):
-        rows = []
-        for path in PATHS:
-            rows.extend(captures(path % issue))
-            time.sleep(0.6)
-        if not rows:
-            continue
+    for prefix in PREFIXES:
+        rows = captures(prefix)
+        print("%-40s %4d PDF captures" % (prefix, len(rows)))
         for original, ts, _mime, _code, length in rows:
-            num = issue_of(original) or str(issue)
+            num = issue_of(original)
+            if not num:
+                continue
             try:
                 length = int(length)
             except (TypeError, ValueError):
@@ -103,8 +103,7 @@ def main():
             if not current or length > current[2] or (
                     length == current[2] and ts < current[1]):
                 best[num] = (original, ts, length)
-        if issue % 20 == 0:
-            print("  ...through issue %d, %d found so far" % (issue, len(best)))
+        time.sleep(2)
 
     out = {}
     for num, (original, ts, length) in best.items():

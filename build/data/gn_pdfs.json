@@ -1,27 +1,399 @@
 {
- "166": {
+ "1": {
   "checked": true,
-  "mb": 20.0,
+  "mb": 12.1,
+  "ts": "20110605015707",
+  "url": "https://web.archive.org/web/20110605015707id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_001.pdf"
+ },
+ "10": {
+  "mb": 12.9,
+  "ts": "20110629142226",
+  "url": "https://web.archive.org/web/20110629142226id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_010.pdf"
+ },
+ "100": {
+  "mb": 16.2,
+  "ts": "20110526070635",
+  "url": "https://web.archive.org/web/20110526070635id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_100.pdf"
+ },
+ "101": {
+  "mb": 14.9,
+  "ts": "20110629181735",
+  "url": "https://web.archive.org/web/20110629181735id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_101.pdf"
+ },
+ "102": {
+  "mb": 24.7,
+  "ts": "20110629182308",
+  "url": "https://web.archive.org/web/20110629182308id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_102.pdf"
+ },
+ "103": {
+  "mb": 27.4,
+  "ts": "20110526071105",
+  "url": "https://web.archive.org/web/20110526071105id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_103.pdf"
+ },
+ "104": {
+  "mb": 18.8,
+  "ts": "20110526071935",
+  "url": "https://web.archive.org/web/20110526071935id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_104.pdf"
+ },
+ "105": {
+  "mb": 20.3,
+  "ts": "20110604203627",
+  "url": "https://web.archive.org/web/20110604203627id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_105.pdf"
+ },
+ "106": {
+  "mb": 14.5,
+  "ts": "20110605035954",
+  "url": "https://web.archive.org/web/20110605035954id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_106.pdf"
+ },
+ "107": {
+  "mb": 14.7,
+  "ts": "20110805072653",
+  "url": "https://web.archive.org/web/20110805072653id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_107.pdf"
+ },
+ "108": {
+  "mb": 15.1,
+  "ts": "20110629184110",
+  "url": "https://web.archive.org/web/20110629184110id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_108.pdf"
+ },
+ "109": {
+  "mb": 15.9,
+  "ts": "20110604205000",
+  "url": "https://web.archive.org/web/20110604205000id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_109.pdf"
+ },
+ "11": {
+  "mb": 13.1,
+  "ts": "20110604161040",
+  "url": "https://web.archive.org/web/20110604161040id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_011.pdf"
+ },
+ "110": {
+  "mb": 18.7,
+  "ts": "20110526074408",
+  "url": "https://web.archive.org/web/20110526074408id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_110.pdf"
+ },
+ "111": {
+  "mb": 18.3,
+  "ts": "20110526074523",
+  "url": "https://web.archive.org/web/20110526074523id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_111.pdf"
+ },
+ "112": {
+  "mb": 17.26,
+  "ts": "20110629185112",
+  "url": "https://web.archive.org/web/20110629185112id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_112.pdf"
+ },
+ "113": {
+  "mb": 20.7,
+  "ts": "20110605042056",
+  "url": "https://web.archive.org/web/20110605042056id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_113.pdf"
+ },
+ "114": {
+  "mb": 21.7,
+  "ts": "20110604210638",
+  "url": "https://web.archive.org/web/20110604210638id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_114.pdf"
+ },
+ "115": {
+  "mb": 17.57,
+  "ts": "20110526080534",
+  "url": "https://web.archive.org/web/20110526080534id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_115.pdf"
+ },
+ "116": {
+  "mb": 12.58,
+  "ts": "20110629190254",
+  "url": "https://web.archive.org/web/20110629190254id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_116.pdf"
+ },
+ "117": {
+  "mb": 17.1,
+  "ts": "20110629191021",
+  "url": "https://web.archive.org/web/20110629191021id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_117.pdf"
+ },
+ "118": {
+  "mb": 16.5,
+  "ts": "20110605042811",
+  "url": "https://web.archive.org/web/20110605042811id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_118.pdf"
+ },
+ "119": {
+  "mb": 14.5,
+  "ts": "20110526081511",
+  "url": "https://web.archive.org/web/20110526081511id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_119.pdf"
+ },
+ "12": {
+  "mb": 14.3,
+  "ts": "20110605020438",
+  "url": "https://web.archive.org/web/20110605020438id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_012.pdf"
+ },
+ "120": {
+  "mb": 14.1,
+  "ts": "20110604212848",
+  "url": "https://web.archive.org/web/20110604212848id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_120.pdf"
+ },
+ "121": {
+  "mb": 12.1,
+  "ts": "20110629192515",
+  "url": "https://web.archive.org/web/20110629192515id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_121.pdf"
+ },
+ "122": {
+  "mb": 16.1,
+  "ts": "20110604213201",
+  "url": "https://web.archive.org/web/20110604213201id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_122.pdf"
+ },
+ "123": {
+  "mb": 13.45,
+  "ts": "20110629192832",
+  "url": "https://web.archive.org/web/20110629192832id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_123.pdf"
+ },
+ "124": {
+  "mb": 16.86,
+  "ts": "20110604213718",
+  "url": "https://web.archive.org/web/20110604213718id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_124.pdf"
+ },
+ "125": {
+  "mb": 15.0,
+  "ts": "20110604213843",
+  "url": "https://web.archive.org/web/20110604213843id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_125.pdf"
+ },
+ "126": {
+  "mb": 14.4,
+  "ts": "20101018180709",
+  "url": "https://web.archive.org/web/20101018180709id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_126.pdf"
+ },
+ "127": {
+  "mb": 15.2,
+  "ts": "20110629200847",
+  "url": "https://web.archive.org/web/20110629200847id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_127.pdf"
+ },
+ "128": {
+  "mb": 24.2,
+  "ts": "20110526091327",
+  "url": "https://web.archive.org/web/20110526091327id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_128.pdf"
+ },
+ "129": {
+  "mb": 13.7,
+  "ts": "20110604220038",
+  "url": "https://web.archive.org/web/20110604220038id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_129.pdf"
+ },
+ "13": {
+  "mb": 17.0,
+  "ts": "20070108051956",
+  "url": "https://web.archive.org/web/20070108051956id_/http://www.nbc.com:80/Heroes/novels/downloads/Heroes_novel_013.pdf"
+ },
+ "130": {
+  "mb": 17.6,
+  "ts": "20110629202646",
+  "url": "https://web.archive.org/web/20110629202646id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_130.pdf"
+ },
+ "131": {
+  "mb": 13.1,
+  "ts": "20110604220359",
+  "url": "https://web.archive.org/web/20110604220359id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_131.pdf"
+ },
+ "132": {
+  "mb": 15.29,
+  "ts": "20110604222649",
+  "url": "https://web.archive.org/web/20110604222649id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_132.pdf"
+ },
+ "133": {
+  "mb": 11.5,
+  "ts": "20110629204308",
+  "url": "https://web.archive.org/web/20110629204308id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_133.pdf"
+ },
+ "134": {
+  "mb": 17.3,
+  "ts": "20110526101636",
+  "url": "https://web.archive.org/web/20110526101636id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_134.pdf"
+ },
+ "135": {
+  "mb": 20.2,
+  "ts": "20110604223845",
+  "url": "https://web.archive.org/web/20110604223845id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_135.pdf"
+ },
+ "136": {
+  "mb": 14.0,
+  "ts": "20110605055106",
+  "url": "https://web.archive.org/web/20110605055106id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_136.pdf"
+ },
+ "137": {
+  "mb": 15.78,
+  "ts": "20110629210608",
+  "url": "https://web.archive.org/web/20110629210608id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_137.pdf"
+ },
+ "138": {
+  "mb": 17.7,
+  "ts": "20110604224712",
+  "url": "https://web.archive.org/web/20110604224712id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_138.pdf"
+ },
+ "139": {
+  "mb": 13.5,
+  "ts": "20110629212819",
+  "url": "https://web.archive.org/web/20110629212819id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_139.pdf"
+ },
+ "14": {
+  "mb": 17.4,
+  "ts": "20110526034346",
+  "url": "https://web.archive.org/web/20110526034346id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_014.pdf"
+ },
+ "140": {
+  "mb": 17.6,
+  "ts": "20110604225941",
+  "url": "https://web.archive.org/web/20110604225941id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_140.pdf"
+ },
+ "141": {
+  "mb": 21.0,
+  "ts": "20101230041827",
+  "url": "https://web.archive.org/web/20101230041827id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_141.pdf"
+ },
+ "142": {
+  "mb": 18.6,
+  "ts": "20101128030948",
+  "url": "https://web.archive.org/web/20101128030948id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_142.pdf"
+ },
+ "143": {
+  "mb": 17.9,
+  "ts": "20101129020318",
+  "url": "https://web.archive.org/web/20101129020318id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_143.pdf"
+ },
+ "144": {
+  "mb": 15.1,
+  "ts": "20100113185124",
+  "url": "https://web.archive.org/web/20100113185124id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_144.pdf"
+ },
+ "145": {
+  "mb": 20.55,
+  "ts": "20101018174929",
+  "url": "https://web.archive.org/web/20101018174929id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_145.pdf"
+ },
+ "146": {
+  "mb": 13.75,
+  "ts": "20100113190139",
+  "url": "https://web.archive.org/web/20100113190139id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_146.pdf"
+ },
+ "147": {
+  "mb": 17.67,
+  "ts": "20101129015948",
+  "url": "https://web.archive.org/web/20101129015948id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_147.pdf"
+ },
+ "148": {
+  "mb": 13.72,
+  "ts": "20100531205718",
+  "url": "https://web.archive.org/web/20100531205718id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_148.pdf"
+ },
+ "149": {
+  "mb": 11.15,
+  "ts": "20101129015815",
+  "url": "https://web.archive.org/web/20101129015815id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_149.pdf"
+ },
+ "15": {
+  "mb": 12.8,
+  "ts": "20110604182758",
+  "url": "https://web.archive.org/web/20110604182758id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_015.pdf"
+ },
+ "150": {
+  "mb": 11.56,
+  "ts": "20101129015722",
+  "url": "https://web.archive.org/web/20101129015722id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_150.pdf"
+ },
+ "151": {
+  "mb": 11.47,
+  "ts": "20101230041106",
+  "url": "https://web.archive.org/web/20101230041106id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_151.pdf"
+ },
+ "152": {
+  "mb": 11.93,
+  "ts": "20101128025531",
+  "url": "https://web.archive.org/web/20101128025531id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_152.pdf"
+ },
+ "153": {
+  "mb": 12.9,
+  "ts": "20101230040941",
+  "url": "https://web.archive.org/web/20101230040941id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_153.pdf"
+ },
+ "154": {
+  "mb": 11.48,
+  "ts": "20100113190812",
+  "url": "https://web.archive.org/web/20100113190812id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_154.pdf"
+ },
+ "155": {
+  "mb": 14.24,
+  "ts": "20101230040822",
+  "url": "https://web.archive.org/web/20101230040822id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_155.pdf"
+ },
+ "156": {
+  "mb": 11.48,
+  "ts": "20100113185948",
+  "url": "https://web.archive.org/web/20100113185948id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_156.pdf"
+ },
+ "157": {
+  "mb": 12.34,
+  "ts": "20101230040701",
+  "url": "https://web.archive.org/web/20101230040701id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_157.pdf"
+ },
+ "158": {
+  "mb": 11.63,
+  "ts": "20101128024918",
+  "url": "https://web.archive.org/web/20101128024918id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_158.pdf"
+ },
+ "159": {
+  "mb": 13.79,
+  "ts": "20101230040534",
+  "url": "https://web.archive.org/web/20101230040534id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_159.pdf"
+ },
+ "16": {
+  "mb": 12.3,
+  "ts": "20110526034856",
+  "url": "https://web.archive.org/web/20110526034856id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_016.pdf"
+ },
+ "160": {
+  "mb": 14.6,
+  "ts": "20101129014903",
+  "url": "https://web.archive.org/web/20101129014903id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_160.pdf"
+ },
+ "161": {
+  "mb": 14.69,
+  "ts": "20110605084540",
+  "url": "https://web.archive.org/web/20110605084540id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_161.pdf"
+ },
+ "162": {
+  "mb": 12.08,
+  "ts": "20110605084908",
+  "url": "https://web.archive.org/web/20110605084908id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_162.pdf"
+ },
+ "163": {
+  "mb": 12.89,
+  "ts": "20110629220028",
+  "url": "https://web.archive.org/web/20110629220028id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_163.pdf"
+ },
+ "164": {
+  "mb": 11.21,
+  "ts": "20110629220407",
+  "url": "https://web.archive.org/web/20110629220407id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_164.pdf"
+ },
+ "165": {
+  "mb": 14.21,
+  "ts": "20110714160838",
+  "url": "https://web.archive.org/web/20110714160838id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_165.pdf"
+ },
+ "166": {
+  "mb": 20.01,
   "ts": "20110605080302",
   "url": "https://web.archive.org/web/20110605080302id_/http://www.nbc.com/heroes/novels/images/Heroes_novel_166.pdf"
  },
  "167": {
-  "checked": true,
-  "mb": 20.9,
+  "mb": 20.95,
   "ts": "20110605080558",
   "url": "https://web.archive.org/web/20110605080558id_/http://www.nbc.com/heroes/novels/images/Heroes_novel_167.pdf"
  },
  "168": {
-  "checked": true,
   "mb": 25.4,
   "ts": "20110605082525",
   "url": "https://web.archive.org/web/20110605082525id_/http://www.nbc.com/heroes/novels/images/Heroes_novel_168.pdf"
  },
  "169": {
-  "checked": true,
-  "mb": 24.0,
+  "mb": 24.03,
   "ts": "20110605090317",
   "url": "https://web.archive.org/web/20110605090317id_/http://www.nbc.com/heroes/novels/images/Heroes_novel_169.pdf"
+ },
+ "17": {
+  "mb": 15.3,
+  "ts": "20110526000223",
+  "url": "https://web.archive.org/web/20110526000223id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_017.pdf"
  },
  "170": {
   "mb": 11.23,
@@ -42,5 +414,457 @@
   "mb": 13.12,
   "ts": "20101129014124",
   "url": "https://web.archive.org/web/20101129014124id_/http://www.nbc.com/heroes/novels/images/Heroes_novel_173.pdf"
+ },
+ "18": {
+  "mb": 14.0,
+  "ts": "20110604161555",
+  "url": "https://web.archive.org/web/20110604161555id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_018.pdf"
+ },
+ "19": {
+  "mb": 10.9,
+  "ts": "20110526035134",
+  "url": "https://web.archive.org/web/20110526035134id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_019.pdf"
+ },
+ "2": {
+  "checked": true,
+  "mb": 19.8,
+  "ts": "20110526004332",
+  "url": "https://web.archive.org/web/20110526004332id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_002.pdf"
+ },
+ "20": {
+  "mb": 14.1,
+  "ts": "20110526035243",
+  "url": "https://web.archive.org/web/20110526035243id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_020.pdf"
+ },
+ "21": {
+  "mb": 6.98,
+  "ts": "20110526035833",
+  "url": "https://web.archive.org/web/20110526035833id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_021.pdf"
+ },
+ "22": {
+  "mb": 3.95,
+  "ts": "20110525235921",
+  "url": "https://web.archive.org/web/20110525235921id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_022.pdf"
+ },
+ "23": {
+  "mb": 4.26,
+  "ts": "20110526040144",
+  "url": "https://web.archive.org/web/20110526040144id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_023.pdf"
+ },
+ "24": {
+  "mb": 4.97,
+  "ts": "20110604184012",
+  "url": "https://web.archive.org/web/20110604184012id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_024.pdf"
+ },
+ "25": {
+  "mb": 15.2,
+  "ts": "20110604184125",
+  "url": "https://web.archive.org/web/20110604184125id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_025.pdf"
+ },
+ "26": {
+  "mb": 16.3,
+  "ts": "20110629165704",
+  "url": "https://web.archive.org/web/20110629165704id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_026.pdf"
+ },
+ "27": {
+  "mb": 17.5,
+  "ts": "20110629144737",
+  "url": "https://web.archive.org/web/20110629144737id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_027.pdf"
+ },
+ "28": {
+  "mb": 16.1,
+  "ts": "20110526004820",
+  "url": "https://web.archive.org/web/20110526004820id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_028.pdf"
+ },
+ "29": {
+  "mb": 22.6,
+  "ts": "20110526041805",
+  "url": "https://web.archive.org/web/20110526041805id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_029.pdf"
+ },
+ "3": {
+  "checked": true,
+  "mb": 17.8,
+  "ts": "20110629162219",
+  "url": "https://web.archive.org/web/20110629162219id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_003.pdf"
+ },
+ "30": {
+  "mb": 24.0,
+  "ts": "20110604184531",
+  "url": "https://web.archive.org/web/20110604184531id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_030.pdf"
+ },
+ "31": {
+  "mb": 17.3,
+  "ts": "20110605022923",
+  "url": "https://web.archive.org/web/20110605022923id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_031.pdf"
+ },
+ "32": {
+  "mb": 12.3,
+  "ts": "20110526000606",
+  "url": "https://web.archive.org/web/20110526000606id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_032.pdf"
+ },
+ "33": {
+  "mb": 24.3,
+  "ts": "20110629145422",
+  "url": "https://web.archive.org/web/20110629145422id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_033.pdf"
+ },
+ "34": {
+  "mb": 23.2,
+  "ts": "20110629170959",
+  "url": "https://web.archive.org/web/20110629170959id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_034.pdf"
+ },
+ "35": {
+  "mb": 16.8,
+  "ts": "20110604185435",
+  "url": "https://web.archive.org/web/20110604185435id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_035.pdf"
+ },
+ "36": {
+  "mb": 19.2,
+  "ts": "20110629171232",
+  "url": "https://web.archive.org/web/20110629171232id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_036.pdf"
+ },
+ "37": {
+  "mb": 18.5,
+  "ts": "20110629171336",
+  "url": "https://web.archive.org/web/20110629171336id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_037.pdf"
+ },
+ "38": {
+  "mb": 21.9,
+  "ts": "20110526050051",
+  "url": "https://web.archive.org/web/20110526050051id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_038.pdf"
+ },
+ "39": {
+  "mb": 17.5,
+  "ts": "20110605024200",
+  "url": "https://web.archive.org/web/20110605024200id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_039.pdf"
+ },
+ "4": {
+  "mb": 19.3,
+  "ts": "20110629162312",
+  "url": "https://web.archive.org/web/20110629162312id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_004.pdf"
+ },
+ "40": {
+  "mb": 18.2,
+  "ts": "20110629171936",
+  "url": "https://web.archive.org/web/20110629171936id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_040.pdf"
+ },
+ "41": {
+  "mb": 13.6,
+  "ts": "20110629172129",
+  "url": "https://web.archive.org/web/20110629172129id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_041.pdf"
+ },
+ "42": {
+  "mb": 17.3,
+  "ts": "20110605024634",
+  "url": "https://web.archive.org/web/20110605024634id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_042.pdf"
+ },
+ "43": {
+  "mb": 14.5,
+  "ts": "20110526052850",
+  "url": "https://web.archive.org/web/20110526052850id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_043.pdf"
+ },
+ "44": {
+  "mb": 16.9,
+  "ts": "20110629172429",
+  "url": "https://web.archive.org/web/20110629172429id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_044.pdf"
+ },
+ "45": {
+  "mb": 18.6,
+  "ts": "20110604192203",
+  "url": "https://web.archive.org/web/20110604192203id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_045.pdf"
+ },
+ "46": {
+  "mb": 14.9,
+  "ts": "20110526053717",
+  "url": "https://web.archive.org/web/20110526053717id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_046.pdf"
+ },
+ "47": {
+  "mb": 15.2,
+  "ts": "20110629172808",
+  "url": "https://web.archive.org/web/20110629172808id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_047.pdf"
+ },
+ "48": {
+  "mb": 14.7,
+  "ts": "20110605025508",
+  "url": "https://web.archive.org/web/20110605025508id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_048.pdf"
+ },
+ "49": {
+  "mb": 12.0,
+  "ts": "20110604193723",
+  "url": "https://web.archive.org/web/20110604193723id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_049.pdf"
+ },
+ "5": {
+  "mb": 16.3,
+  "ts": "20110629142757",
+  "url": "https://web.archive.org/web/20110629142757id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_005.pdf"
+ },
+ "50": {
+  "mb": 10.9,
+  "ts": "20110526054144",
+  "url": "https://web.archive.org/web/20110526054144id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_050.pdf"
+ },
+ "51": {
+  "mb": 15.4,
+  "ts": "20110629173431",
+  "url": "https://web.archive.org/web/20110629173431id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_051.pdf"
+ },
+ "52": {
+  "mb": 19.8,
+  "ts": "20110526012416",
+  "url": "https://web.archive.org/web/20110526012416id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_052.pdf"
+ },
+ "53": {
+  "mb": 14.1,
+  "ts": "20110604164617",
+  "url": "https://web.archive.org/web/20110604164617id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_053.pdf"
+ },
+ "54": {
+  "mb": 17.0,
+  "ts": "20110605004212",
+  "url": "https://web.archive.org/web/20110605004212id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_054.pdf"
+ },
+ "55": {
+  "mb": 16.7,
+  "ts": "20110629150725",
+  "url": "https://web.archive.org/web/20110629150725id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_055.pdf"
+ },
+ "56": {
+  "mb": 15.1,
+  "ts": "20110526010651",
+  "url": "https://web.archive.org/web/20110526010651id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_056.pdf"
+ },
+ "57": {
+  "mb": 15.1,
+  "ts": "20110526014151",
+  "url": "https://web.archive.org/web/20110526014151id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_057.pdf"
+ },
+ "58": {
+  "mb": 15.6,
+  "ts": "20110526014409",
+  "url": "https://web.archive.org/web/20110526014409id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_058.pdf"
+ },
+ "59": {
+  "mb": 15.4,
+  "ts": "20110629151449",
+  "url": "https://web.archive.org/web/20110629151449id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_059.pdf"
+ },
+ "6": {
+  "mb": 14.7,
+  "ts": "20110526004529",
+  "url": "https://web.archive.org/web/20110526004529id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_006.pdf"
+ },
+ "60": {
+  "mb": 20.1,
+  "ts": "20110629151711",
+  "url": "https://web.archive.org/web/20110629151711id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_060.pdf"
+ },
+ "61": {
+  "mb": 18.7,
+  "ts": "20110605010309",
+  "url": "https://web.archive.org/web/20110605010309id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_061.pdf"
+ },
+ "62": {
+  "mb": 15.5,
+  "ts": "20110629151941",
+  "url": "https://web.archive.org/web/20110629151941id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_062.pdf"
+ },
+ "63": {
+  "mb": 17.0,
+  "ts": "20110526015525",
+  "url": "https://web.archive.org/web/20110526015525id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_063.pdf"
+ },
+ "64": {
+  "mb": 19.3,
+  "ts": "20110629152705",
+  "url": "https://web.archive.org/web/20110629152705id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_064.pdf"
+ },
+ "65": {
+  "mb": 15.6,
+  "ts": "20110605010944",
+  "url": "https://web.archive.org/web/20110605010944id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_065.pdf"
+ },
+ "66": {
+  "mb": 13.9,
+  "ts": "20110604172924",
+  "url": "https://web.archive.org/web/20110604172924id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_066.pdf"
+ },
+ "67": {
+  "mb": 13.4,
+  "ts": "20110526020001",
+  "url": "https://web.archive.org/web/20110526020001id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_067.pdf"
+ },
+ "68": {
+  "mb": 21.4,
+  "ts": "20110526020151",
+  "url": "https://web.archive.org/web/20110526020151id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_068.pdf"
+ },
+ "69": {
+  "mb": 23.1,
+  "ts": "20110526020340",
+  "url": "https://web.archive.org/web/20110526020340id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_069.pdf"
+ },
+ "7": {
+  "mb": 13.3,
+  "ts": "20110526032955",
+  "url": "https://web.archive.org/web/20110526032955id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_007.pdf"
+ },
+ "70": {
+  "mb": 23.6,
+  "ts": "20110526020515",
+  "url": "https://web.archive.org/web/20110526020515id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_070.pdf"
+ },
+ "71": {
+  "mb": 12.1,
+  "ts": "20101018183951",
+  "url": "https://web.archive.org/web/20101018183951id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_071.pdf"
+ },
+ "72": {
+  "mb": 14.0,
+  "ts": "20110629154800",
+  "url": "https://web.archive.org/web/20110629154800id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_072.pdf"
+ },
+ "73": {
+  "mb": 14.9,
+  "ts": "20110604174520",
+  "url": "https://web.archive.org/web/20110604174520id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_073.pdf"
+ },
+ "74": {
+  "mb": 11.9,
+  "ts": "20110605012318",
+  "url": "https://web.archive.org/web/20110605012318id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_074.pdf"
+ },
+ "75": {
+  "mb": 17.25,
+  "ts": "20110526022350",
+  "url": "https://web.archive.org/web/20110526022350id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_075.pdf"
+ },
+ "76": {
+  "mb": 17.71,
+  "ts": "20110526022612",
+  "url": "https://web.archive.org/web/20110526022612id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_076.pdf"
+ },
+ "77": {
+  "mb": 22.9,
+  "ts": "20110605012809",
+  "url": "https://web.archive.org/web/20110605012809id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_077.pdf"
+ },
+ "78": {
+  "mb": 17.14,
+  "ts": "20110629155807",
+  "url": "https://web.archive.org/web/20110629155807id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_078.pdf"
+ },
+ "79": {
+  "mb": 15.4,
+  "ts": "20110605013114",
+  "url": "https://web.archive.org/web/20110605013114id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_079.pdf"
+ },
+ "8": {
+  "mb": 13.9,
+  "ts": "20110604182350",
+  "url": "https://web.archive.org/web/20110604182350id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_008.pdf"
+ },
+ "80": {
+  "mb": 15.4,
+  "ts": "20110526024509",
+  "url": "https://web.archive.org/web/20110526024509id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_080.pdf"
+ },
+ "81": {
+  "mb": 16.1,
+  "ts": "20110526024727",
+  "url": "https://web.archive.org/web/20110526024727id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_081.pdf"
+ },
+ "82": {
+  "mb": 15.1,
+  "ts": "20110604180056",
+  "url": "https://web.archive.org/web/20110604180056id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_082.pdf"
+ },
+ "83": {
+  "mb": 15.4,
+  "ts": "20110629161029",
+  "url": "https://web.archive.org/web/20110629161029id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_083.pdf"
+ },
+ "84": {
+  "mb": 15.9,
+  "ts": "20110604180304",
+  "url": "https://web.archive.org/web/20110604180304id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_084.pdf"
+ },
+ "85": {
+  "mb": 13.9,
+  "ts": "20110604180451",
+  "url": "https://web.archive.org/web/20110604180451id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_085.pdf"
+ },
+ "86": {
+  "mb": 19.1,
+  "ts": "20110629161939",
+  "url": "https://web.archive.org/web/20110629161939id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_086.pdf"
+ },
+ "87": {
+  "mb": 14.1,
+  "ts": "20110604194812",
+  "url": "https://web.archive.org/web/20110604194812id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_087.pdf"
+ },
+ "88": {
+  "mb": 13.6,
+  "ts": "20110604194910",
+  "url": "https://web.archive.org/web/20110604194910id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_088.pdf"
+ },
+ "89": {
+  "mb": 14.5,
+  "ts": "20110629174231",
+  "url": "https://web.archive.org/web/20110629174231id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_089.pdf"
+ },
+ "9": {
+  "mb": 20.0,
+  "ts": "20110526033410",
+  "url": "https://web.archive.org/web/20110526033410id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_009.pdf"
+ },
+ "90": {
+  "mb": 16.5,
+  "ts": "20110526055551",
+  "url": "https://web.archive.org/web/20110526055551id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_090.pdf"
+ },
+ "91": {
+  "mb": 18.6,
+  "ts": "20110526055745",
+  "url": "https://web.archive.org/web/20110526055745id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_091.pdf"
+ },
+ "92": {
+  "mb": 18.6,
+  "ts": "20110526060416",
+  "url": "https://web.archive.org/web/20110526060416id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_092.pdf"
+ },
+ "93": {
+  "mb": 16.7,
+  "ts": "20110629175627",
+  "url": "https://web.archive.org/web/20110629175627id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_093.pdf"
+ },
+ "94": {
+  "mb": 15.6,
+  "ts": "20110605031943",
+  "url": "https://web.archive.org/web/20110605031943id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_094.pdf"
+ },
+ "95": {
+  "mb": 17.0,
+  "ts": "20110605032531",
+  "url": "https://web.archive.org/web/20110605032531id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_095.pdf"
+ },
+ "96": {
+  "mb": 18.4,
+  "ts": "20110526063855",
+  "url": "https://web.archive.org/web/20110526063855id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_096.pdf"
+ },
+ "97": {
+  "mb": 14.9,
+  "ts": "20110526064404",
+  "url": "https://web.archive.org/web/20110526064404id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_097.pdf"
+ },
+ "98": {
+  "mb": 14.6,
+  "ts": "20110605033430",
+  "url": "https://web.archive.org/web/20110605033430id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_098.pdf"
+ },
+ "99": {
+  "mb": 18.1,
+  "ts": "20110604202132",
+  "url": "https://web.archive.org/web/20110604202132id_/http://www.nbc.com/heroes/novels/downloads/Heroes_novel_099.pdf"
  }
 }

@@ -87,13 +87,16 @@ Working list for the next pass. Ticked items are done and pushed.
 
 ## 3. Player and links
 
-- [ ] Embed the comics that exist as individual PDFs on archive.org, keeping the
-      title and blurb above them; some survive only as NBC.com PDFs on the
-      Wayback Machine. **The addresses are already in hand:** every row of
-      `build/data/gn_list.wiki` carries that issue's `nbc.com/Heroes/novels/
-      downloads/Heroes_novel_NNN.pdf` and a Wayback `archive-url` for it, so
-      the links can be read straight out of the cached wikitext rather than
-      probed for
+- [x] **Read the issue** — all 173 numbered novels have NBC's own PDF on the
+      Wayback Machine, found by `build/gn_pdfs.py`. The archive serves them as
+      real files under its `id_` modifier and sets no `X-Frame-Options`, so the
+      panel can frame one. It only does so when asked: the median issue is
+      15.4 MB (largest 27.4) and one took 26 seconds to arrive, so the button
+      says the size before you spend it. Title, card and blurb stay above.
+      *Note for anyone extending this: ask CDX to filter by mimetype
+      server-side. Filtering afterwards means paging through 17,000 captures
+      of everything else in that directory, and a per-issue sweep of 366
+      requests gets throttled to over an hour.*
 - [ ] Comics that are on neither are on a fan's Drive share — link it
 - [ ] Archive links for the webisodes and comics generally
 
