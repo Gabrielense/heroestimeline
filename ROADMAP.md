@@ -84,10 +84,14 @@ Still open from this pass:
 
 Still open:
 
-- [x] *Nowhere Man*, Parts 2–4 turned up on VK and play in the panel, so 33 of
-      the 39 webisodes now do. Only *Dark Matters* is left, and that is a bonus
-      feature on the Reborn set rather than something lost. The `vk` field takes
-      the id the way VK writes it, `-24928385_160292003`
+- [x] *Nowhere Man*, Parts 2–4 turned up on VK and play in the panel. The `vk`
+      field takes the id the way VK writes it, `-24928385_160292003`
+- [x] **All 39 webisodes play in the panel.** *Dark Matters* #31–#36 close it
+      out, from TNT Brasil's upload of the six — the only complete set on
+      YouTube, English audio with Portuguese subtitles
+- [ ] Spot-check the *Dark Matters* mapping: TNT's cuts run 5–11½ minutes each
+      against about 2½ for the one English rip of Part 1 that exists, so they
+      look padded with promo material. The order is TNT's own, Episódio 1–6
 - [x] **All twelve magazine covers, and a blurb for each** (`build/magazine.py`).
       They were all showing one shared picture that was not even issue one's
       cover: the per-issue wiki pages are redirects to a single article whose

@@ -39,6 +39,7 @@ Four sources have produced every hit so far. Try them first, in this order.
 | **ChM** uploads (YouTube) | Hard Knox 1–4, titled `Heroes Webisode 04 Hard Knox 2008 Ch 0N <subtitle> ChM` | Rigid naming: swap the chapter number and you find the next part |
 | **heroes-spain** (Dailymotion) | Nowhere Man Part 1 | Exhausted — the account has four videos in total and no more Heroes |
 | **VK** | Nowhere Man Parts 2–4 | A Russian archive of the webisodes, and the only copy of those three anyone has found. VK embeds in an iframe without complaint. Worth searching before concluding anything is lost |
+| **TNT Brasil** (YouTube) | all six *Dark Matters* shorts | A broadcaster's own promo uploads, English audio with Portuguese subtitles. Foreign broadcasters put this material up when the US one never did — worth trying wherever the show aired |
 
 Two patterns are worth knowing:
 
@@ -50,6 +51,10 @@ Two patterns are worth knowing:
   starts.
 
 ---
+
+**The webisodes are finished** — all 39 play in the panel. What is left below is
+the material that was never a webisode: NBC's own featurettes, two broadcasts
+about the show, and a handful of one-offs.
 
 ## Still missing, in the order worth trying
 

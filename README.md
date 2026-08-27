@@ -48,12 +48,12 @@ neither can be deep-linked per entry yet; both stay as collection links in the
 footer.
 
 A good deal never reached the Internet Archive in a form you can play, and
-survives only because somebody kept a copy. Thirty-seven entries carry the id of
+survives only because somebody kept a copy. Forty-three entries carry the id of
 one: the Super Bowl XLIII spot and the teaser NBC ran during the 2014 Winter
-Olympics, *Sword Saint* and *The Drucker Files* off the season two set, and 33
-of the 39 webisodes, whose own player went with NBC.com and whose archive item
+Olympics, *Sword Saint* and *The Drucker Files* off the season two set, and
+**all 39 webisodes**, whose own player went with NBC.com and whose archive item
 is that single ZIP. The field in `build/data/manual_extras.json` names the site
-the copy is on — `yt` for the 33 on YouTube, which play from
+the copy is on — `yt` for the 39 on YouTube, which play from
 `youtube-nocookie.com`, `dm` for the one on Dailymotion, `vk` for the three on
 VK, written the way VK writes them, `-24928385_160292003`. Nothing is rehosted
 here whichever it is, and every webisode is still in the archive's ZIP as well;
@@ -65,10 +65,10 @@ of these was checked against the part it claims to be. Where the only surviving
 copy is not a clean single part — *Damen Peak* went out as parts 1–2 in one
 video — a `vn` line says so under the player.
 
-The six *Dark Matters* shorts are the only ones without one, and they are a
-bonus feature on the *Heroes Reborn* set rather than something that was taken
-down. `HUNTING.md` records which searches have already been run, for these and
-for the featurettes and broadcasts that survive nowhere at all.
+*Dark Matters* is TNT Brasil's upload of the six, the only complete set anyone
+has put up: English audio with Portuguese subtitles, and each cut runs a few
+minutes longer than the short did on NBC. `HUNTING.md` records which searches
+have been run for the featurettes and broadcasts that survive nowhere at all.
 
 The *Unmasked* map lives in `UNMASKED_FILES` in `sync.py`. Regenerate it with:
 

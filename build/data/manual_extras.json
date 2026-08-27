@@ -77,7 +77,7 @@
    }
   },
 
-  "_web_note": "NBC's own player for the webisodes went with nbc.com's old site, and archive.org holds them only as one 1.4 GB ZIP with no per-file streaming. So each part points at whichever copy a collector kept: `yt` a YouTube id, `dm` a Dailymotion one. Checked with build/yt.py -- the upload date and the running time are how you tell the real part from a re-cut. All 33 are covered except Dark Matters, which is not here because it is a bonus feature on the Reborn set rather than something that was taken down. Everything in this column is in the archive's webisode ZIP as well; these ids are only so a part can be watched without downloading 1.4 GB first.",
+  "_web_note": "NBC's own player for the webisodes went with nbc.com's old site, and archive.org holds them only as one 1.4 GB ZIP with no per-file streaming. So each part points at whichever copy a collector kept: `yt` a YouTube id, `dm` a Dailymotion one. Checked with build/yt.py -- the upload date and the running time are how you tell the real part from a re-cut. All 39 are covered. Everything in this column is in the archive's webisode ZIP as well, and Dark Matters is on the Reborn set besides; these ids are only so a part can be watched without downloading 1.4 GB first. Dark Matters #31-#36 come from TNT Brasil's own upload of the six, which is the only complete set on YouTube -- English audio, Portuguese subtitles, and each cut runs a few minutes longer than the shorts did on NBC.",
   "web": {
    "01": {"yt": "4jNyOFLW8M0"},
    "02": {"yt": "2B-Bz1hgwR0"},
@@ -109,6 +109,12 @@
    "28": {"yt": "k1c2othwnRM"},
    "29": {"yt": "a-UjALCMwRE"},
    "30": {"yt": "pM3GbCSsnOc"},
+   "31": {"yt": "-8HJlV43Mr4"},
+   "32": {"yt": "2PRBY7j-FWo"},
+   "33": {"yt": "i8CfFWRhQsU"},
+   "34": {"yt": "ZQpLW_9BAaM"},
+   "35": {"yt": "aCUJf1qvv94"},
+   "36": {"yt": "RHzbGWioq_k"},
    "37": {"yt": "fCU-u9Yh9_M"},
    "38": {"yt": "C3-iKPjnHHw",
           "vn": "Parts 1 and 2 went out together on 19 November 2015 and survive as one video. Part 2 starts about half a minute in."},
