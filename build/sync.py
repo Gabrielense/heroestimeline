@@ -11,6 +11,9 @@ Requires: openpyxl  (pip install openpyxl)
 """
 import argparse, datetime, json, os, re, sys, urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import season4
+
 SHEET_ID = "1Ci6zyz2nhjgrCurrhSDrD_jvtfXBLq_l9CWLpKDe3NE"
 XLSX_URL = "https://docs.google.com/spreadsheets/d/%s/export?format=xlsx" % SHEET_ID
 
@@ -280,6 +283,9 @@ def build(path):
     for miss in sorted(expected - applied):
         print("  note: correction no longer matches anything - %r" % miss, file=sys.stderr)
     print("applied %d/%d corrections" % (len(applied), len(expected)))
+
+    print("season four: renumbered %d codes around the two-hour premiere"
+          % season4.merge_entries(entries))
 
     return {"colLinks": col_links, "entries": entries}
 

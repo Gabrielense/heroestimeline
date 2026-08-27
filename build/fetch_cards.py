@@ -14,6 +14,10 @@ until it reports 0 outstanding.
 """
 import json, os, re, sys, time, urllib.request, urllib.error
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import season4
+from naming import slug
+
 try:
     sys.stdout.reconfigure(line_buffering=True)
 except AttributeError:
@@ -34,11 +38,40 @@ def wanted():
         for k, v in json.load(open(gn, encoding="utf-8")).get("found", {}).items():
             if v.get("card"):
                 out.append(("gn-%s" % k, v["card"]))
+    # the issues Wikipedia's list never covered, filled in from Heroes Wiki
+    extra = os.path.join(DATA, "gn_extra.json")
+    if os.path.exists(extra):
+        for k, v in json.load(open(extra, encoding="utf-8")).get("found", {}).items():
+            if v.get("card"):
+                out.append(("gn-%s" % k, v["card"]))
     ep = os.path.join(DATA, "ep_wiki.json")
     if os.path.exists(ep):
-        for k, v in json.load(open(ep, encoding="utf-8")).get("found", {}).items():
+        # ep_wiki.json is keyed the way the sheet numbers season four, which is
+        # one too high from Ink onwards. Shift before naming the files, or the
+        # cards land under codes the page will never ask for.
+        found = season4.remap_keys(
+            json.load(open(ep, encoding="utf-8")).get("found", {}))
+        for k, v in found.items():
             if v.get("card"):
                 out.append(("ep-%s" % k, v["card"]))
+    # The webisode and Evolutions art comes off a fan-run mirror rather than the
+    # Wayback Machine. Hot-linking someone's hobby server for every page view is
+    # rude at best and dead at worst, so those get copied down too. The key is
+    # the code as the timeline spells it, slashes and all -- flatten it.
+    web = os.path.join(DATA, "web_wiki.json")
+    if os.path.exists(web):
+        for k, v in json.load(open(web, encoding="utf-8")).get("found", {}).items():
+            if v.get("img"):
+                out.append(("web-%s" % k, v["img"]))
+    evo = os.path.join(DATA, "evo_site_wiki.json")
+    if os.path.exists(evo):
+        blob = json.load(open(evo, encoding="utf-8"))
+        for group, prefix in (("site", "site"), ("evo", "evo")):
+            for k, v in (blob.get(group) or {}).items():
+                if v.get("img"):
+                    out.append(("%s-%s" % (prefix, slug(k)), v["img"]))
+        if blob.get("istory_img"):
+            out.append(("istory", blob["istory_img"]))
     return out
 
 
