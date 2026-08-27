@@ -181,8 +181,14 @@ def main():
             e["wiki"] = rec["wiki"]
         if e:
             evo[title] = e
-    # One picture stands for every iStory chapter -- they were text, and the
-    # wiki holds no art for them one by one.
+    # istory.json is keyed by chapter code -- "Cap. 101" -- and the page looks
+    # a chapter up by code first, so each of the fifty-eight gets its own
+    # synopsis and its volume's own art. The volume-level entries below stay as
+    # a fallback for any row whose code we cannot place.
+    for code, rec in list(istory.items()):
+        card = local.get("istory-" + slug(code))
+        if card:
+            rec["img"] = card
     for title, rec in (evo_site.get("istory") or {}).items():
         e = dict(istory.get(title) or {})
         if rec.get("b"):

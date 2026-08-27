@@ -24,8 +24,12 @@ Working list for the next pass. Ticked items are done and pushed.
 - [x] **Webisodes** — blurb + title card for all 32, same treatment as the
       graphic novels and episodes
 - [x] **Websites** — pictures and blurbs for the site entries
-- [x] **Heroes Evolutions** — blurb + picture for the rest; iStory chapters
-      share one image
+- [x] **Heroes Evolutions** — blurb + picture for the rest
+- [x] **iStory, chapter by chapter** — all 58 chapters have their own synopsis
+      and their volume's own art, keyed by the code the sheet uses
+      (`build/istory.py`). Chapter names read as subtitles. The long
+      walkthrough tables on those pages are deliberately left alone — they are
+      solution guides, not blurbs
 - [~] **Physical media** — 20 of the 32 have cover art. The twelve without are
       the ones Heroes Wiki has no page for: both graphic-novel omnibuses, the
       Vengeance hardcover, the Reborn eBook collections, the Reborn magazine,
@@ -51,15 +55,23 @@ Working list for the next pass. Ticked items are done and pushed.
 - [x] **Disc extras** — 43 of them, each its own entry in the week its set came
       out, from `build/data/disc_extras.json`
 - [x] **Audio commentaries** — one entry per season, episodes named in the blurb
+- [x] **Graphic novel dates against Wikipedia's list** — `py build/gn_dates.py`.
+      It found two weeks the sheet had wrong, both confirmed against
+      Iheartheroes: *Viewpoints* and *From the Files of Primatech, Part 8*.
+      `DATE_MOVES` in sync.py lifts them into the right week, and the check now
+      comes back clean. The other 113 differences are a day either side of a
+      Monday — the novels went out on Tuesdays
 - [~] **Cross-check** against User:Iheartheroes' release-date list —
       `py build/date_diff.py`. **241 agree exactly.** 11 differ by a single day,
       which is the sheet filing by Monday against their filing by release day —
       not errors. **Seven land in a different week and want a human:**
-      *June 13th, Part One* is **theirs** that is wrong (Wikipedia's own data
-      says 29 Oct 2015, as we have it); the other six are graphic novels —
-      *The Last Shangri-La*, *The Rogue*, *Viewpoints* and *Vengeance* parts
-      1–3 — where no second source was to hand. 52 entries are only on their
-      list, 48 only on ours; `build/data/date_diff.json` has all of it
+      *June 13th, Part One* is **theirs** that is wrong (Wikipedia's own Reborn
+      air dates say 29 Oct 2015, as we have it). *Viewpoints* was **ours** and
+      is fixed. **Five are still open**, and Wikipedia cannot settle them:
+      *The Rogue* and *The Last Shangri-La* carry no issue number in either
+      list, and *Vengeance* 1–3 are Titan's printed comics, outside the
+      webcomic list entirely. 52 entries are only on their list, 48 only on
+      ours; `build/data/date_diff.json` has all of it
 
 ## 2. New entries
 
@@ -77,7 +89,11 @@ Working list for the next pass. Ticked items are done and pushed.
 
 - [ ] Embed the comics that exist as individual PDFs on archive.org, keeping the
       title and blurb above them; some survive only as NBC.com PDFs on the
-      Wayback Machine
+      Wayback Machine. **The addresses are already in hand:** every row of
+      `build/data/gn_list.wiki` carries that issue's `nbc.com/Heroes/novels/
+      downloads/Heroes_novel_NNN.pdf` and a Wayback `archive-url` for it, so
+      the links can be read straight out of the cached wikitext rather than
+      probed for
 - [ ] Comics that are on neither are on a fan's Drive share — link it
 - [ ] Archive links for the webisodes and comics generally
 

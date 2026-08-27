@@ -191,6 +191,63 @@ DATE_LABELS = {
 #    "l": "https://..."}
 
 
+# --- weeks the sheet files wrong -------------------------------------------
+# Only where two independent sources agree against it. Both of these were found
+# by build/gn_dates.py against Wikipedia's list and confirmed against
+# User:Iheartheroes' release dates; both are given as the Monday of the right
+# week, since that is how every other row in the sheet is filed.
+#
+# Everything else the two lists disagree about is a day either side of a Monday
+# -- the novels went out on Tuesdays -- which is a convention, not an error.
+DATE_MOVES = {
+    ("gn", "Viewpoints"): "2008-11-03",
+    ("gn", "From the Files of Primatech, Part 8"): "2010-06-07",
+}
+
+
+def apply_moves(entries):
+    """Lift an item out of the week the sheet gives it and into the right one."""
+    moved = 0
+    for (key, title), target in DATE_MOVES.items():
+        found = None
+        for entry in entries:
+            items = (entry.get("c") or {}).get(key)
+            if not items:
+                continue
+            for item in items:
+                if item.get("t") == title:
+                    found = (entry, item)
+                    break
+            if found:
+                break
+        if not found:
+            print("  note: nothing to move for %r" % (title,), file=sys.stderr)
+            continue
+        entry, item = found
+        if entry.get("d") == target:
+            continue
+        entry["c"][key].remove(item)
+        if not entry["c"][key]:
+            del entry["c"][key]
+        _place(entries, target, key, item)
+        moved += 1
+    return moved
+
+
+def _place(entries, date, key, item):
+    """Put an item in the week for `date`, making that week if it is not there."""
+    for entry in entries:
+        if entry.get("d") == date:
+            entry.setdefault("c", {}).setdefault(key, []).append(item)
+            return
+    at, era = len(entries), "gap"
+    for i, entry in enumerate(entries):
+        if entry.get("d") and entry["d"] < date:
+            at, era = i + 1, entry["e"]
+    entries.insert(at, {"r": 2000 + at, "e": era, "d": date,
+                        "c": {key: [item]}})
+
+
 def load_additions():
     path = os.path.join(HERE, "data", "additions.json")
     if not os.path.exists(path):
@@ -336,6 +393,9 @@ def build(path):
 
     print("season four: renumbered %d codes around the two-hour premiere"
           % season4.merge_entries(entries))
+
+    print("dates: moved %d items into the week two sources agree on"
+          % apply_moves(entries))
 
     extra = load_additions()
     if extra:

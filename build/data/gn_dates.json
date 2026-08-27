@@ -1,0 +1,685 @@
+{
+ "agree": 60,
+ "same_week": [
+  {
+   "c": "16",
+   "t": "Wireless, Part 4",
+   "ours": "2007-01-15",
+   "wiki": "2007-01-16"
+  },
+  {
+   "c": "19",
+   "t": "Bully",
+   "ours": "2007-02-05",
+   "wiki": "2007-02-06"
+  },
+  {
+   "c": "20",
+   "t": "Road Kill",
+   "ours": "2007-02-12",
+   "wiki": "2007-02-13"
+  },
+  {
+   "c": "21",
+   "t": "The Path of the Righteous",
+   "ours": "2007-02-19",
+   "wiki": "2007-02-20"
+  },
+  {
+   "c": "22",
+   "t": "Hell's Angel",
+   "ours": "2007-02-26",
+   "wiki": "2007-02-27"
+  },
+  {
+   "c": "23",
+   "t": "Family Man",
+   "ours": "2007-03-05",
+   "wiki": "2007-03-06"
+  },
+  {
+   "c": "24",
+   "t": "War Buddies, Part 1",
+   "ours": "2007-03-12",
+   "wiki": "2007-03-13"
+  },
+  {
+   "c": "27",
+   "t": "War Buddies, Part 4",
+   "ours": "2007-04-02",
+   "wiki": "2007-04-03"
+  },
+  {
+   "c": "31",
+   "t": "Walls, Part 1",
+   "ours": "2007-04-30",
+   "wiki": "2007-05-01"
+  },
+  {
+   "c": "32",
+   "t": "Walls, Part 2",
+   "ours": "2007-05-07",
+   "wiki": "2007-05-08"
+  },
+  {
+   "c": "33",
+   "t": "The Death of Hana Gitelman, Part 1",
+   "ours": "2007-05-14",
+   "wiki": "2007-05-15"
+  },
+  {
+   "c": "34",
+   "t": "The Death of Hana Gitelman, Part 2",
+   "ours": "2007-05-21",
+   "wiki": "2007-05-22"
+  },
+  {
+   "c": "35",
+   "t": "It Takes a Village, Part 1",
+   "ours": "2007-05-28",
+   "wiki": "2007-05-29"
+  },
+  {
+   "c": "36",
+   "t": "It Takes a Village, Part 2",
+   "ours": "2007-06-04",
+   "wiki": "2007-06-05"
+  },
+  {
+   "c": "37",
+   "t": "It Takes a Village, Part 3",
+   "ours": "2007-06-11",
+   "wiki": "2007-06-12"
+  },
+  {
+   "c": "38",
+   "t": "It Takes a Village, Part 4",
+   "ours": "2007-06-18",
+   "wiki": "2007-06-19"
+  },
+  {
+   "c": "39",
+   "t": "Betty, Part 1",
+   "ours": "2007-06-25",
+   "wiki": "2007-06-27"
+  },
+  {
+   "c": "40",
+   "t": "Betty, Part 2",
+   "ours": "2007-07-02",
+   "wiki": "2007-07-03"
+  },
+  {
+   "c": "41",
+   "t": "Betty, Part 3",
+   "ours": "2007-07-09",
+   "wiki": "2007-07-10"
+  },
+  {
+   "c": "42",
+   "t": "Betty, Part 4",
+   "ours": "2007-07-16",
+   "wiki": "2007-07-17"
+  },
+  {
+   "c": "43",
+   "t": "Golden Handshake, Part 1",
+   "ours": "2007-07-23",
+   "wiki": "2007-07-24"
+  },
+  {
+   "c": "44",
+   "t": "Golden Handshake, Part 2",
+   "ours": "2007-07-30",
+   "wiki": "2007-07-31"
+  },
+  {
+   "c": "45",
+   "t": "Golden Handshake, Part 3",
+   "ours": "2007-08-06",
+   "wiki": "2007-08-07"
+  },
+  {
+   "c": "46",
+   "t": "Golden Handshake, Part 4",
+   "ours": "2007-08-13",
+   "wiki": "2007-08-14"
+  },
+  {
+   "c": "47",
+   "t": "Heroism is Found in the Heart, Part 1",
+   "ours": "2007-08-20",
+   "wiki": "2007-08-21"
+  },
+  {
+   "c": "48",
+   "t": "Heroism is Found in the Heart, Part 2",
+   "ours": "2007-08-27",
+   "wiki": "2007-08-28"
+  },
+  {
+   "c": "49",
+   "t": "Blackout, Part 1",
+   "ours": "2007-09-03",
+   "wiki": "2007-09-04"
+  },
+  {
+   "c": "50",
+   "t": "Blackout, Part 2",
+   "ours": "2007-09-10",
+   "wiki": "2007-09-11"
+  },
+  {
+   "c": "51",
+   "t": "Maya y Alejandro",
+   "ours": "2007-09-17",
+   "wiki": "2007-09-18"
+  },
+  {
+   "c": "52",
+   "t": "Flying Blind",
+   "ours": "2007-09-24",
+   "wiki": "2007-09-25"
+  },
+  {
+   "c": "53",
+   "t": "The Crossroads",
+   "ours": "2007-10-01",
+   "wiki": "2007-10-02"
+  },
+  {
+   "c": "54",
+   "t": "Petrified Lightning",
+   "ours": "2007-10-08",
+   "wiki": "2007-10-09"
+  },
+  {
+   "c": "55",
+   "t": "The Trial of the Black Bear",
+   "ours": "2007-10-15",
+   "wiki": "2007-10-16"
+  },
+  {
+   "c": "56",
+   "t": "Molly's Dream",
+   "ours": "2007-10-22",
+   "wiki": "2007-10-23"
+  },
+  {
+   "c": "57",
+   "t": "Team Building Exercise",
+   "ours": "2007-10-29",
+   "wiki": "2007-10-30"
+  },
+  {
+   "c": "58",
+   "t": "Quarantine",
+   "ours": "2007-11-05",
+   "wiki": "2007-11-06"
+  },
+  {
+   "c": "59",
+   "t": "Man on Fire",
+   "ours": "2007-11-12",
+   "wiki": "2007-11-13"
+  },
+  {
+   "c": "60",
+   "t": "Revolutionary War, Part 1",
+   "ours": "2007-11-19",
+   "wiki": "2007-11-20"
+  },
+  {
+   "c": "61",
+   "t": "Revolutionary War, Part 2",
+   "ours": "2007-11-26",
+   "wiki": "2007-11-27"
+  },
+  {
+   "c": "62",
+   "t": "Special",
+   "ours": "2007-12-03",
+   "wiki": "2007-12-04"
+  },
+  {
+   "c": "63",
+   "t": "Elle's First Assignment, Part 1",
+   "ours": "2007-12-10",
+   "wiki": "2007-12-11"
+  },
+  {
+   "c": "64",
+   "t": "Elle's First Assignment, Part 2",
+   "ours": "2007-12-17",
+   "wiki": "2007-12-18"
+  },
+  {
+   "c": "65",
+   "t": "Normal Lives",
+   "ours": "2007-12-24",
+   "wiki": "2007-12-25"
+  },
+  {
+   "c": "67",
+   "t": "The Golden Goose",
+   "ours": "2008-01-07",
+   "wiki": "2008-01-08"
+  },
+  {
+   "c": "68",
+   "t": "The Man with Too Much Brains",
+   "ours": "2008-01-14",
+   "wiki": "2008-01-15"
+  },
+  {
+   "c": "69",
+   "t": "Hana and Drucker's Plot Discovered",
+   "ours": "2008-01-21",
+   "wiki": "2008-01-22"
+  },
+  {
+   "c": "70",
+   "t": "The End of Hana and Drucker",
+   "ours": "2008-01-28",
+   "wiki": "2008-01-29"
+  },
+  {
+   "c": "71",
+   "t": "History of a Secret",
+   "ours": "2008-02-04",
+   "wiki": "2008-02-05"
+  },
+  {
+   "c": "76",
+   "t": "Pieces of Me",
+   "ours": "2008-03-10",
+   "wiki": "2008-03-11"
+  },
+  {
+   "c": "77",
+   "t": "On the Lam",
+   "ours": "2008-03-17",
+   "wiki": "2008-03-18"
+  },
+  {
+   "c": "78",
+   "t": "Bounty Hunter",
+   "ours": "2008-03-24",
+   "wiki": "2008-03-25"
+  },
+  {
+   "c": "80",
+   "t": "Moonlight Serenade",
+   "ours": "2008-04-07",
+   "wiki": "2008-04-08"
+  },
+  {
+   "c": "81",
+   "t": "Donna's Big Date, Part 1",
+   "ours": "2008-04-14",
+   "wiki": "2008-04-15"
+  },
+  {
+   "c": "89",
+   "t": "Root and Branch, Part 2",
+   "ours": "2008-06-09",
+   "wiki": "2008-06-10"
+  },
+  {
+   "c": "92",
+   "t": "Berlin, Part 2",
+   "ours": "2008-06-30",
+   "wiki": "2008-07-01"
+  },
+  {
+   "c": "95",
+   "t": "The Kill Squad, Part 3",
+   "ours": "2008-07-21",
+   "wiki": "2008-07-22"
+  },
+  {
+   "c": "96",
+   "t": "Going Postal",
+   "ours": "2008-07-28",
+   "wiki": "2008-07-29"
+  },
+  {
+   "c": "106",
+   "t": "Resistance",
+   "ours": "2008-10-06",
+   "wiki": "2008-10-07"
+  },
+  {
+   "c": "110",
+   "t": "Viewpoints",
+   "ours": "2008-11-03",
+   "wiki": "2008-11-04"
+  },
+  {
+   "c": "111",
+   "t": "Playing with Fire",
+   "ours": "2008-11-10",
+   "wiki": "2008-11-11"
+  },
+  {
+   "c": "112",
+   "t": "Partners",
+   "ours": "2008-11-17",
+   "wiki": "2008-11-18"
+  },
+  {
+   "c": "113",
+   "t": "The Caged Bird, Part 1",
+   "ours": "2008-11-24",
+   "wiki": "2008-11-25"
+  },
+  {
+   "c": "114",
+   "t": "The Caged Bird, Part 2",
+   "ours": "2008-12-01",
+   "wiki": "2008-12-02"
+  },
+  {
+   "c": "115",
+   "t": "Truths",
+   "ours": "2008-12-08",
+   "wiki": "2008-12-09"
+  },
+  {
+   "c": "116",
+   "t": "Stuck in the Middle",
+   "ours": "2008-12-15",
+   "wiki": "2008-12-16"
+  },
+  {
+   "c": "117",
+   "t": "Red Eye, Part 1",
+   "ours": "2008-12-22",
+   "wiki": "2008-12-23"
+  },
+  {
+   "c": "118",
+   "t": "Red Eye, Part 2",
+   "ours": "2008-12-29",
+   "wiki": "2008-12-30"
+  },
+  {
+   "c": "119",
+   "t": "Under the Bridge, Part 1",
+   "ours": "2009-01-05",
+   "wiki": "2009-01-06"
+  },
+  {
+   "c": "120",
+   "t": "Under the Bridge, Part 2",
+   "ours": "2009-01-12",
+   "wiki": "2009-01-13"
+  },
+  {
+   "c": "121",
+   "t": "What We Have Wrought",
+   "ours": "2009-01-19",
+   "wiki": "2009-01-20"
+  },
+  {
+   "c": "122",
+   "t": "Almost Famous",
+   "ours": "2009-01-26",
+   "wiki": "2009-01-27"
+  },
+  {
+   "c": "123",
+   "t": "Out of Town... On Business",
+   "ours": "2009-02-02",
+   "wiki": "2009-02-03"
+  },
+  {
+   "c": "124",
+   "t": "Libertad",
+   "ours": "2009-02-09",
+   "wiki": "2009-02-10"
+  },
+  {
+   "c": "125",
+   "t": "The Swimmer",
+   "ours": "2009-02-16",
+   "wiki": "2009-02-17"
+  },
+  {
+   "c": "126",
+   "t": "Comrades, Part 1",
+   "ours": "2009-02-23",
+   "wiki": "2009-02-24"
+  },
+  {
+   "c": "127",
+   "t": "Comrades, Part 2",
+   "ours": "2009-03-02",
+   "wiki": "2009-03-03"
+  },
+  {
+   "c": "128",
+   "t": "Puppet with No Strings",
+   "ours": "2009-03-09",
+   "wiki": "2009-03-10"
+  },
+  {
+   "c": "129",
+   "t": "Hanging By a Thread",
+   "ours": "2009-03-16",
+   "wiki": "2009-03-17"
+  },
+  {
+   "c": "130",
+   "t": "Baby Power",
+   "ours": "2009-03-23",
+   "wiki": "2009-03-24"
+  },
+  {
+   "c": "131",
+   "t": "Cog",
+   "ours": "2009-03-30",
+   "wiki": "2009-03-31"
+  },
+  {
+   "c": "132",
+   "t": "Scenic Route",
+   "ours": "2009-04-06",
+   "wiki": "2009-04-07"
+  },
+  {
+   "c": "133",
+   "t": "Exodus",
+   "ours": "2009-04-13",
+   "wiki": "2009-04-14"
+  },
+  {
+   "c": "134",
+   "t": "One Good Hero",
+   "ours": "2009-04-20",
+   "wiki": "2009-04-21"
+  },
+  {
+   "c": "135",
+   "t": "The Natural Order of Things",
+   "ours": "2009-04-27",
+   "wiki": "2009-04-28"
+  },
+  {
+   "c": "136",
+   "t": "Rebellion, Part 1",
+   "ours": "2009-05-04",
+   "wiki": "2009-05-05"
+  },
+  {
+   "c": "137",
+   "t": "Rebellion, Part 2",
+   "ours": "2009-05-11",
+   "wiki": "2009-05-12"
+  },
+  {
+   "c": "138",
+   "t": "Rebellion, Part 3",
+   "ours": "2009-05-18",
+   "wiki": "2009-05-19"
+  },
+  {
+   "c": "140",
+   "t": "Rebellion, Part 5",
+   "ours": "2009-06-15",
+   "wiki": "2009-06-16"
+  },
+  {
+   "c": "141",
+   "t": "Rebellion, Part 6",
+   "ours": "2009-07-13",
+   "wiki": "2009-07-14"
+  },
+  {
+   "c": "142",
+   "t": "Rebellion, Part 7",
+   "ours": "2009-08-17",
+   "wiki": "2009-08-18"
+  },
+  {
+   "c": "143",
+   "t": "Ice Queen, Part 1",
+   "ours": "2009-09-07",
+   "wiki": "2009-09-08"
+  },
+  {
+   "c": "144",
+   "t": "Ice Queen, Part 2",
+   "ours": "2009-09-14",
+   "wiki": "2009-09-15"
+  },
+  {
+   "c": "145",
+   "t": "Stolen Fate",
+   "ours": "2009-09-21",
+   "wiki": "2009-09-22"
+  },
+  {
+   "c": "146",
+   "t": "Running in Circles",
+   "ours": "2009-09-28",
+   "wiki": "2009-09-29"
+  },
+  {
+   "c": "147",
+   "t": "Boom",
+   "ours": "2009-10-05",
+   "wiki": "2009-10-06"
+  },
+  {
+   "c": "148",
+   "t": "Amanda's Journey, Part 1",
+   "ours": "2009-10-12",
+   "wiki": "2009-10-13"
+  },
+  {
+   "c": "149",
+   "t": "Amanda's Journey, Part 2",
+   "ours": "2009-10-19",
+   "wiki": "2009-10-20"
+  },
+  {
+   "c": "150",
+   "t": "Yang & Yang",
+   "ours": "2009-10-26",
+   "wiki": "2009-10-27"
+  },
+  {
+   "c": "151",
+   "t": "Smoke & Mirrors",
+   "ours": "2009-11-02",
+   "wiki": "2009-11-03"
+  },
+  {
+   "c": "152",
+   "t": "The Painted Lady",
+   "ours": "2009-11-09",
+   "wiki": "2009-11-10"
+  },
+  {
+   "c": "153",
+   "t": "Prodigals, Part 1",
+   "ours": "2009-11-16",
+   "wiki": "2009-11-17"
+  },
+  {
+   "c": "154",
+   "t": "Prodigals, Part 2",
+   "ours": "2009-11-23",
+   "wiki": "2009-11-24"
+  },
+  {
+   "c": "155",
+   "t": "Prodigals, Part 3",
+   "ours": "2009-11-30",
+   "wiki": "2009-12-01"
+  },
+  {
+   "c": "156",
+   "t": "Requiem For My Brother",
+   "ours": "2009-12-07",
+   "wiki": "2009-12-08"
+  },
+  {
+   "c": "157",
+   "t": "Bloodlines, Part 1",
+   "ours": "2009-12-14",
+   "wiki": "2009-12-15"
+  },
+  {
+   "c": "158",
+   "t": "Bloodlines, Part 2",
+   "ours": "2009-12-21",
+   "wiki": "2009-12-22"
+  },
+  {
+   "c": "161",
+   "t": "The Trip, Part 2",
+   "ours": "2010-01-11",
+   "wiki": "2010-01-12"
+  },
+  {
+   "c": "162",
+   "t": "Second Chances",
+   "ours": "2010-01-18",
+   "wiki": "2010-01-19"
+  },
+  {
+   "c": "163",
+   "t": "Reaching Out, Part 1",
+   "ours": "2010-01-25",
+   "wiki": "2010-01-26"
+  },
+  {
+   "c": "164",
+   "t": "Reaching Out, Part 2",
+   "ours": "2010-02-01",
+   "wiki": "2010-02-02"
+  },
+  {
+   "c": "165",
+   "t": "Consequences",
+   "ours": "2010-02-08",
+   "wiki": "2010-02-09"
+  },
+  {
+   "c": "166",
+   "t": "From the Files of Primatech, Part 1",
+   "ours": "2010-02-15",
+   "wiki": "2010-02-16"
+  },
+  {
+   "c": "173",
+   "t": "From the Files of Primatech, Part 8",
+   "ours": "2010-06-07",
+   "wiki": "2010-06-09"
+  }
+ ],
+ "different_week": [],
+ "not_ours": []
+}
