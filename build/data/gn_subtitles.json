@@ -1,8 +1,44 @@
 {
  "subtitles": {
-  "166": "1963, Part 1",
+  "136": "Rebel Yell",
+  "137": "Providence in the Fall of a Sparrow",
+  "138": "Family",
+  "139": "Left Behind",
+  "140": "Wanted",
+  "141": "Lost and Found",
+  "142": "Liberation of Saint Joan",
   "148": "When Everything Changed",
-  "25": "Unknown Soldiers"
+  "149": "Thank Goodness for Tracy Strauss",
+  "153": "Immersed",
+  "154": "Which Hunt",
+  "155": "Parched",
+  "160": "Splinters",
+  "161": "Elementary, My Dear Hiro",
+  "166": "1963, Part 1",
+  "167": "1963, Part 2",
+  "168": "1978, Part 1",
+  "169": "1978, Part 2",
+  "170": "1988, Part 1",
+  "171": "1988, Part 2",
+  "172": "1991, Part 1",
+  "173": "1991, Part 2",
+  "24": "Lonestar File",
+  "25": "Unknown Soldiers, Part 1",
+  "26": "Unknown Soldiers, Part 2",
+  "27": "No Turning Back",
+  "28": "Instructions",
+  "29": "Call to Arms",
+  "43": "Man Overboard",
+  "44": "An American in Paris",
+  "45": "One More for the Road",
+  "46": "Severance Pay",
+  "60": "Pursuit",
+  "61": "Pursuit",
+  "73": "Coming Home",
+  "82": "Replay",
+  "88": "Big Bag and Tag",
+  "89": "Weeding Out",
+  "90": "Extraction"
  },
  "gaps": [
   {
@@ -31,11 +67,6 @@
    "why": "no title card on the wiki"
   },
   {
-   "c": "136",
-   "t": "Rebellion, Part 1",
-   "why": "no title card on the wiki"
-  },
-  {
    "c": "144",
    "t": "Ice Queen, Part 2",
    "why": "no title card on the wiki"
@@ -56,8 +87,8 @@
    "why": "no title card on the wiki"
   },
   {
-   "c": "171",
-   "t": "From the Files of Primatech, Part 6",
+   "c": "167b",
+   "t": "Novel Approach: The Hiro Collection",
    "why": "no title card on the wiki"
   },
   {
@@ -111,11 +142,6 @@
    "why": "no title card on the wiki"
   },
   {
-   "c": "29",
-   "t": "War Buddies, Part 6",
-   "why": "no title card on the wiki"
-  },
-  {
    "c": "35",
    "t": "It Takes a Village, Part 1",
    "why": "no title card on the wiki"
@@ -133,11 +159,6 @@
   {
    "c": "42",
    "t": "Betty, Part 4",
-   "why": "no title card on the wiki"
-  },
-  {
-   "c": "44",
-   "t": "Golden Handshake, Part 2",
    "why": "no title card on the wiki"
   },
   {

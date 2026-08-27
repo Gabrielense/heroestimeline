@@ -1,5 +1,4 @@
 {
- "_note": "Blurbs written by hand, for things no collector can reach. Merged last by build/extras.py, so anything here wins over a scraped value. Keyed the way the page looks each group up: gn and ep by code, evo and site by exact title.",
  "gn": {
   "167b": {
    "d": "A reprint collection gathering six novels that follow Hiro Nakamura: Walls, Part 2; The Trial of the Black Bear; Past Experience; Baby Power; Stolen Fate; and The Trip, Part 1. Nothing in it was new -- it was a way back in for readers who had lost the thread.",
@@ -19,6 +18,137 @@
   },
   "Making of the Damen Peak Video, Part 2": {
    "d": "The second half of the Damen Peak making-of. Like the first, no copy is known to survive."
+  }
+ },
+ "misc": {
+  "Season 1: 50 deleted scenes": {
+   "d": "Cut material from nineteen of the twenty-three episodes. Mostly extensions rather than lost plot -- the exception is Genesis, whose trims belong to the terrorist thread the series dropped. Runs about 49 min on the season one DVD."
+  },
+  "Season 1: The Making of Heroes": {
+   "d": "The short official overview: where the idea came from, how the cast was found, the Comic-Con debut that made it a phenomenon before it aired. Runs about 10 min on the season one DVD."
+  },
+  "Season 1: Special Effects": {
+   "d": "The difference between an effect done on set and one done in a computer, worked through on the scene where Hiro stops time in a Tokyo street. Runs about 9 min on the season one DVD."
+  },
+  "Season 1: The Stunts": {
+   "d": "Stunt coordinator Ian Quinn on how the falls and fights were staged, with raw on-set footage of the takes. Runs about 10 min on the season one DVD."
+  },
+  "Season 1: A Profile of Artist Tim Sale": {
+   "d": "The comics artist who painted everything Isaac Mendez paints, on his career and on working colour-blind. Runs about 11 min on the season one DVD."
+  },
+  "Season 1: The Score": {
+   "d": "Wendy Melvoin and Lisa Coleman on writing and recording the series' music. Runs about 9 min on the season one DVD."
+  },
+  "Season 1: Mind Reader game": {
+   "d": "A numerical parlour trick on disc five, dressed up as a test of Matt Parkman's telepathy. On the season one DVD."
+  },
+  "Season 1 Episode Commentaries": {
+   "d": "13 tracks on the season one DVD, covering the unaired pilot (Tim Kring alone), Godsend, The Fix, Distractions, Run!, Unexpected, Company Man, Parasite, .07%, Five Years Gone, The Hard Part, Landslide and How to Stop an Exploding Man. Cast, directors and writers rotate through each one rather than sitting the whole episode."
+  },
+  "Season 2: Heroes Season Two: A New Beginning": {
+   "d": "A promotional overview of the new season and its new characters, made to be watched before the episodes rather than after. Runs about 15 min on the season two set."
+  },
+  "Season 2: Takezo Kensei: Sword Saint": {
+   "d": "A straight-faced fake documentary on the historical Kensei, complete with academics and period art, for a man who never existed. Runs about 24 min on the season two set."
+  },
+  "Season 2: Global News Interactive / The Drucker Files": {
+   "d": "The in-fiction news report on Richard Drucker, collected from the campaign that ran online. Runs about 9 min on the season two set."
+  },
+  "Season 2: Genetics of a Scene": {
+   "d": "Allan Arkush and Greg Beeman take a few scenes apart and explain what it took to shoot each one. Runs about 23 min on the season two set."
+  },
+  "Season 2: Season Three Sneak Peek": {
+   "d": "Cast and crew promising the next year will be extraordinary, with almost no detail attached. Runs about 9 min on the season two set."
+  },
+  "Season 2: 17 deleted scenes": {
+   "d": "Trims from six episodes -- an alternate opening for Nathan, more of Hiro in feudal Japan, more of Monica in New Orleans. Runs about 24 min on the season two set."
+  },
+  "Season 2: Generations alternate ending": {
+   "d": "The finale as it was first cut, reusing much of the aired footage but sending the virus somewhere very different. Runs about 18 min on the season two set."
+  },
+  "Season 2: Behind the Alternate Ending of Generations": {
+   "d": "Tim Kring, Jeph Loeb and Jesse Alexander on why the ending changed -- the one place on any of these discs where the writers' strike is discussed directly. Runs about 11 min on the season two set."
+  },
+  "Season 2: Untold Stories": {
+   "d": "Scenes shot for the twelfth and thirteenth episodes of a season that stopped at eleven. Mostly Elle hunting Sylar. Runs about 12 min on the season two set."
+  },
+  "Season 2: NBC.com featurettes": {
+   "d": "Three web teasers made to look like camera-phone footage: Hotel Corinthian Explosion, Maya y Alejandro Viral Video, and Nathan and Peter Brooklyn Cam. Runs about 4 min on the season two set."
+  },
+  "Season 2: Tim Sale Gallery of Screen Art": {
+   "d": "Close-ups of the paintings Sale made for the series. Runs about 2 min on the season two set."
+  },
+  "Season 2 Episode Commentaries": {
+   "d": "11 tracks on the season two set, covering all eleven episodes, from Four Months Later... to Powerless. Cast, directors and writers rotate through each one rather than sitting the whole episode."
+  },
+  "Season 3: 36 minutes of deleted scenes": {
+   "d": "Includes the Hard Knox webisodes, cut in among the trims rather than listed as a series of their own. Runs about 36 min on the season three set."
+  },
+  "Season 3: The Super Powers of Heroes": {
+   "d": "Stunt coordinator Tim Gilbert on staging the abilities, with before-effects footage of how the shots actually looked on set. Runs about 8 min on the season three set."
+  },
+  "Season 3: Completing the Scene": {
+   "d": "The effects team on turning those plates into finished shots, including the ruined-future sequence. Runs about 8 min on the season three set."
+  },
+  "Season 3: Alternate Stories: The Recruit": {
+   "d": "The five-part webisode series about the soldiers of Volume 3, collected on the discs. Runs about 18 min on the season three set."
+  },
+  "Season 3: Alternate Stories: Going Postal": {
+   "d": "Echo's origin, the first Heroes webisode series, collected on the discs. Runs about 10 min on the season three set."
+  },
+  "Season 3: Alternate Stories: Nowhere Man": {
+   "d": "Eric Doyle's story after his episodes, collected on the discs. Runs about 18 min on the season three set."
+  },
+  "Season 3: Pinehearst Commercial": {
+   "d": "A mock advertisement for the company's civilian front. Runs about 1 min on the season three set."
+  },
+  "Season 3: The Prop Box": {
+   "d": "A walk through the show's gold room, where the props worth keeping ended up -- including Isaac's original canvases. Runs about 5 min on the season three set."
+  },
+  "Season 3: Genetics of a Scene": {
+   "d": "Four segments on specific shots: Claire's brain, the deformed test subject's prosthetics, Daphne's speed, and the Matt-and-Danko chase. Runs about 20 min on the season three set."
+  },
+  "Season 3: The Writer's Forum": {
+   "d": "Tim Kring, Adam Armus and Aron Eli Coleite on what they were trying to do with the Villains and Fugitives volumes. Runs about 13 min on the season three set."
+  },
+  "Season 3: Tim Sale Gallery of Screen Art": {
+   "d": "The season's paintings, including the ones painted onto rock. Runs about 1 min on the season three set."
+  },
+  "Season 3 Episode Commentaries": {
+   "d": "25 tracks on the season three set, covering all twenty-five episodes of Villains and Fugitives. Cast, directors and writers rotate through each one rather than sitting the whole episode."
+  },
+  "Season 4: 45 minutes of deleted scenes": {
+   "d": "Trims across the season, spread over all four discs. Runs about 45 min on the season four set."
+  },
+  "Season 4: Deconstructing Sylar": {
+   "d": "Zachary Quinto, Tim Kring and Adam Armus on the character the series could never quite finish with. Runs about 21 min on the season four set."
+  },
+  "Season 4: Heroes Revolution": {
+   "d": "How the comics, the webisodes and the online campaign were meant to fit around the show. Runs about 11 min on the season four set."
+  },
+  "Season 4: Milo Speaks": {
+   "d": "Milo Ventimiglia on comics, and on the ones he was publishing himself. Runs about 5 min on the season four set."
+  },
+  "Season 4: Genetics of a Scene": {
+   "d": "The longest of these: several sequences taken apart shot by shot, including the car filling with water. Runs about 42 min on the season four set."
+  },
+  "Season 4: Message from Tim Kring": {
+   "d": "Recorded after the cancellation and hidden before the last episode, saying the story was not finished. Runs about 4 min on the season four set."
+  },
+  "Season 4: Sullivan Brothers Design Gallery": {
+   "d": "Design work for the carnival. Runs about 2 min on the season four set."
+  },
+  "Season 4: Heroes Connections": {
+   "d": "An on-disc chart of who is connected to whom, available from every disc in the set. On the season four set."
+  },
+  "Season 4 Episode Commentaries": {
+   "d": "4 tracks on the season four set, covering Once Upon a Time in Texas, Shadowboxing, The Fifth Stage and Brave New World. Cast, directors and writers rotate through each one rather than sitting the whole episode."
+  },
+  "Heroes Reborn: 17 deleted scenes": {
+   "d": "Trims from nine of the thirteen episodes. Runs about 18 min on the Heroes Reborn set."
+  },
+  "Heroes Reborn: Heroes Reborn: Reliving the Legacy": {
+   "d": "Tim Kring and the cast, old and new, on returning to the story five years after it ended. Runs about 11 min on the Heroes Reborn set."
   }
  }
 }

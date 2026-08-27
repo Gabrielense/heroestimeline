@@ -212,10 +212,14 @@ def main():
         if e:
             evo[title] = e
 
+    # The disc extras and the commentaries: their own releases, keyed by title.
+    misc = {}
+
     # Written by hand, for what no collector can reach. Merged last, so it wins.
     hand = load("hand_extras.json")
     for group, target in (("gn", gn), ("ep", ep), ("web", web), ("evo", evo),
-                          ("site", site), ("istory", istory), ("phys", phys)):
+                          ("site", site), ("istory", istory), ("phys", phys),
+                          ("misc", misc)):
         for key, rec in (hand.get(group) or {}).items():
             target.setdefault(key, {}).update(rec)
 
@@ -226,12 +230,12 @@ def main():
         shared = re.sub(r"/\d+px-", "/250px-", shared)
 
     out = {"gn": gn, "ep": ep, "web": web, "site": site, "istory": istory,
-           "evo": evo, "phys": phys,
+           "evo": evo, "phys": phys, "misc": misc,
            "as_sites": evo_site.get("as_sites") or [],
            "istory_img": local.get("istory") or shared}
 
     # one pass over every blurb, whichever collector wrote it
-    for group in ("gn", "ep", "web", "site", "istory", "evo", "phys"):
+    for group in ("gn", "ep", "web", "site", "istory", "evo", "phys", "misc"):
         for rec in out[group].values():
             for field in ("d", "by", "note"):
                 if rec.get(field):
@@ -260,6 +264,7 @@ def main():
           sum(1 for v in site.values() if "img" in v)))
     print("evo      %3d artefacts" % len(evo))
     print("physical %3d with cover art" % len(phys))
+    print("misc     %3d disc extras and commentaries" % len(misc))
     print("istory   %3d chapters" % len(istory))
     print("wrote %.1f KB into index.html" % (len(blob) / 1024))
 

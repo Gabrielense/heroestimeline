@@ -22,12 +22,10 @@ DATA = os.path.join(HERE, "data")
 HTML = os.path.join(HERE, os.pardir, "index.html")
 OUT = os.path.join(DATA, "gn_subtitles.json")
 
-# Subtitles that are real but recorded nowhere this script can read them, so
-# they are written down by hand. Anything added here must come from the issue
-# itself, not from a guess.
-KNOWN = {
-    "166": "1963, Part 1",
-}
+# Subtitles Heroes Wiki records only in its release-date lists, never on the
+# issues' own pages, so nothing here can be scraped. They live in
+# data/gn_subtitles_manual.json, keyed by title, and win over anything derived.
+MANUAL = os.path.join(DATA, "gn_subtitles_manual.json")
 
 # a title card whose name is one of these says nothing about a subtitle
 NOISE = re.compile(r"^(?:cover|title|untitled|novel|issue)$", re.I)
@@ -105,9 +103,17 @@ def main():
             if item.get("c"):
                 titles[item["c"]] = item["t"]
 
-    subs, gaps = dict(KNOWN), []
+    manual = {}
+    if os.path.exists(MANUAL):
+        manual = {k: v for k, v in
+                  json.load(io.open(MANUAL, encoding="utf-8")).items()
+                  if not k.startswith("_")}
+
+    subs, gaps, by_hand = {}, [], 0
     for code, title in sorted(titles.items()):
-        if code in subs:
+        if title in manual:
+            subs[code] = manual[title]
+            by_hand += 1
             continue
         url = (cards.get(code) or {}).get("card")
         if not url:
@@ -117,9 +123,9 @@ def main():
         if is_subtitle(candidate, title):
             subs[code] = titlecase(candidate)
 
-    named = len(subs)
-    print("%d novels | %d subtitles | %d with no title card to read"
-          % (len(titles), named, len(gaps)))
+    print("%d novels | %d subtitles (%d by hand, %d read off a title card) | "
+          "%d with no title card to read"
+          % (len(titles), len(subs), by_hand, len(subs) - by_hand, len(gaps)))
     for code in sorted(subs, key=lambda c: int(re.sub(r"\D", "", c) or 0)):
         print("  #%-5s %s" % (code, subs[code]))
 
