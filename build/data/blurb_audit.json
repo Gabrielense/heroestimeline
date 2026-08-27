@@ -8,9 +8,9 @@
   },
   "evo": {
    "n": 126,
-   "blurb": 116,
-   "img": 113,
-   "dead": 10
+   "blurb": 120,
+   "img": 117,
+   "dead": 6
   },
   "gn": {
    "n": 186,
@@ -44,14 +44,6 @@
   }
  },
  "missing": [
-  {
-   "k": "evo",
-   "d": "2006-12-11",
-   "c": "",
-   "t": "Are You A Hero?",
-   "img": false,
-   "opens": false
-  },
   {
    "k": "evo",
    "d": "2007-04-09",
@@ -203,14 +195,6 @@
    "t": "Heroes: The Official Magazine #06",
    "img": true,
    "opens": true
-  },
-  {
-   "k": "evo",
-   "d": "2008-09-22",
-   "c": "",
-   "t": "Habbo's Interactivity",
-   "img": false,
-   "opens": false
   },
   {
    "k": "evo",
@@ -373,14 +357,6 @@
    "opens": true
   },
   {
-   "k": "evo",
-   "d": "2015-10-08",
-   "c": "",
-   "t": "Heroes Reborn: Enigma (iOS/Android)",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "bts",
    "d": "2015-10-08",
    "c": "",
@@ -443,14 +419,6 @@
    "t": "Inside the Eclipse #11",
    "img": false,
    "opens": true
-  },
-  {
-   "k": "evo",
-   "d": "2016-01-14",
-   "c": "",
-   "t": "Gemini: Heroes Reborn (PC/PS4/XBOX One)",
-   "img": false,
-   "opens": false
   },
   {
    "k": "bts",
