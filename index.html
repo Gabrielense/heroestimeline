@@ -282,6 +282,9 @@ footer .made p{margin-bottom:12px}
 .player-frame[hidden]{display:none}
 .player-frame{aspect-ratio:16/9;background:#000;border-top:1px solid var(--border);
   border-bottom:1px solid var(--border)}
+/* the slot has to carry the frame's height itself, or the percentage heights
+   below resolve against auto and the archive embed collapses to 150px */
+.player-frame>div{width:100%;height:100%}
 .player-frame iframe,.player-frame video{width:100%;height:100%;border:0;display:block;
   background:#000}
 .detail[hidden]{display:none}
