@@ -48,11 +48,11 @@ neither can be deep-linked per entry yet; both stay as collection links in the
 footer.
 
 A good deal never reached the Internet Archive in a form you can play, and
-survives only because somebody kept a copy. Thirty-three entries carry the id of
+survives only because somebody kept a copy. Thirty-four entries carry the id of
 one: the Super Bowl XLIII spot and the teaser NBC ran during the 2014 Winter
-Olympics, *Sword Saint* and *The Drucker Files* off the season two set, and 29
+Olympics, *Sword Saint* and *The Drucker Files* off the season two set, and 30
 of the 39 webisodes, whose own player went with NBC.com and whose archive item
-is that single ZIP. Thirty-two play from `youtube-nocookie.com` as the `yt`
+is that single ZIP. Thirty-three play from `youtube-nocookie.com` as the `yt`
 field in `build/data/manual_extras.json`; *Nowhere Man, Part 1* is on
 Dailymotion instead and uses `dm`. Nothing is rehosted here either way.
 
@@ -62,9 +62,11 @@ of these was checked against the part it claims to be. Where the only surviving
 copy is not a clean single part — *Damen Peak* went out as parts 1–2 in one
 video — a `vn` line says so under the player.
 
-Ten webisodes have no copy anyone has found: *Hard Knox, Part 4*, *Nowhere
-Man*, Parts 2–4, and the six *Dark Matters* shorts, which are a bonus feature on
-the *Heroes Reborn* set rather than something that was taken down.
+Nine webisodes have no copy anyone has found: *Nowhere Man*, Parts 2–4, and the
+six *Dark Matters* shorts, which are a bonus feature on the *Heroes Reborn* set
+rather than something that was taken down. `HUNTING.md` records which searches
+have already been run for these, and for the featurettes and broadcasts that
+survive nowhere at all.
 
 The *Unmasked* map lives in `UNMASKED_FILES` in `sync.py`. Regenerate it with:
 

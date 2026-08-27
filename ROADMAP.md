@@ -84,9 +84,9 @@ Still open from this pass:
 
 Still open:
 
-- [ ] No copy has been found of *Hard Knox, Part 4* or *Nowhere Man*, Parts 2–4
-      (its uploader posted only the first). They still point at the archive's
-      1.4 GB webisode ZIP like the rest
+- [ ] *Nowhere Man*, Parts 2–4 are the last webisodes with no copy anywhere —
+      the one uploader who put the series back up posted only the first. They
+      still point at the archive's 1.4 GB webisode ZIP like the rest
 - [x] **All twelve magazine covers, and a blurb for each** (`build/magazine.py`).
       They were all showing one shared picture that was not even issue one's
       cover: the per-issue wiki pages are redirects to a single article whose
