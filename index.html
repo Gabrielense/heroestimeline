@@ -29,6 +29,7 @@
   --accent-dim:rgba(255,138,61,.16);
   --v1:#b0642a; --v2:#c9762c; --v3:#e08a2e; --v4:#eda13f; --v5:#f6bb63;
   --hr:#4d9de0; --gap:#7b7b84;
+  --strike:#d1595b;
   --sans:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
   --mono:'JetBrains Mono',ui-monospace,'Cascadia Mono',Consolas,monospace;
   --toolbar-h:0px;
@@ -210,6 +211,29 @@ a.item:hover .ext{stroke:var(--text)}
 .marker span{font:700 .74rem var(--sans);letter-spacing:.26em;text-transform:uppercase;
   color:var(--accent);white-space:nowrap}
 
+/* an outside event that shaped the schedule without being a release itself.
+   Its own colour, never an era's, so a strike cannot read as a volume: a
+   headed bar where it starts, a rule down the weeks it covers, a close. */
+.span-open{margin:20px 0 4px;padding:10px 13px;border-radius:9px;
+  background:rgba(209,89,91,.09);border:1px solid rgba(209,89,91,.28);
+  border-left:3px solid var(--strike)}
+.span-open .top{display:flex;align-items:baseline;gap:11px;flex-wrap:wrap}
+.span-open b{font:700 .72rem var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--strike)}
+.span-open .when{font:600 .74rem var(--mono);color:var(--text-3);
+  font-variant-numeric:tabular-nums}
+.span-open .note{margin-top:5px;font-size:.86rem;line-height:1.55;color:var(--text-2)}
+.span-open .note a{color:var(--text-2);text-decoration:underline;text-underline-offset:3px;
+  text-decoration-color:var(--border-2)}
+.span-open .note a:hover{color:var(--text);text-decoration-color:var(--strike)}
+.week.in-span{position:relative}
+.week.in-span::before{content:'';position:absolute;left:-13px;top:0;bottom:0;width:3px;
+  border-radius:2px;background:var(--strike);opacity:.45}
+.span-close{display:flex;align-items:center;gap:11px;margin:5px 0 2px;
+  font:600 .72rem var(--mono);color:var(--text-3);font-variant-numeric:tabular-nums}
+.span-close .line{flex:1;height:1px;background:rgba(209,89,91,.32)}
+@media (max-width:620px){.week.in-span::before{left:-8px;width:2px}}
+
 mark{background:rgba(255,138,61,.28);color:var(--text);border-radius:3px;padding:0 2px}
 
 /* ---------- grid view ---------- */
@@ -313,6 +337,8 @@ footer .made p{margin-bottom:12px}
   background:var(--surface-2);border:1px solid var(--border);border-radius:8px;
   padding:5px 10px 5px 6px;text-decoration:none;font:600 .8rem var(--sans)}
 .watch-group a:hover{color:var(--text);border-color:var(--accent)}
+.watch-group a .edsub{font:500 .72rem var(--mono);color:var(--text-3)}
+.watch-group a:hover .edsub{color:var(--text-2)}
 .watch-group img{width:20px;height:20px;border-radius:5px;display:block;background:var(--surface-3)}
 .watch-note{margin-top:11px;font-size:.76rem;color:var(--text-3);line-height:1.5}
 .watch-note a{color:var(--text-2);text-decoration:underline;text-underline-offset:3px;
@@ -525,6 +551,23 @@ var ERA = {
 };
 var ERA_ORDER = ['v1','v2','v3','v4','v5','hr','gap'];
 
+/* Things that happened to the schedule rather than in it. The sheet has no
+   column for them and sync.py rewrites only the timeline-data block, so they
+   live here. `to` is the last day covered, inclusive. */
+var SPANS = [{
+  id   : 'wga',
+  from : '2007-11-05',
+  to   : '2008-02-12',
+  label: 'Writers Guild of America strike',
+  note : 'Volume 2 was cut from a planned two dozen episodes to eleven and ' +
+         'ended on a hurried note, the Heroes: Origins spin-off that was to ' +
+         'fill the winter was shelved and never made, and the online tie-ins ' +
+         'thinned out with the writers who wrote them.',
+  url  : 'https://en.wikipedia.org/wiki/2007%E2%80%932008_Writers_Guild_of_America_strike',
+  src  : 'Wikipedia'
+}];
+var SPAN_BY = {}; SPANS.forEach(function(s){ SPAN_BY[s.id] = s; });
+
 var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
 /* ---------- derive ---------- */
@@ -536,6 +579,10 @@ ENTRIES.forEach(function(e){
     e._label = MONTHS[+p[1]-1] + ' ' + (+p[2]);
     e._full = MONTHS[+p[1]-1] + ' ' + (+p[2]) + ', ' + p[0];
     blob.push(e.d, e._full, e._y);
+    /* ISO dates compare correctly as strings, so no Date objects needed */
+    SPANS.forEach(function(s){
+      if (e.d >= s.from && e.d <= s.to) e._span = s.id;
+    });
   }
   if (e.dl) { e._label = e.dl; e._full = e.dl; e._undated = true; blob.push(e.dl); }
   if (e.m) { e._label = e.m; e._full = e.m; blob.push(e.m); }
@@ -632,7 +679,9 @@ function highlight(node, text, q){
    whole week. Marker-only weeks (no releases) survive on the era + date test. */
 function dateHit(e, q){
   return (e.d && e.d.indexOf(q) >= 0) ||
-         (e._full && e._full.toLowerCase().indexOf(q) >= 0);
+         (e._full && e._full.toLowerCase().indexOf(q) >= 0) ||
+         /* a span reads like a marker: name the strike and keep its weeks whole */
+         (e._span && SPAN_BY[e._span].label.toLowerCase().indexOf(q) >= 0);
 }
 function visibleItems(e){
   if (!state.eras[e.e]) return null;
@@ -1208,6 +1257,22 @@ var BUY_GROUPS = [
   [/volume \d|omnibus|vengeance|godsend/i, 'comics', null,  null]
 ];
 
+/* Editions checked by hand. The panel will not invent a product link, but a
+   listing someone has actually opened outranks any search, so the few that are
+   known good are named outright -- with their language and format, because a
+   Portuguese hardcover is not what a reader typing English into Amazon wants
+   by surprise. `re` matches the release's title as the sheet spells it. */
+var BUY_EDITIONS = [
+  {re   : /vengeance/i,
+   t    : 'Heroes: Vingança',
+   sub  : 'Portuguese · hardcover, 132pp',
+   store: 'Amazon BR',
+   url  : 'https://www.amazon.com.br/Heroes-Vingan%C3%A7a-Seamus-Kevin-Fahey/dp/855546045X'}
+];
+function buyEditions(it){
+  return BUY_EDITIONS.filter(function(e){ return e.re.test(it.t); });
+}
+
 function buyGroup(it){
   for (var i = 0; i < BUY_GROUPS.length; i++) {
     if (BUY_GROUPS[i][0].test(it.t)) {
@@ -1276,6 +1341,21 @@ function renderBuy(m, it){
       of.forEach(function(o){ row.appendChild(watchLink(o)); });
       body.appendChild(row);
     });
+    /* then the hand-checked editions, which are listings too, just ours */
+    var eds = buyEditions(it);
+    if (eds.length) {
+      var erow = el('div','watch-group');
+      erow.appendChild(el('b', null, 'Edition'));
+      eds.forEach(function(ed){
+        var a = el('a', null, ed.t);
+        a.href = ed.url; a.target = '_blank'; a.rel = 'noopener';
+        a.title = ed.t + ' — ' + ed.sub + ' — ' + ed.store;
+        a.appendChild(el('span','edsub', ed.sub + ' · ' + ed.store));
+        erow.appendChild(a);
+      });
+      body.appendChild(erow);
+    }
+
     var search = el('div','watch-group');
     search.appendChild(el('b', null, 'Search'));
     buyStores(cc).forEach(function(s){ search.appendChild(storeLink(s[0], s[1], query)); });
@@ -1283,6 +1363,10 @@ function renderBuy(m, it){
 
     watchNote(body, (listings && listings.length
       ? 'Search results are not confirmed listings — most of this is long out of print.'
+      : eds.length
+      ? 'The edition above was checked by hand; the searches below it were not. ' +
+        'Nothing else is confirmed on sale in ' + countryPhrase(cc) +
+        ' — most of this is long out of print.'
       : 'Nothing confirmed on sale in ' + countryPhrase(cc) +
         '. These are searches, not confirmed listings — most of this is long out of print.'));
   }
@@ -1341,6 +1425,34 @@ function itemNode(m, it, q, entry){
   return n;
 }
 
+/* ---------- schedule spans ---------- */
+function spanDay(iso){
+  var p = iso.split('-');
+  return MONTHS[+p[1]-1] + ' ' + (+p[2]) + ', ' + p[0];
+}
+function spanOpen(s){
+  var box = el('div','span-open');
+  var top = el('div','top');
+  top.appendChild(el('b', null, s.label));
+  top.appendChild(el('span','when', spanDay(s.from) + ' → ' + spanDay(s.to)));
+  box.appendChild(top);
+  var note = el('p','note', s.note + ' ');
+  if (s.url) {
+    var a = el('a', null, s.src || 'Source');
+    a.href = s.url; a.target = '_blank'; a.rel = 'noopener';
+    note.appendChild(a);
+  }
+  box.appendChild(note);
+  return box;
+}
+function spanClose(s){
+  var box = el('div','span-close');
+  box.appendChild(el('span','line'));
+  box.appendChild(el('span', null, (s.ends || s.label + ' ends') + ' · ' + spanDay(s.to)));
+  box.appendChild(el('span','line'));
+  return box;
+}
+
 function renderTimeline(out, shown){
   SECTIONS.forEach(function(sec){
     var rows = sec.rows.map(function(e){ return [e, shown.get(e)]; })
@@ -1363,6 +1475,18 @@ function renderTimeline(out, shown){
     head.appendChild(el('span','cnt', meta.note + ' · ' + nItems + ' releases'));
     wrap.appendChild(head);
 
+    /* A span opens above the first week it covers here and closes under the
+       last, per section, so one that straddles a volume change reads on both
+       sides of it. Filtering can hide either end -- the bar follows whatever
+       is actually on screen rather than the dates it was declared with. */
+    var spanFirst = {}, spanLast = {};
+    rows.forEach(function(pair){
+      var e = pair[0];
+      if (!e._span || (e.m && !e._n)) return;   /* no week element to bracket */
+      if (!spanFirst[e._span]) spanFirst[e._span] = e;
+      spanLast[e._span] = e;
+    });
+
     rows.forEach(function(pair){
       var e = pair[0], items = pair[1];
       if (e.m) {
@@ -1374,8 +1498,12 @@ function renderTimeline(out, shown){
         wrap.appendChild(mk);
         if (!e._n) return;              /* a marker with no releases of its own */
       }
+      if (e._span && spanFirst[e._span] === e) {
+        wrap.appendChild(spanOpen(SPAN_BY[e._span]));
+      }
       var w = el('article','week');
       w.id = 'w' + e.r;
+      if (e._span) w.classList.add('in-span');
       var dcol = el('div','wdate');
       if (e.d) {
         dcol.appendChild(el('span','d', e._label));
@@ -1408,6 +1536,9 @@ function renderTimeline(out, shown){
       }
       w.appendChild(body);
       wrap.appendChild(w);
+      if (e._span && spanLast[e._span] === e) {
+        wrap.appendChild(spanClose(SPAN_BY[e._span]));
+      }
     });
     out.appendChild(wrap);
   });
