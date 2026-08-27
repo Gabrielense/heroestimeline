@@ -354,12 +354,16 @@ def main():
     # A disc extra has no art of its own, so it borrows the cover of the box it
     # came in -- named by make_additions.py as `artof`, resolved here because
     # this is where the physical releases' pictures are known.
+    # Take the box's downloaded copy, not whatever URL its record happens to be
+    # holding: a cover pinned by hand is still a remote URL at this point, and
+    # the pass below can only localise a picture filed under the extra's own
+    # name, which this is not.
     borrowed = 0
     for table in (bts, evo):
         for rec in table.values():
             box = rec.pop("artof", None)
             if box and not rec.get("img"):
-                art = (phys.get(box) or {}).get("img")
+                art = local.get("phys-" + slug(box)) or (phys.get(box) or {}).get("img")
                 if art:
                     rec["img"] = art
                     borrowed += 1
@@ -370,7 +374,7 @@ def main():
     # Where fetch_cards.py has copied a picture down, serve our own rather than
     # someone's hobby server. Only the title-keyed groups: the rest are handled
     # where they are built, keyed by code.
-    for group, table in (("evo", evo), ("site", site), ("phys", phys),
+    for group, table in (("gn", gn), ("evo", evo), ("site", site), ("phys", phys),
                          ("misc", misc), ("bts", bts)):
         for title, rec in table.items():
             if str(rec.get("img", "")).startswith("http"):

@@ -38,6 +38,17 @@
 
  "blurbs": {
   "gn": {
+   "_note": "Vengeance (#174-#178) and Godsend (#179-#183) are the only novels that were printed as single issues, so each one has a cover of its own rather than the wiki's title-card art the online run gets. Sources are retailer listings; fetch_cards.py copies them down. Godsend #3 uses the same cover as the collected edition.",
+   "174": {"img": "https://m.media-amazon.com/images/I/91CwfIoXgqL._UF1000,1000_QL80_.jpg"},
+   "175": {"img": "https://m.media-amazon.com/images/I/813wtIZ1OTL._UF1000,1000_QL80_.jpg"},
+   "176": {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5BDp72HUlFxUfIU5b_Osj74kWsWBS5yAZRFbcJHsO9o7mRspsGQJRC8&s=10"},
+   "177": {"img": "https://m.media-amazon.com/images/I/81ToD9dqDLL._UF1000,1000_QL80_.jpg"},
+   "178": {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzHtCPx9MG4xn6MVsttcBSuJSSXr_GczwwJtCalKTLThMgYOWEOhOwRcP&s=10"},
+   "179": {"img": "https://m.media-amazon.com/images/I/41I6y4zijhL._AC_UF1000,1000_QL80_.jpg"},
+   "180": {"img": "https://www.nerdly.co.uk/wp-content/uploads/2016/04/heroes-godsend-2-cover.jpg"},
+   "181": {"img": "https://i.ebayimg.com/images/g/3pgAAOSws3lc3crq/s-l400.jpg"},
+   "182": {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAenPQlwpoj-VMeYnObuqZxIzxXaP8wtQv1XFvz263czn5Jjg0ZrG2F7o&s=10"},
+   "183": {"img": "https://comichub.blob.core.windows.net/high/76bf523e-4874-4fd9-873e-2ba34e3395e8.jpg"},
    "Novel Approach: The Hiro Collection": {
     "d": "A reprint collection gathering six novels that follow Hiro Nakamura: Walls, Part 2; The Trial of the Black Bear; Past Experience; Baby Power; Stolen Fate; and The Trip, Part 1. Nothing in it was new -- it was a way back in for readers who had lost the thread.",
     "wiki": "https://web.archive.org/web/20200514171611/https://heroeswiki.com/Novel_Approach:_The_Hiro_Collection"
@@ -66,7 +77,7 @@
    }
   },
 
-  "_web_note": "NBC's own player for the webisodes went with nbc.com's old site, and archive.org holds them only as one 1.4 GB ZIP with no per-file streaming. So each part points at whichever copy a collector kept: `yt` a YouTube id, `dm` a Dailymotion one. Checked with build/yt.py -- the upload date and the running time are how you tell the real part from a re-cut. Three have no copy anyone has found: Nowhere Man, Parts 2-4 -- the one uploader who put that series back up posted only the first, and has four videos in all. Dark Matters is not here because it is a bonus feature on the Reborn set rather than something that was taken down. HUNTING.md has the searches that have already been run.",
+  "_web_note": "NBC's own player for the webisodes went with nbc.com's old site, and archive.org holds them only as one 1.4 GB ZIP with no per-file streaming. So each part points at whichever copy a collector kept: `yt` a YouTube id, `dm` a Dailymotion one. Checked with build/yt.py -- the upload date and the running time are how you tell the real part from a re-cut. All 33 are covered except Dark Matters, which is not here because it is a bonus feature on the Reborn set rather than something that was taken down. Everything in this column is in the archive's webisode ZIP as well; these ids are only so a part can be watched without downloading 1.4 GB first.",
   "web": {
    "01": {"yt": "4jNyOFLW8M0"},
    "02": {"yt": "2B-Bz1hgwR0"},
@@ -84,8 +95,10 @@
    "14": {"yt": "0aLIBfMZkL8"},
    "15": {"yt": "YmPgcKdv4ZI"},
    "16": {"yt": "xmyJU14c_Co"},
-   "17": {"dm": "x91x4u",
-          "vn": "Posted by heroes-spain in April 2009, and the only part of Nowhere Man anyone has put back up. Parts 2 to 4 are in the archive's webisode collection."},
+   "17": {"dm": "x91x4u"},
+   "18": {"vk": "-24928385_160292003"},
+   "19": {"vk": "-24928385_160292001"},
+   "20": {"vk": "-24928385_160291999"},
    "21": {"yt": "UiHEuu699aI"},
    "22": {"yt": "pDmU32J3iNM"},
    "23": {"yt": "2XezD-TEhPU"},
@@ -220,6 +233,40 @@
   "istory": {},
 
   "phys": {
+   "_note2": "The eleven below are the releases the wiki has no picture of at all, found by hand. They are retailer and search-cache URLs, which rot and often refuse hot-linking -- which is fine here only because fetch_cards.py copies every one of them down and the site serves its own. If any of these ever has to be re-fetched, expect the URL to be dead and go looking again rather than trusting it.",
+   "Heroes: Season One Collector's Edition (DVD)": {
+    "img": "https://i.ebayimg.com/images/g/a7AAAOSwDmlgtQBn/s-l225.jpg"
+   },
+   "Heroes: The Complete Series (DVD/Blu-ray)": {
+    "img": "https://i5.walmartimages.com/seo/Heroes-The-Complete-Collection-Blu-ray_c5cc29a3-fc84-4377-a01f-2239ad670ee7.3b2b7f2691d8f9751b3e4048602e0fce.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+   },
+   "Season 1 Blu-ray": {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1omyNwGteMzoD-r1ub9ZVoFq2hEbfueMEyEaXbuG7hntxjH3iS-03pFf&s=10"
+   },
+   "Heroes Revealed book": {
+    "img": "https://m.media-amazon.com/images/I/51SeGX8in2L._AC_UF1000,1000_QL80_.jpg"
+   },
+   "Heroes: Original Score from the Television Series": {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13QJynPp6POx7mGfJIgc1JPRRNf_XRpBlfW4pNBkpEJKky1TvnQUICDI&s=10"
+   },
+   "Heroes, Volume 1 (Issues #001-#034)": {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHDHRxOpSYktVoM_bp8w1WWoq7QoY91MRgSPIf4U_0Q&s=10"
+   },
+   "Heroes, Volume 2 (Issues #035-#080)": {
+    "img": "https://m.media-amazon.com/images/I/715JmT2+ygL._AC_UF1000,1000_QL80_.jpg"
+   },
+   "Heroes: Omnibus (issues #001-085)": {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRE4t6vKRPi82vtPqd0Xv7nGMfEiApQMAo-XpYN57F2w&s=10"
+   },
+   "Heroes Vol. 1: Vengeance Vol.1 (issues #174-#178)": {
+    "img": "https://m.media-amazon.com/images/I/71A1poVWImL._AC_UF1000,1000_QL80_.jpg"
+   },
+   "Heroes Reborn: Collection One (Paperback collection eBooks 1-3)": {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTLx8SiCbNFB6L7U8co2WW7Sp9zMT5mO9TshUHgd0Ue-0RMf0nTdmYgf7&s=10"
+   },
+   "Heroes Reborn: Collection Two (Paperback collection eBooks 4-6)": {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOX-W4aMxllX6s4-qkwqQ8uAiy6RrmFtMqsdv9PYu1Cua7YwK4FHrHnw&s=10"
+   },
    "_note": "Seasons two and three were wearing the season one box. phys_cards.py asks the wiki for \"Heroes: The Complete Second Season\", which is not a page -- the page is \"… (DVD)\" -- and search answers with season one for all of them. Aliases are in phys_cards.py now; these two are here so the fix survives whether or not that is re-run.",
    "Heroes: The Complete Second Season (DVD/Blu-ray)": {
     "img": "https://heroeswiki.ddns.net/images/6/67/2nd_Season_DVD.png",

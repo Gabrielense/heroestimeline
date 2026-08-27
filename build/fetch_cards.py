@@ -114,7 +114,7 @@ def wanted():
     hand = os.path.join(DATA, "hand_extras.json")
     if os.path.exists(hand):
         blob = json.load(open(hand, encoding="utf-8"))
-        for group in ("evo", "site", "phys", "misc", "bts"):
+        for group in ("gn", "evo", "site", "phys", "misc", "bts"):
             for k, v in (blob.get(group) or {}).items():
                 if str(v.get("img", "")).startswith("http"):
                     out.append(("%s-%s" % (group, slug(k)), v["img"]))
@@ -126,7 +126,14 @@ def wanted():
         for rule in (json.load(open(manual, encoding="utf-8")).get("series") or []):
             if rule.get("card") and str(rule.get("img", "")).startswith("http"):
                 out.append((rule["card"], rule["img"]))
-    return out
+    # One card can be claimed twice -- a collector found a picture and the hand
+    # layer then overrode it with a better one. The hand layer is added last and
+    # wins here, the same way it wins in extras.py, so the file on disk is never
+    # left depending on which of the two happened to be written second.
+    by_name = {}
+    for name, url in out:
+        by_name[name] = url
+    return list(by_name.items())
 
 
 def ext_of(url):

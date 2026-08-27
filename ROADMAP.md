@@ -84,26 +84,30 @@ Still open from this pass:
 
 Still open:
 
-- [ ] *Nowhere Man*, Parts 2–4 are the last webisodes with no copy anywhere —
-      the one uploader who put the series back up posted only the first. They
-      still point at the archive's 1.4 GB webisode ZIP like the rest
+- [x] *Nowhere Man*, Parts 2–4 turned up on VK and play in the panel, so 33 of
+      the 39 webisodes now do. Only *Dark Matters* is left, and that is a bonus
+      feature on the Reborn set rather than something lost. The `vk` field takes
+      the id the way VK writes it, `-24928385_160292003`
 - [x] **All twelve magazine covers, and a blurb for each** (`build/magazine.py`).
       They were all showing one shared picture that was not even issue one's
       cover: the per-issue wiki pages are redirects to a single article whose
       infobox is a cast panel, and the real covers are files no article links.
       The *Heroes Reborn* magazine gets its cover and contents too
-- [ ] No cover art at all for: the Collector's Edition, *The Complete Series*,
-      the Season 1 Blu-ray, *Heroes Revealed*, the *Original Score*, the three
-      collected-edition volumes, the Omnibus, *Vengeance*, and both *Heroes
-      Reborn* paperback collections (`phys_cards.json`'s `missing`)
+- [x] Cover art for the eleven the wiki has none of — the Collector's Edition,
+      *The Complete Series*, the Season 1 Blu-ray, *Heroes Revealed*, the
+      *Original Score*, both collected volumes, the Omnibus, *Vengeance* Vol. 1
+      and the two *Heroes Reborn* paperbacks. `HR1x01` is all that is left in
+      `phys_cards.json`'s `missing`
+- [x] *Vengeance* #174–#178 and *Godsend* #179–#183 wear their own issue covers
+      rather than the wiki's title-card art: they are the only novels that were
+      printed as single issues
 - [x] **All 26 radio-show editions carry their BBC broadcast date**, off
       bbc.co.uk/programmes rather than the wiki (`build/radio.py`), each linking
       its own BBC page. The wiki's "Saturday at 7.30pm" was wrong too: the BBC's
       own records say 6.30pm for series one and 6pm for series two
-- [ ] Series 2, Episode 5 is the one date to check by hand. The BBC gives it as
-      11 May 2008, which falls between episodes 3 and 4 and is the only one of
-      the 26 with no time on its record — every other edition is a clean weekly
-      Saturday, so 24 May looks likelier. Left as the BBC has it
+- [x] Series 2, Episode 5 stays as the BBC has it — 11 May 2008, out of sequence
+      and the only one of the 26 with no time on its record. Decided; do not
+      re-raise
 - [ ] **Hunt for surviving video** — see `HUNTING.md`
 
 ## 0. Cleanup and corrections
