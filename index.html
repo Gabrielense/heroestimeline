@@ -61,14 +61,6 @@ h1 .sub{display:block;font-size:.42em;font-weight:600;letter-spacing:.24em;
   padding-top:14px;border-top:1px solid var(--border)}
 .dedication strong{color:var(--text-2);font-weight:600}
 
-.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:30px auto 0;max-width:900px}
-.stat{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:13px 10px 14px;
-  border-top:2px solid var(--c)}
-.stat .si{width:22px;height:22px;display:block;margin:0 auto 8px;color:var(--c);stroke-width:1.5}
-.stat b{display:block;font-size:1.55rem;font-weight:800;letter-spacing:-.03em;line-height:1.1}
-.stat > span{display:block;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-3);margin-top:5px}
-.stat .lc{text-transform:none}   /* keeps the small i in iStory */
-
 /* ---------- activity rail ---------- */
 .rail-wrap{margin:34px 0 6px}
 .railbox{background:var(--surface);border:1px solid var(--border);border-radius:10px;
@@ -76,8 +68,13 @@ h1 .sub{display:block;font-size:.42em;font-weight:600;letter-spacing:.24em;
 
 /* the volumes as proportional segments sitting over the weeks they cover */
 .eras{display:flex;margin-bottom:9px}
+/* laid out as a column rather than left to the button: a <button> centres its
+   own content box vertically once it is stretched taller than that content, and
+   it does not do it to all of them equally -- which dropped the Heroes Reborn
+   rule 7px below the five it sits beside */
 .eras .era{flex:var(--f) 1 0;min-width:0;border:0;padding:0;background:transparent;
-  text-align:left;cursor:pointer}
+  text-align:left;cursor:pointer;
+  display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start}
 .eras .en{display:block;font:600 .73rem var(--sans);color:var(--text-2);padding-right:5px;
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .eras .el{display:block;height:3px;border-radius:2px;background:var(--ec);
@@ -385,7 +382,6 @@ footer .made p{margin-bottom:12px}
 
 @media (max-width:860px){
   .rail-wrap{display:none}
-  .stats{grid-template-columns:repeat(2,1fr)}
   .week{grid-template-columns:1fr;gap:9px}
   .wdate{flex-direction:row;align-items:baseline;gap:8px}
   .wdate .rail-dot{display:none}
@@ -423,15 +419,14 @@ footer .made p{margin-bottom:12px}
     </svg>
     <h1>Heroes<span class="sub">A Complete Multimedia Timeline</span></h1>
     <p class="lede">
-      NBC's <em>Heroes</em> told its story across seven media at once, laid out
-      here in the week each release landed — from the 2006 pilot to the
+      NBC's <em>Heroes</em> told its story across many media at once, laid out
+      here in the week each release landed — from the 2006 pilot to the 2024
       announcement of <em>Heroes: Eclipsed</em>, a revival that, as of today,
       may never happen.
     </p>
     <p class="dedication">
       In memory of <strong>Hayden Panettiere</strong>, 1989–2026.
     </p>
-    <div class="stats" id="stats"></div>
   </header>
 
   <div class="rail-wrap">
@@ -493,6 +488,7 @@ footer .made p{margin-bottom:12px}
               the real date.</li>
           <li>Click anything with a dot for a blurb, a picture, where it survives,
               and where to watch or buy it.</li>
+          <li id="tally"></li>
         </ul>
       </div>
       <div class="made">
@@ -506,9 +502,8 @@ footer .made p{margin-bottom:12px}
       <a href="https://web.archive.org/web/20200514144559/http://heroeswiki.com/Portal:Portals" target="_blank" rel="noopener">Heroes Wiki</a>
       and <a href="https://en.wikipedia.org/wiki/List_of_Heroes_graphic_novels" target="_blank" rel="noopener">Wikipedia</a> (CC&nbsp;BY-SA);
       video and site snapshots from the <a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a>.
-      Built from <a href="https://docs.google.com/spreadsheets/d/1Ci6zyz2nhjgrCurrhSDrD_jvtfXBLq_l9CWLpKDe3NE/edit" target="_blank" rel="noopener">this spreadsheet</a>,
-      and checked against <a href="https://web.archive.org/web/20200514170613/https://heroeswiki.com/User:Iheartheroes/Release_dates" target="_blank" rel="noopener">User:Iheartheroes' release dates</a>,
-      the most careful timeline the wiki ever had.
+      Thanks to <a href="https://web.archive.org/web/20200514170613/https://heroeswiki.com/User:Iheartheroes/Release_dates" target="_blank" rel="noopener">User:Iheartheroes</a>
+      for their careful timeline on Heroes Wiki.
     </p>
     <p class="note">Heroes is a trademark of NBCUniversal. This is an unofficial, non-commercial fan reference.</p>
   </footer>
@@ -736,28 +731,26 @@ function visibleItems(e){
   return null;
 }
 
-/* ---------- header stats ---------- */
-function renderStats(){
-  var box = document.getElementById('stats'), M = {};
-  MEDIA.forEach(function(m){ M[m.k] = m; });
-  [[M.ep,   COUNTS.ep,       'episodes'],
-   [M.gn,   COUNTS.gn,       'graphic novels'],
-   [M.web,  COUNTS.web,      'webisodes'],
-   [M.evo,  ISTORY_CHAPTERS, ['i','Story chapters']],
-   [M.evo,  EVO_OTHER,       'Evolutions content'],
-   [M.bts,  COUNTS.bts,      'behind the scenes'],
-   [M.phys, COUNTS.phys,     'physical releases'],
-   [M.misc, COUNTS.misc,     'misc. releases']].forEach(function(s){
-    var d = el('div','stat');
-    d.style.setProperty('--c', s[0].color);
-    d.appendChild(svg(s[0].icon, 'si'));
-    d.appendChild(el('b', null, String(s[1])));
-    var lab = el('span');
-    if (typeof s[2] === 'string') lab.textContent = s[2];
-    else { lab.appendChild(el('span','lc', s[2][0])); lab.appendChild(document.createTextNode(s[2][1])); }
-    d.appendChild(lab);
-    box.appendChild(d);
-  });
+/* ---------- what is in here ---------- */
+/* One line in the footer rather than eight cards above the timeline: the same
+   numbers, counted from the data so they cannot go stale, but out of the way of
+   the thing people came for. */
+function renderTally(){
+  var box = document.getElementById('tally');
+  if (!box) return;
+  var parts = [
+    COUNTS.ep   + ' episodes',
+    COUNTS.gn   + ' graphic novels',
+    COUNTS.web  + ' webisodes',
+    ISTORY_CHAPTERS + ' iStory chapters and ' + EVO_OTHER + ' other Evolutions pieces',
+    COUNTS.bts  + ' behind the scenes',
+    COUNTS.phys + ' physical releases',
+    COUNTS.misc + ' from the real world'
+  ];
+  box.appendChild(el('strong', null,
+    TOTAL_ITEMS + ' releases across ' + ENTRIES.length + ' weeks'));
+  box.appendChild(document.createTextNode(
+    ': ' + parts.slice(0, -1).join(', ') + ' and ' + parts[parts.length - 1] + '.'));
 }
 
 /* ---------- activity rail ---------- */
@@ -2061,7 +2054,7 @@ function syncToolbarHeight(){
 }
 window.addEventListener('resize', syncToolbarHeight);
 
-renderStats();
+renderTally();
 renderEras();
 renderRail();
 renderChips();
