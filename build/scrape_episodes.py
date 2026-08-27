@@ -14,6 +14,14 @@ served over https, while the graphic novel pages use http. Both are accepted.
 """
 import json, os, re, sys, time, urllib.parse, urllib.request, urllib.error
 
+# Python block-buffers stdout when it is redirected, so a long scrape looks
+# frozen for its first several thousand characters of output. Line-buffer it,
+# otherwise there is no way to tell a working run from a stuck one.
+try:
+    sys.stdout.reconfigure(line_buffering=True)
+except AttributeError:
+    pass
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 CACHE = os.path.join(DATA, "wikicache")
@@ -25,6 +33,16 @@ MAX = 400
 
 IMG = re.compile(r'"(/web/\d+im_/https?://heroeswiki\.com/images/(?:thumb/)?[^"]+?'
                  r'\.(?:jpg|JPG|jpeg|png|PNG))"')
+
+# Episodes whose wiki page is not simply "Episode:<sheet title>". Two shows
+# share the title "Brave New World", so the bare page is a disambiguation stub
+# that yields an empty blurb rather than an error -- worth spelling out, since
+# a page that loads but says nothing is easy to miss.
+PAGE_ALIAS = {
+    "4x19":   "Episode:Brave_New_World_(Heroes)",
+    "HR1x01": "Episode:Brave_New_World_(Heroes_Reborn)",
+    "4x16":   "Episode:Pass/Fail",       # the sheet spaces the slash
+}
 
 
 def get(url, tries=4):
@@ -101,8 +119,8 @@ def main():
 
     found, missing = dict(prev), []
     for n, (code, title) in enumerate(todo, 1):
-        page = "Episode:" + urllib.parse.quote(title.replace(" ", "_"), safe="_,:!?'()&.")
-        url = BASE + page
+        page = PAGE_ALIAS.get(code) or ("Episode:" + title.replace(" ", "_"))
+        url = BASE + urllib.parse.quote(page, safe="_,:!?'()&./")
         h = get(url)
         if not h or "There is currently no text in this page" in h:
             missing.append([code, title])

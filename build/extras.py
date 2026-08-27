@@ -35,6 +35,10 @@ def main():
     istory = load("istory.json")
     eps = load("ep_synopses.json")
     epimgs = load("ep_wiki.json").get("found", {})
+    # Cards we hold locally. Hot-linking the Wayback Machine failed ~half of all
+    # image requests and took 10-20s when it answered, so a downloaded copy wins
+    # whenever we have one; the archive URL stays as the fallback.
+    local = load("cards.json")
 
     gn = {}
     for num, rec in syn.items():
@@ -47,19 +51,29 @@ def main():
         for src, dst in (("card", "img"), ("cover", "cover"), ("page", "wiki")):
             if img.get(src):
                 e[dst] = img[src]
+        if local.get("gn-" + num):
+            e["img"] = local["gn-" + num]
         if e:
             gn[num] = e
 
     ep = {}
-    for code, rec in eps.items():
-        e = {}
-        if rec.get("d"):
-            e["d"] = rec["d"]
+    # The wiki's logline names every thread in the episode; Wikipedia's article
+    # is a long plot recap, and trimming one to a line yields only its opening
+    # beat. So the logline wins, and Wikipedia fills the gaps.
+    for code in sorted(set(eps) | set(epimgs)):
+        rec = eps.get(code) or {}
         img = epimgs.get(code) or {}
+        e = {}
+        if img.get("d"):
+            e["d"] = img["d"]
+        elif rec.get("d"):
+            e["d"] = rec["d"]
         if img.get("card"):
             e["img"] = img["card"]
         if img.get("page"):
             e["wiki"] = img["page"]
+        if local.get("ep-" + code):
+            e["img"] = local["ep-" + code]
         if e:
             ep[code] = e
 
