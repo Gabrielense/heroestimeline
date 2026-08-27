@@ -1,0 +1,24 @@
+{
+ "_note": "Blurbs written by hand, for things no collector can reach. Merged last by build/extras.py, so anything here wins over a scraped value. Keyed the way the page looks each group up: gn and ep by code, evo and site by exact title.",
+ "gn": {
+  "167b": {
+   "d": "A reprint collection gathering six novels that follow Hiro Nakamura: Walls, Part 2; The Trial of the Black Bear; Past Experience; Baby Power; Stolen Fate; and The Trip, Part 1. Nothing in it was new -- it was a way back in for readers who had lost the thread.",
+   "wiki": "https://web.archive.org/web/20200514171611/https://heroeswiki.com/Novel_Approach:_The_Hiro_Collection"
+  }
+ },
+ "ep": {
+  "1x00": {
+   "sub": "In His Own Image",
+   "d": "The cut NBC never aired: longer than the broadcast premiere, differently assembled, and the only episode of the series that was never sold anywhere. It opens on Peter Petrelli standing at the edge of a New York rooftop, falling forward -- and waking in an apartment as Simone Deveaux comes in.",
+   "wiki": "https://heroeswiki.ddns.net/wiki/Episode:Unaired_pilot"
+  }
+ },
+ "evo": {
+  "Making of the Damen Peak Video, Part 1": {
+   "d": "A two-part behind-the-scenes piece on the Damen Peak shorts, posted during the Heroes Reborn campaign and lost when the channel carrying it went down."
+  },
+  "Making of the Damen Peak Video, Part 2": {
+   "d": "The second half of the Damen Peak making-of. Like the first, no copy is known to survive."
+  }
+ }
+}

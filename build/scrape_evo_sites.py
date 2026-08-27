@@ -189,9 +189,13 @@ ALIASES = {
     "Bridget's messages":                    "Bridget Bailey's messages",
     "Pinehearst & Primatech SMS and emails": "Pinehearst and Primatech messages",
     "Evs Dropper's blog":                    "Evs Dropper's blog",
-    "Claire's MySpace":                      "Claire Bennet's MySpace",
-    "Zach's MySpace":                        "Zach's MySpace",
+    # The wiki files all three MySpace pages on one article rather than each
+    # under its owner's name.
+    "Claire's MySpace":                      "Myspace",
+    "Zach's MySpace":                        "Myspace",
+    "Hana's MySpace":                        "Myspace",
     "Hiro's Blog":                           "Hiro's blog",
+    "9thwonders.com: Cogitoergosum Blog":    "Cogitoergosum",
 }
 
 

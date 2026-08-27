@@ -212,12 +212,35 @@ recorded, it stays in the entry text. The site preserves that as-is.
 
 ```
 index.html               the site (data inlined)
+ROADMAP.md               what is done and what is left
 api/watch.js             where-to-watch proxy (JustWatch, keyless)
-build/sync.py            re-reads the sheet and rewrites the data block
-build/link_archive.py    regenerates the Heroes Unmasked -> archive.org map
-build/watch_snapshot.py  refreshes the offline where-to-watch fallback
-build/buy_blurbs.py      refreshes the where-to-buy blurbs (Wikipedia)
+assets/cards/            every title card and cover, held locally
+
+build/sync.py            re-reads the sheet and rewrites the timeline block
+build/extras.py          merges every collector into the extras block
+build/season4.py         the two-hour-premiere correction, shared by three scripts
+build/naming.py          one slug() for card filenames, shared by two
 build/sheet.xlsx         last downloaded copy of the sheet
+
+  collectors -- each writes one file under build/data/ and nothing else
+build/scrape_episodes.py    episode blurbs and cards
+build/ep_synopses.py        episode loglines
+build/gn_synopses.py        graphic novel blurbs
+build/gn_links.py           the novels Wikipedia's list missed (--audit to list them)
+build/gn_subtitles.py       the second half of a novel's name, where it is recorded
+build/scrape_webisodes.py   webisode blurbs, cards and subtitles
+build/scrape_evo_sites.py   sites, Evolutions and iStory (--probe <name> to look)
+build/herotruther.py        the five lost HeroTruther videos
+build/phys_cards.py         cover art for the physical releases
+build/arg_schedule.py       which weeks a lumped ARG entry really ran across
+build/fetch_cards.py        downloads every card found, so nothing is hot-linked
+build/link_archive.py       regenerates the Heroes Unmasked -> archive.org map
+build/watch_snapshot.py     refreshes the offline where-to-watch fallback
+build/buy_blurbs.py         refreshes the where-to-buy blurbs (Wikipedia)
+
+  hand-written, merged last so they win
+build/data/hand_extras.json blurbs no collector can reach
+build/data/additions.json   releases the sheet has no row for
 ```
 
 Heroes is a trademark of NBCUniversal. This is an unofficial fan reference.

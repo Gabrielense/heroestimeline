@@ -63,6 +63,15 @@ def wanted():
         for k, v in json.load(open(web, encoding="utf-8")).get("found", {}).items():
             if v.get("img"):
                 out.append(("web-%s" % k, v["img"]))
+    art = os.path.join(DATA, "phys_cards.json")
+    if os.path.exists(art):
+        blob = json.load(open(art, encoding="utf-8"))
+        for k, v in (blob.get("phys") or {}).items():
+            if v.get("img"):
+                out.append(("phys-%s" % slug(k), v["img"]))
+        for k, v in (blob.get("reborn_eps") or {}).items():
+            if v.get("img"):
+                out.append(("ep-%s" % k, v["img"]))
     evo = os.path.join(DATA, "evo_site_wiki.json")
     if os.path.exists(evo):
         blob = json.load(open(evo, encoding="utf-8"))

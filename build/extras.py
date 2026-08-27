@@ -24,6 +24,24 @@ DATA = os.path.join(HERE, "data")
 HTML = os.path.join(HERE, os.pardir, "index.html")
 
 
+def tidy(text):
+    """Close the gaps that dropping a tag leaves behind.
+
+    A blurb assembled from wiki HTML ends up with a space wherever a link sat,
+    which lands in front of the punctuation that followed it: "Claire 's",
+    "video .", "\" Where Are The Heroes?". Cheaper to repair here, once, than to
+    re-crawl every collector when one of them gets it wrong.
+    """
+    if not text:
+        return text
+    text = re.sub(r"\s+([.,;:!?%)])", r"\1", text)
+    text = re.sub(r"\s+('s|'re|'ve|'ll|'d|n't)\b", r"\1", text)
+    text = re.sub(r"([(“])\s+", r"\1", text)
+    text = re.sub(r'(^|\s)"\s+', r'\1"', text)
+    text = re.sub(r'\s+"(\s|$|[.,])', r'"\1', text)
+    return re.sub(r"\s{2,}", " ", text).strip()
+
+
 def load(name):
     p = os.path.join(DATA, name)
     if not os.path.exists(p):
@@ -161,6 +179,46 @@ def main():
         if e:
             istory[title] = e
 
+    # Cover art for the boxes, books, magazines and soundtracks, and stills for
+    # the Reborn episodes that never got a title card.
+    art = load("phys_cards.json")
+    phys = {}
+    for title, rec in (art.get("phys") or {}).items():
+        e = {"img": local.get("phys-" + slug(title)) or rec["img"]}
+        if rec.get("src"):
+            e["wiki"] = rec["src"]
+        phys[title] = e
+    for code, rec in (art.get("reborn_eps") or {}).items():
+        e = ep.setdefault(code, {})
+        if not e.get("img"):
+            e["img"] = local.get("ep-" + code) or rec["img"]
+        if rec.get("src") and not e.get("wiki"):
+            e["wiki"] = rec["src"]
+
+    # The HeroTruther videos exist only as the wiki's account of them, so that
+    # account is the blurb. The channel itself is gone; herotruther.json holds a
+    # capture of the real one from the campaign, which is what the entries link.
+    ht = load("herotruther.json")
+    for video in ht.get("videos", []):
+        title = "HeroTruther: " + video["t"]
+        e = {}
+        if video.get("b"):
+            e["d"] = video["b"]
+        if ht.get("channel_archive"):
+            e["site"] = ht["channel_archive"]
+            e["note"] = ht.get("channel_note")
+        if video.get("wiki") or ht.get("wiki"):
+            e["wiki"] = video.get("wiki") or ht["wiki"]
+        if e:
+            evo[title] = e
+
+    # Written by hand, for what no collector can reach. Merged last, so it wins.
+    hand = load("hand_extras.json")
+    for group, target in (("gn", gn), ("ep", ep), ("web", web), ("evo", evo),
+                          ("site", site), ("istory", istory), ("phys", phys)):
+        for key, rec in (hand.get(group) or {}).items():
+            target.setdefault(key, {}).update(rec)
+
     # The wiki serves whatever thumbnail width the page happened to ask for;
     # an 80px logo is a favicon, not a card. Ask for a card-sized one.
     shared = evo_site.get("istory_img")
@@ -168,8 +226,16 @@ def main():
         shared = re.sub(r"/\d+px-", "/250px-", shared)
 
     out = {"gn": gn, "ep": ep, "web": web, "site": site, "istory": istory,
-           "evo": evo, "as_sites": evo_site.get("as_sites") or [],
+           "evo": evo, "phys": phys,
+           "as_sites": evo_site.get("as_sites") or [],
            "istory_img": local.get("istory") or shared}
+
+    # one pass over every blurb, whichever collector wrote it
+    for group in ("gn", "ep", "web", "site", "istory", "evo", "phys"):
+        for rec in out[group].values():
+            for field in ("d", "by", "note"):
+                if rec.get(field):
+                    rec[field] = tidy(rec[field])
     blob = json.dumps(out, ensure_ascii=False, separators=(",", ":"))
 
     html = open(HTML, encoding="utf-8").read()
@@ -193,6 +259,7 @@ def main():
     print("sites    %3d linked, %3d with a picture" % (len(site),
           sum(1 for v in site.values() if "img" in v)))
     print("evo      %3d artefacts" % len(evo))
+    print("physical %3d with cover art" % len(phys))
     print("istory   %3d chapters" % len(istory))
     print("wrote %.1f KB into index.html" % (len(blob) / 1024))
 

@@ -49,7 +49,15 @@ def strip(s):
     for a, b in (("&nbsp;", " "), ("&amp;", "&"), ("&quot;", '"'),
                  ("&#039;", "'"), ("&lt;", "<"), ("&gt;", ">")):
         s = s.replace(a, b)
-    return re.sub(r"\s+", " ", s).strip()
+    s = re.sub(r"\s+", " ", s)
+    # Dropping the tags leaves a space wherever a link sat, which lands in front
+    # of the punctuation that followed it and inside every quoted phrase.
+    s = re.sub(r"\s+([.,;:!?])", r"\1", s)
+    s = re.sub(r'(^|\s)"\s+', r'\1"', s)      # space after an opening quote
+    s = re.sub(r'\s+"(\s|$|[.,])', r'"\1', s)  # space before a closing one
+    s = re.sub(r"\(\s+", "(", s)
+    s = re.sub(r"\s+\)", ")", s)
+    return s.strip()
 
 
 def iso(text):

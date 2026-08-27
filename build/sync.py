@@ -158,6 +158,10 @@ TITLE_FIXES = {
     # misc
     ("misc", "Heroes Reborn teaser at 2014 Winter Olympics Comercials"):
              "Heroes Reborn teaser in 2014 Winter Olympics commercials",
+    # Named for the site it ran on and for the files themselves, since it is
+    # remembered under both and searched for under both.
+    ("evo", "Global News Interactive's Richard Drucker reports (The Drucker Files)"):
+            "Global News Interactive / The Drucker Files",
 }
 
 # keyed by (row, column, exact text) -> corrected text, for cases where the same
@@ -175,6 +179,52 @@ ROW_FIXES = {
 DATE_LABELS = {
     "BEFORE PREMIERE": "Pre-pilot",
 }
+
+# --- additions ---------------------------------------------------------------
+# Releases the sheet has no row for. Each one names the week it belongs to and
+# the column it goes in; a week that does not exist yet is created and takes its
+# era from the week before it. Loaded from build/data/additions.json so a run of
+# a collector can add to them without anyone editing this file.
+#
+# The shape of one addition:
+#   {"d": "2010-03-10", "k": "gn", "c": "167b", "t": "Novel Approach: ...",
+#    "l": "https://..."}
+
+
+def load_additions():
+    path = os.path.join(HERE, "data", "additions.json")
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def apply_additions(entries, additions):
+    """Fold hand-written and collected extras into the weeks they belong to."""
+    by_date = {e["d"]: e for e in entries if e.get("d")}
+    added = 0
+    for item in additions:
+        date, key = item.get("d"), item.get("k")
+        if not date or not key:
+            continue
+        row = dict(item)
+        row.pop("d", None)
+        row.pop("k", None)
+        entry = by_date.get(date)
+        if entry is None:
+            # A week of its own, slotted in by hand rather than by sorting: the
+            # undated rows -- Pre-pilot, CANCELLATION, HEROES REBORN -- carry no
+            # date to sort on and would be flung to the top of the page.
+            at, era = len(entries), "gap"
+            for i, e in enumerate(entries):
+                if e.get("d") and e["d"] < date:
+                    at, era = i + 1, e["e"]
+            entry = {"r": 1000 + added, "e": era, "d": date, "c": {}}
+            entries.insert(at, entry)
+            by_date[date] = entry
+        entry.setdefault("c", {}).setdefault(key, []).append(row)
+        added += 1
+    return added
 
 CODE_RE = re.compile(
     r"^(#?(?:HR)?\d+x\d+|#\d+(?:-#?\d+)?|Cap\.\s*\d+(?:/\d+)?|\d+x\d+)\s*[:–-]\s*(.+)$")
@@ -286,6 +336,11 @@ def build(path):
 
     print("season four: renumbered %d codes around the two-hour premiere"
           % season4.merge_entries(entries))
+
+    extra = load_additions()
+    if extra:
+        print("additions: folded in %d releases the sheet has no row for"
+              % apply_additions(entries, extra))
 
     return {"colLinks": col_links, "entries": entries}
 
