@@ -2,6 +2,33 @@
 
 Working list for the next pass. Ticked items are done and pushed.
 
+## 0c. The two that were only ever announced (Aug 2026)
+
+- [x] **Blurbs for the three announcement rows that had none**: *Heroes:
+      Origins* announced and cancelled, and *Heroes: Eclipsed* announced. Each
+      carries the report it came from as its source — Variety's upfront wrap,
+      John August's own post the day the plug was pulled, Deadline's break —
+      and the Origins pair point at the Heroes Wiki page as well. The Misc.
+      column is now 42 of 44
+- [x] Both Origins rows say what the row cannot: the sheet's week is 29 Oct
+      2007, the shelving was the 31st, five days before the strike
+- [x] **Vercel Web Analytics**, the plain-HTML install: the queue shim and
+      `<script defer src="/_vercel/insights/script.js">` before `</body>`. No
+      package and no build step, which is the point — the platform serves the
+      script once Web Analytics is enabled on the project, and it 404s
+      harmlessly anywhere else
+- [x] **A link preview worth pasting**: `assets/preview.jpg` is a photograph of
+      the top of the page — lede, rail, and the first week of the timeline —
+      taken by `build/og_card.py` rather than drawn to look like one, plus the
+      absolute `og:image`, `og:url` and `twitter:card` tags WhatsApp and Reddit
+      need. A poster was tried first and thrown away: it was a picture of
+      numbers, and the page is better looking than any card about it
+
+Still open from this pass:
+
+- [ ] The *"two-hour Heroes event/movie"* pair, announced May 2010 and
+      cancelled, are the last two Misc. rows with no blurb
+
 ## 0b. The Misc. split (Aug 2026)
 
 - [x] The sixth column is **Behind the scenes**, not *Heroes Unmasked*, and the

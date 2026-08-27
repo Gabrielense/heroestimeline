@@ -5,3 +5,7 @@ build/data/wikicache/
 
 # Python bytecode from the build scripts.
 __pycache__/
+
+# The pathspec build/commit_plan.py writes for the next commit. Rewritten every
+# run, and only ever read by the git command on the line under it.
+build/data/commit_paths.txt

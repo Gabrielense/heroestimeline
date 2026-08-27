@@ -1,7 +1,7 @@
 # Heroes: A Complete Multimedia Timeline
 
 An interactive version of [the source spreadsheet](https://docs.google.com/spreadsheets/d/1Ci6zyz2nhjgrCurrhSDrD_jvtfXBLq_l9CWLpKDe3NE/edit) —
-620 releases across 221 weeks and 7 parallel media, from the 2006 pilot to the
+621 releases across 223 weeks and 7 parallel media, from the 2006 pilot to the
 announcement of *Heroes: Eclipsed*.
 
 `index.html` is the whole site: no build step, no dependencies, no bundler. Open
@@ -171,6 +171,61 @@ series, *Reborn*, the score, the graphic novels, *Saving Charlie*); the
 magazines and *Heroes Revealed* have no Wikipedia page, so they get search links
 and no blurb rather than an invented one.
 
+## Analytics
+
+Vercel Web Analytics, in the form a single hand-edited HTML file can take: no
+`@vercel/analytics` package, no `npm i`, no build step. The last thing in
+`index.html` before `</body>` is the queue shim and one script tag:
+
+```html
+<script>
+  window.va = window.va || function(){ (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+```
+
+The script itself is served by the platform, not by this repo, and only after
+**Web Analytics is switched on for the project** in the Vercel dashboard
+(Analytics in the sidebar, then Enable) — enabling it is what adds the
+`/_vercel/insights/*` routes on the next deploy. Until then, and anywhere that
+is not this Vercel project — the file opened off disk, a local `http.server`,
+any other host — the tag 404s and nothing else happens.
+
+It counts visitors and page views only. No cookies, no cross-site identifiers,
+and nothing here reads or sends anything about the reader. The dashboard also
+offers a per-project obfuscated path in place of `/_vercel/insights/`, which
+some content blockers miss; swapping the `src` for it is the whole change if the
+numbers ever look too low to believe.
+
+## Link previews
+
+Paste the link into Reddit, WhatsApp, Discord, Slack or a group chat and the
+card they draw is `assets/preview.jpg` — a photograph of the top of this page,
+lede and first week of the timeline included, rather than a poster made to look
+like one. Chrome renders `index.html` off a throwaway local server at 1800×945
+and twice the pixel density, and the shot comes down to the 1200×630 every
+scraper agrees on — the wider viewport is what gets a whole week of the timeline
+into frame under the lede:
+
+```bash
+py build/og_card.py
+```
+
+Two things it is worth knowing:
+
+- **`og:image` has to be absolute**, so the tag names
+  `https://heroestimeline.vercel.app/assets/preview.jpg` and the file has to be
+  committed. A relative path works in some scrapers and silently fails in
+  WhatsApp.
+- **Scrapers cache by URL.** Replacing the picture does not change any link
+  already shared, and a fresh paste can still show the old one for days.
+  Re-scrape it deliberately — Facebook's sharing debugger for WhatsApp, one
+  paste into an empty Discord channel for Discord — or the stale card follows
+  the link around.
+
+Under 300 KB is the practical ceiling; WhatsApp declines to fetch much more.
+The current shot is about 60 KB.
+
 ## Refreshing the data
 
 The sheet's contents live in one `<script type="application/json"
@@ -290,6 +345,7 @@ index.html               the site (data inlined)
 ROADMAP.md               what is done and what is left
 api/watch.js             where-to-watch proxy (JustWatch, keyless)
 assets/cards/            every title card and cover, held locally
+assets/preview.jpg       the link-preview card, shot from the page itself
 
 build/sync.py            re-reads the sheet and rewrites the timeline block
 build/extras.py          merges every collector into the extras block
@@ -320,6 +376,7 @@ build/fetch_cards.py        downloads every card found, so nothing is hot-linked
 build/link_archive.py       regenerates the Heroes Unmasked -> archive.org map
 build/watch_snapshot.py     refreshes the offline where-to-watch fallback
 build/buy_blurbs.py         refreshes the where-to-buy blurbs (Wikipedia)
+build/og_card.py            re-shoots assets/preview.jpg from the page (Chrome)
 
   checks
 build/blurb_audit.py        which entries still have no blurb, by column
