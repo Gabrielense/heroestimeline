@@ -265,9 +265,10 @@ BBC Two's *Heroes Unmasked* and the tie-in radio show ran on their own British
 schedule, weeks or months behind the US broadcast. The sheet places them beside
 the episode each one is about rather than on their UK air date, so a week reads
 as a single story beat across every medium; where a UK premiere date was
-recorded, it stays in the entry text. The site preserves that as-is, and every
-*Unmasked* blurb ends with the real BBC Two date, so the panel says what the
-row cannot.
+recorded, it stays in the entry text. The site preserves that as-is, and both
+carry their real date in the blurb instead, so the panel says what the row
+cannot: every *Unmasked* blurb ends with its BBC Two date, and every radio
+edition with its BBC Radio 7 one.
 
 ## Files
 
@@ -311,6 +312,7 @@ build/unmasked.py           the 46 Heroes Unmasked blurbs, dates and intertitles
 build/herotruther.py        the five lost HeroTruther videos
 build/phys_cards.py         cover art for the physical releases
 build/magazine.py           the 12 magazine covers and what was in each issue
+build/radio.py              the radio show's 26 BBC broadcast dates
 build/arg_schedule.py       which weeks a lumped ARG entry really ran across
 build/fetch_cards.py        downloads every card found, so nothing is hot-linked
 build/link_archive.py       regenerates the Heroes Unmasked -> archive.org map

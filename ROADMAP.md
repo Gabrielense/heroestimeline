@@ -96,6 +96,14 @@ Still open:
       the Season 1 Blu-ray, *Heroes Revealed*, the *Original Score*, the three
       collected-edition volumes, the Omnibus, *Vengeance*, and both *Heroes
       Reborn* paperback collections (`phys_cards.json`'s `missing`)
+- [x] **All 26 radio-show editions carry their BBC broadcast date**, off
+      bbc.co.uk/programmes rather than the wiki (`build/radio.py`), each linking
+      its own BBC page. The wiki's "Saturday at 7.30pm" was wrong too: the BBC's
+      own records say 6.30pm for series one and 6pm for series two
+- [ ] Series 2, Episode 5 is the one date to check by hand. The BBC gives it as
+      11 May 2008, which falls between episodes 3 and 4 and is the only one of
+      the 26 with no time on its record — every other edition is a clean weekly
+      Saturday, so 24 May looks likelier. Left as the BBC has it
 - [ ] **Hunt for surviving video** — see `HUNTING.md`
 
 ## 0. Cleanup and corrections

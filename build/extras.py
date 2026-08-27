@@ -334,6 +334,23 @@ def main():
     if spread:
         print("series   %3d entries covered by a shared blurb" % spread)
 
+    # The radio show sits beside the episode each edition discussed rather than
+    # on its own Saturday, so its real date has to be in the blurb -- the same
+    # arrangement Heroes Unmasked has, and the same fix. Appended after the
+    # series rule above, which is where the shared paragraph comes from.
+    dated = 0
+    for title, rec in load("radio.json").items():
+        e = misc.get(title)
+        if e is None or not rec.get("aired"):
+            continue
+        e["d"] = (e.get("d", "").rstrip() + " ").lstrip() + \
+                 "First broadcast on BBC Radio 7, %s." % rec["aired"]
+        if rec.get("l"):
+            e["l"] = rec["l"]
+        dated += 1
+    if dated:
+        print("radio    %3d editions carrying their BBC broadcast date" % dated)
+
     # A disc extra has no art of its own, so it borrows the cover of the box it
     # came in -- named by make_additions.py as `artof`, resolved here because
     # this is where the physical releases' pictures are known.
