@@ -26,9 +26,13 @@ Working list for the next pass. Ticked items are done and pushed.
 - [x] **Websites** — pictures and blurbs for the site entries
 - [x] **Heroes Evolutions** — blurb + picture for the rest; iStory chapters
       share one image
-- [ ] **Physical media** — a picture for every one of the 32
-- [ ] **Heroes Reborn episodes** — a picture for the ones without; they need not
-      be title cards where none exist
+- [~] **Physical media** — 20 of the 32 have cover art. The twelve without are
+      the ones Heroes Wiki has no page for: both graphic-novel omnibuses, the
+      Vengeance hardcover, the Reborn eBook collections, the Reborn magazine,
+      Heroes Revealed, the Collector's Edition, the Complete Series box, the
+      Season 1 Blu-ray and the Original Score. Needs another source
+- [~] **Heroes Reborn episodes** — three of the four filled. *Brave New World*
+      (HR1x01) still has none
 - [~] **Graphic novel subtitles** — only three are recorded anywhere a script
       can read: #25 Unknown Soldiers, #148 When Everything Changed, #166 1963,
       Part 1. Heroes Wiki does not carry the rest, so they need a human. The 22
@@ -40,9 +44,11 @@ Working list for the next pass. Ticked items are done and pushed.
       the stranger who took the name. **Thumbnails from the VK mirror are still
       to do**
 - [ ] **Disc extras** — every extra on S1–S4 and the Reborn set, each as its own
-      entry in the week the discs came out, blurbs from dvdmg / highdefdigest
+      entry in the week the discs came out, blurbs from dvdmg / highdefdigest.
+      *The machinery is ready: write them into `build/data/additions.json` and
+      their blurbs into `hand_extras.json`, then re-run sync.py and extras.py*
 - [ ] **Audio commentaries** — per season, as individual entries, episodes named
-      in the blurb
+      in the blurb. Same route as the disc extras
 - [ ] **Cross-check** against User:Iheartheroes' release-date timeline, which is
       the best one on the wiki. There should be no differences
 
