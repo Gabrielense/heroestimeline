@@ -382,6 +382,19 @@ DATE_MOVES = {
     # four clips to her blog, 13 December 2007 -- the Thursday of the following
     # week from where the sheet files it.
     ("evo", "Global News Interactive / The Drucker Files"): "2007-12-10",
+    # Three more the wiki dates differently, and it is the better source: it was
+    # written while these were running. Each entry's panel links the page the
+    # date comes from.
+    #   Are You a Hero?  the quiz's own Evolutions box gives 8 January 2007,
+    #                    mid-season-one hiatus, not the December before it
+    #   Habbo            the campaign the wiki records runs 23 January to
+    #                    9 February 2009, its box dated to the 26th -- nowhere
+    #                    near the Volume Three premiere week the sheet files it in
+    #   Gemini           out on Xbox One, Steam and PC on 19 January 2016, with
+    #                    the PS4 version a week later
+    ("evo", "Are You A Hero?"): "2007-01-08",
+    ("evo", "Habbo's Interactivity"): "2009-01-26",
+    ("evo", "Gemini: Heroes Reborn (PC/PS4/XBOX One)"): "2016-01-19",
 }
 
 

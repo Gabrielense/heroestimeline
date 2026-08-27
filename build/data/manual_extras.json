@@ -5,14 +5,16 @@
 
  "rows": [
   {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #1: Visual Effects"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #2: The Score"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #3: Wardrobe"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #4: Stunts"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #5: Makeup"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #6: Craft Services"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #7: The Artwork"},
-  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #8: Production Design"},
-  {"d": "2007-05-21", "k": "misc", "t": "Heroes Character Profiles"}
+  {"d": "2007-05-28", "k": "bts", "t": "Inside Heroes #2: The Score"},
+  {"d": "2007-06-11", "k": "bts", "t": "Inside Heroes #3: Wardrobe"},
+  {"d": "2007-06-18", "k": "bts", "t": "Inside Heroes #4: Stunts"},
+  {"d": "2007-07-02", "k": "bts", "t": "Inside Heroes #5: Makeup"},
+  {"d": "2007-07-09", "k": "bts", "t": "Inside Heroes #6: Craft Services"},
+  {"d": "2007-07-16", "k": "bts", "t": "Inside Heroes #7: The Artwork"},
+  {"d": "2007-07-30", "k": "bts", "t": "Inside Heroes #8: Production Design"},
+  {"d": "2007-05-21", "k": "misc", "t": "Heroes Character Profiles"},
+  {"d": "2007-07-26", "k": "misc", "t": "Heroes: The Video Game announced",
+   "l": "https://www.unseen64.net/2015/02/16/heroes-videogame-ps3-xbox360-wii-pc-cancelled/"}
  ],
 
  "series": [
@@ -55,7 +57,7 @@
   "ep": {
    "1x00": {
     "sub": "In His Own Image",
-    "d": "The cut NBC never aired: longer than the broadcast premiere, differently assembled, and the only episode of the series that was never sold anywhere. It opens on Peter Petrelli standing at the edge of a New York rooftop, falling forward -- and waking in an apartment as Simone Deveaux comes in.",
+    "d": "The cut NBC never aired: longer than the broadcast premiere, differently assembled, and the only episode of the series that was never sold anywhere. It opens on Peter Petrelli standing at the edge of a New York rooftop, falling forward -- and waking in an apartment as Simone Deveaux comes in. It did play to an audience once, in full, at San Diego Comic-Con in July 2006, two months before the premiere -- 72 minutes, with a whole terrorist plot and an evo called Amid Halebi that no broadcast version kept. It was cut from there to the episode-length In His Own Image, and trimmed again into Genesis.",
     "wiki": "https://heroeswiki.ddns.net/wiki/Episode:Unaired_pilot"
    },
    "HR1x01": {
@@ -133,7 +135,7 @@
     "vn": "All five parts, as the season two set collected them, uploaded by a collector."
    },
    "Habbo's Interactivity": {
-    "d": "NBC ran a chapter of the story inside Habbo, the teenage virtual hotel. Paintings appeared in the Heroes group showing scenes from campaigns that had not happened yet; then Syn Anders came forward -- an evo who could work on a person's mood by touching them -- asking whoever had painted them to explain how they knew. A quiz handed every player an ability and a sticker to wear, and a quest ran from Primatech's assignment tracker through a barman called Gary in the Dusty Lounge to a room whose password was Odessa. The last stage was to build decoy rooms, so that whoever was hunting Syn would have too many places to look. Heroes Wiki records that run between 23 January and 9 February 2009; it was not the first campaign the two ran together.",
+    "d": "NBC ran a chapter of the story inside Habbo, the teenage virtual hotel. Paintings appeared in the Heroes group showing scenes from campaigns that had not happened yet; then Syn Anders came forward -- an evo who could work on a person's mood by touching them -- asking whoever had painted them to explain how they knew. A quiz handed every player an ability and a sticker to wear, and a quest ran from Primatech's assignment tracker through a barman called Gary in the Dusty Lounge to a room whose password was Odessa. The last stage was to build decoy rooms, so that whoever was hunting Syn would have too many places to look. It ran from 23 January to 9 February 2009, and it was not the first campaign the two had run together.",
     "img": "https://heroeswiki.ddns.net/images/a/a1/Habbo.png",
     "wiki": "https://heroeswiki.ddns.net/wiki/Habbo"
    },
@@ -203,7 +205,7 @@
 
   "site": {
    "Are You A Hero?": {
-    "d": "An abilities quiz NBC.com put up over the season one mid-season break. It worked the way the show's own mythology did -- do you believe you have unique or special abilities, is your intelligence logic or instinct, are instincts unconscious thoughts or unconscious feelings -- and branched down to one of ten powers, then handed back the HTML for a banner saying which character you came out as, to paste onto your own page.",
+    "d": "An abilities quiz NBC.com put up on 8 January 2007, in the middle of season one's winter break. It worked the way the show's own mythology did -- do you believe you have unique or special abilities, is your intelligence logic or instinct, are instincts unconscious thoughts or unconscious feelings -- and branched down to one of ten powers, then handed back the HTML for a banner saying which character you came out as, to paste onto your own page.",
     "img": "https://heroeswiki.ddns.net/images/4/40/Are_you_a_hero_production.JPG",
     "wiki": "https://heroeswiki.ddns.net/wiki/Are%20You%20a%20Hero%3F"
    },
@@ -217,6 +219,15 @@
   "istory": {},
 
   "phys": {
+   "_note": "Seasons two and three were wearing the season one box. phys_cards.py asks the wiki for \"Heroes: The Complete Second Season\", which is not a page -- the page is \"… (DVD)\" -- and search answers with season one for all of them. Aliases are in phys_cards.py now; these two are here so the fix survives whether or not that is re-run.",
+   "Heroes: The Complete Second Season (DVD/Blu-ray)": {
+    "img": "https://heroeswiki.ddns.net/images/6/67/2nd_Season_DVD.png",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes:%20The%20Complete%20Second%20Season%20(DVD)"
+   },
+   "Heroes: The Complete Third Season (DVD/Blu-ray)": {
+    "img": "https://heroeswiki.ddns.net/images/b/b2/Season_Three_DVD.png",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes:%20The%20Complete%20Third%20Season%20(DVD)"
+   },
    "Topps Heroes Series 1 Trading Card Set": {
     "d": "Topps' first Heroes set: 90 base cards, seven to a pack, 24 packs to a hobby box, eight boxes to a case. Seeded through it were ten autographs on sticker signatures, five costume-swatch cards, ten foils, retail-only motion lenticulars, and sketch cards drawn by forty-five different artists -- Tim Sale, who painted for the show, among them.",
     "img": "https://heroeswiki.ddns.net/images/d/dd/Trading_cards.jpg",
@@ -256,6 +267,11 @@
     "img": "https://heroeswiki.ddns.net/images/2/26/SuperbowlCommercialLineofScrimmage.jpg",
     "wiki": "https://heroeswiki.ddns.net/wiki/Super%20Bowl%20XLIII%20commercials",
     "yt": "SP2u3Im4AVE"
+   },
+   "Heroes: The Video Game announced": {
+    "d": "NBC gave Ubisoft the licence at Comic-Con on 26 July 2007: a third-person action game across the whole ensemble rather than one character, for PS3, Xbox 360, Wii and PC. Jesse Alexander said they had been writing towards it from day one -- \"All along we've been writing some of our stories in ways they can tie into the eventual video game\" -- and it was meant to run alongside season three. Ubisoft was busy with Lost: Via Domus, so High Voltage Software took it on, quietly, and rebuilt the premise around a new redheaded evo of their own who would move through season one's story while dealing with her own. Prototyping ran on the Xbox 360 for under a month before High Voltage realised the company could not carry every platform at once and walked away; the assets went back to Ubisoft, who held the licence in case the ratings recovered. They did not. Ubisoft dropped it around October 2008 and said so that November. All that exists is concept art -- the woman on the card was never even named.",
+    "img": "https://heroeswiki.ddns.net/images/e/ee/Video_game_concept_for_new_redhead_character.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes:%20The%20Video%20Game"
    },
    "Heroes Reborn teaser in 2014 Winter Olympics commercials": {
     "d": "No press release first: NBC simply ran a teaser during its Olympic coverage on 22 February 2014 -- the logo, the word Reborn, and \"Coming 2015\" -- and let the audience work it out. The trades caught up the same evening with the rest of it: thirteen episodes ordered, Tim Kring back, and a web series to run ahead of the show.",

@@ -24,6 +24,15 @@ OUT = os.path.join(DATA, "phys_cards.json")
 # The sheet's wording against the wiki's. Only where search cannot get there.
 ALIASES = {
     "Season 1 Blu-ray": "Heroes: The Complete First Season",
+    # Without these, strip_notes() asks for a page that does not exist, search
+    # answers with season one -- the first hit for any of them -- and seasons
+    # two and three end up wearing the season one box.
+    "Heroes: The Complete Second Season (DVD/Blu-ray)":
+        "Heroes: The Complete Second Season (DVD)",
+    "Heroes: The Complete Third Season (DVD/Blu-ray)":
+        "Heroes: The Complete Third Season (DVD)",
+    "Heroes: The Complete Fourth Season (DVD/Blu-ray)":
+        "Heroes: The Complete Fourth Season (DVD)",
     "Heroes Original Soundtrack": "Heroes Original Soundtrack",
     "Heroes: Original Score from the Television Series": "Heroes: Original Score",
     "Saving Charlie (book)": "Saving Charlie",

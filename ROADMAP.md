@@ -38,9 +38,6 @@ Working list for the next pass. Ticked items are done and pushed.
 
 Still open from this pass:
 
-- [ ] *Inside Heroes* #1–#8 all sit in the week NBC announced them (21 May
-      2007). They actually rolled out across that summer, one at a time, and no
-      source found so far gives the individual dates
 - [ ] *Inside the Eclipse* #01–#13 still have no blurb or picture of their own
 
 ## 0a. The videos come back (Aug 2026)
@@ -64,16 +61,38 @@ Still open from this pass:
 - [x] `vn` — one line under the player for when the only surviving copy is not
       a clean single part
 
+## 0b. Dates, discs and the game that never was (Aug 2026)
+
+- [x] **Where Heroes Wiki disagrees with the sheet, the wiki wins** and its page
+      is linked from the panel. Three moved through `DATE_MOVES`: *Are You a
+      Hero?* to 8 Jan 2007, Habbo's interactivity to 26 Jan 2009, *Gemini* to
+      19 Jan 2016
+- [x] *Inside Heroes* #1–#8 no longer share the announcement week: 21 and 28
+      May, 11 and 18 June, 2, 9, 16 and 30 July 2007
+- [x] **Every episode says which boxes carry it** — its own season set, the
+      Blu-ray and Collector's Edition where there is one, and *The Complete
+      Series*; the Reborn episodes get the event-series set and nothing else,
+      since *The Complete Series* came out five years before it. `EP_DISCS` in
+      index.html, one rule per season, and each name jumps to that release's week
+- [x] *Heroes: The Video Game* — Ubisoft's cancelled adaptation, announced at
+      Comic-Con on 26 July 2007 and dropped in Oct 2008. Blurb, concept art,
+      wiki and Unseen64
+- [x] The unaired pilot's blurb records the 72-minute Comic-Con 2006 screening
+- [x] Seasons two and three stop wearing the season one box. `phys_cards.py`
+      asked for a page that does not exist and search answered with season one;
+      aliases added there, and the right art pinned in `manual_extras.json`
+
 Still open:
 
 - [ ] No copy has been found of *Hard Knox, Part 4* or *Nowhere Man*, Parts 2–4
       (its uploader posted only the first). They still point at the archive's
       1.4 GB webisode ZIP like the rest
-- [ ] Three dates disagree with Heroes Wiki: Habbo's interactivity sits in the
-      Volume 3 premiere week but the wiki's campaign runs 23 Jan – 9 Feb 2009,
-      *Are You a Hero?* is 11 Dec 2006 here and 8 Jan 2007 there, and *Gemini*
-      is 14 Jan 2016 here against a 19 Jan release. The sheet's dates were kept
-- [ ] *Heroes: The Video Game* has a wiki page and no row anywhere here
+- [ ] **Hunt for more surviving video, and for the magazine covers** — see
+      `HUNTING.md`. *The Official Magazine* #01–#12 all show issue one's cover
+- [ ] No cover art at all for: the Collector's Edition, *The Complete Series*,
+      the Season 1 Blu-ray, *Heroes Revealed*, the *Original Score*, the three
+      collected-edition volumes, the Omnibus, *Vengeance*, and both *Heroes
+      Reborn* paperback collections (`phys_cards.json`'s `missing`)
 
 ## 0. Cleanup and corrections
 
