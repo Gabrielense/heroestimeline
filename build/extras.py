@@ -47,6 +47,13 @@ def tidy(text):
     """
     if not text:
         return text
+    # a non-breaking space between every word of a title survives as &#160;
+    # unless it is decoded here -- the wiki uses them to stop titles wrapping
+    text = re.sub(r"&#(\d+);", lambda m: chr(int(m.group(1))), text)
+    for entity, char in (("&nbsp;", " "), ("&amp;", "&"), ("&quot;", '"'),
+                         ("&#039;", "'"), ("&lt;", "<"), ("&gt;", ">")):
+        text = text.replace(entity, char)
+    text = text.replace(" ", " ")
     text = re.sub(r"\s+([.,;:!?%)])", r"\1", text)
     text = re.sub(r"\s+('s|'re|'ve|'ll|'d|n't)\b", r"\1", text)
     text = re.sub(r"([(“])\s+", r"\1", text)
@@ -81,6 +88,8 @@ def main():
     # and the subtitle that issue carries are one name, and the sheet only ever
     # held the first half. build/gn_subtitles.py explains where these come from.
     gn_subs = load("gn_subtitles.json").get("subtitles", {})
+    # where the archive still holds NBC's own PDF of an issue, and how big it is
+    gn_pdf = load("gn_pdfs.json")
 
     # Wikipedia's list stops short of a few dozen issues -- Turning Point, the
     # Titan miniseries -- so gn_links.py asks Heroes Wiki for those directly.
@@ -109,6 +118,8 @@ def main():
             e["img"] = local["gn-" + num]
         if gn_subs.get(num):
             e["sub"] = gn_subs[num]
+        if gn_pdf.get(num):
+            e["pdf"] = gn_pdf[num]
         if e:
             gn[num] = e
 
@@ -186,7 +197,7 @@ def main():
     # synopsis and its volume's own art. The volume-level entries below stay as
     # a fallback for any row whose code we cannot place.
     for code, rec in list(istory.items()):
-        card = local.get("istory-" + slug(code))
+        card = rec.get("vol") and local.get("istory-" + slug(rec["vol"]))
         if card:
             rec["img"] = card
     for title, rec in (evo_site.get("istory") or {}).items():
@@ -259,7 +270,7 @@ def main():
     # one pass over every blurb, whichever collector wrote it
     for group in ("gn", "ep", "web", "site", "istory", "evo", "phys", "misc"):
         for rec in out[group].values():
-            for field in ("d", "by", "note"):
+            for field in ("d", "by", "note", "sub"):
                 if rec.get(field):
                     rec[field] = tidy(rec[field])
     blob = json.dumps(out, ensure_ascii=False, separators=(",", ":"))

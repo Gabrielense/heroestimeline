@@ -63,13 +63,16 @@ def wanted():
         for k, v in json.load(open(web, encoding="utf-8")).get("found", {}).items():
             if v.get("img"):
                 out.append(("web-%s" % k, v["img"]))
-    # one picture per iStory volume, stored under each chapter's own code so a
-    # volume that later gets its own art per chapter needs no other change
+    # One picture per iStory volume, named for the volume. Naming it per chapter
+    # meant fifty-eight files where nine would do, all byte-identical.
     ist = os.path.join(DATA, "istory.json")
     if os.path.exists(ist):
-        for k, v in json.load(open(ist, encoding="utf-8")).items():
-            if v.get("img", "").startswith("http"):
-                out.append(("istory-%s" % slug(k), v["img"]))
+        by_volume = {}
+        for v in json.load(open(ist, encoding="utf-8")).values():
+            if v.get("img", "").startswith("http") and v.get("vol"):
+                by_volume.setdefault(v["vol"], v["img"])
+        for volume, img in by_volume.items():
+            out.append(("istory-%s" % slug(volume), img))
     art = os.path.join(DATA, "phys_cards.json")
     if os.path.exists(art):
         blob = json.load(open(art, encoding="utf-8"))

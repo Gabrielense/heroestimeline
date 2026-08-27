@@ -69,7 +69,9 @@ def get(url, tries=3):
 
 def page(name):
     """try the live mirror, fall back to the Wayback copy; returns (html, url)"""
-    quoted = urllib.parse.quote(name, safe="_,:!?'()&./")
+    # "?" and "&" are not safe in a path -- left raw, "Where Is Hiro?" becomes a
+    # query string and the wiki answers 404, then search sends us somewhere else
+    quoted = urllib.parse.quote(name, safe="_,:!'()./")
     for base in (LIVE, ARCH):
         h = get(base + quoted)
         if h and "There is currently no text in this page" not in h \
@@ -195,6 +197,9 @@ ALIASES = {
     "Zach's MySpace":                        "Myspace",
     "Hana's MySpace":                        "Myspace",
     "Hiro's Blog":                           "Hiro's blog",
+    # search sent this one to "Hiro's apartment (Midland)", which is a location
+    # article and describes a room, not the video series it is named after
+    "Where's Hiro":                          "Where Is Hiro?",
     "9thwonders.com: Cogitoergosum Blog":    "Cogitoergosum",
 }
 

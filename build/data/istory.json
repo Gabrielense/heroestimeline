@@ -87,13 +87,11 @@
   "released": "2008-12-10",
   "img": "https://heroeswiki.ddns.net/images/thumb/5/54/Pinehearst_logo_iStory.jpg/250px-Pinehearst_logo_iStory.jpg"
  },
- "Cap. 106/206": {
-  "vol": "Operation Bad Blood / Operation Splinter",
-  "wiki": "https://heroeswiki.ddns.net/wiki/Operation%20Splinter",
-  "d": "See the final Operation Splinter chapter. Operation Bad Blood shares the same final sixth chapter as Operation Splinter since the Pinehearst and Primatech contractors are working together. Operation Splinter: As war rages in the town below, the two contractors track Red Eye, Anna, and the Kill Squad to a nearby dam. But when they arrive, they find the dam strangely silent. The new allies must piece together what is happening at the dam and how to stop it... in less than five minutes....",
-  "sub": "Operation Splinter",
-  "released": "2008-12-17",
-  "img": "https://heroeswiki.ddns.net/images/thumb/c/cf/Primatech_logo_iStory.jpg/250px-Primatech_logo_iStory.jpg"
+ "Cap. 206": {
+  "vol": "Operation Bad Blood",
+  "wiki": "https://heroeswiki.ddns.net/wiki/Operation%20Bad%20Blood",
+  "d": "See the final Operation Splinter chapter. Operation Bad Blood shares the same final sixth chapter as Operation Splinter since the Pinehearst and Primatech contractors are working together.",
+  "img": "https://heroeswiki.ddns.net/images/thumb/5/54/Pinehearst_logo_iStory.jpg/250px-Pinehearst_logo_iStory.jpg"
  },
  "Cap. 101": {
   "vol": "Operation Splinter",
@@ -133,6 +131,14 @@
   "d": "The end of Operation Splinter is in sight. A massive Primatech army of P.E.S. Operations agents and contractors heads to Alaska in an all-out bid to locate Kill Squad 's secret compound and destroy the group once and for all...",
   "sub": "Operation Splinter",
   "released": "2008-12-10",
+  "img": "https://heroeswiki.ddns.net/images/thumb/c/cf/Primatech_logo_iStory.jpg/250px-Primatech_logo_iStory.jpg"
+ },
+ "Cap. 106": {
+  "vol": "Operation Splinter",
+  "wiki": "https://heroeswiki.ddns.net/wiki/Operation%20Splinter",
+  "d": "As war rages in the town below, the two contractors track Red Eye, Anna, and the Kill Squad to a nearby dam. But when they arrive, they find the dam strangely silent. The new allies must piece together what is happening at the dam and how to stop it... in less than five minutes....",
+  "sub": "Operation Splinter",
+  "released": "2008-12-17",
   "img": "https://heroeswiki.ddns.net/images/thumb/c/cf/Primatech_logo_iStory.jpg/250px-Primatech_logo_iStory.jpg"
  },
  "Cap. 901": {

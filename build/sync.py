@@ -191,6 +191,49 @@ DATE_LABELS = {
 #    "l": "https://..."}
 
 
+# --- rows that pack several releases into one -------------------------------
+# The sheet writes a week's worth of parts as a single cell when they went out
+# together -- "Dark Matters, Parts 2, 3, 4, 5 & 6". They are still five
+# webisodes with five titles and five summaries, so they become five entries.
+# Listed out by hand rather than parsed: there are five of them, and guessing
+# at "Parts 1 & 2" versus "Operation Splinter/Operation Bad Blood" would be
+# more code and less certain than writing them down.
+SPLITS = {
+    ("web", "10-11"): [("10", "Hard Knox, Part 1"),
+                       ("11", "Hard Knox, Part 2")],
+    ("web", "13-14"): [("13", "Hard Knox, Part 3"),
+                       ("14", "Hard Knox, Part 4")],
+    ("web", "32-36"): [("32", "Dark Matters, Part 2"),
+                       ("33", "Dark Matters, Part 3"),
+                       ("34", "Dark Matters, Part 4"),
+                       ("35", "Dark Matters, Part 5"),
+                       ("36", "Dark Matters, Part 6")],
+    ("web", "37-38"): [("37", "Damen Peak, Part 1"),
+                       ("38", "Damen Peak, Part 2")],
+    ("evo", "Cap. 106/206"): [("Cap. 106", "Operation Splinter"),
+                              ("Cap. 206", "Operation Bad Blood")],
+}
+
+
+def apply_splits(entries):
+    made = 0
+    for entry in entries:
+        for key, items in list((entry.get("c") or {}).items()):
+            out = []
+            for item in items:
+                parts = SPLITS.get((key, item.get("c") or ""))
+                if not parts:
+                    out.append(item)
+                    continue
+                for code, title in parts:
+                    fresh = dict(item)
+                    fresh["c"], fresh["t"] = code, title
+                    out.append(fresh)
+                made += len(parts) - 1
+            entry["c"][key] = out
+    return made
+
+
 # --- the ones that were never numbered --------------------------------------
 # Three novels sit outside the run: two the sheet gives no issue number at all,
 # and the Hiro reprint collection, which only ever had a number because it had
@@ -419,6 +462,8 @@ def build(path):
 
     print("dates: moved %d items into the week two sources agree on"
           % apply_moves(entries))
+    print("splits: %d extra entries pulled out of packed rows"
+          % apply_splits(entries))
     print("bonus: %d novels read as Bonus rather than as a number"
           % apply_bonus(entries))
 
