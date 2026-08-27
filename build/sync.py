@@ -85,11 +85,17 @@ UNMASKED_FILES = {
     "When Worlds Collide":             "Season 2/Heroes.Unmasked.S02E04.When.Worlds.Collide.WS.PDTV.XviD-BiA.mp4",
 }
 
-# Inside the Eclipse lives in one archive item per episode. The sheet already
-# links most of them; this fills the gap. Episode 9 is not on archive.org.
+# Things that live in an archive item of their own, which the sheet does not
+# link. A single-video item like these plays in the panel through the embed;
+# see the note above videoFor() in index.html for why that differs from the
+# Unmasked episodes. Inside the Eclipse #09 is not on archive.org at all.
 EXTRA_LINKS = {
     (194, "unm", "Inside the Eclipse #02"):
         "https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_2_-_Odessa",
+    # The pilot NBC never aired -- longer, differently cut, and the only episode
+    # of the series that was never sold anywhere.
+    (4, "ep", "Unaired Pilot"):
+        "https://archive.org/details/heroes-original-unaired-pilot-english-subtitles",
 }
 
 

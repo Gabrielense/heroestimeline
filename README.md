@@ -30,7 +30,7 @@ without it the page still works and falls back to a baked-in snapshot.
   release, with a blurb. See below.
 - **Search** across titles, episode/issue codes and dates (`2009-09` works).
 - **Filters** by medium and by era, collapsed by default.
-- **Play in place** — 58 entries open an Internet Archive player without leaving
+- **Play in place** — 59 entries open an Internet Archive player without leaving
   the page. See below.
 - **Permalinks** — jumping to a week writes `#w<row>` to the URL.
 
@@ -40,10 +40,13 @@ Entries with a ▶ open an `archive.org/embed` player in a panel over the page.
 Nothing is rehosted here; it streams from the Internet Archive, and every panel
 links back to the item.
 
-That covers all 46 *Heroes Unmasked* episodes plus 12 of the 13 *Inside the
-Eclipse* shorts — episode 9 is not on archive.org. The webisode item is a single
-1.4 GB ZIP and the graphic novels are five volume PDFs, so neither can be
-deep-linked per entry yet; both stay as collection links in the footer.
+That covers all 46 *Heroes Unmasked* episodes, 12 of the 13 *Inside the Eclipse*
+shorts — episode 9 is not on archive.org — and the **unaired pilot**, the one
+episode of the series that was never broadcast and has never been sold
+anywhere, which is why it has a player but no *where to watch*. The webisode
+item is a single 1.4 GB ZIP and the graphic novels are five volume PDFs, so
+neither can be deep-linked per entry yet; both stay as collection links in the
+footer.
 
 The *Unmasked* map lives in `UNMASKED_FILES` in `sync.py`. Regenerate it with:
 
