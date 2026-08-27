@@ -41,10 +41,39 @@ Still open from this pass:
 - [ ] *Inside Heroes* #1–#8 all sit in the week NBC announced them (21 May
       2007). They actually rolled out across that summer, one at a time, and no
       source found so far gives the individual dates
-- [ ] The three *Damen Peak* shorts survive on YouTube as a single 3:20 upload
-      of parts 1–2 rather than one video per part, so no `yt` was added — the
-      *Also found on* line still just says YouTube
 - [ ] *Inside the Eclipse* #01–#13 still have no blurb or picture of their own
+
+## 0a. The videos come back (Aug 2026)
+
+- [x] **No more *Between Eras*.** Volume 5 runs to the last thing it put out,
+      the complete-series set of 16 Nov 2010; Heroes Reborn starts with the
+      first, the Olympics teaser of 23 Feb 2014. `resolve_gaps()` in `sync.py`
+      folds the sheet's near-black rows onto whichever side of that line they
+      fall, so the era is gone from the data as well as the legend
+- [x] **29 of the 39 webisodes play in the panel again**, from the copies
+      collectors kept: `yt` for the 28 on YouTube, `dm` for *Nowhere Man,
+      Part 1*, which is on Dailymotion. Every id checked with `build/yt.py`
+      against its upload date and running time
+- [x] *Damen Peak* is linked rather than described — parts 1 and 3 have their
+      own uploads, and part 2 uses the 3:19 parts-1–2 video with the new `vn`
+      caption saying so under the player. The *Also found on* line is gone
+- [x] *Sword Saint* and *The Drucker Files* play too, off the season two set
+- [x] Blurbs, cards and sources for **all the games**: *Are You a Hero?*,
+      Habbo's interactivity, *Heroes Reborn: Enigma* and *Gemini: Heroes
+      Reborn*. A source link on the Olympics teaser
+- [x] `vn` — one line under the player for when the only surviving copy is not
+      a clean single part
+
+Still open:
+
+- [ ] No copy has been found of *Hard Knox, Part 4* or *Nowhere Man*, Parts 2–4
+      (its uploader posted only the first). They still point at the archive's
+      1.4 GB webisode ZIP like the rest
+- [ ] Three dates disagree with Heroes Wiki: Habbo's interactivity sits in the
+      Volume 3 premiere week but the wiki's campaign runs 23 Jan – 9 Feb 2009,
+      *Are You a Hero?* is 11 Dec 2006 here and 8 Jan 2007 there, and *Gemini*
+      is 14 Jan 2016 here against a 19 Jan release. The sheet's dates were kept
+- [ ] *Heroes: The Video Game* has a wiki page and no row anywhere here
 
 ## 0. Cleanup and corrections
 
@@ -124,7 +153,7 @@ Still open from this pass:
 - [x] *Making of the Damen Peak Video*, parts 1 and 2 — lost media
 - [x] Where the webisodes actually survive: Hard Knox as deleted scenes and
       The Recruit / Going Postal / Nowhere Man as "Alternate Stories" on the S3
-      Blu-ray, Dark Matters on the Reborn discs, Damen Peak on YouTube
+      Blu-ray, Dark Matters on the Reborn discs
 - [x] A blurb on *Inside the Eclipse* #09 saying why it is not on archive.org
 - [x] Credit **User:Iheartheroes** by name (in the footer)
 - [ ] Actually diff our dates against their release-date list

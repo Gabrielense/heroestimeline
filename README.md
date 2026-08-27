@@ -20,8 +20,7 @@ without it the page still works and falls back to a baked-in snapshot.
 - **Activity rail** — one bar per week, height = releases that week, colour =
   era. Hover for detail, click to jump.
 - **Volume markers** — short colour lines above the rail, each as wide as the
-  weeks its volume covers; click one to jump. Off-air stretches hold their width
-  and draw nothing.
+  weeks its volume covers; click one to jump.
 - **Header tally** — one box per medium, split so iStory chapters are counted
   apart from the rest of the Evolutions material.
 - **Where to watch** — per-country streaming, rental and purchase offers on any
@@ -48,12 +47,24 @@ item is a single 1.4 GB ZIP and the graphic novels are five volume PDFs, so
 neither can be deep-linked per entry yet; both stay as collection links in the
 footer.
 
-A handful of things never reached the Internet Archive and survive only because
-somebody recorded them off the television: the Super Bowl XLIII spot and the
-teaser NBC ran during the 2014 Winter Olympics both play from
-`youtube-nocookie.com`. Those ids are the `yt` field in
-`build/data/manual_extras.json`; `py build/yt.py <id>` prints the upload date,
-which is how you tell a 2014 off-air recording from a 2015 re-cut.
+A good deal never reached the Internet Archive in a form you can play, and
+survives only because somebody kept a copy. Thirty-three entries carry the id of
+one: the Super Bowl XLIII spot and the teaser NBC ran during the 2014 Winter
+Olympics, *Sword Saint* and *The Drucker Files* off the season two set, and 29
+of the 39 webisodes, whose own player went with NBC.com and whose archive item
+is that single ZIP. Thirty-two play from `youtube-nocookie.com` as the `yt`
+field in `build/data/manual_extras.json`; *Nowhere Man, Part 1* is on
+Dailymotion instead and uses `dm`. Nothing is rehosted here either way.
+
+`py build/yt.py <id>` prints the upload date, the running time and the title,
+which is how you tell a 2014 off-air recording from a 2015 re-cut, and how each
+of these was checked against the part it claims to be. Where the only surviving
+copy is not a clean single part — *Damen Peak* went out as parts 1–2 in one
+video — a `vn` line says so under the player.
+
+Ten webisodes have no copy anyone has found: *Hard Knox, Part 4*, *Nowhere
+Man*, Parts 2–4, and the six *Dark Matters* shorts, which are a bonus feature on
+the *Heroes Reborn* set rather than something that was taken down.
 
 The *Unmasked* map lives in `UNMASKED_FILES` in `sync.py`. Regenerate it with:
 
@@ -185,6 +196,13 @@ Monday. Without it, they don't.
 volumes use one green ramp, *Heroes Reborn* uses gold, and off-air stretches use
 a near-black that the legend doesn't name. Those map to `v1`–`v5`, `hr` and
 `gap` in `sync.py`.
+
+There is no off-air era on the page, though. The show went off the air; the
+releases did not, and a timeline of releases has no empty stretch to name. So
+`resolve_gaps()` gives every near-black row the era on its side of one line:
+Volume 5 runs to the last thing it put out, the complete-series set of 16
+November 2010, and *Heroes Reborn* starts with the first thing it put out, the
+teaser NBC ran during the Olympics on 23 February 2014.
 
 ## Corrections
 
