@@ -87,12 +87,16 @@ Still open:
 - [ ] No copy has been found of *Hard Knox, Part 4* or *Nowhere Man*, Parts 2–4
       (its uploader posted only the first). They still point at the archive's
       1.4 GB webisode ZIP like the rest
-- [ ] **Hunt for more surviving video, and for the magazine covers** — see
-      `HUNTING.md`. *The Official Magazine* #01–#12 all show issue one's cover
+- [x] **All twelve magazine covers, and a blurb for each** (`build/magazine.py`).
+      They were all showing one shared picture that was not even issue one's
+      cover: the per-issue wiki pages are redirects to a single article whose
+      infobox is a cast panel, and the real covers are files no article links.
+      The *Heroes Reborn* magazine gets its cover and contents too
 - [ ] No cover art at all for: the Collector's Edition, *The Complete Series*,
       the Season 1 Blu-ray, *Heroes Revealed*, the *Original Score*, the three
       collected-edition volumes, the Omnibus, *Vengeance*, and both *Heroes
       Reborn* paperback collections (`phys_cards.json`'s `missing`)
+- [ ] **Hunt for surviving video** — see `HUNTING.md`
 
 ## 0. Cleanup and corrections
 

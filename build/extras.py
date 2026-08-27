@@ -234,6 +234,15 @@ def main():
         if rec.get("src"):
             e["wiki"] = rec["src"]
         phys[title] = e
+    # The twelve issues of the magazine, whose per-issue pages are all redirects
+    # to one article that names no cover -- so phys_cards found the same picture
+    # twelve times. build/magazine.py digs the real covers out of the wiki's file
+    # namespace and reads the article's contents list for what was in each.
+    # It wins over phys_cards outright; the "serve our own" pass below swaps in
+    # the downloaded copy, the same as for every other picture here.
+    for title, rec in load("magazine.json").items():
+        phys.setdefault(title, {}).update(rec)
+
     for code, rec in (art.get("reborn_eps") or {}).items():
         e = ep.setdefault(code, {})
         if not e.get("img"):

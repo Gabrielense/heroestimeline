@@ -82,6 +82,13 @@ def wanted():
         for k, v in (blob.get("reborn_eps") or {}).items():
             if v.get("img"):
                 out.append(("ep-%s" % k, v["img"]))
+    # the magazine covers, which live in the wiki's file namespace and are
+    # reachable from no article (build/magazine.py)
+    mag = os.path.join(DATA, "magazine.json")
+    if os.path.exists(mag):
+        for k, v in json.load(open(mag, encoding="utf-8")).items():
+            if v.get("img"):
+                out.append(("phys-%s" % slug(k), v["img"]))
     evo = os.path.join(DATA, "evo_site_wiki.json")
     if os.path.exists(evo):
         blob = json.load(open(evo, encoding="utf-8"))

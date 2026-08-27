@@ -83,6 +83,11 @@ def main():
         print("PAGE:", u, "\nIMG:", img)
         return
 
+    # build/magazine.py owns these. The wiki's per-issue pages are redirects to
+    # one article whose infobox is a cast panel, so search here finds the same
+    # picture for all twelve, and the real covers are files no article links.
+    skip = re.compile(r"Official Magazine")
+
     html = io.open(HTML, encoding="utf-8").read()
     data = json.loads(re.search(
         r'<script type="application/json" id="timeline-data">(.*?)</script>',
@@ -104,6 +109,8 @@ def main():
 
     print("physical releases: %d" % len(phys))
     for n, title in enumerate(sorted(set(phys)), 1):
+        if skip.search(title):
+            continue
         img, u = art_for(title)
         if img:
             out["phys"][title] = {"img": img, "src": u}

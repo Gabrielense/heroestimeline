@@ -308,6 +308,7 @@ build/istory.py             one synopsis per iStory chapter
 build/unmasked.py           the 46 Heroes Unmasked blurbs, dates and intertitles
 build/herotruther.py        the five lost HeroTruther videos
 build/phys_cards.py         cover art for the physical releases
+build/magazine.py           the 12 magazine covers and what was in each issue
 build/arg_schedule.py       which weeks a lumped ARG entry really ran across
 build/fetch_cards.py        downloads every card found, so nothing is hot-linked
 build/link_archive.py       regenerates the Heroes Unmasked -> archive.org map
