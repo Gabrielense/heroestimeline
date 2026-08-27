@@ -7,16 +7,10 @@
    "dead": 0
   },
   "evo": {
-   "n": 112,
-   "blurb": 101,
-   "img": 97,
-   "dead": 11
-  },
-  "misc": {
-   "n": 96,
-   "blurb": 43,
-   "img": 0,
-   "dead": 53
+   "n": 126,
+   "blurb": 116,
+   "img": 113,
+   "dead": 10
   },
   "gn": {
    "n": 186,
@@ -24,263 +18,37 @@
    "img": 185,
    "dead": 0
   },
-  "unm": {
-   "n": 59,
-   "blurb": 0,
-   "img": 0,
+  "bts": {
+   "n": 98,
+   "blurb": 85,
+   "img": 81,
    "dead": 1
   },
+  "misc": {
+   "n": 43,
+   "blurb": 38,
+   "img": 37,
+   "dead": 5
+  },
   "phys": {
-   "n": 32,
-   "blurb": 0,
-   "img": 20,
+   "n": 37,
+   "blurb": 5,
+   "img": 25,
    "dead": 0
   },
   "web": {
-   "n": 32,
-   "blurb": 32,
-   "img": 32,
+   "n": 39,
+   "blurb": 39,
+   "img": 39,
    "dead": 0
   }
  },
  "missing": [
   {
-   "k": "misc",
-   "d": "",
-   "c": "",
-   "t": "9thwonders.com",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "",
-   "c": "",
-   "t": "Claire & the Cat flash animation",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2006-10-02",
-   "c": "1x01",
-   "t": "A New Dawn (UK premiere date 7/25/2007)",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2006-10-09",
-   "c": "",
-   "t": "Heroeswiki.com",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2006-10-16",
-   "c": "1x02",
-   "t": "Growing Pains",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2006-10-23",
-   "c": "1x03",
-   "t": "The Dreamer",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2006-10-30",
-   "c": "1x04",
-   "t": "Hiro Worship",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2006-11-06",
-   "c": "1x05",
-   "t": "Painting the Future",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2006-11-13",
-   "c": "1x06",
-   "t": "Double Trouble",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2006-11-13",
-   "c": "",
-   "t": "The Official Radio Show (UK premiere date 9/1/2007) #1x01: Episode 6",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2006-11-20",
-   "c": "1x07",
-   "t": "Voices",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2006-11-20",
-   "c": "",
-   "t": "The Official Radio Show #1x02: Episode 7",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2006-11-27",
-   "c": "1x08",
-   "t": "The H.R.G. File",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2006-11-27",
-   "c": "",
-   "t": "The Official Radio Show #1x03: Episode 8",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "evo",
    "d": "2006-12-11",
    "c": "",
    "t": "Are You A Hero?",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-01-22",
-   "c": "1x09",
-   "t": "Dark Angel Gabriel",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2007-01-22",
-   "c": "",
-   "t": "A Heroes Welcome",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-01-22",
-   "c": "",
-   "t": "The Official Radio Show #1x04: Episode 9",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-01-29",
-   "c": "1x10",
-   "t": "Mohinder's Journey",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-01-29",
-   "c": "",
-   "t": "The Official Radio Show #1x05: Episode 10",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-02-05",
-   "c": "1x11",
-   "t": "The Invisible Touch",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-02-05",
-   "c": "",
-   "t": "The Official Radio Show #1x06: Episode 11",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-02-12",
-   "c": "1x12",
-   "t": "Telling Tales",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-02-12",
-   "c": "",
-   "t": "The Official Radio Show #1x07: Episode 12",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-02-19",
-   "c": "1x13",
-   "t": "Head to Head",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-02-19",
-   "c": "",
-   "t": "The Official Radio Show #1x08: Episode 13",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-02-26",
-   "c": "1x14",
-   "t": "Sets and the City",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-02-26",
-   "c": "",
-   "t": "The Official Radio Show #1x09: Episode 14",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-03-05",
-   "c": "1x15",
-   "t": "Turning Tides",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-03-05",
-   "c": "",
-   "t": "The Official Radio Show #1x10: Episode 15",
    "img": false,
    "opens": false
   },
@@ -293,70 +61,6 @@
    "opens": false
   },
   {
-   "k": "unm",
-   "d": "2007-04-23",
-   "c": "1x16",
-   "t": "Bad Company",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-04-23",
-   "c": "",
-   "t": "The Official Radio Show #1x11: Episode 16",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-04-30",
-   "c": "1x17",
-   "t": "Isaac",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-04-30",
-   "c": "",
-   "t": "The Official Radio Show #1x12: Episode 17",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-05-07",
-   "c": "1x18",
-   "t": "Tomorrow's World",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-05-07",
-   "c": "",
-   "t": "The Official Radio Show #1x13: Episode 18",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-05-14",
-   "c": "1x19",
-   "t": "The Director's Cut",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-05-14",
-   "c": "",
-   "t": "The Official Radio Show #1x14: Episode 19",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "misc",
    "d": "2007-05-14",
    "c": "",
@@ -365,58 +69,10 @@
    "opens": false
   },
   {
-   "k": "unm",
-   "d": "2007-05-21",
-   "c": "1x20",
-   "t": "Finale",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2007-05-21",
-   "c": "",
-   "t": "The Story So Far",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-05-21",
-   "c": "",
-   "t": "The Official Radio Show #1x15: Episode 20",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-05-21",
-   "c": "",
-   "t": "Inside Heroes #1 to #8",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-05-28",
-   "c": "",
-   "t": "Topps Heroes Series 1 Trading Card Set",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "evo",
    "d": "2007-07-09",
    "c": "",
    "t": "Mohinder's Apartment (BBC Evolutions)",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-08-20",
-   "c": "",
-   "t": "Heroes World Tour",
    "img": false,
    "opens": false
   },
@@ -437,140 +93,12 @@
    "opens": true
   },
   {
-   "k": "unm",
-   "d": "2007-09-17",
-   "c": "2x00",
-   "t": "Heroes Return",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-09-17",
-   "c": "",
-   "t": "The Official Radio Show #2x00: 28/06/2008",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-09-24",
-   "c": "2x01",
-   "t": "Japanese Idol",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-09-24",
-   "c": "",
-   "t": "The Official Radio Show #2x01: Episode 1",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-10-01",
-   "c": "2x02",
-   "t": "Generations",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-10-01",
-   "c": "",
-   "t": "The Official Radio Show #2x02: Episode 2",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-10-08",
-   "c": "2x03",
-   "t": "What the Butlers Saw",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-10-08",
-   "c": "",
-   "t": "The Official Radio Show #2x03: Episode 3",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-10-15",
-   "c": "2x04",
-   "t": "When Worlds Collide",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-10-15",
-   "c": "",
-   "t": "The Official Radio Show #2x04: Episode 4",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-10-22",
-   "c": "2x05",
-   "t": "Sweet Dreams",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-10-22",
-   "c": "",
-   "t": "The Official Radio Show #2x05: Episode 5",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-10-29",
-   "c": "2x06",
-   "t": "Travelling in Style",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-10-29",
-   "c": "",
-   "t": "The Post Show #01",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-10-29",
-   "c": "",
-   "t": "The Official Radio Show #2x06: Episode 6",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "misc",
    "d": "2007-10-29",
    "c": "",
    "t": "Heroes: Origins cancelled",
    "img": false,
    "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-11-05",
-   "c": "2x07",
-   "t": "New World Disorder",
-   "img": false,
-   "opens": true
   },
   {
    "k": "phys",
@@ -581,116 +109,12 @@
    "opens": true
   },
   {
-   "k": "misc",
-   "d": "2007-11-05",
-   "c": "",
-   "t": "The Post Show #02",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-11-05",
-   "c": "",
-   "t": "The Official Radio Show #2x07: Episode 7",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-11-12",
-   "c": "2x08",
-   "t": "The Casting Couch",
-   "img": false,
-   "opens": true
-  },
-  {
    "k": "phys",
    "d": "2007-11-12",
    "c": "",
    "t": "Heroes: The Official Magazine #01",
    "img": true,
    "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-11-12",
-   "c": "",
-   "t": "The Post Show #03",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-11-12",
-   "c": "",
-   "t": "The Official Radio Show #2x08: Episode 8",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-11-19",
-   "c": "2x09",
-   "t": "Through Heroes Eyes",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-11-19",
-   "c": "",
-   "t": "The Post Show #04",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-11-19",
-   "c": "",
-   "t": "The Official Radio Show #2x09: Episode 9",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-11-26",
-   "c": "",
-   "t": "The Post Show #05",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "evo",
-   "d": "2007-12-03",
-   "c": "",
-   "t": "Global News Interactive / The Drucker Files",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2007-12-03",
-   "c": "2x10",
-   "t": "From Heroes to Villains",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2007-12-03",
-   "c": "",
-   "t": "The Post Show #06",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2007-12-03",
-   "c": "",
-   "t": "The Official Radio Show #2x10: Episode 11",
-   "img": false,
-   "opens": false
   },
   {
    "k": "phys",
@@ -741,22 +165,6 @@
    "opens": true
   },
   {
-   "k": "misc",
-   "d": "2008-06-02",
-   "c": "",
-   "t": "Action figures: Series 1",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2008-06-02",
-   "c": "",
-   "t": "Topps Heroes Series 2 Trading Card Set",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "evo",
    "d": "2008-06-30",
    "c": "",
@@ -771,14 +179,6 @@
    "t": "Heroes: The Official Magazine #05",
    "img": true,
    "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2008-07-28",
-   "c": "",
-   "t": "Inside Heroes (Heroes Webisode Behind the Story)",
-   "img": false,
-   "opens": false
   },
   {
    "k": "phys",
@@ -797,14 +197,6 @@
    "opens": true
   },
   {
-   "k": "misc",
-   "d": "2008-09-01",
-   "c": "",
-   "t": "Action figures: Series 2",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "phys",
    "d": "2008-09-15",
    "c": "",
@@ -821,70 +213,6 @@
    "opens": false
   },
   {
-   "k": "unm",
-   "d": "2008-09-22",
-   "c": "3x01",
-   "t": "Opening Pandora's Box",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-09-22",
-   "c": "3x02",
-   "t": "New Heroes On The Block",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2008-09-22",
-   "c": "",
-   "t": "Heroes: Countdown to the Premiere (#3x00)",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
-   "d": "2008-09-29",
-   "c": "3x03",
-   "t": "On a Heroic Scale",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-10-06",
-   "c": "3x04",
-   "t": "Playing God",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-10-13",
-   "c": "3x05",
-   "t": "Shock of the Old",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-10-20",
-   "c": "3x06",
-   "t": "Teenage Kicks",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-10-27",
-   "c": "3x07",
-   "t": "A Bug's Life",
-   "img": false,
-   "opens": true
-  },
-  {
    "k": "evo",
    "d": "2008-11-02",
    "c": "",
@@ -893,34 +221,10 @@
    "opens": false
   },
   {
-   "k": "unm",
-   "d": "2008-11-10",
-   "c": "3x08",
-   "t": "Missing Links",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-11-17",
-   "c": "3x09",
-   "t": "Action!",
-   "img": false,
-   "opens": true
-  },
-  {
    "k": "phys",
    "d": "2008-11-17",
    "c": "",
    "t": "Heroes, Volume 2 (Issues #035-#080)",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-11-24",
-   "c": "3x10",
-   "t": "Let's Get Physical",
    "img": false,
    "opens": true
   },
@@ -933,30 +237,6 @@
    "opens": true
   },
   {
-   "k": "unm",
-   "d": "2008-12-01",
-   "c": "3x11",
-   "t": "Heroes by Design",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-12-08",
-   "c": "3x12",
-   "t": "The Music of Heroes",
-   "img": false,
-   "opens": true
-  },
-  {
-   "k": "unm",
-   "d": "2008-12-15",
-   "c": "3x13",
-   "t": "Heroes on the Run",
-   "img": false,
-   "opens": true
-  },
-  {
    "k": "phys",
    "d": "2009-01-19",
    "c": "",
@@ -965,28 +245,12 @@
    "opens": true
   },
   {
-   "k": "misc",
-   "d": "2009-01-26",
-   "c": "",
-   "t": "Super Bowl XLIII commercials",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "phys",
    "d": "2009-03-16",
    "c": "",
    "t": "Heroes: The Official Magazine #09",
    "img": true,
    "opens": true
-  },
-  {
-   "k": "misc",
-   "d": "2009-04-06",
-   "c": "",
-   "t": "Heroes All Access official fan club website",
-   "img": false,
-   "opens": false
   },
   {
    "k": "phys",
@@ -1069,22 +333,6 @@
    "opens": true
   },
   {
-   "k": "misc",
-   "d": "2014-02-23",
-   "c": "",
-   "t": "Heroes Reborn teaser in 2014 Winter Olympics commercials",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "misc",
-   "d": "2015-05-19",
-   "c": "",
-   "t": "Heroes: Some People Are Born to Be Extraordinary",
-   "img": false,
-   "opens": false
-  },
-  {
    "k": "evo",
    "d": "HEROES REBORN",
    "c": "",
@@ -1093,15 +341,7 @@
    "opens": false
   },
   {
-   "k": "misc",
-   "d": "HEROES REBORN",
-   "c": "",
-   "t": "Heroes Reborn app",
-   "img": false,
-   "opens": false
-  },
-  {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-09-24",
    "c": "",
    "t": "Inside the Eclipse #01",
@@ -1109,7 +349,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-09-24",
    "c": "",
    "t": "Inside the Eclipse #02",
@@ -1117,7 +357,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-10-01",
    "c": "",
    "t": "Inside the Eclipse #03",
@@ -1141,7 +381,7 @@
    "opens": false
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-10-08",
    "c": "",
    "t": "Inside the Eclipse #04",
@@ -1149,7 +389,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-10-15",
    "c": "",
    "t": "Inside the Eclipse #05",
@@ -1157,7 +397,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-10-22",
    "c": "",
    "t": "Inside the Eclipse #06",
@@ -1165,7 +405,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-10-29",
    "c": "",
    "t": "Inside the Eclipse #07",
@@ -1173,7 +413,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-11-05",
    "c": "",
    "t": "Inside the Eclipse #08",
@@ -1181,7 +421,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-11-12",
    "c": "",
    "t": "Inside the Eclipse #09",
@@ -1189,7 +429,7 @@
    "opens": false
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2015-11-19",
    "c": "",
    "t": "Inside the Eclipse #10",
@@ -1197,7 +437,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2016-01-07",
    "c": "",
    "t": "Inside the Eclipse #11",
@@ -1213,7 +453,7 @@
    "opens": false
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2016-01-14",
    "c": "",
    "t": "Inside the Eclipse #12",
@@ -1221,7 +461,7 @@
    "opens": true
   },
   {
-   "k": "unm",
+   "k": "bts",
    "d": "2016-01-21",
    "c": "",
    "t": "Inside the Eclipse #13",

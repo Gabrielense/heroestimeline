@@ -1,7 +1,7 @@
 # Heroes: A Complete Multimedia Timeline
 
 An interactive version of [the source spreadsheet](https://docs.google.com/spreadsheets/d/1Ci6zyz2nhjgrCurrhSDrD_jvtfXBLq_l9CWLpKDe3NE/edit) —
-559 releases across 214 weeks and 7 parallel media, from the 2006 pilot to the
+620 releases across 221 weeks and 7 parallel media, from the 2006 pilot to the
 announcement of *Heroes: Eclipsed*.
 
 `index.html` is the whole site: no build step, no dependencies, no bundler. Open
@@ -47,6 +47,13 @@ anywhere, which is why it has a player but no *where to watch*. The webisode
 item is a single 1.4 GB ZIP and the graphic novels are five volume PDFs, so
 neither can be deep-linked per entry yet; both stay as collection links in the
 footer.
+
+A handful of things never reached the Internet Archive and survive only because
+somebody recorded them off the television: the Super Bowl XLIII spot and the
+teaser NBC ran during the 2014 Winter Olympics both play from
+`youtube-nocookie.com`. Those ids are the `yt` field in
+`build/data/manual_extras.json`; `py build/yt.py <id>` prints the upload date,
+which is how you tell a 2014 off-air recording from a 2015 re-cut.
 
 The *Unmasked* map lives in `UNMASKED_FILES` in `sync.py`. Regenerate it with:
 
@@ -181,7 +188,7 @@ a near-black that the legend doesn't name. Those map to `v1`–`v5`, `hr` and
 
 ## Corrections
 
-`sync.py` patches 31 entries on the way through — see `TITLE_FIXES`, `ROW_FIXES`,
+`sync.py` patches 33 entries on the way through — see `TITLE_FIXES`, `ROW_FIXES`,
 `DATE_LABELS` and `EXTRA_LINKS` there. They are applied in the pipeline rather than in the
 sheet so they survive the next sync; delete a line to let the sheet's own
 wording back through. Every one was checked against Wikipedia's episode and
@@ -200,15 +207,60 @@ Most are plain misspellings ("Explosing" → "Exploding", "Gilteman" →
 Anything else undated still renders as a divider above the row
 ("CANCELLATION", "HEROES REBORN").
 
+## The seven columns
+
+Six of them are what the sheet says. The seventh, the sheet's `misc`, had grown
+into three unrelated things at once, so `RECLASS` in `sync.py` splits it on the
+way through:
+
+| Column | What belongs in it |
+| --- | --- |
+| **Behind the scenes** (`bts`) | Anything made *about* the show: *Heroes Unmasked*, *Inside Heroes*, the disc featurettes, the commentaries, *Countdown to the Premiere*. This is the old *Heroes Unmasked* column, widened. |
+| **Evolutions & iStory** (`evo`) | Anything that belongs to the fiction: the ARG, the in-world sites, and the disc extras that are footage rather than commentary — deleted scenes, the *Generations* alternate ending, *Untold Stories*, the Pinehearst advert, the Mind Reader game. |
+| **Physical releases** (`phys`) | Anything you can hold: discs, books, magazines, soundtracks, collected editions — and the merchandise, the Topps sets and the Mezco figures. Strictly, "physical media" means formats that carry the work and not merchandise, which is why the column is named for releases rather than media. |
+| **Misc.** (`misc`) | The real world: broadcasts *about* the show (the BBC radio show, G4's *The Post Show*), the tour, the adverts, the fan club, the announcements. |
+
+Because the sheet's own column is the source, moving something between them is
+one line in `RECLASS`, keyed by `(column, exact text in the sheet)`. `DROP` is
+the same idea for a row the sheet packs into one cell and
+`build/data/manual_extras.json` lists out properly.
+
+Two rules follow from the columns:
+
+- **Sixth-column entries are named.** The sheet gives the *Unmasked* episodes
+  bare titles, which was fine when nothing else shared the column and is not
+  fine now that "Finale" sits next to *Inside Heroes* and a commentary track.
+  `name_unmasked()` prefixes them, matching the archive map *before* it renames
+  so `UNMASKED_FILES` keeps working on the bare title.
+- **A disc extra only gets a row if the disc is where it first existed.**
+  *Sword Saint* ran on yamagatofellowship.org in August 2007, the Drucker report
+  went up on Hana's blog that December, and *The Recruit*, *Going Postal* and
+  *Nowhere Man* are webisodes. All five are listed on the day they appeared, and
+  the *Also found on* line in the panel says which set carries them too.
+  `disc_extras.json`'s `not_entries` records each one and why.
+
 ## A note on the UK tie-ins
 
 BBC Two's *Heroes Unmasked* and the tie-in radio show ran on their own British
 schedule, weeks or months behind the US broadcast. The sheet places them beside
 the episode each one is about rather than on their UK air date, so a week reads
 as a single story beat across every medium; where a UK premiere date was
-recorded, it stays in the entry text. The site preserves that as-is.
+recorded, it stays in the entry text. The site preserves that as-is, and every
+*Unmasked* blurb ends with the real BBC Two date, so the panel says what the
+row cannot.
 
 ## Files
+
+The order matters in one place: `unmasked.py` and `extras.py` both read the
+timeline block back out of `index.html`, so a full rebuild is
+
+```bash
+py build/make_additions.py     # hand-written layer -> additions + hand_extras
+py build/sync.py --offline     # sheet + additions  -> timeline block
+py build/unmasked.py           # the 46 Unmasked blurbs, keyed by their new names
+py build/fetch_cards.py        # copy down anything new, repeat until 0 outstanding
+py build/extras.py             # everything -> extras block
+```
 
 ```
 index.html               the site (data inlined)
@@ -218,8 +270,9 @@ assets/cards/            every title card and cover, held locally
 
 build/sync.py            re-reads the sheet and rewrites the timeline block
 build/extras.py          merges every collector into the extras block
+build/make_additions.py  folds the hand-written layer into the two inputs above
 build/season4.py         the two-hour-premiere correction, shared by three scripts
-build/naming.py          one slug() for card filenames, shared by two
+build/naming.py          one slug() for card filenames, shared by three
 build/sheet.xlsx         last downloaded copy of the sheet
 
   collectors -- each writes one file under build/data/ and nothing else
@@ -228,8 +281,13 @@ build/ep_synopses.py        episode loglines
 build/gn_synopses.py        graphic novel blurbs
 build/gn_links.py           the novels Wikipedia's list missed (--audit to list them)
 build/gn_subtitles.py       the second half of a novel's name, where it is recorded
+build/gn_pdfs.py            NBC's own PDF of each issue, on the Wayback Machine
+build/gn_dates.py           the novels' dates against Wikipedia's list
+build/date_diff.py          every date against User:Iheartheroes' release list
 build/scrape_webisodes.py   webisode blurbs, cards and subtitles
 build/scrape_evo_sites.py   sites, Evolutions and iStory (--probe <name> to look)
+build/istory.py             one synopsis per iStory chapter
+build/unmasked.py           the 46 Heroes Unmasked blurbs, dates and intertitles
 build/herotruther.py        the five lost HeroTruther videos
 build/phys_cards.py         cover art for the physical releases
 build/arg_schedule.py       which weeks a lumped ARG entry really ran across
@@ -238,9 +296,21 @@ build/link_archive.py       regenerates the Heroes Unmasked -> archive.org map
 build/watch_snapshot.py     refreshes the offline where-to-watch fallback
 build/buy_blurbs.py         refreshes the where-to-buy blurbs (Wikipedia)
 
-  hand-written, merged last so they win
-build/data/hand_extras.json blurbs no collector can reach
-build/data/additions.json   releases the sheet has no row for
+  checks
+build/blurb_audit.py        which entries still have no blurb, by column
+build/check_cards.py        every card on disk is the image type it claims to be
+build/check_episodes.py     the episode codes against the season articles
+build/check_video.py        every Unmasked file actually streams
+build/yt.py                 upload date, length and title of a YouTube id
+
+  hand-written -- edit these, not the two files they generate
+build/data/manual_extras.json  new releases, hand blurbs, and the `series` rules
+                               that spread one blurb over a run of entries
+build/data/disc_extras.json    what is on each set, and which column it belongs in
+
+  generated by make_additions.py, never edited
+build/data/hand_extras.json    blurbs no collector can reach
+build/data/additions.json      releases the sheet has no row for
 ```
 
 Heroes is a trademark of NBCUniversal. This is an unofficial fan reference.

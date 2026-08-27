@@ -93,7 +93,7 @@ UNMASKED_FILES = {
 # see the note above videoFor() in index.html for why that differs from the
 # Unmasked episodes. Inside the Eclipse #09 is not on archive.org at all.
 EXTRA_LINKS = {
-    (194, "unm", "Inside the Eclipse #02"):
+    (194, "bts", "Inside the Eclipse #02"):
         "https://archive.org/details/Heroes_Reborn_-_Inside_the_Eclipse_Episode_2_-_Odessa",
     # The pilot NBC never aired -- longer, differently cut, and the only episode
     # of the series that was never sold anywhere.
@@ -109,11 +109,30 @@ def attach_archive(row, key, items, applied):
         if url:
             applied.add(it["t"])
             it.setdefault("l", url)
-        if key == "unm" and it["t"] in UNMASKED_FILES:
+        if key == "bts" and it["t"] in UNMASKED_FILES:
             it["ia"] = UNMASKED_ID + "/" + UNMASKED_FILES[it["t"]]
     return items
 
-KEYS = ["date", "ep", "gn", "web", "evo", "unm", "phys", "misc"]
+
+# The sixth column used to be Heroes Unmasked and nothing else, so the sheet
+# gives its episodes bare titles. It is now the whole behind-the-scenes column
+# -- Inside Heroes, the disc featurettes, Countdown to the Premiere -- and
+# "Finale" or "Isaac" on their own no longer say what they are. Naming them
+# here rather than in the sheet keeps the archive map above matching on the
+# title the archive item uses.
+UNM_CODE = re.compile(r"^\dx\d\d$")
+
+
+def name_unmasked(key, items):
+    if key != "bts":
+        return items
+    for it in items:
+        if it["t"] in UNMASKED_FILES or UNM_CODE.match(it.get("c") or ""):
+            it["t"] = "Unmasked: " + it["t"]
+    return items
+
+
+KEYS = ["date", "ep", "gn", "web", "evo", "bts", "phys", "misc"]
 HEADER_ROW = 3          # column titles (and their source links) live here
 FIRST_DATA_ROW = 4
 
@@ -173,6 +192,75 @@ ROW_FIXES = {
     # "Starting Over" is right for #159; #162 is "Second Chances"
     (172, "gn", "Starting Over"): "Second Chances",
 }
+
+# --- columns the sheet files under the wrong medium --------------------------
+# The sheet has a single "misc" column for everything that is not an episode, a
+# novel, a webisode, an ARG chapter or a disc, and it had grown into three
+# unrelated things at once. They are split here rather than in the sheet:
+#
+#   making-of material  -> behind the scenes, beside Heroes Unmasked
+#   in-fiction artefacts -> Evolutions, where the rest of the ARG already is
+#   merchandise          -> the physical releases, which have somewhere to buy
+#
+# What stays in Misc. is the real-world material: broadcasts *about* the show,
+# the tour, the adverts, the fan club, the announcements.
+#
+#   (column, exact text in the sheet) -> {k: new column, t: new title,
+#                                         c: code to give it}
+RECLASS = {
+    ("misc", "9thwonders.com"):                   {"k": "evo"},
+    ("misc", "Claire & the Cat flash animation"): {"k": "evo"},
+    ("misc", "Heroes Reborn app"):                {"k": "evo"},
+    ("misc", "Inside Heroes (Heroes Webisode Behind the Story)"):
+        {"k": "bts", "t": "Inside Heroes: Heroes Webisode Behind the Story"},
+    # numbered like the Unmasked episodes it now sits beside
+    ("misc", "Heroes: Countdown to the Premiere (#3x00)"):
+        {"k": "bts", "t": "Heroes: Countdown to the Premiere", "c": "3x00"},
+    ("misc", "Topps Heroes Series 1 Trading Card Set"): {"k": "phys"},
+    ("misc", "Topps Heroes Series 2 Trading Card Set"): {"k": "phys"},
+    ("misc", "Action figures: Series 1"):               {"k": "phys"},
+    ("misc", "Action figures: Series 2"):               {"k": "phys"},
+    # a 566-page TV Guide book, not a broadcast -- it belongs with the other
+    # books rather than with the adverts
+    ("misc", "Heroes: Some People Are Born to Be Extraordinary"): {"k": "phys"},
+}
+
+# Rows the sheet packs into one line and that are listed out in
+# build/data/extra_releases.json instead.
+DROP = {
+    ("misc", "Inside Heroes #1 to #8"),
+}
+
+
+def apply_reclass(entries):
+    moved, dropped = 0, 0
+    for entry in entries:
+        cols = entry.get("c") or {}
+        landing = {}
+        for key, items in list(cols.items()):
+            keep = []
+            for it in items:
+                if (key, it["t"]) in DROP:
+                    dropped += 1
+                    continue
+                rule = RECLASS.get((key, it["t"]))
+                if not rule:
+                    keep.append(it)
+                    continue
+                if rule.get("t"):
+                    it["t"] = rule["t"]
+                if rule.get("c"):
+                    it["c"] = rule["c"]
+                landing.setdefault(rule["k"], []).append(it)
+                moved += 1
+            if keep:
+                cols[key] = keep
+            else:
+                del cols[key]
+        for key, items in landing.items():
+            cols.setdefault(key, []).extend(items)
+    return moved, dropped
+
 
 # Undated rows in the date column. DATE_LABELS ones read as the row's own date;
 # anything else becomes a full-width divider above the row.
@@ -268,6 +356,10 @@ def apply_bonus(entries):
 DATE_MOVES = {
     ("gn", "Viewpoints"): "2008-11-03",
     ("gn", "From the Files of Primatech, Part 8"): "2010-06-07",
+    # Heroes Wiki dates the Drucker report to the day Hana Gitelman posted the
+    # four clips to her blog, 13 December 2007 -- the Thursday of the following
+    # week from where the sheet files it.
+    ("evo", "Global News Interactive / The Drucker Files"): "2007-12-10",
 }
 
 
@@ -444,6 +536,7 @@ def build(path):
                 continue
             items = apply_fixes(r, KEYS[i], split_items(str(v).strip()), applied)
             items = attach_archive(r, KEYS[i], items, applied)
+            items = name_unmasked(KEYS[i], items)
             if cells[i].hyperlink:
                 items[0]["l"] = cells[i].hyperlink.target
             cols[KEYS[i]] = items
@@ -459,6 +552,10 @@ def build(path):
 
     print("season four: renumbered %d codes around the two-hour premiere"
           % season4.merge_entries(entries))
+
+    moved, dropped = apply_reclass(entries)
+    print("columns: moved %d releases out of Misc., dropped %d packed rows"
+          % (moved, dropped))
 
     print("dates: moved %d items into the week two sources agree on"
           % apply_moves(entries))

@@ -70,6 +70,22 @@ def load(name):
     return json.load(open(p, encoding="utf-8"))
 
 
+_TITLES = {}
+
+
+def timeline_titles(key):
+    """Every title the timeline holds in one column, read back out of the data
+    block sync.py wrote. Used to spread one blurb over a run of entries."""
+    if not _TITLES:
+        html = open(HTML, encoding="utf-8").read()
+        m = re.search(r'id="timeline-data">(.*?)</script>', html, re.S)
+        data = json.loads(m.group(1)) if m else {"entries": []}
+        for entry in data["entries"]:
+            for col, items in (entry.get("c") or {}).items():
+                _TITLES.setdefault(col, []).extend(it["t"] for it in items)
+    return _TITLES.get(key, [])
+
+
 def main():
     syn = load("gn_synopses.json")
     imgs = load("gn_wiki.json").get("found", {})
@@ -245,16 +261,96 @@ def main():
         if e:
             evo[title] = e
 
-    # The disc extras and the commentaries: their own releases, keyed by title.
+    # Everything that is not a release of the story itself: the adverts, the
+    # tour, the fan club, the programmes about the show. Keyed by title.
     misc = {}
+
+    # Behind the scenes: the 46 Heroes Unmasked episodes, Inside Heroes, the
+    # disc featurettes and the commentaries. Keyed by title.
+    #
+    # Thirteen of the Unmasked episodes have their intertitle on the wiki and
+    # thirty-three do not; rather than leave those panels blank, the series'
+    # own title card stands in, the way one picture stands for every iStory
+    # chapter.
+    bts = {}
+    unm = load("unmasked.json")
+    series_card = local.get("bts-unmasked") or unm.get("series_img")
+    for title, rec in (unm.get("found") or {}).items():
+        e = {}
+        if rec.get("d"):
+            e["d"] = rec["d"]
+        if rec.get("wiki"):
+            e["wiki"] = rec["wiki"]
+        e["img"] = rec.get("img") or series_card
+        if not e["img"]:
+            del e["img"]
+        # These sit beside the episode they are about rather than on their own
+        # UK date -- the footer says why -- so the real date has to be in the
+        # blurb, or it is nowhere.
+        if rec.get("aired"):
+            e["d"] = (e.get("d", "").rstrip() + " ").lstrip() + \
+                     "First shown on BBC Two, %s." % rec["aired"]
+        bts[title] = e
 
     # Written by hand, for what no collector can reach. Merged last, so it wins.
     hand = load("hand_extras.json")
     for group, target in (("gn", gn), ("ep", ep), ("web", web), ("evo", evo),
-                          ("site", site), ("istory", istory), ("phys", phys),
-                          ("misc", misc)):
+                          ("bts", bts), ("site", site), ("istory", istory),
+                          ("phys", phys), ("misc", misc)):
         for key, rec in (hand.get(group) or {}).items():
             target.setdefault(key, {}).update(rec)
+
+    # One blurb across a whole run of entries -- fifteen weeks of the radio
+    # show, six of The Post Show -- rather than the same paragraph written out
+    # fifteen times. An entry with a blurb of its own keeps it.
+    by_group = {"gn": gn, "ep": ep, "web": web, "evo": evo, "bts": bts,
+                "site": site, "istory": istory, "phys": phys, "misc": misc}
+    spread = 0
+    for rule in (load("manual_extras.json").get("series") or []):
+        target = by_group.get(rule.get("g"))
+        if target is None:
+            continue
+        pat = re.compile(rule["re"])
+        fields = {k: v for k, v in rule.items() if k not in ("g", "re", "card")}
+        # one picture for the whole run, fetched once under the rule's own name
+        if rule.get("card") and local.get(rule["card"]):
+            fields["img"] = local[rule["card"]]
+        for title in timeline_titles(rule["g"]):
+            if not pat.search(title):
+                continue
+            rec = target.setdefault(title, {})
+            for k, v in fields.items():
+                rec.setdefault(k, v)
+            spread += 1
+    if spread:
+        print("series   %3d entries covered by a shared blurb" % spread)
+
+    # A disc extra has no art of its own, so it borrows the cover of the box it
+    # came in -- named by make_additions.py as `artof`, resolved here because
+    # this is where the physical releases' pictures are known.
+    borrowed = 0
+    for table in (bts, evo):
+        for rec in table.values():
+            box = rec.pop("artof", None)
+            if box and not rec.get("img"):
+                art = (phys.get(box) or {}).get("img")
+                if art:
+                    rec["img"] = art
+                    borrowed += 1
+    if borrowed:
+        print("discs    %3d extras showing the cover of the set they are on"
+              % borrowed)
+
+    # Where fetch_cards.py has copied a picture down, serve our own rather than
+    # someone's hobby server. Only the title-keyed groups: the rest are handled
+    # where they are built, keyed by code.
+    for group, table in (("evo", evo), ("site", site), ("phys", phys),
+                         ("misc", misc), ("bts", bts)):
+        for title, rec in table.items():
+            if str(rec.get("img", "")).startswith("http"):
+                own = local.get("%s-%s" % (group, slug(title)))
+                if own:
+                    rec["img"] = own
 
     # The wiki serves whatever thumbnail width the page happened to ask for;
     # an 80px logo is a favicon, not a card. Ask for a card-sized one.
@@ -263,12 +359,13 @@ def main():
         shared = re.sub(r"/\d+px-", "/250px-", shared)
 
     out = {"gn": gn, "ep": ep, "web": web, "site": site, "istory": istory,
-           "evo": evo, "phys": phys, "misc": misc,
+           "evo": evo, "bts": bts, "phys": phys, "misc": misc,
            "as_sites": evo_site.get("as_sites") or [],
            "istory_img": local.get("istory") or shared}
 
     # one pass over every blurb, whichever collector wrote it
-    for group in ("gn", "ep", "web", "site", "istory", "evo", "phys", "misc"):
+    for group in ("gn", "ep", "web", "site", "istory", "evo", "bts", "phys",
+                  "misc"):
         for rec in out[group].values():
             for field in ("d", "by", "note", "sub"):
                 if rec.get(field):
@@ -296,8 +393,10 @@ def main():
     print("sites    %3d linked, %3d with a picture" % (len(site),
           sum(1 for v in site.values() if "img" in v)))
     print("evo      %3d artefacts" % len(evo))
+    print("bts      %3d behind the scenes, %3d with a picture"
+          % (len(bts), sum(1 for v in bts.values() if "img" in v)))
     print("physical %3d with cover art" % len(phys))
-    print("misc     %3d disc extras and commentaries" % len(misc))
+    print("misc     %3d real-world releases" % len(misc))
     print("istory   %3d chapters" % len(istory))
     print("wrote %.1f KB into index.html" % (len(blob) / 1024))
 

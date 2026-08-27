@@ -1,63 +1,73 @@
 {
- "_note": "What is on the discs, entered by hand from dvdmg.com and bluray.highdefdigest.com reviews, and from tvacdb.sandboxen.com for the commentaries. Runtimes are the reviewers' stopwatch figures where they gave one. Each becomes its own entry in the week its set came out; build/data/additions.json is generated from this.",
+ "_note": "What is on the discs, entered by hand from the High-Def Digest and dvdmg.com reviews, and from tvacdb.sandboxen.com for the commentaries. Runtimes are the reviewers' stopwatch figures where they gave one. Each becomes its own entry in the week its set came out; build/data/additions.json is generated from this. `k` is the column the extra belongs in: `bts` for making-of material, `evo` for footage and artefacts that are part of the fiction rather than about it. `src` on a set is where the blurbs came from.",
 
  "sets": [
-  {"season": "s1", "d": "2007-08-27", "set": "the season one DVD"},
-  {"season": "s2", "d": "2008-08-25", "set": "the season two set"},
-  {"season": "s3", "d": "2009-08-31", "set": "the season three set"},
-  {"season": "s4", "d": "2010-08-06", "set": "the season four set"},
-  {"season": "hr", "d": "2016-04-07", "set": "the Heroes Reborn set"}
+  {"season": "s1",   "d": "2007-08-27", "set": "the season one DVD",
+   "src": "https://bluray.highdefdigest.com/1450/heroes_s1.html",
+   "art": "Heroes: The Complete First Season (DVD)"},
+  {"season": "s1ce", "d": "2007-09-03", "set": "the Collector's Edition",
+   "src": "https://www.amazon.com/Heroes-Exclusive-Packaging-Miniature-Paintings/dp/B000VIU0NI"},
+  {"season": "s2",   "d": "2008-08-25", "set": "the season two set",
+   "src": "https://bluray.highdefdigest.com/1451/heroes_s2.html",
+   "art": "Heroes: The Complete Second Season (DVD/Blu-ray)"},
+  {"season": "s3",   "d": "2009-08-31", "set": "the season three set",
+   "src": "https://bluray.highdefdigest.com/2449/heroes_s3.html",
+   "art": "Heroes: The Complete Third Season (DVD/Blu-ray)"},
+  {"season": "s4",   "d": "2010-08-06", "set": "the season four set",
+   "src": "https://bluray.highdefdigest.com/3545/heroes_s4.html",
+   "art": "Heroes: The Complete Fourth Season (DVD/Blu-ray)"},
+  {"season": "hr",   "d": "2016-04-07", "set": "the Heroes Reborn set",
+   "src": "https://bluray.highdefdigest.com/29752/heroesreborneventseries.html",
+   "art": "Heroes Reborn: Event Series (DVD/Blu-ray)"}
  ],
 
  "extras": {
   "s1": [
-   {"t": "50 deleted scenes", "rt": "49 min", "b": "Cut material from nineteen of the twenty-three episodes. Mostly extensions rather than lost plot -- the exception is Genesis, whose trims belong to the terrorist thread the series dropped."},
-   {"t": "The Making of Heroes", "rt": "10 min", "b": "The short official overview: where the idea came from, how the cast was found, the Comic-Con debut that made it a phenomenon before it aired."},
-   {"t": "Special Effects", "rt": "9 min", "b": "The difference between an effect done on set and one done in a computer, worked through on the scene where Hiro stops time in a Tokyo street."},
-   {"t": "The Stunts", "rt": "10 min", "b": "Stunt coordinator Ian Quinn on how the falls and fights were staged, with raw on-set footage of the takes."},
-   {"t": "A Profile of Artist Tim Sale", "rt": "11 min", "b": "The comics artist who painted everything Isaac Mendez paints, on his career and on working colour-blind."},
-   {"t": "The Score", "rt": "9 min", "b": "Wendy Melvoin and Lisa Coleman on writing and recording the series' music."},
-   {"t": "Mind Reader game", "rt": "", "b": "A numerical parlour trick on disc five, dressed up as a test of Matt Parkman's telepathy."}
+   {"t": "50 deleted scenes", "k": "evo", "rt": "49 min", "b": "Cut material from nineteen of the twenty-three episodes. Mostly extensions rather than lost plot -- the exception is Genesis, whose trims belong to the terrorist thread the series dropped."},
+   {"t": "The Making of Heroes", "k": "bts", "rt": "10 min", "b": "The short official overview: where the idea came from, how the cast was found, the Comic-Con debut that made it a phenomenon before it aired."},
+   {"t": "Special Effects", "k": "bts", "rt": "9 min", "b": "The difference between an effect done on set and one done in a computer, worked through on the scene where Hiro stops time in a Tokyo street."},
+   {"t": "The Stunts", "k": "bts", "rt": "10 min", "b": "Stunt coordinator Ian Quinn on how the falls and fights were staged, with raw on-set footage of the takes."},
+   {"t": "A Profile of Artist Tim Sale", "k": "bts", "rt": "11 min", "b": "The comics artist who painted everything Isaac Mendez paints, on his career and on working colour-blind."},
+   {"t": "The Score", "k": "bts", "rt": "9 min", "b": "Wendy Melvoin and Lisa Coleman on writing and recording the series' music."},
+   {"t": "Mind Reader game", "k": "evo", "rt": "", "b": "A numerical parlour trick on disc five, dressed up as a test of Matt Parkman's telepathy."}
+  ],
+  "s1ce": [
+   {"t": "Cast at the Museum of Television and Radio", "k": "bts", "rt": "45 min", "b": "A bonus disc unique to the Collector's Edition: three quarters of an hour of the cast and crew in conversation at the Museum of Television and Radio, sold nowhere else."},
+   {"t": "Four Miniature Paintings", "k": "bts", "rt": "", "b": "Not a feature but four objects in the box: miniature reproductions of Isaac Mendez's prophetic canvases, painted for the series by Tim Sale."}
   ],
   "s2": [
-   {"t": "Heroes Season Two: A New Beginning", "rt": "15 min", "b": "A promotional overview of the new season and its new characters, made to be watched before the episodes rather than after."},
-   {"t": "Takezo Kensei: Sword Saint", "rt": "24 min", "b": "A straight-faced fake documentary on the historical Kensei, complete with academics and period art, for a man who never existed."},
-   {"t": "Global News Interactive / The Drucker Files", "rt": "9 min", "b": "The in-fiction news report on Richard Drucker, collected from the campaign that ran online."},
-   {"t": "Genetics of a Scene", "rt": "23 min", "b": "Allan Arkush and Greg Beeman take a few scenes apart and explain what it took to shoot each one."},
-   {"t": "Season Three Sneak Peek", "rt": "9 min", "b": "Cast and crew promising the next year will be extraordinary, with almost no detail attached."},
-   {"t": "17 deleted scenes", "rt": "24 min", "b": "Trims from six episodes -- an alternate opening for Nathan, more of Hiro in feudal Japan, more of Monica in New Orleans."},
-   {"t": "Generations alternate ending", "rt": "18 min", "b": "The finale as it was first cut, reusing much of the aired footage but sending the virus somewhere very different."},
-   {"t": "Behind the Alternate Ending of Generations", "rt": "11 min", "b": "Tim Kring, Jeph Loeb and Jesse Alexander on why the ending changed -- the one place on any of these discs where the writers' strike is discussed directly."},
-   {"t": "Untold Stories", "rt": "12 min", "b": "Scenes shot for the twelfth and thirteenth episodes of a season that stopped at eleven. Mostly Elle hunting Sylar."},
-   {"t": "NBC.com featurettes", "rt": "4 min", "b": "Three web teasers made to look like camera-phone footage: Hotel Corinthian Explosion, Maya y Alejandro Viral Video, and Nathan and Peter Brooklyn Cam."},
-   {"t": "Tim Sale Gallery of Screen Art", "rt": "2 min", "b": "Close-ups of the paintings Sale made for the series."}
+   {"t": "Heroes Season Two: A New Beginning", "k": "bts", "rt": "15 min", "b": "A promotional overview of the new season and its new characters, made to be watched before the episodes rather than after."},
+   {"t": "Genetics of a Scene", "k": "bts", "rt": "23 min", "b": "Allan Arkush and Greg Beeman take a few scenes apart and explain what it took to shoot each one."},
+   {"t": "Season Three Sneak Peek", "k": "bts", "rt": "9 min", "b": "Cast and crew promising the next year will be extraordinary, with almost no detail attached."},
+   {"t": "17 deleted scenes", "k": "evo", "rt": "24 min", "b": "Trims from six episodes -- an alternate opening for Nathan, more of Hiro in feudal Japan, more of Monica in New Orleans."},
+   {"t": "Generations alternate ending", "k": "evo", "rt": "18 min", "b": "The finale as it was first cut, reusing much of the aired footage but sending the virus somewhere very different."},
+   {"t": "Behind the Alternate Ending of Generations", "k": "bts", "rt": "11 min", "b": "Tim Kring, Jeph Loeb and Jesse Alexander on why the ending changed -- the one place on any of these discs where the writers' strike is discussed directly."},
+   {"t": "Untold Stories", "k": "evo", "rt": "12 min", "b": "Scenes shot for the twelfth and thirteenth episodes of a season that stopped at eleven. Mostly Elle hunting Sylar."},
+   {"t": "NBC.com featurettes", "k": "evo", "rt": "4 min", "b": "Three web teasers made to look like camera-phone footage: Hotel Corinthian Explosion, Maya y Alejandro Viral Video, and Nathan and Peter Brooklyn Cam."},
+   {"t": "Tim Sale Gallery of Screen Art", "k": "bts", "rt": "2 min", "b": "Close-ups of the paintings Sale made for the series."}
   ],
   "s3": [
-   {"t": "36 minutes of deleted scenes", "rt": "36 min", "b": "Includes the Hard Knox webisodes, cut in among the trims rather than listed as a series of their own."},
-   {"t": "The Super Powers of Heroes", "rt": "8 min", "b": "Stunt coordinator Tim Gilbert on staging the abilities, with before-effects footage of how the shots actually looked on set."},
-   {"t": "Completing the Scene", "rt": "8 min", "b": "The effects team on turning those plates into finished shots, including the ruined-future sequence."},
-   {"t": "Alternate Stories: The Recruit", "rt": "18 min", "b": "The five-part webisode series about the soldiers of Volume 3, collected on the discs."},
-   {"t": "Alternate Stories: Going Postal", "rt": "10 min", "b": "Echo's origin, the first Heroes webisode series, collected on the discs."},
-   {"t": "Alternate Stories: Nowhere Man", "rt": "18 min", "b": "Eric Doyle's story after his episodes, collected on the discs."},
-   {"t": "Pinehearst Commercial", "rt": "1 min", "b": "A mock advertisement for the company's civilian front."},
-   {"t": "The Prop Box", "rt": "5 min", "b": "A walk through the show's gold room, where the props worth keeping ended up -- including Isaac's original canvases."},
-   {"t": "Genetics of a Scene", "rt": "20 min", "b": "Four segments on specific shots: Claire's brain, the deformed test subject's prosthetics, Daphne's speed, and the Matt-and-Danko chase."},
-   {"t": "The Writer's Forum", "rt": "13 min", "b": "Tim Kring, Adam Armus and Aron Eli Coleite on what they were trying to do with the Villains and Fugitives volumes."},
-   {"t": "Tim Sale Gallery of Screen Art", "rt": "1 min", "b": "The season's paintings, including the ones painted onto rock."}
+   {"t": "36 minutes of deleted scenes", "k": "evo", "rt": "36 min", "b": "Includes the Hard Knox webisodes, cut in among the trims rather than listed as a series of their own."},
+   {"t": "The Super Powers of Heroes", "k": "bts", "rt": "8 min", "b": "Stunt coordinator Tim Gilbert on staging the abilities, with before-effects footage of how the shots actually looked on set."},
+   {"t": "Completing the Scene", "k": "bts", "rt": "8 min", "b": "The effects team on turning those plates into finished shots, including the ruined-future sequence."},
+   {"t": "Pinehearst Commercial", "k": "evo", "rt": "1 min", "b": "A mock advertisement for the company's civilian front."},
+   {"t": "The Prop Box", "k": "bts", "rt": "5 min", "b": "A walk through the show's gold room, where the props worth keeping ended up -- including Isaac's original canvases."},
+   {"t": "Genetics of a Scene", "k": "bts", "rt": "20 min", "b": "Four segments on specific shots: Claire's brain, the deformed test subject's prosthetics, Daphne's speed, and the Matt-and-Danko chase."},
+   {"t": "The Writer's Forum", "k": "bts", "rt": "13 min", "b": "Tim Kring, Adam Armus and Aron Eli Coleite on what they were trying to do with the Villains and Fugitives volumes."},
+   {"t": "Tim Sale Gallery of Screen Art", "k": "bts", "rt": "1 min", "b": "The season's paintings, including the ones painted onto rock."}
   ],
   "s4": [
-   {"t": "45 minutes of deleted scenes", "rt": "45 min", "b": "Trims across the season, spread over all four discs."},
-   {"t": "Deconstructing Sylar", "rt": "21 min", "b": "Zachary Quinto, Tim Kring and Adam Armus on the character the series could never quite finish with."},
-   {"t": "Heroes Revolution", "rt": "11 min", "b": "How the comics, the webisodes and the online campaign were meant to fit around the show."},
-   {"t": "Milo Speaks", "rt": "5 min", "b": "Milo Ventimiglia on comics, and on the ones he was publishing himself."},
-   {"t": "Genetics of a Scene", "rt": "42 min", "b": "The longest of these: several sequences taken apart shot by shot, including the car filling with water."},
-   {"t": "Message from Tim Kring", "rt": "4 min", "b": "Recorded after the cancellation and hidden before the last episode, saying the story was not finished."},
-   {"t": "Sullivan Brothers Design Gallery", "rt": "2 min", "b": "Design work for the carnival."},
-   {"t": "Heroes Connections", "rt": "", "b": "An on-disc chart of who is connected to whom, available from every disc in the set."}
+   {"t": "45 minutes of deleted scenes", "k": "evo", "rt": "45 min", "b": "Trims across the season, spread over all four discs."},
+   {"t": "Deconstructing Sylar", "k": "bts", "rt": "21 min", "b": "Zachary Quinto, Tim Kring and Adam Armus on the character the series could never quite finish with."},
+   {"t": "Heroes Revolution", "k": "bts", "rt": "11 min", "b": "How the comics, the webisodes and the online campaign were meant to fit around the show."},
+   {"t": "Milo Speaks", "k": "bts", "rt": "5 min", "b": "Milo Ventimiglia on comics, and on the ones he was publishing himself."},
+   {"t": "Genetics of a Scene", "k": "bts", "rt": "42 min", "b": "The longest of these: several sequences taken apart shot by shot, including the car filling with water."},
+   {"t": "Message from Tim Kring", "k": "bts", "rt": "4 min", "b": "Recorded after the cancellation and hidden before the last episode, saying the story was not finished."},
+   {"t": "Sullivan Brothers Design Gallery", "k": "bts", "rt": "2 min", "b": "Design work for the carnival."}
   ],
   "hr": [
-   {"t": "17 deleted scenes", "rt": "18 min", "b": "Trims from nine of the thirteen episodes."},
-   {"t": "Heroes Reborn: Reliving the Legacy", "rt": "11 min", "b": "Tim Kring and the cast, old and new, on returning to the story five years after it ended."}
+   {"t": "17 deleted scenes", "k": "evo", "rt": "18 min", "b": "Trims from nine of the thirteen episodes."},
+   {"t": "Reliving the Legacy", "k": "bts", "rt": "11 min", "b": "Tim Kring and the cast, old and new, on returning to the story five years after it ended."}
   ]
  },
 
@@ -67,6 +77,13 @@
   "s3": {"n": 25, "eps": "all twenty-five episodes of Villains and Fugitives"},
   "s4": {"n": 4, "eps": "Once Upon a Time in Texas, Shadowboxing, The Fifth Stage and Brave New World"}
  },
+
+ "not_entries": [
+  "Season 2: Takezo Kensei: Sword Saint -- not a disc release. yamagatofellowship.org began airing the five-part documentary on 27 August 2007; the timeline lists it there, under Evolutions, and the panel says the discs also carry it.",
+  "Season 2: Global News Interactive / The Drucker Files -- not a disc release either. Hana Gitelman posted the four clips to her blog on 13 December 2007; that is where the timeline lists it.",
+  "Season 3: Alternate Stories: The Recruit / Going Postal / Nowhere Man -- these are the webisodes, already listed in the week each went out. The discs collect them, which the panel says.",
+  "Season 4: Heroes Connections -- disc navigation art, not a feature."
+ ],
 
  "corrections": [
   "Gabriel's list gave 18 min for Behind the Alternate Ending of Generations; that is the runtime of the alternate ending itself. The discussion after it runs about 11.",

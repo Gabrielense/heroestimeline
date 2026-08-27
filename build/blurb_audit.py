@@ -15,10 +15,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 HTML = os.path.join(HERE, os.pardir, "index.html")
 OUT = os.path.join(HERE, "data", "blurb_audit.json")
 
-COLUMNS = ["ep", "gn", "web", "evo", "unm", "phys", "misc"]
+COLUMNS = ["ep", "gn", "web", "evo", "bts", "phys", "misc"]
 NAMES = {"ep": "Episodes", "gn": "Graphic novels", "web": "Webisodes",
-         "evo": "Evolutions & iStory", "unm": "Heroes Unmasked",
-         "phys": "Physical media", "misc": "Misc. releases"}
+         "evo": "Evolutions & iStory", "bts": "Behind the scenes",
+         "phys": "Physical releases", "misc": "Misc. releases"}
 
 
 def block(html, ident):
@@ -38,8 +38,10 @@ def lookup(x, key, item):
         return code and (x.get("web") or {}).get(code)
     if key == "phys":
         return (x.get("phys") or {}).get(title)
+    if key == "bts":
+        return (x.get("bts") or {}).get(title)
     if key == "misc":
-        return (x.get("misc") or {}).get(title)
+        return (x.get("misc") or {}).get(title) or (x.get("site") or {}).get(title)
     if key == "evo":
         site = (x.get("site") or {}).get(title)
         if site:

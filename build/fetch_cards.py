@@ -91,6 +91,34 @@ def wanted():
                     out.append(("%s-%s" % (prefix, slug(k)), v["img"]))
         if blob.get("istory_img"):
             out.append(("istory", blob["istory_img"]))
+    # The Heroes Unmasked intertitles, and the series card that stands in for
+    # the thirty-three episodes the wiki has no intertitle for.
+    unm = os.path.join(DATA, "unmasked.json")
+    if os.path.exists(unm):
+        blob = json.load(open(unm, encoding="utf-8"))
+        for k, v in (blob.get("found") or {}).items():
+            if v.get("img"):
+                out.append(("bts-%s" % slug(k), v["img"]))
+        if blob.get("series_img"):
+            out.append(("bts-unmasked", blob["series_img"]))
+    # Pictures named in the hand-written layer -- Inside Heroes, the fan club,
+    # the trading cards, the radio show. Keyed the same way extras.py looks
+    # them up again.
+    hand = os.path.join(DATA, "hand_extras.json")
+    if os.path.exists(hand):
+        blob = json.load(open(hand, encoding="utf-8"))
+        for group in ("evo", "site", "phys", "misc", "bts"):
+            for k, v in (blob.get(group) or {}).items():
+                if str(v.get("img", "")).startswith("http"):
+                    out.append(("%s-%s" % (group, slug(k)), v["img"]))
+    # One picture across a whole run of entries -- the radio show, The Post
+    # Show, the action figures -- named by the rule rather than by any one
+    # title, so it is fetched once instead of twenty-six times.
+    manual = os.path.join(DATA, "manual_extras.json")
+    if os.path.exists(manual):
+        for rule in (json.load(open(manual, encoding="utf-8")).get("series") or []):
+            if rule.get("card") and str(rule.get("img", "")).startswith("http"):
+                out.append((rule["card"], rule["img"]))
     return out
 
 

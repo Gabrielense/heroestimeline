@@ -1,0 +1,205 @@
+{
+ "_note": "The hand-written layer: releases no sheet row covers, and blurbs no collector can reach. build/make_additions.py folds this together with disc_extras.json and herotruther.json into additions.json (rows for sync.py) and hand_extras.json (blurbs for extras.py), so hand_extras.json is generated -- edit this file, never that one. Pictures are hot-linked from the heroeswiki.ddns.net mirror at their stored size: the mirror only serves thumbnail widths that already exist on disk, so asking it for a 250px copy of a 120px thumb is a 404. build/fetch_cards.py copies them down.",
+
+ "_dates": "Topps date both card sets 2008 on tradercracks.com; the sheet's weeks (May 2007 and June 2008) are kept, since the card databases are dating the copyright line rather than the release.",
+
+ "rows": [
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #1: Visual Effects"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #2: The Score"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #3: Wardrobe"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #4: Stunts"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #5: Makeup"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #6: Craft Services"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #7: The Artwork"},
+  {"d": "2007-05-21", "k": "bts", "t": "Inside Heroes #8: Production Design"},
+  {"d": "2007-05-21", "k": "misc", "t": "Heroes Character Profiles"}
+ ],
+
+ "series": [
+  {"g": "bts", "re": "^Inside Heroes #",
+   "wiki": "https://heroeswiki.ddns.net/wiki/Inside%20Heroes",
+   "l": "https://www.superherohype.com/features/93661-nbc-digital-launces-inside-heroes"},
+  {"g": "misc", "re": "^The Official Radio Show", "card": "misc-radio-show",
+   "d": "Heroes: The Official Radio Show went out on BBC Radio 7 every Saturday at 7.30pm alongside the BBC Two run, Jon Holmes and Xanthe Fuller going back over what had just happened and reading out the theories listeners sent in. No copy is known to survive: Radio 7 kept nothing of it.",
+   "img": "https://heroeswiki.ddns.net/images/d/db/Bbc.jpg",
+   "wiki": "https://heroeswiki.ddns.net/wiki/BBC"},
+  {"g": "misc", "re": "^The Post Show", "card": "misc-post-show",
+   "d": "A live half-hour wrap-up on G4, Saturday nights at 11pm, six of them between 3 November and 8 December 2007. Blair Butler and Kevin Pereira hosted, with webcam and instant-message segments through Stickam, interviews with the cast and crew, and editors from the fan sites guesting on headlines and theories. G4 archived none of it, and no episode is known to survive.",
+   "img": "https://heroeswiki.ddns.net/images/6/65/G4.jpg",
+   "wiki": "https://heroeswiki.ddns.net/wiki/The%20Post%20Show",
+   "l": "https://en.wikipedia.org/wiki/The_Post_Show"},
+  {"g": "phys", "re": "^Action figures", "card": "phys-action-figures",
+   "d": "Mezco Toyz' Heroes line: articulated figures about seven inches tall, each packed with a 3¾-inch diorama piece of the scene it came out of, with larger nine-inch deluxe versions announced for 2009.",
+   "img": "https://heroeswiki.ddns.net/images/e/ef/Action_figures_portal.jpg",
+   "wiki": "https://heroeswiki.ddns.net/wiki/Action%20figures"}
+ ],
+
+ "blurbs": {
+  "gn": {
+   "Novel Approach: The Hiro Collection": {
+    "d": "A reprint collection gathering six novels that follow Hiro Nakamura: Walls, Part 2; The Trial of the Black Bear; Past Experience; Baby Power; Stolen Fate; and The Trip, Part 1. Nothing in it was new -- it was a way back in for readers who had lost the thread.",
+    "wiki": "https://web.archive.org/web/20200514171611/https://heroeswiki.com/Novel_Approach:_The_Hiro_Collection"
+   },
+   "The Rogue": {
+    "d": "At a frathouse in Costa Verde, CA , college students Derek and Rick , hoping to join a fraternity , are sent on a scavenger hunt by the pledgemaster . They stop by Costa Verde High School to obtain their first item.",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Graphic%20Novel:The%20Rogue",
+    "img": "assets/cards/gn-the-rogue.jpg"
+   },
+   "The Last Shangri-La": {
+    "d": "In Goa , Traveler is asked by Hana Gitelman to deliver a message to a man named Drucker in the Kingdom of Bhutan . He enters the country, and easily adapts to his surroundings thanks to his command of languages . Traveling on foot, he soon reaches a village in the mountains.",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Graphic%20Novel:The%20Last%20Shangri-La",
+    "img": "assets/cards/gn-the-last-shangri-la.jpg"
+   }
+  },
+
+  "ep": {
+   "1x00": {
+    "sub": "In His Own Image",
+    "d": "The cut NBC never aired: longer than the broadcast premiere, differently assembled, and the only episode of the series that was never sold anywhere. It opens on Peter Petrelli standing at the edge of a New York rooftop, falling forward -- and waking in an apartment as Simone Deveaux comes in.",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Episode:Unaired_pilot"
+   },
+   "HR1x01": {
+    "img": "https://heroeswiki.ddns.net/images/thumb/5/53/BNW.jpg/250px-BNW.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Episode:Brave_New_World_(Heroes_Reborn)"
+   }
+  },
+
+  "evo": {
+   "Making of the Damen Peak Video, Part 1": {
+    "d": "A two-part behind-the-scenes piece on the Damen Peak shorts, posted during the Heroes Reborn campaign and lost when the channel carrying it went down."
+   },
+   "Making of the Damen Peak Video, Part 2": {
+    "d": "The second half of the Damen Peak making-of. Like the first, no copy is known to survive."
+   },
+   "HeroTruther: 4th of July Fail: Exploding Hand": {
+    "img": "https://img.youtube.com/vi/DrnjRDoQoVw/hqdefault.jpg",
+    "site": "https://www.youtube.com/watch?v=DrnjRDoQoVw",
+    "note": "Re-uploaded to YouTube by a viewer -- the only one of the five known to survive."
+   },
+   "Claire & the Cat flash animation": {
+    "d": "A short Flash animation of Claire rescuing a cat out of a tree and walking away from the fall, drawn to sell the premise before there was a series. It went up on Tim Sale's own site on 7 June 2006, where the way the site was built meant nothing ever cached it, and briefly onto NBC.com that August -- then came down before the pilot aired.",
+    "img": "https://heroeswiki.ddns.net/images/f/fe/Claireandthecatportal.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Claire%20and%20the%20Cat"
+   },
+   "Heroes Reborn app": {
+    "d": "NBC's companion app for the event series, first mentioned in July 2015. It carried the old show and the new at once: character-by-character routes through all four seasons with the key scenes attached, \"speed binge\" cuts of every episode, links out to iTunes for the full ones, and the Dark Matters shorts as they went up.",
+    "img": "https://heroeswiki.ddns.net/images/8/8e/Heroes_Reborn_app.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes%20Reborn%20app"
+   },
+   "Global News Interactive / The Drucker Files": {
+    "d": "An in-fiction news documentary on Richard Drucker, run by the news service Global News Interactive in two parts and four clips, which Hana Gitelman posted to her blog on 13 December 2007. It gives him a whole life: born in a forest in 1943, left on a monastery's steps, adopted in Argentina, and set on wiring the world together from a university in Virginia to Bangalore.",
+    "img": "https://heroeswiki.ddns.net/images/d/d5/Global_News_Interactive.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Global%20News%20Interactive"
+   }
+  },
+
+  "bts": {
+   "Inside Heroes #1: Visual Effects": {
+    "d": "Mark Kolpack, Anthony Ocampo and Ryan Wieber of Stargate Digital drew the line between a special effect, which happens on set, and a visual effect, which happens after the shoot -- then took the Tokyo street where Hiro stops time apart pass by pass: 3D objects built, real camera moves matched to digital ones, green rigging painted out, grain and focus added last so none of it shows.",
+    "img": "https://heroeswiki.ddns.net/images/f/f8/Vfx_tokyo_4_screens.JPG"
+   },
+   "Inside Heroes #2: The Score": {
+    "d": "Wendy Melvoin, Lisa Coleman and engineer Michael Perfitt on writing a film's worth of music every week. They read the first scripts expecting to go orchestral, then heard Shenkar and built the sound around his voice instead -- one held note that belongs to nothing else. Coleman called the score another character; Perfitt called the schedule a marathon.",
+    "img": "https://heroeswiki.ddns.net/images/e/e5/Score_music_room.JPG"
+   },
+   "Inside Heroes #3: Wardrobe": {
+    "d": "Costume designer Debra McGuire dressed the series by palette -- red, white and blue for Texas, sombre greys for New York, black and white for Japan -- and had to build clothes that could also be aged, blood-soaked, or torn open by a bone coming through on cue.",
+    "img": "https://heroeswiki.ddns.net/images/6/6c/Wardrobe_school_jacket.jpg"
+   },
+   "Inside Heroes #4: Stunts": {
+    "d": "Stunt coordinator Ian Quinn on why nearly every episode has stunt work: it is how an ability gets shown rather than described. He tested each one himself first, then let the actors do as much of it as the risk allowed, which he thought was what made it read as real.",
+    "img": "https://heroeswiki.ddns.net/images/f/f3/Stunts_adrian_flies.jpg"
+   },
+   "Inside Heroes #5: Makeup": {
+    "d": "Lori Madrigal's department, filmed around the fire at the end of Company Man. Prosthetic burns are cast and laid out to dry, a stand-in is made up in three grades of charring for three stages of the scene, and hot gel goes onto Jack Coleman's arm.",
+    "img": "https://heroeswiki.ddns.net/images/8/88/Makeup_hayden%27s_burns.jpg"
+   },
+   "Inside Heroes #6: Craft Services": {
+    "d": "John Hinterlong fed more than 150 people across several units at once out of a small kitchen, and kept the standing orders straight: Milo Ventimiglia vegetarian, Hayden Panettiere's French onion soup, Greg Grunberg on protein and no sugar.",
+    "img": "https://heroeswiki.ddns.net/images/3/34/Craft_services_snacks.jpg"
+   },
+   "Inside Heroes #7: The Artwork": {
+    "d": "Tim Sale on painting everything Isaac Mendez paints. He is colour-blind and not a painter by training, so he worked in greyscale on a computer and let that be turned into the canvas that went on set -- including the train wreck, worked up from a photograph into a prophecy.",
+    "img": "https://heroeswiki.ddns.net/images/3/38/Artwork_train_wreck_comparison.JPG"
+   },
+   "Inside Heroes #8: Production Design": {
+    "d": "Ruth Ammon designed to the words in the script and gave each character a look of their own. She walks through Mohinder's apartment motif by motif -- the objects from India, the scars flying glass left in the kitchen -- and, having not been told where the story was going, explains why the sets were built to be changed. She also gave away rather more of season two than she meant to.",
+    "img": "https://heroeswiki.ddns.net/images/3/34/Design_mohinder%27s_apartment_corner.jpg"
+   },
+   "Inside Heroes: Heroes Webisode Behind the Story": {
+    "d": "The ninth Inside Heroes, made a year after the other eight. Tim Kring on why the webisodes existed at all -- to go further into the mythology than an episode had room for, and to let a character live online before crossing into the show -- with Rebeka Montoya and Kiko Ellsworth on Going Postal and on Echo's ability.",
+    "img": "https://heroeswiki.ddns.net/images/8/8a/747.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Inside%20Heroes"
+   },
+   "Heroes: Countdown to the Premiere": {
+    "d": "NBC's own hour of countdown ahead of the Volume Three premiere. Masi Oka introduces a scene from The Second Coming, and a montage runs back through the story so far and through how far the show had travelled -- the references, the awards, the audiences abroad.",
+    "img": "https://heroeswiki.ddns.net/images/f/f8/Countdown_to_the_Premiere.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes:%20Countdown%20to%20the%20Premiere"
+   },
+   "Unmasked: A Heroes Welcome": {
+    "d": "One of two Unmasked programmes Heroes Wiki's episode list leaves out, so there is no summary of it to quote. The BBC broadcast survives on archive.org and plays here; the archive item files it as the ninth of season one."
+   },
+   "Unmasked: Heroes Return": {
+    "d": "The other one the wiki's list skips. The archive item files it ahead of Japanese Idol as season two, episode zero -- the programme that opened Unmasked's second run. It plays here."
+   }
+  },
+
+  "site": {
+   "Heroeswiki.com": {
+    "d": "A non-profit fan wiki started on 10 October 2006, a week after the pilot aired, to hold everything about the series in one place. It outlived NBC's own site, and it is still the fullest record of the show that exists -- most of the blurbs on this page come from it.",
+    "img": "https://heroeswiki.ddns.net/images/c/ce/Heroes_Wiki.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes%20Wiki"
+   }
+  },
+
+  "istory": {},
+
+  "phys": {
+   "Topps Heroes Series 1 Trading Card Set": {
+    "d": "Topps' first Heroes set: 90 base cards, seven to a pack, 24 packs to a hobby box, eight boxes to a case. Seeded through it were ten autographs on sticker signatures, five costume-swatch cards, ten foils, retail-only motion lenticulars, and sketch cards drawn by forty-five different artists -- Tim Sale, who painted for the show, among them.",
+    "img": "https://heroeswiki.ddns.net/images/d/dd/Trading_cards.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Trading%20cards",
+    "l": "https://www.tradercracks.com/2008-topps-heroes-trading-cards"
+   },
+   "Topps Heroes Series 2 Trading Card Set": {
+    "d": "The second set, drawn from season two: another 90 base cards, seven to a pack and 24 packs to a box, but ten boxes to a case. The inserts were the point of it -- fourteen autographs, five dual autographs, ten costume cards, five dual costumes, four autographed costumes, sketches and foils -- and every box was guaranteed one of them.",
+    "img": "https://heroeswiki.ddns.net/images/d/dd/Trading_cards.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Trading%20cards",
+    "l": "https://www.tradercracks.com/2008-topps-heroes-volume-2-trading-cards"
+   },
+   "Heroes: Some People Are Born to Be Extraordinary": {
+    "d": "A 566-page TV Guide book credited to Tim Kring, out a few months before Heroes Reborn: a summary of all 78 episodes of the original run, about seven pages and a set of screen grabs each.",
+    "img": "https://heroeswiki.ddns.net/images/9/93/Some_People_Are_Born_to_be_Extraordinary.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes:%20Some%20People%20Are%20Born%20to%20Be%20Extraordinary"
+   }
+  },
+
+  "misc": {
+   "Heroes Character Profiles": {
+    "d": "Opened on NBC.com the same day as Inside Heroes, and meant to do the opposite job: instead of showing how the show was made, retrace one character's season from the beginning. Peter Petrelli's went up first, on 21 May 2007, followed through the summer by Claire Bennet, Hiro Nakamura, Nathan Petrelli, Niki/Jessica Sanders, Matt Parkman and Mohinder Suresh among others.",
+    "l": "https://www.superherohype.com/features/93661-nbc-digital-launces-inside-heroes"
+   },
+   "Heroes World Tour": {
+    "d": "A promotional tour through several cities between 27 August and 1 September 2007, timed to land on the season one DVD and carry into the season two premiere.",
+    "img": "https://heroeswiki.ddns.net/images/0/06/Heroes_World_Tour.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes%20World%20Tour"
+   },
+   "Heroes All Access official fan club website": {
+    "d": "NBC's paid fan club, live from 9 April 2009 and reached through a myNBC account: wallpapers and downloads, members-only merchandise, discounted tickets to Heroes events, and a news blog written by the cast and crew. Joining brought a kit six to eight weeks later -- welcome letter, certificate, card, T-shirt, sketchbook and patch, with a cap and a backpack for VIPs.",
+    "img": "https://heroeswiki.ddns.net/images/d/d6/Heroes_All_Access.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Heroes%20All%20Access"
+   },
+   "Super Bowl XLIII commercials": {
+    "d": "Three spots during NBC's Super Bowl broadcast on 1 February 2009. The minute-long one, \"Heroes of the Gridiron\", puts the cast on a football field against NFL legends: Nathan goes long, Claire flips over a defender to catch it, Hiro freezes time and walks the ball in, and John Elway turns out to be one of them. There was also a crossover music video with Chuck and Medium lip-syncing \"Feelin' Alright?\", and a straight promo for the Fugitives premiere the next night.",
+    "img": "https://heroeswiki.ddns.net/images/2/26/SuperbowlCommercialLineofScrimmage.jpg",
+    "wiki": "https://heroeswiki.ddns.net/wiki/Super%20Bowl%20XLIII%20commercials",
+    "yt": "SP2u3Im4AVE"
+   },
+   "Heroes Reborn teaser in 2014 Winter Olympics commercials": {
+    "d": "No press release, no trade story first: NBC simply ran a teaser during its Olympic coverage on 22 February 2014 and let the audience work it out. Thirteen episodes had been ordered for 2015, with Tim Kring back. The copy here is a viewer's off-air recording, uploaded the same night.",
+    "img": "https://img.youtube.com/vi/1gvDteBO4io/hqdefault.jpg",
+    "yt": "1gvDteBO4io"
+   }
+  }
+ }
+}

@@ -2,11 +2,55 @@
 
 Working list for the next pass. Ticked items are done and pushed.
 
+## 0b. The Misc. split (Aug 2026)
+
+- [x] The sixth column is **Behind the scenes**, not *Heroes Unmasked*, and the
+      episodes read *Unmasked: Finale* so they can sit beside *Inside Heroes*
+      and a commentary track without ambiguity
+- [x] Misc. split four ways in `RECLASS`: making-of → behind the scenes,
+      in-fiction artefacts → Evolutions, merchandise → physical releases, and
+      the real world stays. The README has the table
+- [x] Disc extras renamed `Season N Extras: …`, each with the High-Def Digest
+      review it was written from as its source link, and each showing the cover
+      of the set it is on
+- [x] The five disc extras that are not disc releases — *Sword Saint*, the
+      Drucker report, and the three "Alternate Stories" webisode series — are
+      listed on the day they first appeared, with *Also found on* saying which
+      set carries them. `disc_extras.json`'s `not_entries` records why
+- [x] *Heroes Connections* dropped: disc navigation art, not a feature
+- [x] **All 46 Heroes Unmasked episodes have a blurb**, from the one wiki
+      article that carries them all (`build/unmasked.py`), each ending with its
+      real BBC Two date. 13 have their intertitle; the rest show the series card
+- [x] *Inside Heroes* listed out as its eight featurettes, each with its own
+      picture off the wiki, plus *Heroes Character Profiles*, which launched the
+      same day
+- [x] Blurbs and pictures for Heroeswiki.com, the BBC radio show, *The Post
+      Show*, the World Tour, Heroes All Access, the Heroes Reborn app,
+      *Claire & the Cat*, the Drucker files, the two Topps sets, the Mezco
+      figures and *Countdown to the Premiere*
+- [x] The radio show and *The Post Show* carry one blurb across all 26 and all
+      6 entries, through the `series` rules in `manual_extras.json`, rather than
+      the same paragraph typed out thirty-two times
+- [x] YouTube plays in the panel for the two things that never reached
+      archive.org: the Super Bowl XLIII spot and the 2014 Olympics teaser
+- [x] `hand_extras.json` and `additions.json` are now fully generated;
+      `manual_extras.json` is the file to edit
+
+Still open from this pass:
+
+- [ ] *Inside Heroes* #1–#8 all sit in the week NBC announced them (21 May
+      2007). They actually rolled out across that summer, one at a time, and no
+      source found so far gives the individual dates
+- [ ] The three *Damen Peak* shorts survive on YouTube as a single 3:20 upload
+      of parts 1–2 rather than one video per part, so no `yt` was added — the
+      *Also found on* line still just says YouTube
+- [ ] *Inside the Eclipse* #01–#13 still have no blurb or picture of their own
+
 ## 0. Cleanup and corrections
 
 - [x] Drop the "long out of print" line from the buy panel for good
 - [x] Remove the footer "Where to find it" section — the panel says it now
-- [ ] `Global News Interactive` → `Global News Interactive / The Drucker Files`,
+- [x] `Global News Interactive` → `Global News Interactive / The Drucker Files`,
       so it is findable under both, and note it is on the S2 DVD extras
 - [x] Claire's MySpace, Zach's MySpace and Hiro's Blog become **websites**
 - [x] *Vengeance* and *Godsend* are not webcomics — stop grouping the full
@@ -17,7 +61,7 @@ Working list for the next pass. Ticked items are done and pushed.
 - [x] *Turning Point* (#10) has no link — and audit the rest for the same gap
       (36 issues were missing a card, a blurb or both; all filled)
 - [x] Dead `e._blob`
-- [ ] Stale README file list
+- [x] Stale README file list
 
 ## 1. Scraped data (one JSON per collector, then wired in)
 

@@ -46,19 +46,26 @@ def archive_titles():
 def sheet_titles():
     html = open(HTML, encoding="utf-8").read()
     data = json.loads(re.search(r'id="timeline-data">(.*?)</script>', html, re.S).group(1))
+    # The behind-the-scenes column holds Inside Heroes, the disc featurettes and
+    # the commentaries as well now. Only the Unmasked episodes are in this
+    # archive item, and sync.py names them so they can be told apart.
     for e in data["entries"]:
-        for it in (e.get("c") or {}).get("unm", []):
-            yield e["r"], it["t"]
+        for it in (e.get("c") or {}).get("bts", []):
+            if it["t"].startswith("Unmasked: ") or "Inside the Eclipse" in it["t"]:
+                yield e["r"], it["t"]
 
 
 def main():
     arch = archive_titles()
     mapping, missing = {}, []
     for row, title in sheet_titles():
-        # "A New Dawn (UK premiere date ...)" -> "A New Dawn"
-        key = norm(re.sub(r"\s*\(.*?\)\s*$", "", title).strip())
+        # sync.py names these "Unmasked: A New Dawn (UK premiere date ...)";
+        # the archive item knows them as "A New Dawn"
+        bare = re.sub(r"^Unmasked:\s*", "", title)
+        key = norm(re.sub(r"\s*\(.*?\)\s*$", "", bare).strip())
         if key in arch:
-            mapping[title] = arch[key]
+            # keyed on the bare title: sync.py matches before it renames
+            mapping[bare] = arch[key]
         else:
             missing.append((row, title))
 

@@ -25,7 +25,7 @@ OUT = os.path.join(DATA, "gap_fill.json")
 # columns worth asking the wiki about. Physical media is left out: the buy
 # panel already carries a blurb per group of objects, which is the level at
 # which the text is actually true.
-COLUMNS = ["evo", "misc", "unm"]
+COLUMNS = ["evo", "misc", "bts"]
 
 # the sheet's wording against the wiki's, where search cannot bridge it
 ALIASES = {
