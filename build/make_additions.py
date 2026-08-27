@@ -50,7 +50,9 @@ def main():
             blurbs[group] = hand[group]
 
     # --- Novel Approach ------------------------------------------------------
-    rows.append({"d": "2010-03-10", "k": "gn", "c": "167b",
+    # It is a reprint collection, not an issue of the run, so it reads as Bonus
+    # like the other two the sheet never numbered.
+    rows.append({"d": "2010-03-10", "k": "gn", "c": "Bonus",
                  "t": "Novel Approach: The Hiro Collection",
                  "l": WIKI + "Novel_Approach:_The_Hiro_Collection"})
 

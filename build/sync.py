@@ -191,6 +191,29 @@ DATE_LABELS = {
 #    "l": "https://..."}
 
 
+# --- the ones that were never numbered --------------------------------------
+# Three novels sit outside the run: two the sheet gives no issue number at all,
+# and the Hiro reprint collection, which only ever had a number because it had
+# to go somewhere. They read as "Bonus" rather than as a number or a blank.
+# The page looks their blurbs up by title, since "Bonus" is not a key.
+BONUS = [
+    ("gn", "The Rogue"),
+    ("gn", "The Last Shangri-La"),
+    ("gn", "Novel Approach: The Hiro Collection"),
+]
+
+
+def apply_bonus(entries):
+    marked = 0
+    for entry in entries:
+        for key, title in BONUS:
+            for item in (entry.get("c") or {}).get(key, []):
+                if item.get("t") == title:
+                    item["c"] = "Bonus"
+                    marked += 1
+    return marked
+
+
 # --- weeks the sheet files wrong -------------------------------------------
 # Only where two independent sources agree against it. Both of these were found
 # by build/gn_dates.py against Wikipedia's list and confirmed against
@@ -396,6 +419,8 @@ def build(path):
 
     print("dates: moved %d items into the week two sources agree on"
           % apply_moves(entries))
+    print("bonus: %d novels read as Bonus rather than as a number"
+          % apply_bonus(entries))
 
     extra = load_additions()
     if extra:
