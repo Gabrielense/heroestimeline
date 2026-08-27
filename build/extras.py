@@ -24,6 +24,19 @@ DATA = os.path.join(HERE, "data")
 HTML = os.path.join(HERE, os.pardir, "index.html")
 
 
+CARDS = os.path.join(HERE, os.pardir, "assets", "cards")
+
+
+def on_disk(name):
+    """A card someone dropped into assets/cards by hand, without going through
+    fetch_cards. Some art exists only as a screenshot off a site that will not
+    give a URL up -- saving the file under the right name is the whole of it."""
+    for ext in (".jpg", ".jpeg", ".png"):
+        if os.path.exists(os.path.join(CARDS, name + ext)):
+            return "assets/cards/" + name + ext
+    return None
+
+
 def tidy(text):
     """Close the gaps that dropping a tag leaves behind.
 
@@ -204,6 +217,9 @@ def main():
         e = {}
         if video.get("b"):
             e["d"] = video["b"]
+        card = local.get("evo-" + slug(title)) or on_disk("evo-" + slug(title))
+        if card:
+            e["img"] = card
         if ht.get("channel_archive"):
             e["site"] = ht["channel_archive"]
             e["note"] = ht.get("channel_note")

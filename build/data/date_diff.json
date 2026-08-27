@@ -1,0 +1,654 @@
+{
+ "source": "https://web.archive.org/web/20200514170613/https://heroeswiki.com/User:Iheartheroes/Release_dates",
+ "agree": 241,
+ "disagree": [
+  {
+   "t": "Flying Blind",
+   "k": "gn",
+   "ours": "2007-09-24",
+   "theirs": "2007-09-25",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "Godsend, Part 1",
+   "k": "gn",
+   "ours": "2016-03-10",
+   "theirs": "2016-03-09",
+   "days": 1,
+   "same_week": true
+  },
+  {
+   "t": "Heroism is Found in the Heart, Part 1",
+   "k": "gn",
+   "ours": "2007-08-20",
+   "theirs": "2007-08-21",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "June 13th, Part One",
+   "k": "ep",
+   "ours": "2015-10-29",
+   "theirs": "2015-10-22",
+   "days": 7,
+   "same_week": false
+  },
+  {
+   "t": "The Last Shangri-La",
+   "k": "gn",
+   "ours": "2007-10-29",
+   "theirs": "2007-11-05",
+   "days": -7,
+   "same_week": false
+  },
+  {
+   "t": "Normal Lives",
+   "k": "gn",
+   "ours": "2007-12-24",
+   "theirs": "2007-12-25",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "Our Lady of Blessed Acceleration, Part 2",
+   "k": "gn",
+   "ours": "2008-08-11",
+   "theirs": "2008-08-12",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "Revolutionary War, Part 1",
+   "k": "gn",
+   "ours": "2007-11-19",
+   "theirs": "2007-11-20",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "Revolutionary War, Part 2",
+   "k": "gn",
+   "ours": "2007-11-26",
+   "theirs": "2007-11-27",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "The Rogue",
+   "k": "gn",
+   "ours": "2007-10-08",
+   "theirs": "2007-10-15",
+   "days": -7,
+   "same_week": false
+  },
+  {
+   "t": "Team Building Exercise",
+   "k": "gn",
+   "ours": "2007-10-29",
+   "theirs": "2007-10-30",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "The Trial of the Black Bear",
+   "k": "gn",
+   "ours": "2007-10-15",
+   "theirs": "2007-10-16",
+   "days": -1,
+   "same_week": true
+  },
+  {
+   "t": "Vengeance, Part 1",
+   "k": "gn",
+   "ours": "2015-10-01",
+   "theirs": "2015-10-07",
+   "days": -6,
+   "same_week": false
+  },
+  {
+   "t": "Vengeance, Part 2",
+   "k": "gn",
+   "ours": "2015-11-05",
+   "theirs": "2015-11-11",
+   "days": -6,
+   "same_week": false
+  },
+  {
+   "t": "Vengeance, Part 3",
+   "k": "gn",
+   "ours": "2015-12-03",
+   "theirs": "2015-12-09",
+   "days": -6,
+   "same_week": false
+  },
+  {
+   "t": "Vengeance, Part 4",
+   "k": "gn",
+   "ours": "2016-01-07",
+   "theirs": "2016-01-06",
+   "days": 1,
+   "same_week": true
+  },
+  {
+   "t": "Vengeance, Part 5",
+   "k": "gn",
+   "ours": "2016-02-18",
+   "theirs": "2016-02-17",
+   "days": 1,
+   "same_week": true
+  },
+  {
+   "t": "Viewpoints",
+   "k": "gn",
+   "ours": "2008-11-02",
+   "theirs": "2008-11-03",
+   "days": -1,
+   "same_week": false
+  }
+ ],
+ "only_theirs": [
+  {
+   "t": "1963, Part 1",
+   "k": "gn",
+   "d": "2010-02-17"
+  },
+  {
+   "t": "1963, Part 2",
+   "k": "gn",
+   "d": "2010-03-01"
+  },
+  {
+   "t": "1978, Part 1",
+   "k": "gn",
+   "d": "2010-03-15"
+  },
+  {
+   "t": "1978, Part 2",
+   "k": "gn",
+   "d": "2010-03-29"
+  },
+  {
+   "t": "1988, Part 1",
+   "k": "gn",
+   "d": "2010-04-12"
+  },
+  {
+   "t": "1988, Part 2",
+   "k": "gn",
+   "d": "2010-04-26"
+  },
+  {
+   "t": "1991, Part 1",
+   "k": "gn",
+   "d": "2010-05-10"
+  },
+  {
+   "t": "1991, Part 2",
+   "k": "gn",
+   "d": "2010-06-09"
+  },
+  {
+   "t": "An American in Paris",
+   "k": "gn",
+   "d": "2007-07-31"
+  },
+  {
+   "t": "Big Bag and Tag",
+   "k": "gn",
+   "d": "2008-06-02"
+  },
+  {
+   "t": "Call to Arms",
+   "k": "gn",
+   "d": "2007-04-16"
+  },
+  {
+   "t": "Coming Home",
+   "k": "gn",
+   "d": "2008-02-18"
+  },
+  {
+   "t": "Damen Peak",
+   "k": "web",
+   "d": "2015-11-19"
+  },
+  {
+   "t": "Dark Matters, Part 2",
+   "k": "web",
+   "d": "2015-07-23"
+  },
+  {
+   "t": "Dark Matters, Part 3",
+   "k": "web",
+   "d": "2015-07-23"
+  },
+  {
+   "t": "Dark Matters, Part 4",
+   "k": "web",
+   "d": "2015-07-23"
+  },
+  {
+   "t": "Dark Matters, Part 5",
+   "k": "web",
+   "d": "2015-07-23"
+  },
+  {
+   "t": "Dark Matters, Part 6",
+   "k": "web",
+   "d": "2015-07-23"
+  },
+  {
+   "t": "Donna's Big Date",
+   "k": "gn",
+   "d": "2008-04-14"
+  },
+  {
+   "t": "Elementary, My Dear Hiro",
+   "k": "gn",
+   "d": "2010-01-11"
+  },
+  {
+   "t": "Extraction",
+   "k": "gn",
+   "d": "2008-06-16"
+  },
+  {
+   "t": "Family",
+   "k": "gn",
+   "d": "2009-05-18"
+  },
+  {
+   "t": "Hard Knox, Part 1",
+   "k": "web",
+   "d": "2008-12-22"
+  },
+  {
+   "t": "Hard Knox, Part 2",
+   "k": "web",
+   "d": "2008-12-22"
+  },
+  {
+   "t": "Hard Knox, Part 3",
+   "k": "web",
+   "d": "2008-12-29"
+  },
+  {
+   "t": "Hard Knox, Part 4",
+   "k": "web",
+   "d": "2008-12-29"
+  },
+  {
+   "t": "Immersed",
+   "k": "gn",
+   "d": "2009-11-16"
+  },
+  {
+   "t": "Instructions",
+   "k": "gn",
+   "d": "2007-04-09"
+  },
+  {
+   "t": "Jump, Push, Fall",
+   "k": "ep",
+   "d": "2009-09-21"
+  },
+  {
+   "t": "Left Behind",
+   "k": "gn",
+   "d": "2009-06-01"
+  },
+  {
+   "t": "Liberation of Saint Joan",
+   "k": "gn",
+   "d": "2009-08-17"
+  },
+  {
+   "t": "Lonestar File",
+   "k": "gn",
+   "d": "2007-03-12"
+  },
+  {
+   "t": "Lost and Found",
+   "k": "gn",
+   "d": "2009-07-13"
+  },
+  {
+   "t": "Man Overboard",
+   "k": "gn",
+   "d": "2007-07-23"
+  },
+  {
+   "t": "A Modest Talent",
+   "k": "web",
+   "d": "2016-01-07"
+  },
+  {
+   "t": "A New Target",
+   "k": "web",
+   "d": "2015-11-19"
+  },
+  {
+   "t": "No Turning Back",
+   "k": "gn",
+   "d": "2007-04-02"
+  },
+  {
+   "t": "One More for the Road",
+   "k": "gn",
+   "d": "2007-08-06"
+  },
+  {
+   "t": "Orientation",
+   "k": "ep",
+   "d": "2009-09-21"
+  },
+  {
+   "t": "Parched",
+   "k": "gn",
+   "d": "2009-11-30"
+  },
+  {
+   "t": "Providence in the Fall of a Sparrow",
+   "k": "gn",
+   "d": "2009-05-11"
+  },
+  {
+   "t": "Rebel Yell",
+   "k": "gn",
+   "d": "2009-05-04"
+  },
+  {
+   "t": "Replay",
+   "k": "gn",
+   "d": "2008-04-21"
+  },
+  {
+   "t": "Severance Pay",
+   "k": "gn",
+   "d": "2007-08-13"
+  },
+  {
+   "t": "Splinters",
+   "k": "gn",
+   "d": "2010-01-04"
+  },
+  {
+   "t": "Thank Goodness for Tracy Strauss",
+   "k": "gn",
+   "d": "2009-10-19"
+  },
+  {
+   "t": "Unknown Soldiers, Part 1",
+   "k": "gn",
+   "d": "2007-03-20"
+  },
+  {
+   "t": "Unknown Soldiers, Part 2",
+   "k": "gn",
+   "d": "2007-03-27"
+  },
+  {
+   "t": "Wanted",
+   "k": "gn",
+   "d": "2009-06-15"
+  },
+  {
+   "t": "Weeding Out",
+   "k": "gn",
+   "d": "2008-06-09"
+  },
+  {
+   "t": "When Everything Changed",
+   "k": "gn",
+   "d": "2009-10-12"
+  },
+  {
+   "t": "Which Hunt",
+   "k": "gn",
+   "d": "2009-11-23"
+  }
+ ],
+ "only_ours": [
+  {
+   "t": "Amanda's Journey, Part 1",
+   "k": "gn",
+   "d": "2009-10-12"
+  },
+  {
+   "t": "Amanda's Journey, Part 2",
+   "k": "gn",
+   "d": "2009-10-19"
+  },
+  {
+   "t": "Damen Peak, Part 3",
+   "k": "web",
+   "d": "2016-01-07"
+  },
+  {
+   "t": "Damen Peak, Parts 1 & 2",
+   "k": "web",
+   "d": "2015-11-19"
+  },
+  {
+   "t": "Dark Matters, Parts 2, 3, 4, 5 & 6",
+   "k": "web",
+   "d": "2015-07-23"
+  },
+  {
+   "t": "Donna's Big Date, Part 1",
+   "k": "gn",
+   "d": "2008-04-14"
+  },
+  {
+   "t": "Donna's Big Date, Part 2",
+   "k": "gn",
+   "d": "2008-04-21"
+  },
+  {
+   "t": "From the Files of Primatech, Part 1",
+   "k": "gn",
+   "d": "2010-02-15"
+  },
+  {
+   "t": "From the Files of Primatech, Part 2",
+   "k": "gn",
+   "d": "2010-03-01"
+  },
+  {
+   "t": "From the Files of Primatech, Part 3",
+   "k": "gn",
+   "d": "2010-03-15"
+  },
+  {
+   "t": "From the Files of Primatech, Part 4",
+   "k": "gn",
+   "d": "2010-03-29"
+  },
+  {
+   "t": "From the Files of Primatech, Part 5",
+   "k": "gn",
+   "d": "2010-04-12"
+  },
+  {
+   "t": "From the Files of Primatech, Part 6",
+   "k": "gn",
+   "d": "2010-04-26"
+  },
+  {
+   "t": "From the Files of Primatech, Part 7",
+   "k": "gn",
+   "d": "2010-05-10"
+  },
+  {
+   "t": "From the Files of Primatech, Part 8",
+   "k": "gn",
+   "d": "2010-05-24"
+  },
+  {
+   "t": "Godsend, Part 2",
+   "k": "gn",
+   "d": "2016-04-07"
+  },
+  {
+   "t": "Godsend, Part 3",
+   "k": "gn",
+   "d": "2016-05-12"
+  },
+  {
+   "t": "Godsend, Part 4",
+   "k": "gn",
+   "d": "2016-06-16"
+  },
+  {
+   "t": "Godsend, Part 5",
+   "k": "gn",
+   "d": "2016-07-21"
+  },
+  {
+   "t": "Golden Handshake, Part 1",
+   "k": "gn",
+   "d": "2007-07-23"
+  },
+  {
+   "t": "Golden Handshake, Part 2",
+   "k": "gn",
+   "d": "2007-07-30"
+  },
+  {
+   "t": "Golden Handshake, Part 3",
+   "k": "gn",
+   "d": "2007-08-06"
+  },
+  {
+   "t": "Golden Handshake, Part 4",
+   "k": "gn",
+   "d": "2007-08-13"
+  },
+  {
+   "t": "Hard Knox, Parts 1 & 2",
+   "k": "web",
+   "d": "2008-12-22"
+  },
+  {
+   "t": "Hard Knox, Parts 3 & 4",
+   "k": "web",
+   "d": "2008-12-29"
+  },
+  {
+   "t": "Orientation / Jump, Push, Fall",
+   "k": "ep",
+   "d": "2009-09-21"
+  },
+  {
+   "t": "Prodigals, Part 1",
+   "k": "gn",
+   "d": "2009-11-16"
+  },
+  {
+   "t": "Prodigals, Part 2",
+   "k": "gn",
+   "d": "2009-11-23"
+  },
+  {
+   "t": "Prodigals, Part 3",
+   "k": "gn",
+   "d": "2009-11-30"
+  },
+  {
+   "t": "Rebellion, Part 1",
+   "k": "gn",
+   "d": "2009-05-04"
+  },
+  {
+   "t": "Rebellion, Part 2",
+   "k": "gn",
+   "d": "2009-05-11"
+  },
+  {
+   "t": "Rebellion, Part 3",
+   "k": "gn",
+   "d": "2009-05-18"
+  },
+  {
+   "t": "Rebellion, Part 4",
+   "k": "gn",
+   "d": "2009-06-01"
+  },
+  {
+   "t": "Rebellion, Part 5",
+   "k": "gn",
+   "d": "2009-06-15"
+  },
+  {
+   "t": "Rebellion, Part 6",
+   "k": "gn",
+   "d": "2009-07-13"
+  },
+  {
+   "t": "Rebellion, Part 7",
+   "k": "gn",
+   "d": "2009-08-17"
+  },
+  {
+   "t": "Root and Branch, Part 1",
+   "k": "gn",
+   "d": "2008-06-02"
+  },
+  {
+   "t": "Root and Branch, Part 2",
+   "k": "gn",
+   "d": "2008-06-09"
+  },
+  {
+   "t": "Root and Branch, Part 3",
+   "k": "gn",
+   "d": "2008-06-16"
+  },
+  {
+   "t": "The Trip, Part 1",
+   "k": "gn",
+   "d": "2010-01-04"
+  },
+  {
+   "t": "The Trip, Part 2",
+   "k": "gn",
+   "d": "2010-01-11"
+  },
+  {
+   "t": "War Buddies, Part 1",
+   "k": "gn",
+   "d": "2007-03-12"
+  },
+  {
+   "t": "War Buddies, Part 2",
+   "k": "gn",
+   "d": "2007-03-19"
+  },
+  {
+   "t": "War Buddies, Part 3",
+   "k": "gn",
+   "d": "2007-03-26"
+  },
+  {
+   "t": "War Buddies, Part 4",
+   "k": "gn",
+   "d": "2007-04-02"
+  },
+  {
+   "t": "War Buddies, Part 5",
+   "k": "gn",
+   "d": "2007-04-09"
+  },
+  {
+   "t": "War Buddies, Part 6",
+   "k": "gn",
+   "d": "2007-04-16"
+  },
+  {
+   "t": "War Buddies, Part 7",
+   "k": "gn",
+   "d": "2008-02-18"
+  }
+ ]
+}

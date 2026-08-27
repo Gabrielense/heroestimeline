@@ -31,26 +31,35 @@ Working list for the next pass. Ticked items are done and pushed.
       Vengeance hardcover, the Reborn eBook collections, the Reborn magazine,
       Heroes Revealed, the Collector's Edition, the Complete Series box, the
       Season 1 Blu-ray and the Original Score. Needs another source
-- [~] **Heroes Reborn episodes** — three of the four filled. *Brave New World*
-      (HR1x01) still has none
-- [~] **Graphic novel subtitles** — only three are recorded anywhere a script
-      can read: #25 Unknown Soldiers, #148 When Everything Changed, #166 1963,
-      Part 1. Heroes Wiki does not carry the rest, so they need a human. The 22
-      webisode subtitles are all in
+- [x] **Heroes Reborn episodes** — all four filled; *Brave New World* uses a
+      promotional still, since no title card exists
+- [x] **Graphic novel subtitles** — all 39, from the release-date lists, in
+      `build/data/gn_subtitles_manual.json`. Plus the 22 webisode ones
 - [x] **Unaired pilot** — its chapter title is *In His Own Image*; blurb and
       card now sit above the video
 - [~] **HeroTruther** — the five videos are listed with dates and blurbs, and
       the channel link now points at a 2016 capture of the real one rather than
-      the stranger who took the name. **Thumbnails from the VK mirror are still
-      to do**
-- [ ] **Disc extras** — every extra on S1–S4 and the Reborn set, each as its own
-      entry in the week the discs came out, blurbs from dvdmg / highdefdigest.
-      *The machinery is ready: write them into `build/data/additions.json` and
-      their blurbs into `hand_extras.json`, then re-run sync.py and extras.py*
-- [ ] **Audio commentaries** — per season, as individual entries, episodes named
-      in the blurb. Same route as the disc extras
-- [ ] **Cross-check** against User:Iheartheroes' release-date timeline, which is
-      the best one on the wiki. There should be no differences
+      the stranger who took the name. *4th of July Fail* survives on YouTube and
+      uses that thumbnail. **The other four thumbnails still need saving out of
+      the VK mirror by hand** — vkvideo.ru renders its catalogue in JavaScript,
+      so nothing server-side has the image URLs. Drop them into `assets/cards/`
+      named for the entry and they appear:
+      `evo-herotruther-woman-pushes-truck-with-one-hand.jpg`,
+      `evo-herotruther-motorcycle-miracle.jpg`,
+      `evo-herotruther-parkour-leap-epic.jpg`.
+      *The Time Has Come* has no thumbnail anywhere
+- [x] **Disc extras** — 43 of them, each its own entry in the week its set came
+      out, from `build/data/disc_extras.json`
+- [x] **Audio commentaries** — one entry per season, episodes named in the blurb
+- [~] **Cross-check** against User:Iheartheroes' release-date list —
+      `py build/date_diff.py`. **241 agree exactly.** 11 differ by a single day,
+      which is the sheet filing by Monday against their filing by release day —
+      not errors. **Seven land in a different week and want a human:**
+      *June 13th, Part One* is **theirs** that is wrong (Wikipedia's own data
+      says 29 Oct 2015, as we have it); the other six are graphic novels —
+      *The Last Shangri-La*, *The Rogue*, *Viewpoints* and *Vengeance* parts
+      1–3 — where no second source was to hand. 52 entries are only on their
+      list, 48 only on ours; `build/data/date_diff.json` has all of it
 
 ## 2. New entries
 
