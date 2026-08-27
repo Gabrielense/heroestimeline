@@ -42,6 +42,16 @@ def load(name, default=None):
     return json.load(io.open(path, encoding="utf-8"))
 
 
+def merge_manual(manual, blurbs):
+    """Fold the hand-written blurbs in. Keys opening with an underscore are
+    notes to whoever edits the file next, not records, and are left behind."""
+    for group, recs in (manual.get("blurbs") or {}).items():
+        if group.startswith("_"):
+            continue
+        blurbs.setdefault(group, {}).update(
+            {k: v for k, v in recs.items() if not k.startswith("_")})
+
+
 def main():
     discs = load("disc_extras.json")
     ht = load("herotruther.json")
@@ -49,8 +59,7 @@ def main():
 
     rows = []
     blurbs = {g: {} for g in GROUPS}
-    for group, recs in (manual.get("blurbs") or {}).items():
-        blurbs.setdefault(group, {}).update(recs)
+    merge_manual(manual, blurbs)
 
     # --- Novel Approach ------------------------------------------------------
     # It is a reprint collection, not an issue of the run, so it reads as Bonus
@@ -116,8 +125,7 @@ def main():
 
     # manual blurbs win over anything generated above, so a disc extra can be
     # rewritten by hand without unpicking disc_extras.json
-    for group, recs in (manual.get("blurbs") or {}).items():
-        blurbs.setdefault(group, {}).update(recs)
+    merge_manual(manual, blurbs)
 
     io.open(os.path.join(DATA, "additions.json"), "w", encoding="utf-8").write(
         json.dumps(rows, ensure_ascii=False, indent=1))

@@ -29,6 +29,28 @@ ERAS = {
     "FFFFE599": "hr", "FFFFE699": "hr",
     "FFCCCCCC": "gap", "FF262626": "gap",
 }
+
+# The show went off the air, but the releases did not, and a timeline of
+# releases has no empty stretch to name. Volume 5 runs to the last thing it put
+# out -- the complete-series set of 16 November 2010 -- and Heroes Reborn starts
+# with the first thing it put out, the teaser NBC slipped into the Olympics on
+# 23 February 2014. So the near-black rows are not an era of their own: each one
+# belongs to whichever side of that line it falls on.
+VOLUME_5_ENDS = "2010-11-16"
+REBORN_BEGINS = "2014-02-23"
+
+
+def resolve_gaps(entries):
+    """Give every off-air row the era on its side of the Reborn announcement."""
+    n, prev = 0, "v1"
+    for e in entries:
+        if e["e"] == "gap":
+            # the undated markers have no side of the line to fall on, so they
+            # stay with the era they interrupt
+            e["e"] = ("hr" if e["d"] >= REBORN_BEGINS else "v5") if e.get("d") else prev
+            n += 1
+        prev = e["e"]
+    return n
 # --- Internet Archive -------------------------------------------------------
 # Entries that can be played in place. The page turns these into an
 # archive.org embed; nothing is rehosted here, it streams from archive.org.
@@ -568,6 +590,9 @@ def build(path):
     if extra:
         print("additions: folded in %d releases the sheet has no row for"
               % apply_additions(entries, extra))
+
+    print("eras: %d off-air weeks folded into the volume around them"
+          % resolve_gaps(entries))
 
     return {"colLinks": col_links, "entries": entries}
 
